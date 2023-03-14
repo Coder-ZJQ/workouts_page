@@ -1,20 +1,20 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: 'Workouts Map',
-    siteUrl: 'https://ben29.xyz',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+    siteTitle: 'Joker\'s Workouts Map',
+    siteUrl: 'https://workouts.jqz3.tech',
+    logo: 'https://avatars.githubusercontent.com/u/15013685',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://ben29.xyz',
+        url: 'https://jqz3.tech',
       },
-      {
-        name: 'About',
-        url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
-      },
+      // {
+      //   name: 'About',
+      //   url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      // },
     ],
   },
   plugins: [
