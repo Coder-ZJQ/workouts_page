@@ -40,7 +40,7 @@ def login(session, mobile, passowrd):
 
 
 def get_to_download_runs_ids(session, headers):
-    last_date = 0
+    last_date = 1577866358000
     result = []
     while 1:
         r = session.get(RUN_DATA_API.format(last_date=last_date), headers=headers)
