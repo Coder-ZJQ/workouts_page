@@ -3718,5 +3718,50 @@
 "average_speed": 4.418137994061101,
 "source": "gpx.py -- https://github.com/tkrajina/gpxpy",
 "streak": 2
+},
+{
+"run_id": 9223370354779252807,
+"name": "Ride from keep",
+"distance": 6075.73193359375,
+"moving_time": "0:29:55",
+"type": "Ride",
+"start_date": "2023-04-21 10:35:26",
+"start_date_local": "2023-04-21 18:35:26",
+"location_country": "{'latitude': 26.060884656333847, 'longitude': 119.26398400126862, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u798f\u5efa\u7701', 'city': '\u798f\u5dde\u5e02', 'cityCode': '0591', 'district': '\u4ed3\u5c71\u533a', 'districtCode': '350104'}",
+"summary_polyline": "",
+"average_heartrate": 118.0,
+"average_speed": 3.3848088766538997,
+"source": "Keep",
+"streak": 2
+},
+{
+"run_id": 9223370354770843807,
+"name": "Ride from keep",
+"distance": 6708.12548828125,
+"moving_time": "0:30:46",
+"type": "Ride",
+"start_date": "2023-04-21 12:58:30",
+"start_date_local": "2023-04-21 20:58:30",
+"location_country": "{'latitude': 26.086819991108595, 'longitude': 119.2438760162728, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u798f\u5efa\u7701', 'city': '\u798f\u5dde\u5e02', 'cityCode': '0591', 'district': '\u4ed3\u5c71\u533a', 'districtCode': '350104'}",
+"summary_polyline": "",
+"average_heartrate": 137.0,
+"average_speed": 3.6338707953852927,
+"source": "Keep",
+"streak": 2
+},
+{
+"run_id": 1682192178000,
+"name": "2023-04-22 \u4e0b\u5348 \u9a91\u884c",
+"distance": 28913.80880863859,
+"moving_time": "1:50:17",
+"type": "Ride",
+"start_date": "2023-04-22 19:36:18",
+"start_date_local": "2023-04-23 03:36:18",
+"location_country": "",
+"summary_polyline": "kuf~Ce|wvUOc@}B|@`@tEhDtBzAZrA]lAmBdAiR|@_GrKeE|PkJdEm@xHzCrKTjMqElPsHvBoBvMwSdFiGpDgN|AyClJcJbQkMzJeJvCoA`CeClB_AjFvFjDrA~AxAfHzKrAxCB|@Oi@r@ZhAo@\\JtCtJQb@d@zGnAdCh@vDnINNdN^nCCbd@^rLp@DPsE]sOm@yDHcWUgC\\kJQw\\j@kArZFtEqAtCsBfM{TzHuPbT_SbG{GfIkF@sBg@k@uAcJ\\e@fLKGeOh\\x@fCh@lUOt@TzA]dAd@|Ae@bKExKb@|@YaAuJOmHf@eJvAcIz]su@rA[jDnBhG\\tBCpEsAgD|@}IEgIsFs@hCcHnO_I`OyIjSeAlAo@Cgr@g\\{BqD}@k@wAb@{ApBg`@xJ}BGsCzBqH|CoKjGwDTaIeAmBlKmEvH}JpMeCzFuBhCoOjLoR|LmTjTufAr|@sKrKgAdC_CjKsFhIyF}Dmd@pd@iA^}FAkDcAiGt@}J|DeMdHwM`FKhTShEa@hAgBbAcHNo@oAk@{D~BuATf@",
+"average_heartrate": null,
+"average_speed": 4.369625027752545,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 1
 }
 ]
