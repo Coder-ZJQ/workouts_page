@@ -20,5 +20,7 @@ _site/
 
 config.yaml
 GPX_OUT
-generate.sh
 .python-version
+generate-data.sh
+generate-svg.sh
+APPLE_GPX
