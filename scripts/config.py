@@ -58,7 +58,7 @@ TYPE_DICT = {
     "indoor_cycling": "Indoor Ride",
     "walking": "Hike",
     "hiking": "Hike",
-    "Walk": "Hike",
+    "Walk": "Walk",
     "Hike": "Hike",
     "Swim": "Swim",
     "rowing": "Rowing",

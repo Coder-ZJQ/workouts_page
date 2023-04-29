@@ -40,7 +40,7 @@ def login(session, mobile, passowrd):
 
 
 def get_to_download_runs_ids(session, headers):
-    last_date = 1577866358000
+    last_date = 0
     result = []
     while 1:
         r = session.get(RUN_DATA_API.format(last_date=last_date), headers=headers)
@@ -183,7 +183,8 @@ def parse_points_to_gpx(run_points_data, start_time):
     gpx = gpxpy.gpx.GPX()
     gpx.nsmap["gpxtpx"] = "http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
     gpx_track = gpxpy.gpx.GPXTrack()
-    gpx_track.name = "gpx from keep"
+    gpx_track.name = "Ride from Keep"
+    gpx_track.type = "Ride"
     gpx.tracks.append(gpx_track)
 
     # Create first segment in our GPX track:
