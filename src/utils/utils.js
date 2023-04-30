@@ -11,6 +11,7 @@ import {
   RIDE_COLOR,
   VIRTUAL_RIDE_COLOR,
   HIKE_COLOR,
+  WALK_COLOR,
   SWIM_COLOR,
   ROWING_COLOR,
   ROAD_TRIP_COLOR,
@@ -220,6 +221,8 @@ const colorFromType = (workoutType) => {
       return VIRTUAL_RIDE_COLOR;
     case 'Hike':
       return HIKE_COLOR;
+    case 'Walk':
+      return WALK_COLOR;
     case 'Rowing':
       return ROWING_COLOR;
     case 'Swim':
