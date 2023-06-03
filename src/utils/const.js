@@ -22,7 +22,7 @@ const LINE_OPACITY = 0.4;
 // styling: map height
 const MAP_HEIGHT = 600;
 //set to `false` if you want to hide the road label characters
-const ROAD_LABEL_DISPLAY = true;
+const ROAD_LABEL_DISPLAY = false;
 
 // IF you outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
