@@ -6,6 +6,7 @@ import {
   MAP_LAYER_LIST,
   IS_CHINESE,
   ROAD_LABEL_DISPLAY,
+  ROUTE_START_END_DISPLAY,
   MAIN_COLOR,
   MAPBOX_TOKEN,
   PROVINCE_FILL_COLOR,
@@ -121,7 +122,7 @@ const RunMap = ({
           }}
         />
       </Source>
-      {isSingleRun && (
+      {isSingleRun && ROUTE_START_END_DISPLAY && (
         <RunMarker
           startLat={startLat}
           startLon={startLon}
