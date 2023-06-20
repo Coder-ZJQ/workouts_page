@@ -18103,5 +18103,35 @@
 "average_speed": 4.6988920180845755,
 "source": "gpx.py -- https://github.com/tkrajina/gpxpy",
 "streak": 2
+},
+{
+"run_id": 1686773883000,
+"name": "2023-06-14 \u4e0b\u5348  \u9a91\u884c",
+"distance": 15446.761814367506,
+"moving_time": "1:26:20",
+"type": "Ride",
+"start_date": "2023-06-14 20:18:03",
+"start_date_local": "2023-06-15 04:18:03",
+"location_country": "\u671b\u9f99\u4e00\u8def, \u5b81\u5316\u8857\u9053, \u53f0\u6c5f\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "e{`~Cgz_wUb@v@_@G|Bt@dA{@Ba@z@UfAsEvBgB~BuDnA}EzBaEfFX|a@nW`YhSdChCpEhCvCfE|M|LjAd@rA_ApA~CzDqApDcF^RzAvBnCvKfDlE`LqFfEqAlQa@fCJpCpA`A~CYlB{A`@yFGkAcEf@uDa@qBsPt@uItCiO~KoArC}EhD_K`LgH|KaHxPaExGqDzBcEtAoI`@}JcAuDz@eFEcA~@_GIu@`@PpGzAzKv@xAi@dBc@]g@wG_AwDu@yNyFaIS}@wD_EkAmFoBsD{Ce@eBj@}D}A_@LaFnDwEzFqY`T}EpEoDdFuFdOsD~F{AEsCmAwCtAwRhSgNzJ{D`@cDWaDr@}DIcK|DmSjKyE|A}A|@@fRwAnG}CpBuE@kAoBIiBvBkBj@L]\\h@Y",
+"average_heartrate": null,
+"average_speed": 2.9820003502639976,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 1
+},
+{
+"run_id": 1687092626000,
+"name": "Ride from Apple Health",
+"distance": 6791.961532966891,
+"moving_time": "0:35:19",
+"type": "Ride",
+"start_date": "2023-06-18 12:50:26",
+"start_date_local": "2023-06-18 20:50:26",
+"location_country": "\u5fb7\u65fa\u56fe\u4e66\u9986, \u6c5f\u6ee8\u897f\u5927\u9053, \u5b81\u5316\u8857\u9053, \u53f0\u6c5f\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "qw`~C_x_wUBjA}@vAeDnCCzF}AjJyJdP_HvEmGhGeJbMY`Aeo@xy@{ErB{JXaCzBa@nBQtMc@dEeBvDcHnFx@zCo@`Cd@W`AlDtClLP`Dg@J}FeBsBFcFjBcRvJcGhBy@vAgDpADt@WGp@a@jC_APrAAlSQpAaA`AuCp@gGUyAyEnByAvAK",
+"average_heartrate": null,
+"average_speed": 3.2052673586441207,
+"source": "GPXEporter",
+"streak": 1
 }
 ]
