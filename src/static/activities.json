@@ -18133,5 +18133,20 @@
 "average_speed": 3.2052673586441207,
 "source": "GPXEporter",
 "streak": 1
+},
+{
+"run_id": 1687264332000,
+"name": "Ride from Apple Health",
+"distance": 7594.47063973559,
+"moving_time": "0:41:04",
+"type": "Ride",
+"start_date": "2023-06-20 12:32:12",
+"start_date_local": "2023-06-20 20:32:12",
+"location_country": "\u5fb7\u65fa\u56fe\u4e66\u9986, \u6c5f\u6ee8\u897f\u5927\u9053, \u5b81\u5316\u8857\u9053, \u53f0\u6c5f\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "w{`~C{x_wUvAPPfCiBrCoC~@RvJ_CbHu@XObCiIpJuFxEq@?g@pA`@W^r@_@zApBF~BtAzYj[dFdHBn@k@j@bBYqAZuDkBmC`BoOnNqQ~M}LjL}A~CcC|JiFdIu@BiDeCoA`@wb@bb@qGl@kEy@gGZ{J|DaNtHwJrDwAnC_@`FErNUdBi@l@yBp@cHI_BeF|DgBNv@RC",
+"average_heartrate": null,
+"average_speed": 3.082171525866717,
+"source": "GPXEporter",
+"streak": 1
 }
 ]
