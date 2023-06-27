@@ -18073,5 +18073,20 @@
 "average_speed": 3.837845821835392,
 "source": "GPXEporter",
 "streak": 2
+},
+{
+"run_id": 1687808270000,
+"name": "2023-06-26 \u4e0b\u5348 \u9a91\u884c",
+"distance": 27801.521630169012,
+"moving_time": "1:31:15",
+"type": "",
+"start_date": "2023-06-26 19:37:50",
+"start_date_local": "2023-06-27 03:37:50",
+"location_country": "\u91d1\u5c71\u8def, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "_jf~CehxvU`Ag@}@VfAzBvAdAzB?xAq@rCcFc@U{Bp@QsBxA~AhDsAzIqAfAs@Pw@hEuBWYd@iBjB{@SaC~EdCa@rCeG~Q[bELdDTt@z@f@bB|JzD|KpCfN|@hJO~AcA`BIbIZ\\bCL|@t@xBzJh]ldCjIlh@RvG|@RxAq@x@rAhAs@dGu@f{@mSvQm@rLLI_BnA[gBaPm@yYzAyVa@yEFeElA_AbKKbJyAc@}@eE\\oDSqCyCmFkBu@qBPuw@b@eL~@_EdCiEzCeCjGcBWqA^@s@{A_D_B}GkHqAcGc@oOl@{k@U}DTch@T{C~@ANk@aAmB{@gSoBaDnGTzKE`Da@pVTxEuArDsCxEiHtNe[nG{Fz@_BtGaF|I{JrEoDbIiDfG}@fKUSuA{Lf@mLrCqHvEqA}BuCaNyBcCo@QoDbFuCbCoBaC@gBaAE}PgQ}@yC}@FqArB}By@uAbDgCjCqInGuUxN}JjJ_IfJeb@f\\iM~LeRtNiMhL_CdEsBtJeGzIu@O}D}Cod@bd@oBh@qFMcC}@sE`@mMrEmKrGmOdG",
+"average_heartrate": null,
+"average_speed": 5.077903494094797,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 1
 }
 ]
