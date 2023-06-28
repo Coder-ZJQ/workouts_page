@@ -18088,5 +18088,20 @@
 "average_speed": 5.077903494094797,
 "source": "gpx.py -- https://github.com/tkrajina/gpxpy",
 "streak": 1
+},
+{
+"run_id": 1687866579000,
+"name": "Ride from Apple Health",
+"distance": 6646.904956930403,
+"moving_time": "0:27:08",
+"type": "Ride",
+"start_date": "2023-06-27 11:49:39",
+"start_date_local": "2023-06-27 19:49:39",
+"location_country": "\u671b\u9f99\u4e00\u8def, \u5b81\u5316\u8857\u9053, \u53f0\u6c5f\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "yz`~Ciy_wUjBd@JpBuBfB_CdOyChG_A`@gBxFaRjQk~@llAqEtBaMd@WhAu@^wAhYmBzCsGhEi@|@lAzCk@dAj@KxEtQLdDk@JaEuAqCI}GdCeHrEwPrGPhEa@hSe@tAoA|@iEZ}COsAqFc@A|E{A",
+"average_heartrate": null,
+"average_speed": 4.082865452659953,
+"source": "GPXEporter",
+"streak": 1
 }
 ]
