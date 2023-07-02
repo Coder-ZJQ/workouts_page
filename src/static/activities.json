@@ -18103,5 +18103,35 @@
 "average_speed": 4.082865452659953,
 "source": "GPXEporter",
 "streak": 1
+},
+{
+"run_id": 9374484898,
+"name": "Lunch Ride",
+"distance": 8238.9,
+"moving_time": "0:22:34",
+"type": "VirtualRide",
+"start_date": "2023-07-02 11:43:18+00:00",
+"start_date_local": "2023-07-02 11:43:18",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "dy_fAij~y^_Ao@o@m@g@o@[i@k@{AYiAMaAAaADg@Le@LUX_@d@a@r@i@pD_Cd@e@LUBM@YAKS_@a@_@aBgAKOG[DQJIf@M~@KDG@I?_@Iu@a@mD]kCGeA@w@TiBZ_AXk@\\i@^c@b@]t@c@fAe@v@WbB_@nB[fI}@`BUv@Op@U\\QXS^g@\\w@`AoCVg@PUl@g@n@a@t@Yf@MfAGx@Dv@Np@Zb@Vf@f@rC`EZ^^ZTPf@Pf@Hj@BdAGbDa@dCe@hEgAnTiGj@I\\?\\FVTJZ@l@G~MGjAIz@Mn@uAxFOb@g@`AMh@A`IEz@K^IPOLQF]Dq@DmFHm@ASCIEUYSa@sC{JKWU_@Y[SOUMWIWAWBi@VSNUZYr@CV?`@Jv@J^nFfLl@~@DJCJSPULe@JuATaFl@gATc@VSXG\\@TJPPLRDT@h@CfAMxGaA^?PBHD@FAHMLOHo@LkBRuIr@a@FUHIHMR_@|Ck@nCWv@KNMNQHSBQCqBo@mK{B}DgAy@OgAGcA@uAHaBReEl@y@PgEtAi@HYAOKKOIYEe@?q@@w@L_BJ]PQRMbA]",
+"average_heartrate": 171.3,
+"average_speed": 6.085,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 9374484822,
+"name": "Lunch Ride",
+"distance": 6405.7,
+"moving_time": "0:11:56",
+"type": "VirtualRide",
+"start_date": "2023-07-02 12:17:28+00:00",
+"start_date_local": "2023-07-02 12:17:28",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "dq_fA{t~y^^rAr@dBf@r@`A|@vA`AhB`A~@ZxErAp@Zh@^^h@f@`A~A|Eh@bAFXANIJOBMGeAkAYS_@OQEe@?c@Fa@TYZOb@Cf@Lx@Jd@tArEvA`EjAxCHb@?PGPs@r@ILGNIv@GPWZu@l@q@jAO`@Id@?P@RFPp@pAf@hBL^JLLJPDb@?b@INGJMHOZgANIv@CPEl@_@PEPBNFZTJNL`@ZnC?b@MdA@vAGNOB{@BIFGHKZE\\Ar@Bb@FNJLdCrBb@TRFRBRARG~CqAd@ORCPFNJHPBRMLoBPm@RSLGXRPV?VIXEr@DtBRV?h@Gz@YhAg@n@c@f@k@Xs@XmBLc@T[|@i@JK`@k@rB_E`BqC^eAVkALy@F}@D}BEoAe@uGAeA@gANkBb@{CVsAXaAVk@VYd@a@hBgAZ]b@u@XS~@]^I\\CXBNBf@Z^LXB`@GLKDO@QCGQUm@QEEAODENG`@EP?l@FPARQLW?SGQKKOI]?{ATYAq@Sa@YiCsCc@YOCMAOBMH[j@Un@m@vBO`@KNOFQEMKW[uAmCU[OIQEQBiAx@SBMI_@eAS]MIo@WWUGOE]@_@BMFKJGL?v@TL@P?ZMRU",
+"average_heartrate": 186.0,
+"average_speed": 8.947,
+"source": "strava",
+"streak": 1
 }
 ]
