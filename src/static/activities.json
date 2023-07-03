@@ -18133,5 +18133,20 @@
 "average_speed": 8.947,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9379684109,
+"name": "Zwift - Champs-\u00c9lys\u00e9es in Paris",
+"distance": 8212.2,
+"moving_time": "0:14:46",
+"type": "VirtualRide",
+"start_date": "2023-07-03 11:22:44+00:00",
+"start_date_local": "2023-07-03 19:22:44",
+"location_country": "Champs-\u00c9lys\u00e9es - Clemenceau, Avenue des Champs-\u00c9lys\u00e9es, Quartier des Champs-\u00c9lys\u00e9es, Paris 8e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75008, France",
+"summary_polyline": "ujgiHigcMdHa\\Tq@NQPGf@?b@BzCh@`@DNEJOHSv@}C|BsK~CiN`GoXAYKUm@e@qEqC_FkD]QOAMBOFKLSh@aMjk@k@nCCr@?r@UzDAv@DXFVf@|@dA|ATl@BZAZKr@ma@|jBkH|[sC~LQd@MLy@`@YXSb@GTETCn@Dp@DTRh@JN\\TNB`@?^QX]Rg@Hm@@q@Go@UcACY?YFo@rE{R`Hc[t_@meBRm@NOPEd@?b@BvDn@NALMJQPk@\\{A|AmHhJgb@",
+"average_heartrate": 174.4,
+"average_speed": 9.269,
+"source": "strava",
+"streak": 2
 }
 ]
