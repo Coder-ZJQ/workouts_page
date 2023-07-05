@@ -18148,5 +18148,20 @@
 "average_speed": 9.269,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 9386939458,
+"name": "Zwift - City and the Sgurr in Scotland",
+"distance": 8555.9,
+"moving_time": "0:20:50",
+"type": "VirtualRide",
+"start_date": "2023-07-04 14:16:37+00:00",
+"start_date_local": "2023-07-04 22:16:37",
+"location_country": "Portcullis Buttress, North Ayrshire, Alba / Scotland, United Kingdom",
+"summary_polyline": "qyqrIpyz^ArEEx@GXITMLQFkECsG_AsDw@}BgAsAJg@VORYr@KZE`@JhFB^Lx@x@`DDj@?TCRGN[^_@?QOEMG]Bs@H]LUXWd@[xAg@P?PJb@h@Tp@Ff@ATMp@KVSZ]XkAt@aA|@YHQCm@u@YGWLINKj@@l@DRPd@TZTRXNTBTCROLSj@}A~@iAVONATHJRF^Ct@Oh@]j@_Av@{Bt@YVITC`@@ZDVHJPC^o@`@a@LG`@Hd@f@Tf@DTBd@AXEVKPMFUCUSKSGWCYB[Hc@b@iAPSbAe@`AM\\FFHJ^LnA?l@ETGPYNg@IKBILCTCfAEVUd@k@r@G`@Dd@PX~Al@RZLf@Dj@@j@If@QVWF_BQWDM`@@j@P`@VVvBzATXLd@@l@Gj@q@fD?n@Hl@Nf@X\\ZP|Cn@~@\\\\\\Vj@Jr@@v@cAzMDh@XfABf@Gf@O\\UPU?UOOYGe@Ag@Fc@N]d@g@J]f@cGVwDBc@Ae@Gc@K_@OYg@_@gCs@kAO[QW[M[K_@Ec@A[Hw@n@aDDg@CSM_@[a@_C}AS[Kg@@i@BQNU^EvARVGJKDOBU?m@Gk@Me@IMUMsAc@Q]EW?YB[FQp@y@HQDWDoAJ_@HIHAd@HNCJMDW@YIoAGWISa@Ew@JoAn@_@x@M^Eb@Dd@NZRPT?NYDe@Ge@Ma@Q[USUKWFk@l@S\\WDQ]Ck@Bi@P]TU~By@p@i@V[Ra@Hm@Cm@SY[?WPm@p@SZm@~AQRUFU?WIm@g@S[Oa@Gg@?i@He@NYTMR?RH^h@PJPAPKhAgAtA}@RWN]Hg@Ci@Kc@Q]QUSOUAuAf@w@j@QVI\\Ad@F`@PRT?RMNYBg@Ee@Ia@c@_B[gBM}FK]_@e@OWG_@Aa@Ba@F]NUPKREPDNNJXF^@^C^G\\Wr@E^HbGTrAr@jCFj@Cj@GP]^KBUEQSEOCc@@c@J]NW^_@\\UxAe@ZBNLV\\Tj@Hd@@RARIb@KXSZ]^mAv@cA|@WHSCm@u@UGUFSZGh@?TBRJd@NZZ^XPXHZCROP]X{@R_@f@o@ZYXINBNLHVB`@Gr@Qd@Wb@}@v@{Bt@_@\\EJC\\@b@DVJJH?T]",
+"average_heartrate": 164.1,
+"average_speed": 6.845,
+"source": "strava",
+"streak": 3
 }
 ]
