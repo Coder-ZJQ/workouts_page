@@ -18223,5 +18223,20 @@
 "average_speed": 5.661,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 1689001050000,
+"name": "Ride from Apple Health",
+"distance": 9008.129416065929,
+"moving_time": "0:43:04",
+"type": "Ride",
+"start_date": "2023-07-10 14:57:30",
+"start_date_local": "2023-07-10 22:57:30",
+"location_country": "\u5b89\u6de1\u65b0\u6751, \u5e7f\u8fbe\u8def, \u8336\u4ead\u8857\u9053, \u53f0\u6c5f\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350004, \u4e2d\u56fd",
+"summary_polyline": "_jb~CwkdwUxAk@f@VdEvXj@pUE`Pg@`HHxg@X~Ce@~JqA`HiG`TWdEbIrNpGnSwM`R{Az@uBdEe]he@{KtM_CrAoCn@wLb@u@nBGrS[jEaCbD{HvDb@pDUbA[Bf@QlBtGlBdIJtC}FcA_BJs[~O{G`Ap@xKShLw@hCiCv@_HXy@U_AyDCaBpE}A",
+"average_heartrate": null,
+"average_speed": 3.486118195071954,
+"source": "GPXEporter",
+"streak": 1
 }
 ]
