@@ -27,7 +27,6 @@ const RunMap = ({
   changeYear,
   geoData,
   thisYear,
-  mapButtonYear,
 }) => {
   const { countries, provinces } = useActivities();
   const mapRef = useRef();
@@ -89,7 +88,6 @@ const RunMap = ({
       <RunMapButtons
         changeYear={changeYear}
         thisYear={thisYear}
-        mapButtonYear={mapButtonYear}
       />
       <FullscreenControl className={styles.fullscreenButton} />
       <Source id="data" type="geojson" data={geoData}>
