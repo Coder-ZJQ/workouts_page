@@ -18253,5 +18253,20 @@
 "average_speed": 6.885,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9450524598,
+"name": "Zwift - Ven-Top in France",
+"distance": 42321.8,
+"moving_time": "2:35:00",
+"type": "VirtualRide",
+"start_date": "2023-07-14 13:33:30+00:00",
+"start_date_local": "2023-07-14 21:33:30",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "fctcCyciu^BqAdAgD@gCi@iFmDoSmAoVs@]cE|@yBW_JeJsGkM_GuFsBgAcKuBkGcCcDwOoBuNs@eAkDqCqEkKeI_IhAsWe@_BBcCyCcDkAeDAiBd@mH^oAhBgB~FoAL]oFYoKTUa@QsF_Fg@uJBuHb@sAp@_D\\_DdBqBUeAnB_@NyVmDwDmFkH_FAyFYkAmAcCcD}BiDmLyCgA{AHkLoDyCqA{CuB{CqCi@cA}@eJg@kByFyDmBKaD_EaFeCqBwDaBLeD`E]FOSRaAMa@cCg@_CwBuDm@}@{AeGPmEoBqOaEoFs@oJcCoIeIoKmC_DeJoAsAiFmAcHMwB]eEgBgAeB_D{B{EoB_WsAcB~AsAh@mBjHiDtC_CfAPf@tCp@JtEMZuCzA{BAeU`FiFJo@\\Fl@v@p@pO`H\\fAi@vBoCrAaEJaJfBCf@nAt@nCxEZ`AAp@y@r@mL`Cc@f@Z|@nApAdEhCv@rBf@rCg@jCaGtFMp@dGvChAfApB`G~@fJKfB{@vBgJs@m@n@o@dCnAvMzArIaDnLCjAf@bAtFpBj@jB_@lC{DpGKp@b@h@vD@fAr@dBpEb@vDuA|MoDzFgFxFK|@`@|@~DxC~JtD|@rAt@zCId@a@NkAkB}AU_Bp@eCVgAp@c@tAF|A`DnFtB^jBSpE}Bh@kBSgAy@uAOwBi@oB_A}AuKgEiDiCi@gAPw@jFyFhDuFrAkNe@uD{AaEqA_AsDAc@m@bEsHb@cCq@eCmFkBm@qAF_A~C{KcBmKeAuLl@wBf@k@|Iv@v@iAb@aCUgEm@cEwBkGeAaAcGyCvGcHb@oBO{AuAkEmEmCaB_Ch@e@~K}B~@q@Fw@Qs@wCiFsAw@Jg@vI_BlDG`DyAh@yA?cAc@s@kO}Gq@e@Cw@rG]dU_FfB@zCuAV[KgF}Cw@EY~BiAjDuCjBmHzAo@hAiAfBMtPbAjBTbDjApExC|AtB`E`BvLn@tD|@xAzArCxIxKvClIdI~JfC|Fz@~OfEjD~AjGGd@hAvDp@pC~BhBXXZOjAVV^KrDeEfAE`CbEbElB~DvEbBBrFrDd@|A`AvJvDhEzCvBlD~AdLfDhBAfC~@dDbLp@~@dCzAlAnCJ|GpHjFjDbFnWrDvAuBfCH|CcBrCYbBu@`Jc@fLDhBZNhFLd@^JpJWxFZoG`BmBnBa@hBc@tHDhA|A`E`C~B?hCb@|AgApWnInInEfKvEhEvBpOxC|N~GnCbKtBnBhAzFrFlGfMfJhJxBRxD{@r@VhA`V",
+"average_heartrate": 169.7,
+"average_speed": 4.551,
+"source": "strava",
+"streak": 1
 }
 ]
