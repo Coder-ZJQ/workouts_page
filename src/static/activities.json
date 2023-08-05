@@ -18448,5 +18448,20 @@
 "average_speed": 9.565,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9581727988,
+"name": "Zwift - Group Ride: Stage 1 - ZRS: Podium Rides - Loch Loop  (E) on Loch Loop in Scotland",
+"distance": 16384.2,
+"moving_time": "0:25:30",
+"type": "VirtualRide",
+"start_date": "2023-08-04 14:05:31+00:00",
+"start_date_local": "2023-08-04 22:05:31",
+"location_country": "Portcullis Buttress, North Ayrshire, Alba / Scotland, United Kingdom",
+"summary_polyline": "wfrrI`q~^\\y@TKnEHhAi@|@wATaEnAuC`CeBbDETUVwADsCOyFMaB]sAs@e@kCJwDi@o@a@WiAH_Cp@qCf@o@bB?TSZiDT[XAn@d@XEd@}@JwAKwFOiAiBgEg@iCoCqEYgAEiH]aAeFO{IoAqEiBeCB{@qAYAWLo@jB{Ar@QXa@nCa@j@c@QkAwC_@c@y@EoAx@m@~A_@vFo@xCg@z@}B`A_AnAm@lB}AhHq@dAk@Fg@c@iByEk@[eAZ_DnCcBt@o@Os@_BWGyAbAo@Hk@_@u@qAg@a@{@ZwE~G_AZg@c@qAsDc@kDWy@iAi@a@Xg@hBDt@p@`APjAGrA[dAq@`@cEr@_D|Ca@jAB`Bf@hA`E|AbADfDmA~BHdAh@d@z@HvDVpAnC`FhArAx@_@bA{Bd@Sb@f@r@~CXh@b@@jAoAh@Gj@^pAbB`@L`@[Ry@CgAM[}@e@SDc@n@kAtHIvCN~Ah@vBnE|JdAjIl@hAv@`@xDk@fATdAtAbBrFp@j@bAF`Ay@rEuIrJiKTi@Z}Bd@q@fJF`DjAVn@R`B`@Vb@UXq@b@SxEDx@k@r@eAXgEj@eBz@qAxAaAjDIf@m@NqA@qDSeG_@qBg@i@gDDsDi@e@]W{@?mBz@yDr@o@hBI\\sDf@]~@h@TI^u@LqBIsEQ{AeB}Dk@uC_DqFSsB@mEGe@c@k@cEC{F{@uDs@{CqA}BBu@mAWCg@b@g@~AaA\\e@h@a@jC]j@e@KsAiD_@[w@AkAv@s@|BUdEe@rCu@tAuBx@}@dAm@~AmBrIq@~@i@@e@a@aBoEe@e@aAPgEjDaBd@UKeAmBmBfAm@Dg@c@cAcBg@Kw@h@kEtGy@\\g@[yAaEq@{E]a@q@Qk@n@]bBJj@j@z@P`AGbBY`Am@`@gEp@iDhD[fAD|Ad@dAzD|AzABlCgA|BFdA^t@nADbD\\fBlC|EbAhAr@UlAgC`@Qd@d@t@dDZh@b@EjAmAb@En@b@lA~Aj@NX]ToAA_@Ws@u@[u@n@kAtHK~Cp@bErEdKVvA`@rEj@|AhAx@tDo@jATjAdBpAtEv@v@`AJbAy@hEgI|JuKXq@XyB\\k@~HI",
+"average_heartrate": 174.9,
+"average_speed": 10.709,
+"source": "strava",
+"streak": 1
 }
 ]
