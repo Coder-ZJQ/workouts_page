@@ -18598,5 +18598,20 @@
 "average_speed": 8.964,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9672340810,
+"name": "Zwift - Pacer Group Ride: Volcano Circuit in Watopia with Maria",
+"distance": 102654.0,
+"moving_time": "2:42:33",
+"type": "VirtualRide",
+"start_date": "2023-08-18 10:23:49+00:00",
+"start_date_local": "2023-08-18 18:23:49",
+"location_country": "Temotu, Solomon Islands",
+"summary_polyline": "niafAkm|y^|FeHtG`LaKxRcNdBpDeCmOgBpAwPuJ`CqCyGxJuM~ScBpC~CuK`E?jI`TaGlDzKoJdQuMfB|CoCgOwAhAeQqJhCgCaGfE}JrZmEbBbDkKrDIhIbJOtEcH~GvIaJpT{NrBxD{BkOcBdAgQmJhCkC_GpEiKnZcEbBxCqK|DW|HnJ@jFcHxGdLaKrRaNfBfDsC{NeAnA{PeKjBmA_LbIkIdTaBdCtCqK`ECvI~SaGtDbKuQfUiGIgIqEdAeQqJzBwCiHzJgM|UsApAlCsK`EQxH|IBxFgHxGpKcRrViGK}Bu@iEyClAaQiKnByBeIvJgLtUqAx@rDqLtFf@jFlJMxEaHdHpK_RrVsGW_I_ElA}PgKlBaC{HlJkLrTkBdC`DsKxDGrI`TgGhDlLeJxPcNfBjDaCkOeBpA{PoJ`CoC{FtEoKnZ_E|AtCoKzDY|HjJBpFeHxGtKsLdT{L|@wC}@_EyDzA}O}JvBgC_GzEqKbZ{D`BzCmKxDMlI~IKfFeHtGzIgJnTqNtBlDgCmOgBlA}PcJjCwCiGpE_KnZeE~A~CmKvDIfIbJIrEeHhHbJkJdTqNvBpDgCiO}AlAaQmJdCwCiGtE_KnZgEbBvCqK|DInIbJQxEcH`HfJuJjTmNfB|DyBqOeBlA_QuJ`CeC}FfEcKnZmEdBfDoKrDIhIdJMvEcHxGnIaJzTqNtBtDcCsOmBpAwPoJdCkC}FpEkKlZcE~A|CkKrDOjIfJO~E_HtGvIcJpToNzBfDoCgO{ApAwPcKtBsAgKnI_JfTaB`CtCqKbEAtI~S_GrDlKwQ|TsGYaIeEtAwPeKlBgBcK|IoJxUiAz@~CwLbG`@~EfJ@jFeH`H`LyOpU{I@qDmA}C}CvAgPoJ|ByC{GxJuMhVkAr@fDqLrF^jFhJEbFaH~GxKaOjUoJDwDkAwC}CxA{OsJvBwC_HrJmM|U}ArA`DkKpDQ`I~ICnFeHzGfK}N`VmJRaE{AwCcD|AyOaKtBgC}GpJiM~UwA`AhDuL|Fd@fFhJEbFeH`H~KyNfUuJTsDqA_DoDrA}OyJ`CmCcHzJkMzUwArAxCoKtDOfI`JIzEaHlHrK}QrVuG[aIcElAaQgKpB}BeIjJcLfVsAnAnCqKxDWzH`JDdFiHlHtKaRrVkGIiIuElA_Q}JrBeCgInJeLdVkAr@hDoLtFd@hF`JIdFaHbHtKiRnVkGSmBo@sE{CnA}P_KpBeCyHdJgLbTmBvCxCuKbEEjI~SiG|DrK_RfUeGK_ImEbAeQ{JxBcCmIhJ_LdVuAx@fDmLrF\\lFbJ?fFgHdH|KyQhVsGG_C{@eEwC`AkQqJbCuCeHxJmMxSaBxC~CsKxD?vI~SeG|D~IyIrQgOrCnDeCkOgBpAsP_KzByBsIjJuKtTeBtBjDwM`JnB|D",
+"average_heartrate": 171.0,
+"average_speed": 10.525,
+"source": "strava",
+"streak": 2
 }
 ]
