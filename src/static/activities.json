@@ -18703,5 +18703,20 @@
 "average_speed": 5.652,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9717816562,
+"name": "Zwift - Casse-Pattes in France",
+"distance": 24261.8,
+"moving_time": "0:46:42",
+"type": "VirtualRide",
+"start_date": "2023-08-25 11:54:14+00:00",
+"start_date_local": "2023-08-25 19:54:14",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "fvtcC}pgu^pBxHf@hCUz@qElFMZAn@Xz@~F|Jz@bDPhC@fH]rB_BfEqB|Ac@t@OdIH|Dj@fAvHhHvA|BlDzBh@~ALxB`@nAxJdNzCrBTj@?bAOp@y@XkB\\I`@T`BuAzBy@v@Ql@EbALtAp@f@nAEdDiAl@Nt@bA\\vAEx@WZqAl@M`@n@nCEx@o@tAu@p@a@AmAk@iBAcAtAsAHmBvAo@O}@oBuBS_Cw@y@e@O_@Du@RYhAm@N_@Du@Iu@c@e@gCOYwB_A{@wGsBeO}BqCn@{BKiFF}GwD_D_AaBPg@\\g@|@q@JyBG_C}@y@AgAf@mFrDuBv@sDl@oE`BwB`@cBOyEb@iC`Aq@@q@O_Au@eCaCu@{AoBiB}@eCcBqAqA[eBAsATkBt@s@DcAY{AeAYu@@oA`BwENyBAs@s@{A{Ai@WYyAcEkA{BeBQgNBo@MI}B`Au@n@oAd@{BT_C?kCtF_GHiBQaA}@UcRAYSK_@PwBQcAyBcCaAs@qJg@qIsAkCq@cDuC_PqCq@_ALwCMo@cFyCc@w@Q_AFsAn@aAnCy@~Aw@Lo@CuDb@_@xB_@L]Aq@RYpB}@lASbBsBvBu@~@G~GNh@Qj@g@Tu@Gw@i@c@aBk@Ua@Nk@|A{@Xo@Qm@iB_AWc@Di@r@yA@}@g@w@cEqBOY@a@bJ_Oj@EbDpClALt@s@NsBb@q@x@BrB`AdAQ^gAByDb@{@rAGvDnAj@Ib@]Tk@?iAsBmFUaBVs@nAo@T[p@{ErAqADa@Ga@}@cBI_@xAsFfAaCXoA^a@ZKlAR~FaBvCwAh@kBv@Yf@XPj@C`@o@~@?p@t@vBn@f@lAD`HsAp@g@~@_BpAk@^CZLXf@x@dBXnAr@f@PtCb@jAz@t@|@HvBk@lAD|@h@pDhDbBf@hAGpAa@|A{@fAeAvAgCNeACeAe@}BwCaEG_@nGyBROBWOUa@MyNgBYUE]Zi@hCgA~GiEVk@[]}McDYYh@YpJe@b@SJa@M_@}G}CQW^OhDPBg@cAeAGYfAsAr@QfAHtFjBtIdBrBdAfG~FlDxHxA`CjJpJt@Tx@?fE}@V@`@d@bAtUtDzTb@jECfCeAbDAtA|Lve@fDvJh@tCnBfHAd@Sb@{E|FGl@",
+"average_heartrate": 160.0,
+"average_speed": 8.659,
+"source": "strava",
+"streak": 2
 }
 ]
