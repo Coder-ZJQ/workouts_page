@@ -18853,5 +18853,20 @@
 "average_speed": 7.594,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 9775699427,
+"name": "Zwift - Makuri Islands",
+"distance": 14411.8,
+"moving_time": "0:32:56",
+"type": "VirtualRide",
+"start_date": "2023-09-03 13:32:08+00:00",
+"start_date_local": "2023-09-03 21:32:08",
+"location_country": "Bwuang, Temotu, Solomon Islands",
+"summary_polyline": "lg}`Awtes^WcAE[?[Pc@rAkBDIAIEEQEyA?OGOSOm@k@_EoAiGi@eDKUUOk@Ue@_@{@Um@k@qAe@SOOSqDgHwA}COS_@MsBYcBCYG{@e@o@MuCQcAD{@V]RUTg@r@]bAMr@MjBUtAGdAy@pCC`@BNZv@n@`A|AlBR^FZBj@Ip@a@|AWVa@B_EO]Gg@Sm@g@SUi@kA}BeCaAgBa@g@a@Sc@I{@Ee@Bc@Ni@b@k@x@KZU`HEZQr@Eh@OzGBXP`@?VGbBCJKFKBWGyC}BgBkAcCuBmAkAc@i@e@w@KGi@K_CG_@DaAz@_@JmA?}GYeA?IDGJCX?\\DJj@HHFD\\C\\IHMBk@EMDQVKDOAKGCM@MHMJEHI@]EMYGGICw@IK[G[AsA@WFGHGZ?tDKXe@TGHAxAGl@KZm@h@GLEZB\\NVVN~DbAd@PVNNTBZQzB?ZDXZ\\~BtAZ?|Am@ZGh@C~EVvABnDTh@VfE|DTPXHf@HdBH^@rAI`@BlAj@`@JzCn@fA@^CZKn@]j@o@|AsB`AcAfCwCPi@JwDLwANy@LWHIb@U\\Cz@?zCi@LGHKDONoAPYLE\\C`EXpB@h@Nt@l@r@^XH|ARJDNPFTXrANTRH^@`@GhDoA~A[h@C\\B\\Fh@Vd@Z^`@X`@R`@XfAb@zBt@bDPh@l@|@p@j@j@RP@NCHMBQIs@Bs@Ha@b@g@Ce@wAoHMWs@a@SW_@cA[}A?WHWnAgBP]CKUGwA@SIQ[u@}EqAqGo@qDQSq@Wg@c@s@O{@s@gAa@_@YeEcIqAqCQSWIsBYkBEUGu@a@q@OaDQaAFy@Vq@j@e@r@Up@Qr@MjBWfBIfAi@~AOp@?`@BNTf@l@dAdBvBLTHXDh@Cb@a@hBSZMHQ@aDK}@Gi@QWQk@i@s@uA{BeCcAiBa@g@a@Oc@I}@Ee@Dc@Pg@d@k@x@G\\W`HSbAEh@QfHRn@@VEdBMRYBKEeDeC{AaAu@u@{CkCc@i@g@y@YMmBMeA@QJy@t@SFWByAC}DSiCCKDEHEX?ZBLLFZBLDD\\AZGJMDy@C[^M@KCIIAMBM\\Y@[AKYIIIEK?i@EKKGYEmB@UJKTAlDAZOTa@RGJAbBGh@QXg@d@IXAZFX\\V",
+"average_heartrate": 134.8,
+"average_speed": 7.293,
+"source": "strava",
+"streak": 4
 }
 ]
