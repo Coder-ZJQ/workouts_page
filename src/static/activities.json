@@ -18898,5 +18898,20 @@
 "average_speed": 6.341,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9808170377,
+"name": "Zwift - Climber's Gambit in Watopia",
+"distance": 41384.0,
+"moving_time": "1:48:28",
+"type": "VirtualRide",
+"start_date": "2023-09-08 11:30:41+00:00",
+"start_date_local": "2023-09-08 19:30:41",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pu_fA{l~y^bFfDzJjDjE~J`BlA|Ci@CgA~@{@yB{AAkB{AaAf@_B`BOpA|CnCbBjDgCuCgDQcBp@k@bFNbG~JtLkIhEfFpDyGdGlEl@aAc@gCpCkAGeBwBwCe@wDaEw@aK`@kCdIcAp@eYmG}WvD_@gBP}D~BiBIkDlA_DuAaBkCoJcA^UtBCjFtA`@j@wAY{@cFEwAqL`@iGuBoCc@qB^sDnDaIl@uGy@qJ}BaFkAiBFeEjAeBfI^hAoBfB}@^bDdDyAgA~CbArBf@Bl@wC`B}Aw@mDy@w@C_Az@yBpA_@vBr@TfBa@lB|@fB|@Kh@{ClEuBR_Ao@gA}Bo@`@oC[mAmDsA|DeBHy@sDRM{@pDc@zCh@Z`@QrAx@nAbDr@b@{@gCsC?k@fCh@bAk@hBXx@sBlBfEhCg@pArDjD|ClESjCuAz@wCjBoDuCmGoBeAoJZwAuA_Da@d@m@fE`@fGmAt@i@K}@wCi@}CtAuHwBnD}B~Ce@`BgCnE`ApCQbCu@rBgCjAY~Bt@OvGdBGvCaBjARhAfDyA~AgEOMfBl@pEiAjD`CvEz@c@QiCx@}@tAS~BpAVbAqAz@\\zBiApBn@dAbAUn@uB~Ay@x@mCvF]XoCo@gAPa@bBJrAxA`EuCjA\\SfCaCpAbCXFz@iHdDi@~HpBlIzEhFEzL_r@`QyB`AMlAxBnGtOaEpACl@n@EtP{DdPFvLh`@bHZnFp@l@v@YZ}DtBwCl@hAs@xGnAzBnXhGdCkB|AEDdBsB`IfBxCtAgB~A_NjBuD~Aq@fAPHjAuC|GUhE~DzEpAm@bBuFGeO`CuEnBtCeApJZpKt@tBjCItCyYlBwBvAKf@~@cAlFTvAz@XpCsB`CyFzAoHbDoBIyEvCqNbCgH`EaGuEhGqCbJp@lAeAdHp@fGlAfDfExEqAxGoJvFkJOoBvAK`CjDfAnE}FbCSzHeEvBoHoEcGoAuDi@qFbAgHm@kAjDaKtGqHzN|@t@`A@tCtAhE~EpBxFCjC|ExPf@jDeAnB}Bz@aF[_B{C}ErBiB`@iCbAaAz@IrDpBjGcEk@{JhCsE\\gD]yBmD}ELyEgCuDaEoAk@qD{QyLuI`DiBbE}@jGkGvBcE_AW{EqAkAiRRm@pCjAtOUpGbApFgAnDs@`@{B]eAmBqA_O{AO}@~@F~Eo@fBuBxAsBR_AeBEuIoCaBsEkHaKyGuL}BwNl@cOnE{CDk@dBpA~B?~BlBtBQ~A}@HqDqCmCbC",
+"average_heartrate": 166.2,
+"average_speed": 6.359,
+"source": "strava",
+"streak": 2
 }
 ]
