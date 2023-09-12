@@ -34,6 +34,7 @@ TYPE_DICT = {
     2: "Run",
     3: "Ride",
     8: "Indoor Cycling",
+    11: "Indoor Cycling",# 室内骑行
 }
 
 
