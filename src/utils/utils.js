@@ -75,11 +75,11 @@ const pattern = /([\u4e00-\u9fa5]{2,}(市|自治州))/g;
 const extractLocations = (str) => {
   const locations = [];
   let match;
-  
+
   while ((match = pattern.exec(str)) !== null) {
     locations.push(match[0]);
   }
-  
+
   return locations;
 };
 
@@ -97,7 +97,7 @@ const locationForRun = (run) => {
     if (cityMatch) {
       [city] = cityMatch;
 	    city = cities.find(value => cityMatch.includes(value));
-	  
+
       if (!city) {
         city = '';
       }
@@ -195,6 +195,8 @@ const titleForType = (type) => {
       return RUN_TITLES.KAYAKING_TITLE;
     case 'Snowboard':
       return RUN_TITLES.SNOWBOARD_TITLE;
+    case 'Ski':
+      return RUN_TITLES.SKI_TITLE;
     default:
       return RUN_TITLES.RUN_TITLE;
   }
@@ -238,6 +240,7 @@ const colorFromType = (workoutType) => {
     case 'Kayaking':
       return KAYAKING_COLOR;
     case 'Snowboard':
+    case 'Ski':
       return SNOWBOARD_COLOR;
     default:
       return MAIN_COLOR;
