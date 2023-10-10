@@ -19213,5 +19213,20 @@
 "average_speed": 8.209,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 10012125634,
+"name": "Zwift - Devedeset in Watopia",
+"distance": 28560.8,
+"moving_time": "1:00:06",
+"type": "VirtualRide",
+"start_date": "2023-10-10 11:37:07+00:00",
+"start_date_local": "2023-10-10 19:37:07",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "hq_fAsu~y^?sDdA}AhGiEd@eA[y@sCoCxBw@Ha@qAsLd@iFcCmDSeDx@iDjCmFr@yH{@cJqBmCGqAy@y@[sAAiB|@oC`AO|Bf@`A_@dBXdAkBfBcA\\^KrBXTpB_Bn@JkAzC`AjBb@Hv@aD~A}AcAcBJ}@}@aAA}@x@uBxAa@tBz@PjBc@|Az@fB`AEd@yCbBa@rB_BNq@i@gAgC{@b@aCWqAoDqAF]bEiBYm@qDXAk@t@YdDKbCh@NXUlAn@jAj@f@vB\\l@[Bc@eCoCCm@`AIbAp@tAm@rA^^iB`@MlBhEl@BtAs@tAvDfBz@bAbBzCE|C}@`BcEfAaA^_BkCkG{BoAeCf@oCa@wATsAqAeCO]]hAi@~Db@~FuAb@a@Co@yCw@qCxAcIkBFo@bD{ArC]jBoC`E~@|CMtBm@pC{C~@O|Bn@a@hF\\v@hBS~BwArANhAdD_BdB_EWOnBn@lEkAnDlAjDx@h@t@c@QgCj@u@zA_@`CjA\\hAoAz@\\rBkAtBl@hAfAUf@kBfBaAr@kCxF]ZyCo@}@Pc@vADxA~AzDoC|Ab@c@jCiBVMh@Z^jBC@|@iBnAuDdAq@lIlBbI|EjFE`Mwt@lRm@f@Cn@pBxGmDhAmHdBiHd@kBy@aGiHqBq@{B?sE|BcC|FkAhAyV|DmD|AoB`Cq@pBOjCrApMvFXH|@u@jAk@MMg@H{Gb@iAv@Z~B~IrA^ZaB}B{IEuA~GkAjJgHzGIvE`@jBnAv@`CIlBuDdFH`JW|@cF{@yEfEcNjBsF|Ac@n@UrCJxB^h@nAArKiCjHk@dZhG~@_AxBoH~Ig@|Ep@f@~D`CnDKnAiC~@b@~Be@~@s@UwCaD_AUq@n@sAnEm@TkCmEm@UkKnGk@z@u@e@gEwIiBc@eCPw@x@N|Af@`AlB`B}CdCcCwA{AiDkBLi@pB|A`ADnBpBjA{@r@?jAoCf@eBsAaEqJsJiDyD}BwBeCsAsEEmB\\uAtHyFj@kA]}@oC_CNg@pBo@qAqMd@aFwBqCa@eCd@mDrDqI`@kECmDu@sFqBkCIoAeA{AU_CpAuDjD`@fDChAkBlBcAZj@OzA\\^hB{Ar@BkAxC~@nBl@Hn@}C`BaBcA_BJaA{@{@C}@x@wBjAa@`AB~@r@PnBa@zAv@dB",
+"average_heartrate": 162.8,
+"average_speed": 7.92,
+"source": "strava",
+"streak": 7
 }
 ]
