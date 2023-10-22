@@ -19333,5 +19333,20 @@
 "average_speed": 8.592,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10082308352,
+"name": "Zwift - Halvfems in Watopia",
+"distance": 31056.8,
+"moving_time": "1:02:31",
+"type": "VirtualRide",
+"start_date": "2023-10-22 08:00:57+00:00",
+"start_date_local": "2023-10-22 16:00:57",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "`}_fAyg~y^iEmCmBkCkAwEB_B`@kAdHiFr@gAUcAeCeBQm@R[lBc@kAyKC_Cj@wCfBmCnCyAvCy@hSuCzAqAjCeGdBmAdBe@jB?rBl@fA|@dEvFpCv@hJkAn[wI~AAd@r@IbQqBxJcAhCEnIS|AqBh@{H@o@eAoDeL{AgA{ATcA~ABpBnH`PmAj@cKzAo@d@Mx@\\`@j@HdKsAx@DBVmAb@{N|AiB~Iu@fAwYgGeDHgH`AkHnBo@IUq@FaFv@gApFwAlMeBvEeEjEz@h@QNuAEcId@gAfCsCR}@i@cDgBgBaEg@}HAoB~@aHvFsGdAArA`CdJKrAu@Be@i@oBaIc@s@u@XW|@G~GXn@t@Dn@{AGo@UMkEA_Df@@|@pCvBPz@aAlAuFxDw@fAMzC`AzDnAvBnCvB|JnD~Az@dAbBrCpHz@n@fA@nBk@GeA|@cA{BuA?iB{A}@NcAn@m@bAC~@hA^`B~@R`AbAZCvCiCUm@cB}@a@aAGcB`Ac@xBIvA`@dA|AhD|GfA_AxJgGl@NtBvDl@\\h@c@pAcEh@s@fAb@|C`Dp@FVWHs@c@yABc@tBk@`@gAUeAqBkCe@{DoCq@eCEyC`@yA_@Ha@~KcAxAg@Ic@g@IwKrAcAa@Ny@p@a@xJwArAq@_HeOUeCb@eA~@m@z@?p@b@p@|@vChKr@dA`I?nBc@^{ABcJdAkCjB}IJcRe@s@cBCs[xIkJhAaCm@oE_GsAcAuBi@yBFcBh@_BnAaCzFy@|@yBr@yNbBmEfAkDtBkB|DMpEpAxKzFZClAs@r@i@QG]HcH`@iAZEX`@`CbJf@^n@CT[B{@_CcJEwAxGeAxJoHzGEtE`@|AdA~@fCKrBoDxED`JSdAsDw@w@?}EhE}MfBuF`Bc@t@OrB@fB\\jApADzFeB~Es@bG]jYhGz@u@tAwFl@eAfIc@vCLbBp@^rDnBfCR|@Qx@iC`Ad@~BGf@_@Rs@WwCaDaASo@t@wApE]Pk@c@eBgDy@Y_MhIgFwJwAg@yBBqAd@ErAp@hBjBbACn@wCtBkAiAy@Q[yAu@gAs@Oy@Ti@x@Ez@|A|@@lBfBt@L\\{@p@AlAoBd@_AKmA}AkBqFaAcBgBeA_HqBiDqBmBuBoAiDYcCXqBlAqAdFkDp@cAUgAcCgBQe@P_@`BWNW",
+"average_heartrate": 159.4,
+"average_speed": 8.28,
+"source": "strava",
+"streak": 3
 }
 ]
