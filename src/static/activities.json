@@ -19378,5 +19378,20 @@
 "average_speed": 5.401,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 10101937175,
+"name": "Zwift - Classique in London",
+"distance": 6262.4,
+"moving_time": "0:14:24",
+"type": "VirtualRide",
+"start_date": "2023-10-25 12:54:39+00:00",
+"start_date_local": "2023-10-25 20:54:39",
+"location_country": "Admiralty Arch, Whitehall, St. James's, Covent Garden, London, Greater London, England, SW1A 2DY, United Kingdom",
+"summary_polyline": "s{jyH|cXTv@h@|AdMna@dJjZT`A@XATQdACV?|DEhFc@bYOjM@hBBNHDFMBc@?qIl@_a@DcEAwC@i@Nc@HOJKJGZAv@FLCJI`DmDP]DQ@U}@aPmBwa@AkA@}@j@iPAeBEe@GMIGUIUAwIBqAF{@JeBVeCn@gA\\_Bn@mDxAm@JW?UMc@a@MIi@QKOaDsHoEeL}B}GYaAa@eBGMKBCNFd@h@vB`@pAnB|FvBhFzA~DDf@AdEBv@FLJDJ?rA_@VCJDRRFNLdAL`@FJHH`@?^P^^Xj@",
+"average_heartrate": 123.6,
+"average_speed": 7.248,
+"source": "strava",
+"streak": 6
 }
 ]
