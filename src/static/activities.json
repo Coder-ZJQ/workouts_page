@@ -19393,5 +19393,20 @@
 "average_speed": 7.248,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 10106880813,
+"name": "Zwift - Amalgam in Watopia",
+"distance": 40561.1,
+"moving_time": "1:26:05",
+"type": "VirtualRide",
+"start_date": "2023-10-26 09:05:43+00:00",
+"start_date_local": "2023-10-26 17:05:43",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "|p_fAow~y^PeClJsIYeAgCkBCw@bJa@Tf@c@zAmAg@HgHv@mA|C~J~A`@R}AcCqL|GiAfKsHjMZ|CrCP`D_E~FB`Ke@XiEaA_FfEiUbEm@n@UdCn@zDpW{DzZzFlCwKnQgCo@o@uKrAgAa@dA{AhMeCsHyPHsBrAsAlAFrAtAlErMtLg@^yLrDmNFcRe@q@aBCsObEuBwHpJsDzj@mNByLcF}FkByHj@aIhHeDKaAaC[~B}@LcDqAUaErCsA}AcBGSn@TlEyF\\s@hCiCfD_A\\m@y@lA_C_@mBpAaA_@kA}BoAeBVw@bALlCo@TuBkEhA}Da@mH|D\\`BcBmA{DqAOwFjBR}GgCo@oAXwF|DmCNiEcAsBrCcDd@eDdCfIzB|CyAlCl@Dj@{@j@qFhAoEe@q@z@pDn@dAnAzJYtBrAbC|FkE`JmHz@aDyCwAwDeCj@uBiE_AtB_B[mE??`A~BlCg@n@kDsA]aDeHe@kAh@Dl@xDSNb@iEhCrDxAMrElDnB]fAgErBk@xCs@Es@aBb@}AQeB_CcA{A`@aAlC`AjBv@bD}AxAo@~C}AoBlA{C}@OwBxAYcD{BfAw@dBmI_@aAfA[dFxAfElB|Bz@xGe@hJkD|Hg@rDZxB~BlDe@dFpAbMkB^Uv@jDbEwIjHi@`DpCnIhFpDfKtDzE~K_@f@kD{BaCxAVtC`GlQaFvIQrB|CdGrAUbAoBbCm@hAl@j@dEIhDiBp@QfCjF|DzFmBxCj@~CyAlAyCxD}DLmEqDiJ_CyAoG{@}Hl@sCfAyCnFbBxIzAnB~A@hAoB|H}AdAjB|Df@bA}BEaCeC}EiD_BmEEgC`AaC|C@pC~AhE~C~A~BLhBs@`ByCu@mF_EoAqCdA[bEjBfCbDYbAsCk@_B{Cs@eCtAjAeCpEAlAfAp@vC{AbEiE|@_FwCeA_EVmCdCaChDs@|CRbDfBvB|EW`EcA^_C[kBwBgIbB_AfBeBKeAaB_BmJrCkElB_AfKw@lGlApAbAjDvI?fEkEvEu@|B{LnDAz@xGBxEuB~AgFnBcBrCoFL_CoC}Ck@oCqBw@_FhHgCg@mBvA{A_@}@kDfAuC~CuAfCJfBmB{AgDcCBsDbByFs@}FjAm@YyGySd@qAnAa@rD|Bh@UuCwIuBmCkIkCkFiDyBkEc@}D|@eC|HeGGgAqCwBG{@|Ie@\\b@a@`BqAe@HcHx@qA|C`KzA`@X{AeCuLxGgAbJcHdIOrFz@nA`B^dC",
+"average_heartrate": 166.2,
+"average_speed": 7.853,
+"source": "strava",
+"streak": 7
 }
 ]
