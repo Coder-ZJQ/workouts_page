@@ -19408,5 +19408,20 @@
 "average_speed": 7.853,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 10112036530,
+"name": "Zwift - Ham Sandwich in Watopia",
+"distance": 26406.1,
+"moving_time": "1:08:57",
+"type": "VirtualRide",
+"start_date": "2023-10-27 07:52:48+00:00",
+"start_date_local": "2023-10-27 15:52:48",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "~nffAy||y^nQ{EfHdBlF@^^MzAXd@jCa@zCz@UlAaDL[tA|DnCbBnCb@vBk@fGvBdBj@xBi@`BNtAa@h@}@PoDeAoBhBLvAxBhBd@rB[TcAa@s@`@n@fCwAz@CdA`@z@lCbAf@tGhDxClAnDrD|AbAzAlB?\\_DqC_Gh@iAnAh@HbCjAlBfB~@pBa@cBcAg@u@tAwGi@{AByAoAu@l@gAS}@l@kBp@NTxFlB|Dk@rBl@v@z@OdAmBlHpD~CmAjBBbAuAQgBx@}Ao@gC`Ao@fCN~BbCl@M~@cBxCpBvDw@lFpBPv@g@|C{BhAsD`@cCrDCbFdDlBhAjByAvEgBz@mEmAUmBaBw@y@DyAfBiCPqBc@iBmDmBAoBt@}@}@_@kC}Ao@_GTwBv@oFiAoAeB{CeA}AcEwC_Co@wC?iCwCoA]qA`BaBm@gCj@UdAb@\\[c@}BuBaBUsA~AeBdEdA|AaAOsAd@kCs@iBiBqARmBjAc@lEbBdAuAEgBn@e@lCRjBvAn@tCvSfHrAXtGBd@vAzAr@Z~BcA~AwAc@w@XMzBaBl@_CWmBX_CyA}Dy@eAb@UjAt@`DWfDpCdCw@~BDbAcAxBoAWf@gCqBgEYyFaAB_@`BPx@i@rAjAj@AxAh@|AuApG`@z@|A`@Hh@iBTkBeAeAiBOkCaBW]`ApCtFUhBX|AxBp@nBw@~FSrAn@ZbCdAdA|Bw@~A@hBnD~Bb@lCWlAeBr@A~Ar@RjBzEnAnBgApAiEkA}B_DgBQiBX_CzBcDpDa@zBgAj@oD_@_AkFmBsDv@}CqBmBrB_CeCeCOmA|@p@dCy@zALnBw@fAoBEyClAsFiCiA{At@aDoC{BX{Cu@eDJy@hAg@rDt@lC~AxGQt@a@RaCp@ShAb@hA}@OmDaB{@eAeBwGBmU}He@mCsB}A{BYqAp@BlBu@dAqEaByAv@OhBpBzAl@~Ae@nFqA`@yDcAkB`Cb@rAnBxA^jB}AIm@Vh@dCyAfAB`BbD~Aj@zGjDzCpApDlDtAnAdBzAA^wDqC{Ft@}@fAj@H~B|@dBjBfAnBEA}@wA]e@{@tAcHe@}@?eBoAaAl@_ASs@Z}Ad@U^VRtFlB~Do@fBr@`At@MfAqBjHpDbDkAnB@~@sAQcBz@_Bq@iC~@o@bCLxBbCx@MfAaBlCnBnDy@~FzBD~B_@hAwBhA}Df@}AjB",
+"average_heartrate": 160.4,
+"average_speed": 6.383,
+"source": "strava",
+"streak": 8
 }
 ]
