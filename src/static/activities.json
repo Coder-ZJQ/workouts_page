@@ -19423,5 +19423,20 @@
 "average_speed": 6.383,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10117069110,
+"name": "Zwift - Novanta in Watopia",
+"distance": 31319.4,
+"moving_time": "1:00:12",
+"type": "VirtualRide",
+"start_date": "2023-10-28 07:39:04+00:00",
+"start_date_local": "2023-10-28 15:39:04",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "dw_fAqxbz^qCg@q@gAqB{Hv@wGuBqF|@y@vC?\\}EvAu@hFbB^f@BnB|Bv@cA~C|@rAfIWdCmCDy@kAkD|CgDJyDkBoF}F_FMsAlAqE|D}AfA{AGmEcEcF~BkCK{CrImTb@_Eq@gCsHcD}@kBIkBvIaT`Dq@rDr@z@g@bBaDnCCzBcAh@iBA_BcDoFjBuBtBXfFlIlAz@nBaAzAwErANrAbAFtEnCdBX`A]~@uBp@o@jAArKuAdSbFvI^NtFh@rL{CjBl@p@pE`@dLMnCcC`DNzFt@xCxAx@nCIxG|AzAnA\\lCpAfAjAy@bDuJh@c@fADbBhAh@zCzDDlAp@pAbDDfEcA|AuKzF{@`EkBr@qAzAGpAj@hBnBlAG`CeE|C_BaBeB?Kj@n@|@YlC}F`@m@bCcB~@cAbCq@?_@q@hAsB]yBrAkA]cA{BoAcBRy@p@NvCq@^cAgAw@sCjAqDm@wDJqBnEVpAaBOmAmB}BmD~AiBPN_HiDm@aD`DmCt@eCLkEcAoBpCwC^sD`ChIfC|CyAjCj@Dp@{@f@sFhAsEc@i@n@Zb@rCRdAnApBS~Bb@hCg@nBfAjCfGaBvCcBdE{C|@mCH_A}AsBkAwAsDaCl@gBcEu@XOvAcBYgAj@gBy@g@XHt@~BlCe@l@cDgAi@y@ToAUc@eCm@}CHeA^?v@zDQL\\cEjBAj@pDpANfAa@bCjC~@d@dAgChCcBf@g@rCq@Cs@}A`@{AMeByBmAiBf@{@`CB~@z@t@GnA~@vAeB`Be@nC_BgBjAcD}@KgB|AWa@KeCyB`AkAlByA]gBZ}Au@QcAfAkEJiDwAmCaDs@_AqAmB}Hv@qGwBmFx@_AzC@`@eFxAo@jFfBZf@@jB|Bv@aA~C|@tA|HYjCkCHs@mA{DzC}CLwDmBuFuFwEUmAvAgF`E{Az@yAIkE_EiF|BeCI_DjIwSh@kEu@oCuHcD{@mBGyAvIiTtCs@dEp@|CiExCEtBgAb@aBCeBaDcFf@mAxAu@dBd@dHbKtBy@zA{EpBZfA~ACpDzCrBGdBcCz@k@lAAxKqAfS~DdFx@tBrFh@vL{CjBh@r@pEb@nLOlCaC`DNxFr@vChB|@jCIdGrA~AjAd@zCrAbAhA}@xCgJ|Ao@`CtA`@rCfFV~A|Bf@bE_@|ByLbHg@t@[pCoBr@sAdBCdAp@pBjBhA?pB_EdDm@E",
+"average_heartrate": 159.5,
+"average_speed": 8.671,
+"source": "strava",
+"streak": 9
 }
 ]
