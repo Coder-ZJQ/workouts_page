@@ -19513,5 +19513,50 @@
 "average_speed": 7.652,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10164240084,
+"name": "Zwift - Pedaling Drills in Watopia",
+"distance": 16095.4,
+"moving_time": "0:36:46",
+"type": "VirtualRide",
+"start_date": "2023-11-05 11:39:55+00:00",
+"start_date_local": "2023-11-05 19:39:55",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "li`fAug}y^bCpGJp@GX_A`AYxAkAhAm@bA[`A@x@r@tAx@rCl@^v@Eb@Sh@yATQv@AhAi@f@J^\\Pd@\\xCMbB@tAQRy@@[RQ~@@nAR\\hCtB|@`@p@GfEcB^?\\`@?\\mBPkAb@IRHRPH~@Q~CVhAEjCcA`As@\\g@v@uDpBgBxCwFNi@Am@Km@cCgCq@wCqAs@m@CUJmA`DiBxB]DqBk@g@TcA`Ag@?i@Wo@qAUaBJm@v@aBn@i@tBq@xBRvB}BCc@qAuB_@Ms@AoAV}AfAo@NoBCqCm@{AJgB^oB`AgA`AY|A{A~Ak@fAU`A@b@v@zAp@dCb@d@r@Bn@Q~@mB|@C`Ai@j@Dj@f@h@xDMdB@xAKJ}@BWJU`A?pAR`@rC|Bn@V`@?`FkBP?|@h@v@FvCeA`A}@n@wBdBwArAaBNm@Du@QoCyAgC}@aDo@aAcCaAwDm@mJj@sAZcAl@s@~AmAjAWl@Dp@p@vBr@zE`ApApAPn@STaA\\]xH_B\\D`@pAf@\\~B^`AQTc@Ly@@cCgAyBa@mAk@m@wA{@kA]}AKaBDw@NqAl@eB`BYh@O~@D|Aj@vBn@tAt@l@pBx@~@NfACx@Sj@c@`B}CBk@IaAu@uBoA_AcBQoBZw@~@[bBHfAbAjBd@\\`@HtAEfAq@b@qABwAS_@q@g@y@[q@Eq@HcApA[BEMFc@l@mA~Ac@fBDvAx@p@zARhA?p@Ol@}@~AcA|@sBTeAQuAi@{@k@]e@i@wA_@}AC}ATaAjCgC|@_@dAQlDJ|Ah@rA|@Zl@^fA`ArBGbC]hAcALuB]c@[UcAe@WeI~Ae@`@S~@k@NmAQaA{Ai@oEs@_CBw@tAuAf@mA\\a@x@a@|A]`He@fA@bEr@fAb@f@^h@dAx@xC`AtATr@JhCSpA{AjB{AjAUb@[pAm@p@yB`AyBh@eCX{@b@BVPNbASvCXlACfCaA~AsAVo@h@wCzAkA^g@pCmFJcAKq@Q]{B}Bi@iCm@e@u@Se@BSPgAxCmBxB[BsAg@]AYJgAfAa@Bm@Sg@s@a@yAAy@Lk@t@wAZ[bC{@",
+"average_heartrate": 148.6,
+"average_speed": 7.296,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 10164352683,
+"name": "Zwift - Duchy Estate in Yorkshire",
+"distance": 6301.0,
+"moving_time": "0:11:28",
+"type": "VirtualRide",
+"start_date": "2023-11-05 12:19:44+00:00",
+"start_date_local": "2023-11-05 20:19:44",
+"location_country": "The West Park Hotel, 19, West Park, West End Park, Low Harrogate, Harrogate, North Yorkshire, England, HG1 1BJ, United Kingdom",
+"summary_polyline": "yyohIt~kHgBz@yC`A{LpDgAt@{DfDm@n@Q`@@l@pB`JJZf@bAXlAJTFZCrA@l@Ht@\\dAnDdKXlAvFj\\d@bDDj@ATGPKJu@^qAh@OJMRE\\?xAKrAEXSn@a@|@]X_B~@qGdDUIKc@yAgJs@}Cu@cCuAaD{DcIyCoGa@oAoAmEy@qFO]kBkBk@s@S[Qc@Gg@KqAWuFB[NQtG_BfA[fA_@l@_@jDiCPKRFvAjDZj@fAzAp@p@PHRBv@IfAWdAa@PBLPFXAtA@l@Jz@X`AdCdHt@xB^pBjFzZb@zCBh@ARINIJu@^qAh@OJOTE^@bAA`@G~@I^Ur@Yn@ORgAp@{Ax@oE|BWHSS_BaKs@{Cm@oBi@wA{@kBuDwHuCgGmBqGQ_Ak@uDG[]e@yAwAe@m@a@s@K_@UkDQmD@YFUJI",
+"average_heartrate": 163.3,
+"average_speed": 9.158,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 10169929075,
+"name": "Zwift - Escalation in Watopia",
+"distance": 48246.8,
+"moving_time": "1:35:16",
+"type": "VirtualRide",
+"start_date": "2023-11-06 10:30:43+00:00",
+"start_date_local": "2023-11-06 18:30:43",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "fnffAw||y^hR}EfHfBnF?j@bDjCc@lCt@CjAaDPe@nA`HfHd@`Ck@|FtBdBl@xB}@dFoFu@kBjBhC~Db@tBsCTn@vByAlAJhBbD|A`@fGfDzCxA|DxFvDvFdA`KeAdAl@jAzDrFi@zChEjEIdCqBfBp@p@bCnC`AtBc@zBqFsF}FFyDxAwCzGcBbCcCrNQxBkC`GsCnEXxEcAvH`CpHs@bEnEpL[tCgFpDiBhAeHxNeSnEeB|CcMWqDpIaAr@_Ai@_BcBBmAiAoAuCqDhBcAq@p@yBo@wBhAiMmAiBWyHuAqBsGcAQaBlImAtDsEbF~GhHeA|EuERqDlCmH_AcBoGcBrA_Fc@qFhG_BjDeJTqGfBeCl@cF~EuCdH_ANaMyHkDtH_CZqAgIcIo@^W`EiG?]aKyD}@SiOxC[|BeCg@qCkA}@f@yFcAoEwKcJmHdAuGwBgL]_AkKmMcPlBoJQwAaDYoDfCFdApB~@GlBpAjCa@jAiAJ_J_WeEcAmAcFoE_AeDlBcB}ByDQm@eDcJ{@u@gHfDiD?eAqHuCyDqFyInGcAYIeDsAS_D`BuCUwCtDmFmAsDpC_E^}BqAEmB{@IiAn@w@hDkFkA{BfDmIRwHhH}BtHgHiC{FrBqAzB}@zJaBlBwDEyHkD{IbAgDxCoFl@kDbHeGcF{F^}IgDgC\\kEjEuEXsBlDzA|EQzEeMlHw@zDkErDx@pDlDlGg@rBcBRQx@pCj@kBlB}DfAq@hJhBbHdFzFDlK|@\\zDgApGiE|ClCpAAZiBwBeCBaCoAoB\\sA`OqDrLwArIP|IvB|I~FfDtFsAjLmC~@kBpD|@|DcDnBuBQh@nB{AzDZzFqF|Ej@zClBfAApBuG|D}@hPmChGkDjBq@jCoEdDaEzKGpFyAjEZlEbFjHlFjB~D|FrC|AbOv@zQ{EfHfBdFAz@hDbCg@zC~@WfAeDRWtA`HzGb@|Bk@`GbDzEaAhFmFw@mBpBVzAvCvEmCDh@pCwAx@DdBfDdB`@hGjD`DrArDxFxDvFhAdKgArClFpFk@rCdEdEApCuBfBp@j@~B~CdAdBa@`CuFuF{FH{DtAqCvGeBlCgCtNSlC{CpFeCpEZ|EaArH~BtHq@hBfDvAj@nLc@jCcFrDmBjAeHvNeSjE_B~C_Ma@mD~JaBMaC}BKiCwEyDhB_Ak@n@wBo@_ChAgMmAoBWwHeAeBuGeAe@mAv@}@`Ho@~DqEvDxGjHs@dGyFHcDvB{DNqBu@qAwGiBrAgFe@iFtGoB~CoIVwGdBaCj@cFlF}CrFQx@gBEiKuH}CvHgCPkB_IkHo@b@QzDsG@",
+"average_heartrate": 170.4,
+"average_speed": 8.441,
+"source": "strava",
+"streak": 6
 }
 ]
