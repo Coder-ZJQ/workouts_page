@@ -19573,5 +19573,20 @@
 "average_speed": 7.927,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 10181873278,
+"name": "Zwift - #8 in Innsbruck",
+"distance": 24348.9,
+"moving_time": "1:07:30",
+"type": "VirtualRide",
+"start_date": "2023-11-08 10:19:10+00:00",
+"start_date_local": "2023-11-08 18:19:10",
+"location_country": "Rennweg, Innenstadt, Innsbruck, 6020, \u00d6sterreich",
+"summary_polyline": "c~o_HuupdA~CFrSbBVIL]AiAiAkMc@}CAo@FSXSnA]vBa@n@JnBdA^B\\URi@RuAz@_MPa@fAg@XWjAqBxB_FzA}FPGtDt@VGNYFqBQkESeCJk@h@c@bHeC`HaEbAaAtCmDT_@P}@LKxAIjGoDpQuEn@{@b@]H]?u@s@{H\\gHG}BgAkIcAyD_@wB}AmM{BoYKiEDyENkCTyAVy@`AqBVmABuAQcG@kAXKV^\\pDv@xDl@tBTZ\\J`@KRYHc@?e@[iEAoAPwBf@iDx@wDx@_C^i@x@OTQZk@R{@Ds@GcEWqKW}BcBwJGaAJmAt@aChBgEf@a@|ACpE`AjBt@fBtAx@dAp@bBfDfOvAzE|@zAhA|@bFbBzBvAfDxC~AlCt@p@bLlEhDtBnI`HHn@KjBJVn@GlCuAh@AhD~BxD^jRdGx@d@`CvBbAh@rK|BxA?bF}AvBMvCXvD~AfBfAvBpB`BnBnArBnAjCz@`CxBfJhAzDpAhC|AlB`CfB`DlAjMnBvDbApAt@`CnBjAvAL\\?`@Wz@_@n@e@^_HbAeETqDnAiBpAkIzHaCjBmA~B_DVw@b@sCzD{CzB}@`AcBtCiEjI[d@aAx@sBn@_DVwBAyCi@e@Dy@fAsDvIi@fC_AhIWdAe@p@wBt@{CJo@b@iBpBiAf@uAX{AFwEuAa@A_@V{CfFaEdFcAx@}CdBYAoB_AkCDcAk@e@OsDm@_@WeA}Bc@UwB@c@WQw@@yDKy@Wq@y@sA_AeAeAw@uC}AqDkCeGaDcAOgA@oBVkA`@]b@g@~AY`@w@x@y@b@yA?qAs@iAqAq@yBy@sFeBiOyAkHq@oHa@oAsAi@y@H}GxA_GfBsDhBqBxAc@dAGx@n@fMlAzNpB|]h@pEz@bEr@bC@v@KXgA`AoDvAuDt@iBIa@Jw@r@_CvDoAr@iJjBgGKsAJuJhDeMxCQf@Bv@ThD^v@ALeChEGf@BfBGd@_@p@_CjCuGfLSRGCI[J{BAaAc@_Fc@qBk@s@mCs@o@i@w@wAuB{Ey@_Ay@[}AF]IEWDy@l@}Cl@e@~@mAb@eAAk@[kAw@sAqAmA}LgHwAkAq@{@{BqF{CeF{@wBkFsQg@mCM_CH[h@@dErCl@~@jPx[hB|CbCdDvB~BpExD|BpA~@`@zCFdT`BVUB}@",
+"average_heartrate": 160.8,
+"average_speed": 6.012,
+"source": "strava",
+"streak": 8
 }
 ]
