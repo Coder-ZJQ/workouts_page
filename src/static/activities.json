@@ -19618,5 +19618,20 @@
 "average_speed": 6.202,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10210745373,
+"name": "Zwift - HWBTWTDWH in Innsbruck",
+"distance": 30728.1,
+"moving_time": "1:32:53",
+"type": "VirtualRide",
+"start_date": "2023-11-13 11:00:23+00:00",
+"start_date_local": "2023-11-13 19:00:23",
+"location_country": "Emile-B\u00e9thouart-Steg, Innenstadt, Innsbruck, 6020, \u00d6sterreich",
+"summary_polyline": "{co_HqrpdAP_@CqAmBsSf@i@hE{@xCrAz@Sd@}B`AoMdBgApAwBzBaF~AeGvDn@p@UJaBe@eJHo@h@e@`HcClFyCjB{A|CsDv@mB|AObHyDxPsERF\\~@~@`@fAvJzAtHpClUz@tCtAzAxAp@lAC|BgB`AeCd@a@rDm@bCPhHzDvCzB|CbBzAzA~AvCHhAEzC^hAhDTpAfCj@^bEp@fAp@dD?xB|@fAe@dDcChDiEbEoGt@B`EnAxACfD_A`DyCvCK|By@^g@\\mAbAyId@}BrDsIl@aAl@IdDl@jB?|CWzBs@|AcBnHcNnEoD~CgE|@_@vCWjAeCrPoN`EsAvEW~F_AhA}ATyAQi@uAcBgE}CiEgA{LiB_DmAcCgBcBwBeAsBmE{PmCoGuDaFqBgBsBqAgE_BsCQ}BT}DrAcBD_LgCsFcEcR_GcEe@{D{ByDbB[KHgCQe@kJwHaDkBwKiEiCsD{DkDaBcAkFiB_Am@q@eAw@yBwEgS_AwBq@{@mBuAkBs@oE_AgBFi@l@gB`Em@rBQvAHxAzBjNV`Ss@hB_ARq@|@cBfGaAjHAhB\\hEAp@Sf@a@Js@u@wAkG_@{DUa@]EQb@J~K]pA_BhEY~DEhFXzH`C~XxAxKvAjGdA|HBrC[tGr@dICd@q@|@Gx@Tn@`A`@N^v@zIxAjH~CxVt@zBrAvArAn@nACz@a@bAeAbAgC^]pDo@dCNhHxDbDdC|CdBxAxAz@pA^fA@|ELp@TZfDPlAdCl@`@~Dn@fAr@`DAfBz@d@?fFiDrDwEtD}Fv@D~DlAxACfD_AbD}CpCGzBu@d@m@ZiAdAeJb@qBpDsIp@cAf@IfDl@jB?xCU~Bu@~AcBxHqNhEcD~CiEv@[xCWhAcCrPoN`EuAtEW|F}@|@_Af@cBQ}@gAuAwEoDeD}@aNqB}CoA_CcBaBqBqAiC_E{OqC}GkDyE}EwD}DcBiD[wBPsExA_B@mK}B_GiEeRaGyDc@qD{BaAHoCvAWMHaCMc@uJcIoC_B{KgEy@w@eBqCwCiCyByA_HmCyAiCcBmGeCcLmAuCiAmA_CsAuEmAuBOm@Lq@bAkBtEm@xCFrA|B|NXhNAtCo@`BuAb@U^u@pBw@jDo@xDSpC\\fHEf@U^_@Dq@u@}AgH]mDWY[BMpANvISnAmAjC]rA[`FCxENpEzBbYzAxLbBxHfAjIDnB]`Ir@|HGd@k@n@Iz@Zz@~@b@",
+"average_heartrate": 168.6,
+"average_speed": 5.514,
+"source": "strava",
+"streak": 1
 }
 ]
