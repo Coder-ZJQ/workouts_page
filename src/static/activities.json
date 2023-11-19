@@ -19708,5 +19708,20 @@
 "average_speed": 4.957,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 10245601516,
+"name": "Zwift - Uphill Battle in Watopia",
+"distance": 30040.3,
+"moving_time": "1:00:25",
+"type": "VirtualRide",
+"start_date": "2023-11-19 12:06:17+00:00",
+"start_date_local": "2023-11-19 20:06:17",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "hy_fAyubz^f@jB[zD{@tCTnApBx@tA_@fBZhAoBjB_AVf@H~BvB_Bl@HmAtCzA`C`AcD~AwA}@_BDqAaAsA`A{CrBa@nAr@XjBc@dBrArBn@Yb@qCbBa@|B_Ca@sAmC}@b@_CSoAuD{AxDeBPu@[U_Db@Wc@T[hD]`Dh@TXQxAr@hA~Cz@n@w@kC{CDm@n@IjAt@|Ai@fA\\\\QL{Ad@G`B`EjCe@tAvDfBz@`A`B~Gu@v@s@dC{Eb@aBmCoG{BqAgCh@aCc@gBVeAoAkDo@dAi@xDd@hFiA~@g@IcAiCk@iDvAwH}BnDwBrC[jBqCbE|@zCKlC{@dD}CrCp@SvGjBExDcBdB|BFhAaAnAwEMQnBl@pEiAdDbAbDbAv@t@e@QkCp@s@bBWvBlAZz@oA~@\\vBmAbCZr@z@Dn@i@XyAhBgAf@}B`EC`Aa@XoCq@gAR_@~AJrAxAnEcDLyB{BiBe@iBNeAjAsAdBk@^qCj@}@tLaH\\oABqDtEaBf@oBQkDdEqErEGvGzC`Fe@xFdFdAe@fCgGlFi@`DuClCJjEkArHhD~D@nBoC|@sJvBiCdEeAtElCrAEt@gA|@aF`ByAv@iBrDwBjISlBaDpFhA|@uDn@_@fAJ?fBjCpAzD_@vDqCnFjAn@k@JkA|A_AhC\\rDcBbA`@DzC~@TxAm@xDoEjAOdAn@rBbErCb@xCxB?d@iB~@gAvBdAtH`Jr@b@~CbEVpAvBp@AjCgB|Dz@j@|@f@jDfCR`Ax@zIrVvAO^uAuAsCDiBeBu@M_AzC}B|CFZlAcBfFK|ClM`PPfH`@rAxBx@bIGvGtBrHeA`D`EnFnDr@~Dg@nFrAlA`@hCQv@{Az@cDZLzOvDr@HlJZ\\zGATiEZSxHzGJ~@Wh@wGxAa@|@`@j@xGrB[lCRrGaAbAkFP}EpCc@~@KdDkBrCUnGgD|Iu@h@gDFo@p@d@nFuA|C@bA~@x@zEt@p@lAMjB_CnEOjD}EnEwGbAu@Qs@cC{A_Ce@GcAh@sBdD}Gl@y@n@N~AxGhAtApBRtHlAjBiAnMn@tBs@hAFp@nAl@dDiBrAzCfAbA~AEh@tAi@z@{IfAMj@f@dCcDhMiEvA_A`CmLvNwAvHiD`BcBbEgBz@aJJ}Ak@y@iCg@[yIl@oC}AoFc@}BbAuD]eB\\cFvCcBrBeNLaC`C",
+"average_heartrate": 156.7,
+"average_speed": 8.287,
+"source": "strava",
+"streak": 7
 }
 ]
