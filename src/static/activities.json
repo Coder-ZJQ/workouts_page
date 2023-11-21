@@ -19753,5 +19753,20 @@
 "average_speed": 6.59,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10256103920,
+"name": "Zwift - C.A. in New York",
+"distance": 26774.2,
+"moving_time": "1:01:18",
+"type": "VirtualRide",
+"start_date": "2023-11-21 10:40:42+00:00",
+"start_date_local": "2023-11-21 18:40:42",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10021, United States",
+"summary_polyline": "sk{wF~smbMhGxAvCAd@f@|AzDfApAzA`AxBXPtCqAzHL~Ek@|BuBzBy@b@qCg@cJL_DwCwD_HiK{LsBiAkDNw@Q[]_AoC}EeFyBe@{EpAsAJuBg@yBwAaCkDmAmFiAoBmAa@uEWc@a@}@_Co@aAsKgGq@}@mCuJzBoFNeACwAi@kBqBgEEcDKk@gBeCiAsCiAGy@hAEd@JjAnAfDMlAo@h@s@EqDwD_D}AcAWw@XsCxGsA~J@z@b@|@fAt@|@Bh@O^a@v@oDn@y@~F}@pA^|AdBdBpG~@x@vBrAzBzHj@fAfL|GdCvEpFd@|@ZfAnBlAlFdCnDrBpApBh@jBKrEmArBd@|EfFz@bC^d@fARvCQtBdAjK`MtDzGhD|C~IQbCf@pAg@nBuBj@iBFcAQoDpAaIBgCPw@\\g@hAQfDpAx@`ArBrEjEzCzAzBDbBwArF@fAZbAlCfDxI~E`@~@Bz@YrBkA|Di@bAk@P_Ak@{DoEmGcFgAiCAcATg@lFb@pDoClBKtAeBhAl@p@fA@|@Sz@mC~Fc@~AAnAh@|CAj@sBlB_ApC[jBFdAf@|@|E~C~A\\hAMz@u@pAwBdBiFzEoQrEeLHgAc@{AoAmAeDoBoA]}@B{A`Ca@C}AmC_@We@?_BnA{B`Gi@p@wBPcCpB{@XkEe@YVGnAt@dCxA`BhG|ExCvDD~@c@dAyAt@y@KcBcA}ByBuEwGyBaC{LoFy@oAsA{Da@k@oBa@eHXsAg@{BcC{DcHsJeLaAw@}@[gDN{@QY[}@mC}EeFaCi@wEpA{AJuA[}BqAoCsD}AiGeAcBuA]kEWeBmDi@s@qLeH_D{JoD}BcBoGe@}@u@q@aBi@cG~@w@bAy@tDo@`@w@Bs@]m@m@UcArAmKfAaDtAgClAA|CvAfEbEv@Nr@c@XwAGg@cA}BO}A\\gAz@Yp@b@fAxC~A|AxDx@lFA|G|H|EzCrA?tBmAlA[xFXrA\\d^~U^|BY`EFnAt@|C~@jApSlPnG~AzBEr@NlBnElAzArA~@lBJVRPlCsA~HC`ARjCK`Ak@|AkBlBy@b@yCg@uIP{@i@gBqB}DaHmKaMiBaAiDN}@SY]w@cCeCwCgB{A{Ba@aEjAaBP}A[uBkAeAcAuAyBqAsFgAoBaA_@qFc@eC{EmKcGq@u@qCuJPu@zAyC^cCOkB",
+"average_heartrate": 164.6,
+"average_speed": 7.28,
+"source": "strava",
+"streak": 9
 }
 ]
