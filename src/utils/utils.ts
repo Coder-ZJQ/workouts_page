@@ -251,7 +251,7 @@ const typeForRun = (run: Activity): string => {
     case 'Indoor Ride':
       return 'Indoor Ride';
     case 'VirtualRide':
-      return 'Virtual Ride';
+      return 'VirtualRide';
     case 'Hike':
       return 'Hike';
     case 'Rowing':
