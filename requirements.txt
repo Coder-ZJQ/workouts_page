@@ -24,9 +24,11 @@ numpy
 tzlocal
 fit-tool
 haversine==2.8.0
+garth
+pycryptodome
+
 
 bs4
-pycrypto
 html.parser
 aiofiles
 # if you need to import kml file

@@ -19858,5 +19858,20 @@
 "average_speed": 7.308,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10300792199,
+"name": "Zwift - LOX in Watopia",
+"distance": 31659.6,
+"moving_time": "1:44:15",
+"type": "VirtualRide",
+"start_date": "2023-11-29 11:46:35+00:00",
+"start_date_local": "2023-11-29 19:46:35",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "heefAov}y^zCfFrBlBlErAvDxFxBpA|H~@pE@jNeE`CUpG`BdGFVf@K|A`@\\zBg@xCv@Nb@S`@eDVc@lA`E|C|AfCf@zBm@dGzBlBh@lBi@fBLtA_@h@_APsDeAkBjBHlAbCtB^lBQVoA_@m@Xj@lCuAv@@dBhDfBBvCb@|BbDpCrArDjDvApAdB|FfAjBw@`F[hBj@`@hCx@dA`@F|C}@r@Hb@h@OzCcFvZzKhNpAvCjDtCnArD^lCSDa@sB_AaByBeAuE}@}CaEeG}E_@EM`@bDnCTtAYE]mAaCaA}BsBk@U]NDf@lExDfBbCz@`CWFOkA_A}@}CwAo@TQfCv@rEWvCTlC{@tDo@rIb@LXWL}Bv@mCxEwBp@oAPR{DnEa@|@[bG^vCk@`Ae@V_EGmEs@]ZvEhCrBf@`CnBnBIfA}APFyAzBgCv@iCaBqCMgDaA[XfH|CtDfDfFKnBoAxADEToABcBlBaFhAuCc@iE{Ck@DBf@`I`HnJ|@bC{Aj@{@RJgCrDkAl@mJ\\kDm@c@Ll@hMpAlC^dDq@ZkBaAaCn@sChFmBnFuEjGOr@d@\\`AuApDqB~FsBnAI~B`EeCk@kCh@eJxHGl@f@FnBuAxC?xFlF`FfB|DzBrFh@b@Qr@gAC|Cm@~@{DjBoGz@M\\RVlH~BrGv@tCElCmAoEdEwExA{PfBqJ|BM~@n@f@zD_AnG^p@n@NrAOdAgDdCmDp@kAc@e@{@yAuGJoA|J{BpPgBxE_BbEwDIYiCnAgDBoGy@aHaCD]vG}@vDmBj@y@AqD}AxAoFi@oEeCcEwAaGqFmCCqCxAMY~I_I`Co@`Cj@XKeCeEaABiGrB_ExBs@jAY@E]zE_H`G}MpBs@hC`Al@g@g@yDoAoCOuH]cBNY|Dl@lJ_@tAu@~BgDE]]FyBtB_AT_JcA{HoHZK|EdDhC\\hFkA~AiB|A[_BYqBpAqFDkDeDsGcCEYnD|@~CPfCzA|Bo@dBeCQUuA~AcBFcCoB_I}CF[nDj@tEL|@_@h@y@_@kDZsF|EiGC_@]@u@lAiEjBcApCM`Cm@Ft@wIv@_DSgDTeCy@}EN{BTSv@R~ChB`@zAZHH]y@yB{HwIz@F`CtB`C|@VdA^LL_@[cAaDuCZIrGfFhCpDxFpA`Bx@|@~A^nB^A[qCgAmDiDwC_BgDsKyMAeAjAeF",
+"average_heartrate": 159.8,
+"average_speed": 5.061,
+"source": "strava",
+"streak": 2
 }
 ]
