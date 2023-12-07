@@ -19948,5 +19948,20 @@
 "average_speed": 7.523,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10342271806,
+"name": "Zwift - Bricolage in London",
+"distance": 47119.0,
+"moving_time": "2:08:55",
+"type": "VirtualRide",
+"start_date": "2023-12-07 09:18:51+00:00",
+"start_date_local": "2023-12-07 17:18:51",
+"location_country": "Tower Bridge Approach, Tower Liberty, Wapping, London Borough of Tower Hamlets, London, Greater London, England, E1W 1LE, United Kingdom",
+"summary_polyline": "}djyHz`NvAoFj@B|GpDF~CbE|A`Bu@j@_DYyCoBwDp@gMhDp@K|Gr@zClAfBbAaB^kGh@gBbBcCxACnCxCnBrIZvFOxRv@dD`BPhE}JbBi@xAlAvAvCn@fLfHW~AfEp@xHXbQyAvYBnYHxCpBdJAlI_B|DmCQ_D|@oAiEAsL_@k@wWtRwF~FwIzO@l@XJjKcLjEsAr@f@Cl@kG`FwIvRqD`MPdGdDFfHiDlCMjCfEr^zBbAh@jClErFmApAaCT}EeEw_@bA}B`ADnCrPx@l@p@}@gB{Vf@}Kl@yCdAaB~FcA~BlBxAjKS|CeC~D]`Bh@tWlCmAnAv@pCpKtBlDhXzIjEzD\\qCN_TxHsEbCsK`AuSSgTn@{JQuIVqDeBgIyEmEMcIp@qOcDe`@sCuPAcOs@uKeLgk@yFaf@u@mCaAe@cErByBnEcAd@cNkKeAGaCxEEzKgBjF_CjAmEAaDaB_EiE{@?_BnCaB|M}AbBsBu@}HsIw@J{@lBqAjGZtP_@pDiA~BqC@yAdBy@vBc@bHy@fBf@pOkApHgAbQaBjKo@`VgB`EuBfV{Hx_@g@vPVxg@x@jHjD`HdBd@~Ew@JcHtDeMrIkRjGcFEm@{@UcE|AsKzKEyAxIwOtFyFhGoDhOcMh@`ABpL~@lDzHe@vAoEAcHoBeJOmE@oYtAuXWmPm@iHwAyEcGh@w@e@_@aKiAsC_BcBmBb@cFnK}@Q{@oBCmYaAeHeBwF~@qIYgQjByIp@cAv@@dI~IzAh@`BmBzAuMbBqC~@AhIjHfHOxA_BbAoDFiLzCcFxO|K~@g@zBqEnCaBvAArA|C`G|f@jL`l@l@fK@pNpCpPdDh`@q@`ND~Ij@lAlD`ClBpIYdFRjHq@xKPjT_BfWkBlGuHlEItRc@zD_FaE_XwI}B{DqCqKsAg@mBlAa@m@]cWd@kBxBeDRgEeB}JsDeAkEzAeB|HSrIbBxUs@jA{@_@mCwPo@YoApBEvApCvQr@jJUlFyAhCoFjAiCcEmAs@aa@mBa@}@`@iBw@s@eCJkIvD_Lx@qBuAwCsGm@qFYye@XoPbAcJfGkXtBmVfBcEh@kU`BmKhAkQnAeIo@kNfAsCh@oHtAoClAw@nDbCtBrHh@fHOlSp@vC|Ab@|EqKxBItC~El@|KfGa@lAz@fBtORxPyAdW@xWJ~EjBlIP|DIvCoAzDmDBaDl@}@gDCaM_@q@oYhTmExEmItODj@n@SfJaKpDyAnAPQbBeGxEiIbRcDvKCpFd@dAvB?`IsDtCGnB~D",
+"average_heartrate": 166.4,
+"average_speed": 6.092,
+"source": "strava",
+"streak": 4
 }
 ]
