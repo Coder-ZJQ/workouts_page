@@ -20038,5 +20038,20 @@
 "average_speed": 6.851,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10388784811,
+"name": "Zwift - Malevolent in New York",
+"distance": 27398.3,
+"moving_time": "1:00:43",
+"type": "VirtualRide",
+"start_date": "2023-12-16 11:55:46+00:00",
+"start_date_local": "2023-12-16 19:55:46",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10065, United States",
+"summary_polyline": "azzwFx}mbM{AyDc@m@m@OaCDyGeBwSyPq@eAo@sCEmAX_EKiAY{@{XeRiEcCqHe@yA^eBfAuA?uEsCwG}H}@SeEJ{Ck@yBuBcAsCaA[o@Xc@|AVjBbA`CAd@[`As@XWGeEeEcD{AuAG_AnAgBtEsA~J?|@\\z@hAx@|@Fj@O^a@x@uDr@y@zFy@xAb@~@|@^t@zA|Fh@j@pCdBpBhHj@pAhL~Gj@r@zAfDzFf@v@ZbAhBpAtFfCnDvBnApBf@hBMfEkArB`@|EbFdArCb@b@n@LrDOrBnAnJ~KhEtHlBrBxAj@lGYzBRj@n@jArDz@zArBlAtIjDdDvDrDlFhEhDpAPjAo@l@iACmAWk@_EoEwGsFaAcCCu@Nk@d@IdEh@zDqCjBKr@aAbCiGvAy@j@PtAfCb@Z^QlAuB~@CjA\\jFrDb@|@AjAs@dCqDnIsFlSeAtCyA|By@f@cAD{Aa@cEkCo@cAGk@ZaC|@kCrBmB?iA]qBGqAh@sBhC{FTqAAi@{@wAiAm@_BhBoBLwDnCmEg@]NMnAPhAr@|AdHxFdErEp@Tl@Wj@kApAsEPiBOiAe@w@sIyEgC_DSi@GsAvAmFAmB_BiCeEqCgCmFu@w@iDmAmAX_@h@Ox@EvCoAhHNrEIr@i@zAgBjBqAj@cCi@cHXaAK}CyCaEiHcKuLmBcAmDNs@O]_@w@gCeFmFcCc@yEpA{AHgBi@sBqAeCqDsAwFcAcBsAa@oEWc@a@cAiCy@cA}KsGm@qAwBoHqDaCgBuGyAgB{Ag@kGbAo@|@{@vDo@`@w@Bu@_@k@m@UeAjAwJjAkDzAoCpA?pCpA~@n@lCvC~@Lt@s@LoAgAsCSgBh@mAdAM`@f@x@`C`BxB?bCNnApB~Dd@zAFlAMnAmBhEOp@vChKt@z@hK~FbCvE~Ff@n@XfAnBlAlFdCnDtBpAnBh@lBKtEoAtBj@vE`FrAdDfAX~CQr@PfAx@~JrLdEpHxClCfAHhG[nDd@~@g@nB}Bl@cCO_FnAmH@aBM_Ak@]cBKqAy@mA_BkA{Cg@u@uDKqGcBaTeQu@cBc@aCVcFE}@UiAm@m@oXuQ_EyBqH]yDfB{AIqEwCsGwHy@O{DLsDw@aBaB}@eCe@m@oAJe@x@Gd@VrBbAdCOlAUZu@NYKiDqD_FwBeA^kChGuAnKFdAb@p@nAt@lAIp@s@n@eDh@s@fGcAx@NlBfBlB~GpDbC",
+"average_heartrate": 164.6,
+"average_speed": 7.521,
+"source": "strava",
+"streak": 3
 }
 ]
