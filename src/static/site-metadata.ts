@@ -19,7 +19,7 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://ben29.xyz',
+      url: 'https://jqz3.tech',
     }
   ],
 };
