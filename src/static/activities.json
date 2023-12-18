@@ -20053,5 +20053,20 @@
 "average_speed": 7.521,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10394129244,
+"name": "Zwift - Circus in New York",
+"distance": 25374.1,
+"moving_time": "1:00:11",
+"type": "VirtualRide",
+"start_date": "2023-12-17 11:05:17+00:00",
+"start_date_local": "2023-12-17 19:05:17",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10129, United States",
+"summary_polyline": "iu}wF`xkbM|FtE|IzFfEnBvNvElB~@z@z@`@`AHlAObCc@~C_@h@c@JkC_@k@Fk@dAUvA@^Vt@fCbBhBnCXdABdCd@v@hA^bEj@pBM`Be@b@o@hCcLj@wAlBuArBYvEnAvFxCpLzH`JdHfBtBd@`BYvAsBfC[x@Fr@bBbGC|@o@nDSnC@n@V^|Ev@p@YjCwBhBKr@{@dCoGpAy@p@PpA`C^^h@O`AoB~@KbBf@vEbD\\h@Nx@U`B_EpJ{GdVsA~CyAfBcARaBYkDoBoAsAOg@ByAxAyEbBqAJa@g@gEDuAp@qBtBwEVoA?i@_@_A}AkAWFiA|AoBNwDnCeD_@}@[ImATuCj@}CB}@mAmE[_BZaAvBqCP}@G{@_@aA}BiCaJaHkLuHoG_D_E_A_Cb@aBpAm@`BkCjLg@^}Bd@}A?_MeC{EuBkEsCwXiS}HyG{Bk@]{@?}ANs@r@]bFe@d@Yz@oA|@g@l@KdAPvA}Br@c@lHnE~C`BzOfFxCzA~@jAZrAElBg@jEYh@c@V{C_@k@Jk@hAQxAB^Zp@fCbBbBjCV`A@rBPt@|At@`Fh@vBUhAa@j@uAtCyLjAoAtBs@fBHvDnAdMlHrOhLvB|Bf@lADbAI`@gCdDUz@jBnHq@dFUxCBn@Z^vEr@j@UjCyBrBOn@y@bCmGtA{@p@RnB~Cf@MdAsB|@IfBh@rE~Cj@vAM`ByEhLsGzUk@tAwAvBw@d@aADqBo@cDqBq@{@OsA\\yB|@eClBcBBeAe@oC@oAj@kBbCsFLc@DoA_@}@wAkAk@R}@rA_CVgDdC}Ew@O_@@g@PoCt@_FMgAyAuEAg@Zu@jBaC\\qAIu@e@oAcCiCqJmHoK_HyFsCsEiAw@DoA`@_BtAe@pAgC~Ke@n@wBd@iBDaMgC_FuBaFeDaXwRyHyG_Cm@[w@@qBNe@^SzFo@vAaBbAk@r@Kr@RVMpA}Bh@Y`MjH`PjFdD`B|@jAXpACdBe@jE[n@c@X{D]w@pAQjBX|@dC~ApAhBp@bB?tBJl@^b@x@Z`Fn@tBSzAi@f@sAtBqJb@oAhAgArBs@dBJzC`AhK|FlIxFjG|ExBvBt@~AF`AG`@mCpDQv@d@tBdAzDGfAm@hDQrCDj@XXvEr@n@WhCwBpBMn@}@fCmGt@m@",
+"average_heartrate": 162.7,
+"average_speed": 7.027,
+"source": "strava",
+"streak": 4
 }
 ]
