@@ -20113,5 +20113,20 @@
 "average_speed": 6.633,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 10414529533,
+"name": "Zwift - Melange in Watopia",
+"distance": 48466.5,
+"moving_time": "1:59:25",
+"type": "VirtualRide",
+"start_date": "2023-12-21 11:14:45+00:00",
+"start_date_local": "2023-12-21 19:14:45",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "ft_fAao~y^kBaHn@{ClI{GGcA_DkDdJk@Vn@c@tAkAk@HaHt@oA|C|J|Ad@XyAeCuLzGiAjKuHzLVdDlCTjD{DtFArKoFo@yEfEmUbEaAjDd@~DvWuDdZhG|@eArBgJtPoBLm@o@OwKrAeAi@z@qAtMiCiH}OD{C`BkAjBv@rF~NtKSt@yAFyJzCeK^kE[ePgCEsN~DqBiIh{@_UxF_CpBoBzCnChA?^oBsB_C@aCmAkBHaAvOmErP}AzOfCfJ`GnFjIzBdAJzIr@dBxBAjCaBt@gBSoEp@gA~@Gx@l@dA~NdAtAxBV|@k@dA}DeAeFT{GiAwO`@qBxRUv@x@TbFdEjAdHiCv@cGrBkEhIsCdQjLb@pDhElAnCdEK`F~DrGYpEiC~Et@fJuGhEkDwB{B`Am@bDsBzBpDlFG|CsArDgDrBiS[_CwE{F@mEgBwAcEE_DeAmAyLcAoBn@wFjH}CvJp@dAcAnHl@xFlAjDhEbFsAvGoJtFgJQoBtAKfCnD`AxDkFrDs@vHqEvAyHkEyEiAaDm@gG`A_Hg@e@mCvJJ|EeDtBaBzHoCfGyBtAw@c@v@kHc@kAwACeCbCkCpY{@b@qAUw@kDKeJdAqIeBeDsAh@iAzCBtOyAjFiAt@_EaF\\gEpC{GKeAcBUyAx@uBrEkAzKeAdCiBwCvBoIW}AgBJuBhByXqGaAmBp@gHu@cAsBhCe@pEw@Pm@gG{@c@y^gGkMXeFkNyAkA}APgA~ADtBjH`PkM`CaAdBjAh@fMaAuNpBQx@xJ@pCp@`@pDfCzEyCpChAvCxBt@cDp@`AfAUr@aDq@iCn@yG`H_BrKh@bPeAvHcBGsBoBs@{CiBq@_FhHgCg@sBvAuA]_AuDjAsC`DoArBRtBwB}BoDkGnBgGq@qDf@uD~B_EhIrCrHzAK`AqBhCq@lAl@`@lJiBt@Q~BdDfD~AVzEiBxCj@vDkBx@gCjEkFOmEoEiJ{HgBgJl@qCfAwClEhBpKnCbBdBsBbIaB|AvBdEJb@}EkCoFiD_B_EIkC~@_CfCK~CxAjE`DfBfCNlBu@`BaDu@{EiDwAuDzAUdDfCvC|Co@n@cDiDuBqCbB`@}BnEa@jCbDH~BwAlCoD~@uFwCeAyDNmCzFyDhEF|CxAfCbFe@bF}DUcBqBaI`BeBlBaCeB{AqKrC_EpDeAxIa@xHbCpDxIDzDsElFy@`C_EdByBq@iFhByA[yCaDPwBfBw@]kJyAy@mCr@y@hBuARoCeG`@{BrE{H{G_VnB{AxD|Bh@i@cFqLsN{F}EkGm@iDPwB",
+"average_heartrate": 164.0,
+"average_speed": 6.764,
+"source": "strava",
+"streak": 8
 }
 ]
