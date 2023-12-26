@@ -20173,5 +20173,20 @@
 "average_speed": 6.676,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 10434328623,
+"name": "Zwift - Active Recovery in Watopia",
+"distance": 53171.7,
+"moving_time": "1:59:36",
+"type": "VirtualRide",
+"start_date": "2023-12-25 10:54:40+00:00",
+"start_date_local": "2023-12-25 18:54:40",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "pnffAw||y^~Q}ExOhBf@`DhH\\c@jAsDxAlFjE`F`KlCh@`AiEdCQ~CjBl@pChUzHlHB`C`C`@zC_AnAuCEa@pCsHViIqCuAnA\\bJpCfCq@fDnHrE|HcBhAgGq@wBhAu@xBJfCfCjBqBtCnB`Eu@dFnBn@~B`HRbF_@tIqGpKw@~I`C|Im@rDnEnJKlB}@lGcH|A_IlNwRbEsAbDiM_@mDlKmCi@}A}DoAy@gC}DfBaAq@@oFhAgMmAkBUsH}A{BoGaAMaBlImAtDsEfF~G|GcAbFwE`DcNs@yA_HsBvA_Fe@_FpGmBdD}ITqGhBkCh@}EpF}CpGs@ReMyHkDrI}DkI{I{@|EcHCMwJyD}@SmNtGoDsBaFh@cFo@cEeLaKeHdAcHwBmLc@y@eKmMaPnB}J_@uA_DKcD`CvBhChAxFiBtA}IyVkEiAmAeFiE_AkDlBiBaCsDMk@cD_Jw@{@gHhDqFqHwCsEsF{HpGiA_@AwC_B[}CbBgC]wCvDiFkA_EpCmE^oBkAcA}BcCzEaFmAeChDgIP{HhHeC|H_HoC{FrBqAzB}@zJcBlBuDE{HkDwIbAmDxCaFd@aElH{FeFsF^_LiDuGhFoFh@yApC`BpDvD_@hAoBCyE`GaFbLhDbFe@bGhFbEkHhFi@nDyCrI_AvHhDzDBfB{Bv@_JrAgCvFqBbHjCjCiIfHwGpIUfCgD|ElAlC}EzDhE`Ec@pDmCtFhApCuDhC\\zDcB|@b@?pCnAZ`IoGlEvFlHxCqD~E~@pH`Jv@j@dDxDN|A|BtDiBjE`AbA|ElElA|IvVxB_BiAwF{B_ClDgCvCZaBbMpMfPx@bKrLf@xGtBxHcAtK`K@bLtBxEuGlCNtO|D~@VxJ~GF~@_FnHvGCfB_IpC|HlDEpKuGtAaGfDi@~EeBbCWvGcDvIqGjBb@hFuAfFnIfEaDbNyEjEeH`A_F{GsDlEuItAPnBnG`AvAnBTxHlAdBYvPi@pCjAj@nDgBx@fCbEtA\\zAeKxBZnDaDdMkE|A}NnScAxG}DxB{AzDqKdAgCk@mBmDeIn@oHaCsLf@}J`H_OTmBxBsHrB_BpIxF~F_CjF}Fg@i@{BkBu@oCrB{DF}CiEsFf@qCiFgKdAoFcAuFsDuFaIm@aHoD}BzAeCo@_CpCWsD_HbBsB~DbAbB{@TaF{C}DPoBhAe@jEfBnAqEdCM|ClBj@nCdUzHbIPxB`COjEaD@_@pCiB^_QeCw@dAZ|IrC`Cc@jEnH~DvHmBbAwFBuDjCH~BfCxBqBtCpBrDy@tFtBYtEkKnE",
+"average_heartrate": 143.7,
+"average_speed": 7.41,
+"source": "strava",
+"streak": 12
 }
 ]
