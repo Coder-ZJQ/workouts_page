@@ -20188,5 +20188,20 @@
 "average_speed": 7.41,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 10439008771,
+"name": "Zwift - Mosaic in Watopia",
+"distance": 56707.9,
+"moving_time": "1:55:19",
+"type": "VirtualRide",
+"start_date": "2023-12-26 11:08:33+00:00",
+"start_date_local": "2023-12-26 19:08:33",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "xq_fAazbz^jG|Ds@xMfHr@|DoD\\dDdDwAkAvCbB`CzC_G{ByF~@aDdENGxErAlBnAkDbF}CmDuCHuEoDsAhE_DsDPKaAnIJp@vD|C`An@eAeCwDvHVp@sBtBfEjCe@|FpIpIcBlDkIyCuG_Ne@sFaCbNiAz@mBoCk@yCxA{HkBjLyHtIr@|IyEpBl@E~G`IuAhAnCcAhBgFNh@vGkA|DbCrEtAcF~Er@u@~B\\zBkArBp@dAfGqI~Fc@OoFjE|AtFcCIzC}Bx@lC~AiHfDm@~HdB|HjFjGGlLkv@`TfCbIlOcEzBj@EzPyDvOElLn`@pHnA`HlEoJd@dMpYlHgCbSXjEpE|GnGjC`GrHxPtAvQ}ExObBv@fDdHVQhA_EfBfF~DdFdKfCj@hAmElCKpCdBl@rCtU~HpHH~BnCExD}CBg@pCmBh@_QiC{@rA`@|IhCnB_@nEtH`ErHoB`AwFAqDrCFvBbCdCmBnCnBxDw@nFtBQlEsHpBkChEDtEfFdEsA`F_Dz@sDcEmBo@mCtBeE@qCeEiFl@uAgEmBq@_JpAcF_AqNwNq@cHqDaCzA}Bk@iCnCQsDcHnBuBtFp@x@yF_DmENuJmHqHdE_B@wAsGOu@gDuOgB}R|EcPwAkGyH_G}BwEgHrBcYyYwHk@eMeEnJqA}G_`@aHA}LxDgPWoQkj@vKwKgJoFo@gErBsF|I_VnDoHxEyBqBU}E|DmJr@iI}@_JcE{H?{DjAsBjI^tDmD\\bDfDsAiA|ChBtBpCaGwBuGhC}C~Bt@KtExBvAb@sChFuDoDaCD{EmDqAfEaDaEg@nIDz@~D`Dz@j@}@kCyDhHTdAwBrBhE~Bq@`GvIhHu@zEiJiCoG{BsAeRwAnN{At@_B_Ds@uCtA}HyB|HuCjBoCzIn@zIyEtBt@QrG|GkBlBbC}@rC_F@f@dHkAxD`CrE|AgFvEt@s@`C\\rBkA|BrA`AfFqI`Gg@KoFzDbBbE{CNiCuB{A_@gDzDmCdAkErM{IyAkJqG}@]oCuBwAmBZeFrL}EmHyNkC{@kKpCiHwA_SiBs@aM|CqFi@wFyIxAe`@~D}DgD}CCmEuBaBoABuAtEgBx@wHsKeDHaArB`DzE]bEuGnAwCdE{I@qIrSz@dFtHfDt@bCyJtZPjCaCnCbErFF|DeGzDoAtEzJtPSpDwClC~@zFaC`CaIRo@oA~@}C}By@c@wCiFeBgBz@]|EwE`AvBjFw@rGrBhIrHhGq@lM|Gj@~DmD^dDbDuAmArCdB`CxC}FyByFz@}CxCY",
+"average_heartrate": 169.9,
+"average_speed": 8.196,
+"source": "strava",
+"streak": 13
 }
 ]
