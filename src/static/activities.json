@@ -20248,5 +20248,20 @@
 "average_speed": 8.484,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 10456422079,
+"name": "Zwift - \u4e24\u5c0f\u65f6\u6709\u6c27",
+"distance": 49271.8,
+"moving_time": "2:02:24",
+"type": "VirtualRide",
+"start_date": "2023-12-29 12:13:58+00:00",
+"start_date_local": "2023-12-29 20:13:58",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "~g`fAaxdz^|@{DtGqEGgEcEmFzBaCEeDjI{Sf@oDs@eDwHgD}@wElIsSxCw@jEn@lC_ErGmAf@iEcDqFzBwBhB`@tHfKlBeAtAsEdDhAPfFbD`D_EpDuAp`@zFvIzFh@jLyCdB^~AnSOdCaCvCn@zJxB~A`LpAxB`FnA`AfAo@xEeLbDrA^pCdFX|DnDpDoAT{GtFcFjEXlFlCzEg@lGfFxDeHrFq@dDuCpI_A~HjDrDBlB}Bv@gJpA_CxFqBpElCtAE~B{HrHcHpIUvBeD`FnAbC}E`AT@dBnCjAxDc@xDoChFlAxCyDdC^vDcB`Ad@@tCtAT`ImG`ErFlHtCmD|E|@vHhJz@h@fDtDJbB~BvDkBbE`AbA|ElEnAtIpVrAAn@uAuAsCFkBsBcAC{@lDcCtCZsAfHK`DhMxOVvHt@|AdL\\bHtBbHeAjK`J~@rEg@lFrAjA`@`CkBvBiDd@NnO|DdARvJdHHv@_FvHzGEbB_IrCvH`D?tKq@lAqFRsF`Dg@zEiBjCWtGaDrImGbB\\~FuAxEzGpBt@tAiCfHWzD{EnE_H~@eF{G{DtEmIlALjB|GhAlAbBVbIlAhBiAnMBpFdAn@vDgBz@hC~AtA`BC^tAmKfC^lD_D~LgEtAuNdSuArH}CvAqBpEmBv@cJDsAi@{AaD}Ij@eJcC{CdAoGC}ItGgNL{B`CuF`AyBbDEpFjFtEqApE}A~@}EkASkB_Bu@_H|BoBa@kBmDaFp@_BmEuAk@sJjAmFaAuFqD_BgEwC_Co@aHoDaCB_AxA}@m@eCpCQuDiHlBmBtFp@|@yFcDwEj@wF]}BiHmH`@gA~CQHyAaDy@wBf@w@gD{FAwGeByR|EgPwAcGuHeG_CuEcHUqEtAqD?}EdAkEgZkIm@sBr@aGg@oAmBvAcBrGo@i@IsEs@m@e_@kGkMXsEoMuBkB{Bz@c@fCvHfQiM`CgA`BlAn@dM{@oNjBUv@jOt@`@rDfClE{C|ChAvC|Bt@eDp@dAtAWb@{Co@iCh@{GxGgBzLPjUwGpNyBpBaAfE_FlCaHBHq@bDg@Ao@gAa@oFjBuEoDLiCfBm@k@gK}@e@qCn@iApBoANqCmGvFsL{GyUjB{AxDzBd@gAyEqKoReJqC}Ij@oCtIoHkDeE~BkBoAoLd@mFyBwCa@kCnEwMl@uHw@kIuBsCeBwGjDmMVuE_BwCuEsBqB_It@}GwBmF|@_ApCFh@kF`Bm@zEbBd@zCtBj@}@lDr@hAlIS`BsAp@cBmAmEtCgCTyDqBaGkGwGlAgF",
+"average_heartrate": 110.7,
+"average_speed": 6.709,
+"source": "strava",
+"streak": 16
 }
 ]
