@@ -51,7 +51,7 @@ const Index = () => {
     scrollToMap();
     setActivity(filterAndSortRuns(activities, item, func, sortDateFunc));
     setRunIndex(-1);
-    setTitle(`${item} ${name} Running Heatmap`);
+    setTitle(`${item} ${name} Workout Heatmap`);
   };
 
   const changeYear = (y: string) => {
