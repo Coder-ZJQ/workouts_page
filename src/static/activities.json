@@ -20398,5 +20398,20 @@
 "average_speed": 6.393,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10498681989,
+"name": "Zwift - Exemplar in Makuri Islands",
+"distance": 33201.0,
+"moving_time": "1:08:36",
+"type": "VirtualRide",
+"start_date": "2024-01-05 12:43:57+00:00",
+"start_date_local": "2024-01-05 20:43:57",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "jgy`Aioes^EvE~CvBvDy@dNn@rDfCxEeJtEwCl@qXqAOk@b@b@tE}AbClCvDj@G\\mIaB{FLcL_AsAoFUs@m@DeN}AtAaD_@Pu@rCGh@eBzAQWu@eEUBu@rAWY_A_DGk@bAHpBzA\\Pn@cB~@MfCzBxAiB~AAjGw@rC^l@rDV_Cl@bAnDiAZqCiCo@vA{@Hw@eCu@bBiBAa@s@NwAhC]`@qCpCs@Bs@}AWSeAfBk@XaBl@?NjDb@`@~@_@RuCfALAnCzBlAArFcAv@kGHU`HwHnIGnEzA`AtPL`JxCnAc@PeDmDoG|AcC_@qE|@g@tA^MtNa@rH_FfDuDtIs@FiDcC{Mo@oDx@iD}AmHAyDjD?xD{AvEbAxBOvA}B~@aC|EsAdA_G`BiErIwEnAmCBsI}AmKf@cAwCyBiBiA[aDx@gIcFqDxAcBi@oBkCgGjAoAsAIgCiAu@cEfBaAlB{Az@eJP}GqCcAkCiB{@DyA|AwCaA_CC_CbDaDT{Bc@}FsCcElAmDoAgBCkAt@kAhDe@z@uBlDm@b@uAwAyAaHi@CsCrBYsCGa@w@b@SZr@p@m@pAPfBjClA{@tAdAvAcAjFc@EaBsDUoEvAeG{@kA{@eBdAkByA?iBrA_B~D~BRa@i@uBwCy@sCvCmANiI}C_@kBmHqCmCuD}F{AkEsGEyCdAsA_AcAwEMoEvBy@nAoAMOyCqAcBZaElA]xCbAjDk@BkCuBgBXoBg@kBb@aA`Db@`BaBtAzAbF{A|DH~@wBlAWE{A\\ShB~AnBBxAv@l@m@aAeADiAhCe@x@NNjE~GuBjErBg@~DfCm@rBZd@j@XhDfJ`GWtAuEBuEwFm@`@ErBy@`CeBh@qAyA]eEeAJYxDg@\\eAeEm@I[dDmBGd@xAo@xABfJzD~DAnDlBv@v@pBaFlHiEaB_ABMd@Rv@`I|C|AY|BiCxCl@d@j@CzBuD{B_BxAAzArBbBpAgAjIrBzFuA`CDl@~@_@bAoEViBdAcAcAw@|@k@IuBiCmB^y@UvD~@sBNK`CzHz@jAfBm@lAoDn@y@tBaD^u@hA@bApA|AiAbExCnEZrFWzB{ClCEzBdAnC}A|CGrAjBv@z@fClHxC~IYxA}@x@gBfEgBfAh@PvCjAnAnGkAxAzBbBx@dEwAjIdFhC{@pAV|BfBjA|C`Kk@pIxA|CGlEqAnAaBdC_GjEy@xB_BtBoE_AyABsAdCwA~AiFDgE~AeBtDqA~EX~C|AfD{@",
+"average_heartrate": 161.7,
+"average_speed": 8.066,
+"source": "strava",
+"streak": 2
 }
 ]
