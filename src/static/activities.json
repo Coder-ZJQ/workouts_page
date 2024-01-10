@@ -20428,5 +20428,20 @@
 "average_speed": 6.84,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10523976357,
+"name": "Zwift - Exigent in Innsbruck",
+"distance": 48296.7,
+"moving_time": "2:04:27",
+"type": "VirtualRide",
+"start_date": "2024-01-09 10:45:29+00:00",
+"start_date_local": "2024-01-09 18:45:29",
+"location_country": "Rennweg, Innenstadt, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "qco_HyrpdABkBiB{ShF{AzCrA|@Sf@_C`AoMjBmAhAoBzB_FxA}FbEd@j@UHcCc@yHNaA`QgIvF_G`AuBxAKtGsDdQyEr@hA~@^|C~SvC`Vr@dCtA`B|At@lACbCkB|A_DhDo@lCJdHvDzKbI~AxCDhF`@fAfDPnAhCj@\\lGdB`DAxB|@pFiDjJyMnIpAlDcAzCwCdDOpBu@|@sBbBmMdF_L`I`@tGkAzA{AvHoNpEmD~CiEnEs@rAiClPkN`EuArMsAbAmA^}A}AoCsEiDeSqDyGkDoDoFmE{PiCkGoD_FaF{DcEaBoCYsLnBuK_CgGmEuQyF_Fs@wCoB{E`BImDwJeIkPkHkDuE_DmCgL{FoAyCcFeTsBgDqEcCkH{@mCzEmAhF`ClP^hSm@jByAf@k@dAiBrHu@lHZnHYb@}@Q}AiGo@gFu@SD`LyB|Gc@pFH`L~B|YfBfNpArFhAdIFfC]nHn@nJsAzAmQtEiGlDwAJcApBeFtF_R`JOv@\\bMoFQ}A~FoBnEqA|BqBtAaB`Qu@RkDqAgFfBlB|T?v@SRyXmBcEsBiGqFqEcGmTya@uE_Do@\\n@fHbFvPvI~QhClCxM|H|B|CRdBuCvDq@hFfEr@rF~JnEpBhA~I@zEl@SrGeLbDmEJsD`CyEc@_BIkEdYiIrI@lJmBtAy@nDeFhIy@vD_BfAqAAkAsCaOqFq}@x@gBzGuDjPeEzAVd@_AoAuMT}LkAoIyAsGcB}M{BiYG}Kb@gFvBmGMaLXKXb@ZjDdBrHp@d@t@a@LiA_@{G|@sHrBqHdB{@t@kB[uSaCuPt@oDpC{FdBI~Dx@hFpClBnDbD|NpCvHfLzFjDxCzCbEzKhEnDxBfIvGP|D`F_BnD~B`Eb@bR~FzFfEvK~BzLkBxC\\|DbBdFdEhD~EdCjGxDjOfDrFjHbEtSzDfGfFVp@Ix@cBrBeMnAoDfAcQ|NgAzBkEr@cEhFyDxC}HvN}AxAqG`AqHe@mF|KqBhNaAjB_Gt@cDvCiDdAwIkA{IfMoFrDiC}@kDAkGgB}BgDuCKWk@EkFcBmDyLwIuGiDaCMoDp@wBxDiBrAqA@uBoA{@qAu@}CmCgUuAwGyAkK{Bc@yPjEqGtDs@hCnFx{@l@~EjBfIKnAcGxCwHr@wDjFeAn@qJlB_J?qX`ISvAVhD^jAgCnEIrDiDhE}GlLUWLwC]oEq@sD{EcCgFuJ_Ec@BaBj@oClCmDSqBkCoDgMmHgCgCmIaQiFkQ{@sGb@m@zE`DjUbc@xG|HvI`GzYfBJeBoByS\\i@",
+"average_heartrate": 167.1,
+"average_speed": 6.468,
+"source": "strava",
+"streak": 1
 }
 ]
