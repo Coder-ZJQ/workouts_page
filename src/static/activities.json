@@ -20488,5 +20488,20 @@
 "average_speed": 6.87,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10563235403,
+"name": "Zwift - \u4e00\u5c0f\u65f6\u6709\u6c27",
+"distance": 24884.3,
+"moving_time": "1:02:56",
+"type": "VirtualRide",
+"start_date": "2024-01-15 13:26:30+00:00",
+"start_date_local": "2024-01-15 21:26:30",
+"location_country": "Bwuang, Temotu, Solomon Islands",
+"summary_polyline": "lh}`Aqres^_AqDlBsDoBIg@e@yDeT_IgEoHoNuFg@kC}@_FAoAn@aAzAgA|I}@`D`@dBbDxE@lAg@vBy@\\oF_@qAaAsGkJkB_@wANeBxB_A~PN|DC`BYh@}GoEyHuHmDI{BlAgLYQfAx@ZFt@_Cr@S_@b@aAg@_@McAgDBObFu@l@IhC{@fAKx@`@l@pGtBQ`Eu@f@eEA_EdC]`A@lDcAjBWnB`AdBG~AaCfAeC~EsAdAaGbB{@tAcAtEHb@vD|DvE|@fAbAbDHPj@u@jBpBhAxBAt@VL~D|@z@tA\\tCyA~AV~@zExBrB`@zBUbC\\x@RrBlANf@_AIwBy@wEZsFlDe@bE~Cz@nD{@pCDtBwBfCExAd@r@rA[l@iCtAaCNeBr@_@rB~B{AzCNv@p@d@`ERfDqAdEz@`Ey@fCPzAz@XnAqAvCE`AbD`@t@jC|Ax@xBV`@h@QvA_AbAb@fCCrAqDjDOn@PbAhAnAnB]tAf@vAfB[lCbFzAf@dAo@xBwBjAw@U[mCi@]qAf@sBk@gBvAc@fAp@jANhArCvATd@a@|@sC`A@tB`AdAhBUhBt@~@c@fBaDt@c@nCf@jEiBhAMtAN`A`AfBPXbANhGyC`C[z@B~@l@bApDbBt@|@|C|MD|Ak@tDjCtAC|B\\z@l@^fBLhC[n@uA[iC}@cAeA[m@N]|@?x@z@rBa@tE^t@t@T~E{ArFq@f@[rAmChFm@z@oDr@gAdKeKdGoCv@_Er@u@bBUdD^vCtCl@Lx@i@VcAwAwAMiAjBuBp@Wp@LpCjDpAo@U_AeEkGaABsBd@_Ay@}@cCg@_@eFh@cASYaANuC]m@gCDaGhCqAQm@uAWsBaAeADq@hA}A{AmCw@cINaCqAy@MgDkBsBn@mDUG{Ar@iBgAiA{BXwCq@q@kA^kAzEm@PWYAgAZ{A|AcFdAuA@yBW_Cj@cAtBkAt@gA~@}Ft@eBVeCdAOrBxAj@o@u@aDTkAfESjBh@f@Ij@qBKwE`BaA\\eA_AeBwC^mC{DuBUcBRk@p@Bz@z@lCEv@gAZ{@e@Ks@Pi@pCs@\\_@}@sCOaDbB{CqAy@oD`@y@KOs@dAeCqAcCw@@kAfAs@]C{BiCcImCiE[oCp@}B{AeIoAaA_A{CD}@",
+"average_heartrate": 124.0,
+"average_speed": 6.59,
+"source": "strava",
+"streak": 1
 }
 ]
