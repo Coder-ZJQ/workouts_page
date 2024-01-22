@@ -20608,5 +20608,20 @@
 "average_speed": 6.714,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 10601438329,
+"name": "Zwift - 60min Riders Choice in Makuri Islands",
+"distance": 27106.4,
+"moving_time": "1:00:18",
+"type": "VirtualRide",
+"start_date": "2024-01-21 12:50:02+00:00",
+"start_date_local": "2024-01-21 20:50:02",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "bgy`Aqoes^Pf@MzDtCnB|Du@jNp@zDdCjEcJnEkCr@oDxHN~Ml@lHaAl@_CZSzGTv@cAv@wGpEu@LY_@iC|By@h@J^xBIZyAj@x@hG@xCnAh@j@W?e@m@{@p@eAY_Ct@]v@lBfBSb@ZXbBcAv@Dp@xC]Zm@Ge@uA_AUk@~@y@m@aFvAcAp@`@jBlJjCXgBbE~@fDnAdA|AjIm@|AA`Ci@Pw@QcBiBoCaLgBsB}Ba@}GnBgAAgAwCqD}@sAwAKaA\\cHuOwAT}CCcAgD}E[eB|@_Dn@sGj@oB|A}A|B]bDRzBz@rFh@vHxNzHbE`AjGiBxAj@bF}@bAfB`B?bA_Cz@u@EIw@`As@WgB_@UkBNa@}AUKc@NThCq@lAl@n@Cn@k@T{Ao@?}Cw@iGzAk@F]YgBe@S_C`Ab@pBKf@uDb@_@\\q@vGm@`AmALaF[{@jCiHnAc@nB_@|GiJnKyC\\sHmB{E?gBc@m@sA`DiIv@cA`D}A^s@^iHSgAD}C`@oF]e@aAGi@p@`@pEWp@{@h@En@tChDd@QRgABwG_BcFRmJ[eB}@g@kGIk@l@?tD_@hAiHJa@pHkDrCq@lByAhAOdDZjA`A\\rPLvJ~CbAo@`AuIBwFaBsFLaL}@qAqFWo@i@S}G\\aEg@McAzA{BEa@q@d@g@fCC`@_BvAKHa@c@[sDKMw@vAWCq@g@_@aC@o@b@A|BXd@lALLr@S`@mAVQzBRb@xAVPh@Qh@yAt@AlGu@rCd@l@jDPIZuBX`AhB@`Ag@^e@EcCgCm@NMhA{@D]_@BaAYa@UBQnA_@RsACg@o@HuAtCq@P{BrCq@FgAaBUMq@Rg@zAWX_Bj@HLlDf@Xx@c@NoCdADH|C|A\\Vf@ArF{@t@_FMm@R[jHeDlCu@nBcBvACvDXn@bA^zPNlJzCbAu@HaDqAsCwAoB|AiC[uEb@]vAFV^g@hKTtAEbB[\\wGmE}HwHgDKwBnAgL[WV?t@z@X@v@uBn@]Yd@cAe@a@MeA{CCW\\CdEy@z@IhC{@dAGz@d@h@fGlBAvEzCvBbEw@|Mn@`EdCjEcJlEiCp@oDnIPvMh@~G_AbAqCdHPr@{@z@aHtEw@[kCP]~Bo@",
+"average_heartrate": 125.4,
+"average_speed": 7.492,
+"source": "strava",
+"streak": 7
 }
 ]
