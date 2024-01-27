@@ -20668,5 +20668,20 @@
 "average_speed": 6.594,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10633108098,
+"name": "Zwift - 120min Aerobic in London",
+"distance": 56053.1,
+"moving_time": "2:23:22",
+"type": "VirtualRide",
+"start_date": "2024-01-26 11:33:19+00:00",
+"start_date_local": "2024-01-26 19:33:19",
+"location_country": "Byward Street, Aldgate, City of London, Greater London, England, EC3R 5BJ, United Kingdom",
+"summary_polyline": "wmkyHbrNfBzHBpEqCra@kE~\\iA~QU~W|@rOCd}@lAjRhE~SrEnJ~IzFp@hAiDp[h@vCk@nDm@pNlNpi@[bAyM`MFrAjZhu@v@jFR|LvBbU\\nKdAxH`BtFhLhPz@_A|@{D|@gLtB}AByFh\\eGNcD`@c@v@Tj@rB`JkBlZyk@ZiDCkM\\yJtCy^_Gyl@cBqEwJaHeG{NsM}JiMSwVvBeFpAcHCw@pYjDls@c@zA_DhDkBDe@`As@jw@_@|@]}CjAgy@k[_eAcCaB{@wC{CFKcHwIwU{@cFb@JbEvM`JzT~BzApK_EvIwAfWLb^gE|IEfD~@xKfJpGjOpKjIzAlHpEnc@BdGgCdYg@zMBhMo@`E}Ynj@_JnB{@}Bg@Oa@b@DrB[p@_\\zF?lF{BfB_AtL{@vD{@bAu@U_CcFuHuKyBkNe@}LaDcf@wCaJ{D_IaQgd@`OyOqNcj@zA_Tg@}CdDs[cKcHuEgJuEgUmAkRDq}@}@gOX}YjAcQjEi\\nC{b@YiFyAkFh@gQgAoKx@gCfAaAfMbB~V~OlAeFl@IdH|DEjClEhBfB_Af@mDe@}CeB_Dl@_MjDh@KxGt@`DjAfBdA_B\\gGl@oBbBaCvACpC|CjBbI\\|FO`Sn@vCbBb@tEkKnBWbDdFf@vK|HE~@|Bv@fH`@dUyA~W@jWJ`FrBxJCzHyA|DyHh@iAiEC{Lq@UyGdGuOlKoEzEuI|ODh@n@QrJiK`DqArAP?pAwGjFwI~RcDnLHlENj@~BJtIwDdCGhBtDlFhAc@jFrF`Df@fAOzCiCtDk@vJ}A^u@|NfCp@Nl@mBx[u\\|EeZJaS|FcC_BwJkVmDkL[?~AlGvHhSLpHpCU`A|CbC~Av[deA_Ar}@bAiy@r@gAlBIvDaFkDct@r@mXzH_@|[gErBo\\sC_Ar@_O`By@j@uJpBgCf@oB_@eC{FaDb@sFqHg@SaA`@aBe@o@wCFcIrD}Cg@G}FjDuLbJiS|FcEJ}@oA]mDtAyJtKa@LOaAdJsPnFuFrGyDzNyLl@p@BnL|@xDlIy@bAaDLwCQgEiBgIMyE?eXvAuW]_T}@sIaAsBwHJk@cLoCqE_CViE|JiBUw@{CNeT]gFyByIeDgCoAj@oA|Bu@lIqAnBsAqBo@}CLoG_Du@q@|LlBrD\\~Ck@bDaB|@wEeBA}CoHsDcBzF{V{OmN{A{A~DjAfKk@xPpB|J",
+"average_heartrate": 145.6,
+"average_speed": 6.516,
+"source": "strava",
+"streak": 1
 }
 ]
