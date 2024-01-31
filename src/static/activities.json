@@ -20728,5 +20728,20 @@
 "average_speed": 7.532,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10660524508,
+"name": "Zwift - 120min Aerobic in France",
+"distance": 62131.1,
+"moving_time": "2:18:37",
+"type": "VirtualRide",
+"start_date": "2024-01-30 11:53:47+00:00",
+"start_date_local": "2024-01-30 19:53:47",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "`{tcCgcgu^wFhKxGpLhAlGSlL{FrJErNfRnRbBtHfP~RQrBmDbARrBgDnHv@tBbGkA~ArAXbC{BtBf@pEuAzB_Fm@gGxDqB}BuHwBAuAfBkEmDw@_BwDoWkFmOd@mLsFgFxBqHgAuHxEoNdEeTpBuOyQgLr@gDcBScCnBaKeD_DaD}HgSg@EuBtCyF\\}GrF}FSiD_TSa@qF_EuD}TyBmHgE}OoCw@mGsGuFh@eDzF}BHeF~C_A^kBzKuFtIF~AaAHeBaDuBdCmCoCsCt@mEkFgD?gA|IoNlG|CxB}EpFr@fA}HlIl@b@yBkC{InDwIvA{AkAiExDyLvKcChFuEz@dAs@pCvBfDtIoAlCyC`CI~CjGl@rKwKvJQdI`E|HnJqBrDAvExHiA`GmK^{AtBG~DrFvIkBdGkKhKk@bHnCbExIrE|JmBrCkGs@gK`EyIvFiEnGBxFhDAlE`BzBaA`B~Cz@]bCqBFIhC{Cf@dCzAw@lB`CGKpBpBZOlB~BRAbClEmB|BbExBq@|BvCPvAnA{At@~@|BIz@wD`CcAbAv@bAgBlE|A?mCzAsClBPn@_L|GwHmRur@hAmKyEa[_AcUoKa@aJqJoGeM}HwG{UmFgBnBlAxBmEJjHpD@bAuL|@lOtFwM`KdQ|CeHzC`DrF`@rEgBtDuDbCwDPiHsFiGRyG}OiFvDyIpAoB}Cn@sCiAkAyF~EuJbBkE|MhAfEuAtAmDtIhCxISjBuIc@mA~HuFq@cBtEyG{CkJ~NFjAnFjD}@tDpCdDcC~BzCvB@|A{AfAcJGuKvF]fB_Dz@QrFoFnBw@|C~@~BxEnCx@nG|OlC|HnEtTvBxDvDj@lF|SXB~CqFtFkDlOBlC~RZfDfIbDzCqBdKX`C`DbBlLs@vOxQjTqBlNeE|H}EjHjA~EyBxLvF~Ni@vWpFvAnDjDz@EnB_BjDrHxBzA`CjHyDnFXnAsCq@qDxBgBKwBmBuBeGlAq@eC`DgGKeCbDw@RuCgPsR}AmHmRaSJ_NjDwDjBuIq@oM{HoOxF_J_CcJwHbFm@`LoBO_BtCBhCcEcBcAdBaAs@mClAm@lDiA_AmBHkAzASwAwBuC{Bp@iCiEaEtBFwBeC_@NiBqB[NoBmCG~@aBaC}BtC?HiCjBCd@aCaDiA`AeB}AgBDqEoEqD_IQcGlEiErJf@rLuDhFoJ|@aG_DsDaFhAeJvIkHxBkFQgD_FwFZqElAmAzJS`BeFsB{GcBoA}DC{JjByDiIAcFrIeHtCqGzFq@rJ~FzEaBvCoD@iGoD}FfHqDiQqD|MoJsOsE~LuAEgAkHmDhEAeAiC|BcBhWfH~FvFpRlXlJMjAdVvE~ZgAvKzVz~@",
+"average_heartrate": 135.5,
+"average_speed": 7.47,
+"source": "strava",
+"streak": 5
 }
 ]
