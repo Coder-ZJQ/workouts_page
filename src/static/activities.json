@@ -20953,5 +20953,20 @@
 "average_speed": 7.821,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10800281962,
+"name": "Zwift - 120min Aerobic in Makuri Islands",
+"distance": 41320.6,
+"moving_time": "2:00:09",
+"type": "VirtualRide",
+"start_date": "2024-02-20 11:36:55+00:00",
+"start_date_local": "2024-02-20 19:36:55",
+"location_country": "Bwuang, Temotu, Solomon Islands",
+"summary_polyline": "lf}`A_xes^jByDuCm@}DkT{HcEiHkN_OsB}BPiB~AuCxObEjIw@xEgH_@oIaLgDa@aCrB]dGuC~@b@nE}AfClDdGm@fEkLoCiRc@m@gABsDvHmIb@wHxGOt@{@AmFqBy@AwCaAKSvCaA`@g@a@m@sDa@fBgBj@J|@`BRCdAwCt@SbCkCb@O`BbCb@v@cB~@fChBeBpCjC`Aa@eAeD~Bm@sDQ_@_Av@qC@eGhBwA{BaBH}BdB_AsBiB@{Bp@i@hDVLn@}Al@Hf@|En@_Bn@i@dB_C@e@p@lCb@dAuAt@PItM~Gz@~@hAEzL`BpF[lIgANmC_E|AgC[{E`COMpRkHaE{HwHmDIyBlAcL[WhA~@b@At@wBj@J_Bu@eBgDBMxEcAfEeAtBrHhDMzDeGn@}DhCWdF{A|E~@dBE~AeCjAsE~G_G`B{EbJgIdAsI_BsKh@kA{CyBgBoAYyCv@aI_F{DtAcBm@eBeCoGfAoAqAIoCmAm@}DfBoCbDkJ\\oH{CgBeDyHL{H}Cm@yANsBlCiCPkB{BuB_AmFsE?qDzCgACuDsGmD@iC{BiC]yIwSgEv@{CyJHuIoCuMP_B{@aB\\sBwBoHp@mEsEyCu@kM|FaEhGa@|HrF?jG`ElApCWh@yB}BgCVsBEkDdD`@bBcBvAzAzEyA`EF`AwBjAWXmBdB|AlEz@j@o@eAkBr@cAvCDRrEjHsBhE~Bs@pDrCm@tBd@j@bEtIlFXhAe@l@mECkEuFq@^_AtFiBj@kAoA]kEmAR{@jEaAwDy@SQ|CuB@h@tA_ArHd@lDnDfDAjD|JpHxAw@xF~DoAjDhB~A|C{AdJgA`HBz@dCeAdAaBP}CyAw@p@tCdG~FzAlBpBnAk@_@eCtBk@dCxB|AtF~BV~DYAfEuAhD~@tDK|BzChDfI|AtItKF`BsB~BrC~DYdHzEjDlB`KnAbAzIeA~EgJlI_DvBqE}@cDjCiB|AiFHmE~EiDpGT|CzAjDy@nNp@|GnF|GNpJhBpLqL~@aKpHuAxAsCvIb@|FxBzA|C`IsB~BRdClCrCbL`B`BfACd@sFyAuHmA{@_AeDjB}DuCm@wDcT_IkEyHwNeOoBmEfBaD|PhEzHiAxEgHs@qIaLaCW}Al@}@tAYzFsCt@b@tE{ArBjDtGO`Du@v@wK_D_PK_Bm@MkFxHkI^sHvH[R_HmBq@@iCm@e@q@hDwALW}Dc@M_@dBiBn@Hx@bBR@z@_DbA",
+"average_heartrate": 124.1,
+"average_speed": 5.732,
+"source": "strava",
+"streak": 1
 }
 ]
