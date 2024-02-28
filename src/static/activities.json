@@ -21058,5 +21058,20 @@
 "average_speed": 7.21,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10847324490,
+"name": "Zwift - The Pretzel in Watopia",
+"distance": 72905.0,
+"moving_time": "3:10:43",
+"type": "VirtualRide",
+"start_date": "2024-02-27 10:28:17+00:00",
+"start_date_local": "2024-02-27 18:28:17",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "vt_fAin~y^{BkIp@oCjIwGkDcFbCcAoAiO`D}Hj\\aH|EoIbEuBtFr@lJ`JrViE{AeI~AsAnx@iSlJoFnFhCXmBsB}BaAoHjOiEfQ_BlO`ChJbGlJpK|@`MjGcB^sHpBqAbCtP|DdB`CaFeAiFQi\\|RSfAxGhElAfHoCdDgM~IqCrPhL\\jDvD|@~ClEIbFdExHeDvKz@tIyGxEqDwBuB`AcDbHrDpFQpDeBrDeEdBgQe@eCyEmMeBaDsLuOe@eGnHeDbKQnJn@lGtG~JsAzGoJtFiJQmBtAKfCtD~@tDkFrNyGpAuGiG}I_AgH~@{Hy@M}BlKLhEwC|AcGxQaCnAo@w@`@aJ_FtBaExZ}AUs@{Ct@oUsAsC{AToA`D@dPeBpFmAVgDyDNmEtCaHeBkBmEvFcDvPcBiC`ByLeFrB}WcGuAcCr@uGq@iAyBbC_BdFc@iFkAaAq^eGqMTkEiMgCoBuBfAYbCvH`QkMbCeA~ArOMkQfCsC~KmZ_G_XtDZwIpUeEpEcEzF^BoK~DoIqBcEyF}@oHD}JlH{GlA`BrOkFgLgAbKrAj@LwCgJ`@`DnFmJpIf@dIvEvFpNzFhHfM|Ck@z@gC_C_BDyAiAsCjBi@vFbG~CmC}CuD|@_CtE\\pFvJzLkIfEfFrD{GtGjEEcEzCyBiDeKoOeA`OcDgMdAaA_AlOaEsHiQbB{DzC|AnErM|Lq@XqLxDiP@_PsAaAeh@hLsCo@wG}HmFi@mE|B}EjI_\\xGoCjEWtFrAvK|FV_A~Bo@w@j@cJvDxJvA^kBmOxGiA`KsHzNd@pCfFaElHG`LkFu@_FhEqUfEk@bIhYsC`Z~FxC_LhQcCoOEnOuEsHeQZeCdB_AzB~A|E|MxMUp^dGrBlH~DsJr@jAs@zGpAxBhXhGfFqBmBhLlBxCrDoQdEaFtAvAkDrNxDrEvAo@bByFEiOjCgE`BvCq@bVv@lCrBNtDuZbE}BEdKpE}A|EiP`DmBGeFzEuSpHaL|OPjDzLfMzAhC|EnSR`DoBtA_EFsCsD{F~CmGjBcA|DtBrGkEq@qJlCaFPaFaEmGHcFoC{DeEmAe@qDqQoLeIpCyD~M}G|B{DqAqAwGaSXP`\\bAjF}BdFqDkBqBiPmCfAi@bIiF~AkAoMiIiJyGaFgPaEsQ`AcR`F~@~HnBrBc@nBmEqCmJjF{{@jU|BpI|OeErBzAQ`QoDzMe@~LwK`@sG{OsBUaB|BxH~RuMlCy@hBnOYeObDnOz@dDhKwCbBBbEuGmEmDxGcEeFwLlIqFyJyEa@mA`C`D~DmC~BwCmA{AiDeCp@fAbCFtBtBfAu@fC_Df@aHiMsKyDkGmFwAsI",
+"average_heartrate": 156.3,
+"average_speed": 6.371,
+"source": "strava",
+"streak": 1
 }
 ]
