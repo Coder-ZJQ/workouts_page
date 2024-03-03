@@ -19,6 +19,8 @@ FOLDER_DICT = {
 SQL_FILE = os.path.join(parent, "run_page", "data.db")
 JSON_FILE = os.path.join(parent, "src", "static", "activities.json")
 SYNCED_FILE = os.path.join(parent, "imported.json")
+SYNCED_ACTIVITY_FILE = os.path.join(parent, "synced_activity.json")
+NAME_MAPPING_FILE = os.path.join(FIT_FOLDER, "name_mapping.json")
 
 # TODO: Move into nike_sync NRC THINGS
 

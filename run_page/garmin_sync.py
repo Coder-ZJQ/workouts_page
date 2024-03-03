@@ -31,7 +31,7 @@ GARMIN_COM_URL_DICT = {
     "MODERN_URL": "https://connectapi.garmin.com",
     "SIGNIN_URL": "https://sso.garmin.com/sso/signin",
     "UPLOAD_URL": "https://connectapi.garmin.com/upload-service/upload/",
-    "ACTIVITY_URL": "https://connectapi.garmin.com/activity-service/activity/{activity_id}",
+    "ACTIVITY_URL": "https://connectapi.garmin.com/activity-service/activity/{}",
 }
 
 GARMIN_CN_URL_DICT = {
@@ -40,12 +40,8 @@ GARMIN_CN_URL_DICT = {
     "MODERN_URL": "https://connectapi.garmin.cn",
     "SIGNIN_URL": "https://sso.garmin.cn/sso/signin",
     "UPLOAD_URL": "https://connectapi.garmin.cn/upload-service/upload/",
-    "ACTIVITY_URL": "https://connectapi.garmin.cn/activity-service/activity/{activity_id}",
+    "ACTIVITY_URL": "https://connectapi.garmin.cn/activity-service/activity/{}",
 }
-
-# set to True if you want to sync all time activities
-# default only sync last 20
-GET_ALL = False
 
 
 class Garmin:
@@ -112,6 +108,19 @@ class Garmin:
             url = url + "&activityType=running"
         return await self.fetch_data(url)
 
+    async def get_activity(self, activity_id):
+        """
+        Fetch activity detail
+        """
+        url = self.activity_url.format(activity_id)
+        data = {}
+        try:
+            data = await self.fetch_data(url)
+        except Exception as e:
+            print(f"fetch error: {activity_id} {str(e)}")
+            # just pass for now
+        return data
+
     async def download_activity(self, activity_id, file_type="gpx"):
         url = f"{self.modern_url}/download-service/export/{file_type}/activity/{activity_id}"
         if file_type == "fit":
@@ -121,7 +130,9 @@ class Garmin:
         response.raise_for_status()
         return response.read()
 
-    async def upload_activities_original(self, datas, use_fake_garmin_device=False):
+    async def upload_activities_original_from_strava(
+        self, datas, use_fake_garmin_device=False
+    ):
         print(
             "start upload activities to garmin!, use_fake_garmin_device:",
             use_fake_garmin_device,
@@ -154,6 +165,38 @@ class Garmin:
                 print("garmin upload success: ", resp)
             except Exception as e:
                 print("garmin upload failed: ", e)
+        await self.req.aclose()
+
+    async def upload_activity_from_file(self, file):
+        print("Uploading " + str(file))
+        f = open(file, "rb")
+
+        file_body = BytesIO(f.read())
+        files = {"file": (file, file_body)}
+
+        try:
+            res = await self.req.post(
+                self.upload_url, files=files, headers=self.headers
+            )
+            f.close()
+        except Exception as e:
+            print(str(e))
+            # just pass for now
+            return
+        try:
+            resp = res.json()["detailedImportResult"]
+            print("garmin upload success: ", resp)
+        except Exception as e:
+            print("garmin upload failed: ", e)
+
+    async def upload_activities_files(self, files):
+        print("start upload activities to garmin!")
+
+        await gather_with_concurrency(
+            10,
+            [self.upload_activity_from_file(file=f) for f in files],
+        )
+
         await self.req.aclose()
 
 
@@ -205,10 +248,18 @@ async def download_garmin_data(client, activity_id, file_type="gpx"):
             zip_file = zipfile.ZipFile(file_path, "r")
             for file_info in zip_file.infolist():
                 zip_file.extract(file_info, folder)
-                os.rename(
-                    os.path.join(folder, f"{activity_id}_ACTIVITY.fit"),
-                    os.path.join(folder, f"{activity_id}.fit"),
-                )
+                if file_info.filename.endswith(".fit"):
+                    os.rename(
+                        os.path.join(folder, f"{activity_id}_ACTIVITY.fit"),
+                        os.path.join(folder, f"{activity_id}.fit"),
+                    )
+                elif file_info.filename.endswith(".gpx"):
+                    os.rename(
+                        os.path.join(folder, f"{activity_id}_ACTIVITY.gpx"),
+                        os.path.join(FOLDER_DICT["gpx"], f"{activity_id}.gpx"),
+                    )
+                else:
+                    os.remove(os.path.join(folder, file_info.filename))
             os.remove(file_path)
     except Exception as e:
         print(f"Failed to download activity {activity_id}: {str(e)}")
@@ -216,22 +267,13 @@ async def download_garmin_data(client, activity_id, file_type="gpx"):
 
 
 async def get_activity_id_list(client, start=0):
-    if GET_ALL:
-        activities = await client.get_activities(start, 100)
-        if len(activities) > 0:
-            ids = list(map(lambda a: str(a.get("activityId", "")), activities))
-            print("Syncing Activity IDs")
-            return ids + await get_activity_id_list(client, start + 100)
-        else:
-            return []
+    activities = await client.get_activities(start, 100)
+    if len(activities) > 0:
+        ids = list(map(lambda a: str(a.get("activityId", "")), activities))
+        print("Syncing Activity IDs")
+        return ids + await get_activity_id_list(client, start + 100)
     else:
-        activities = await client.get_activities(start, 20)
-        if len(activities) > 0:
-            ids = list(map(lambda a: str(a.get("activityId", "")), activities))
-            print(f"Syncing Activity IDs")
-            return ids
-        else:
-            return []
+        return []
 
 
 async def gather_with_concurrency(n, tasks):
@@ -270,6 +312,25 @@ async def download_new_activities(
 
     await client.req.aclose()
     return to_generate_garmin_ids
+
+
+async def get_activities_name(secret_string, auth_domain, new_ids):
+    client = Garmin(secret_string, auth_domain)
+    print(f"{len(new_ids)} new activities detail to be fetch")
+
+    start_time = time.time()
+    returns = await gather_with_concurrency(
+        10,
+        [client.get_activity(id) for id in new_ids],
+    )
+    print(f"Fetch finished. Elapsed {time.time()-start_time} seconds")
+
+    await client.req.aclose()
+    names_mapping = {}
+    for i in returns:
+        if "activityId" in i:
+            names_mapping[i["activityId"]] = i["activityName"]
+    return names_mapping
 
 
 if __name__ == "__main__":
@@ -333,4 +394,9 @@ if __name__ == "__main__":
         )
     )
     loop.run_until_complete(future)
+    # fit may contain gpx(maybe upload by user)
+    if file_type == "fit":
+        make_activities_file_only(
+            SQL_FILE, FOLDER_DICT["gpx"], JSON_FILE, file_suffix="gpx"
+        )
     make_activities_file_only(SQL_FILE, folder, JSON_FILE, file_suffix=file_type)

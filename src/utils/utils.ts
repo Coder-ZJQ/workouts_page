@@ -94,7 +94,7 @@ const scrollToMap = () => {
   }
 };
 
-const pattern = /([\u4e00-\u9fa5]{2,}(市|自治州|特别行政区))/g;
+const pattern = /([\u4e00-\u9fa5]{2,}(市|自治州|特别行政区|盟|地区))/g;
 const extractLocations = (str: string): string[] => {
   const locations = [];
   let match;
@@ -234,17 +234,23 @@ const titleForType = (type: string): string => {
 
 const typeForRun = (run: Activity): string => {
   const type = run.type
+  var distance = run.distance / 1000;
   switch (type) {
     case 'Run':
-      var runDistance = run.distance / 1000;
-      if (runDistance >= 40) {
+      if (distance >= 40) {
         return 'Full Marathon';
       }
-      else if (runDistance > 20) {
+      else if (distance > 20) {
         return 'Half Marathon';
       }
       return 'Run';
     case 'Trail Run':
+      if (distance >= 40) {
+        return 'Full Marathon';
+      }
+      else if (distance > 20) {
+        return 'Half Marathon';
+      }
       return 'Trail Run';
     case 'Ride':
       return 'Ride';
@@ -275,7 +281,7 @@ const typeForRun = (run: Activity): string => {
 
 const titleForRun = (run: Activity): string => {
   const type = run.type;
-  if (type == 'Run'){
+  if (type == 'Run' || type == 'Trail Run'){
       const runDistance = run.distance / 1000;
       if (runDistance >= 40) {
         return RUN_TITLES.FULL_MARATHON_RUN_TITLE;
@@ -375,17 +381,31 @@ const filterCityRuns = (run: Activity, city: string) => {
 const filterTitleRuns = (run: Activity, title: string) =>
   titleForRun(run) === title;
 
-const filterTypeRuns = (run: Activity, type: string) => run.type === type;
+const filterTypeRuns = (run: Activity, type: string) => {
+  switch (type){
+    case 'Full Marathon':
+      return (run.type === 'Run' || run.type === 'Trail Run') && run.distance > 40000
+    case 'Half Marathon':
+      return (run.type === 'Run' || run.type === 'Trail Run') && run.distance < 40000 && run.distance > 20000
+    default:
+      return run.type === type
+  }
+}
 
 const filterAndSortRuns = (
   activities: Activity[],
   item: string,
   filterFunc: (_run: Activity, _bvalue: string) => boolean,
-  sortFunc: (_a: Activity, _b: Activity) => number
+  sortFunc: (_a: Activity, _b: Activity) => number,
+  item2: string | null,
+  filterFunc2: ((_run: Activity, _bvalue: string) => boolean) | null,
 ) => {
   let s = activities;
   if (item !== 'Total') {
     s = activities.filter((run) => filterFunc(run, item));
+  }
+  if(filterFunc2 != null && item2 != null){
+    s = s.filter((run) => filterFunc2(run, item2));
   }
   return s.sort(sortFunc);
 };

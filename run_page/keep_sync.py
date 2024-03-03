@@ -219,8 +219,7 @@ def parse_points_to_gpx(run_points_data, start_time):
     gpx = gpxpy.gpx.GPX()
     gpx.nsmap["gpxtpx"] = "http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
     gpx_track = gpxpy.gpx.GPXTrack()
-    gpx_track.name = "Run from Keep"
-    gpx_track.type = "Run"
+    gpx_track.name = "gpx from keep"
     gpx.tracks.append(gpx_track)
 
     # Create first segment in our GPX track:

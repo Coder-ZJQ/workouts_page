@@ -1,5 +1,5 @@
+import { useEffect, useState } from 'react';
 import { Analytics } from '@vercel/analytics/react';
-import React, { useEffect, useState } from 'react';
 import Layout from '@/components/Layout';
 import LocationStat from '@/components/LocationStat';
 import RunMap from '@/components/RunMap';
@@ -49,9 +49,12 @@ const Index = () => {
     func: (_run: Activity, _value: string) => boolean
   ) => {
     scrollToMap();
+    if (name != 'Year') {
+      setYear(thisYear)
+    }
     setActivity(filterAndSortRuns(activities, item, func, sortDateFunc));
     setRunIndex(-1);
-    setTitle(`${item} ${name} Workout Heatmap`);
+    setTitle(`${item} ${name} Heatmap`);
   };
 
   const changeYear = (y: string) => {
@@ -72,8 +75,27 @@ const Index = () => {
     changeByItem(city, 'City', filterCityRuns);
   };
 
+  const changeTitle = (title: string) => {
+    changeByItem(title, 'Title', filterTitleRuns);
+  };
+
   const changeType = (type: string) => {
     changeByItem(type, 'Type', filterTypeRuns);
+  };
+
+  const changeTypeInYear = (year:string, type: string) => {
+    scrollToMap();
+    // type in year, filter year first, then type
+    if(year != 'Total'){
+      setYear(year);
+      setActivity(filterAndSortRuns(activities, year, filterYearRuns, sortDateFunc, type, filterTypeRuns));
+    }
+    else {
+      setYear(thisYear);
+      setActivity(filterAndSortRuns(activities, type, filterTypeRuns, sortDateFunc));
+    }
+    setRunIndex(-1);
+    setTitle(`${year} ${type} Type Heatmap`);
   };
 
 
@@ -108,8 +130,8 @@ const Index = () => {
   useEffect(() => {
     const runsNum = runs.length;
     // maybe change 20 ?
-    const sliceNume = runsNum >= 20 ? runsNum / 20 : 1;
-    let i = sliceNume;
+    const sliceNum = runsNum >= 10 ? runsNum / 10 : 1;
+    let i = sliceNum;
     const id = setInterval(() => {
       if (i >= runsNum) {
         clearInterval(id);
@@ -117,8 +139,8 @@ const Index = () => {
 
       const tempRuns = runs.slice(0, i);
       setGeoData(geoJsonForRuns(tempRuns));
-      i += sliceNume;
-    }, 100);
+      i += sliceNum;
+    }, 10);
     setIntervalId(id);
   }, [runs]);
 
@@ -131,19 +153,26 @@ const Index = () => {
     if (!svgStat) {
       return;
     }
-    svgStat.addEventListener('click', (e) => {
-      const target = e.target as HTMLElement;
-      if (target) {
-        const tagName = target.tagName.toLowerCase();
 
-        // click the github-stat style svg
-        if (
-          tagName === 'rect' &&
-          parseFloat(target.getAttribute('width') || '0.0') === 2.6 &&
-          parseFloat(target.getAttribute('height') || '0.0') === 2.6 &&
-          target.getAttribute('fill') !== '#444444'
-        ) {
-          const [runDate] = target.innerHTML.match(/\d{4}-\d{1,2}-\d{1,2}/) || [
+    const handleClick = (e: Event) => {
+      const target = e.target as HTMLElement;
+      if (target.tagName.toLowerCase() === 'path') {
+        // Use querySelector to get the <desc> element and the <title> element.
+        const descEl = target.querySelector('desc');
+        if (descEl) {
+          // If the runId exists in the <desc> element, it means that a running route has been clicked.
+          const runId = Number(descEl.innerHTML);
+          if (!runId) {
+            return;
+          }
+          locateActivity([runId]);
+          return;
+        }
+
+        const titleEl = target.querySelector('title');
+        if (titleEl) {
+          // If the runDate exists in the <title> element, it means that a date square has been clicked.
+          const [runDate] = titleEl.innerHTML.match(/\d{4}-\d{1,2}-\d{1,2}/) || [
             `${+thisYear + 1}`,
           ];
           const runIDsOnDate = runs
@@ -153,20 +182,13 @@ const Index = () => {
             return;
           }
           locateActivity(runIDsOnDate);
-        } else if (tagName === 'polyline') {
-          // click the route grid svg
-          const desc = target.getElementsByTagName('desc')[0];
-          if (!desc) {
-            return;
-          }
-          const run_id = Number(desc.innerHTML);
-          if (!run_id) {
-            return;
-          }
-          locateActivity([run_id]);
         }
       }
-    });
+    }
+    svgStat.addEventListener('click', handleClick);
+    return () => {
+      svgStat && svgStat.removeEventListener('click', handleClick);
+    };
   }, [year]);
 
   return (
@@ -180,9 +202,10 @@ const Index = () => {
             changeYear={changeYear}
             changeCity={changeCity}
             changeType={changeType}
+            onClickTypeInYear={changeTypeInYear}
           />
         ) : (
-          <YearsStat year={year} onClick={changeYear} />
+          <YearsStat year={year} onClick={changeYear} onClickTypeInYear={changeTypeInYear}/>
         )}
       </div>
       <div className="fl w-100 w-70-l">

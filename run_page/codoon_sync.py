@@ -67,7 +67,7 @@ TCX_TYPE_DICT = {
 }
 
 # only for running sports, if you want others, please change the True to False
-IS_ONLY_RUN = True
+IS_ONLY_RUN = False
 
 # If your points need trans from gcj02 to wgs84 coordinate which use by Mappbox
 TRANS_GCJ02_TO_WGS84 = False
@@ -129,6 +129,12 @@ def formated_input(
 def tcx_output(fit_array, run_data):
     # route ID
     fit_id = str(run_data["id"])
+    # local time
+    fit_start_time_local = run_data["start_time"]
+    # zulu time
+    utc = adjust_time_to_utc(to_date(fit_start_time_local), str(get_localzone()))
+    fit_start_time = utc.strftime("%Y-%m-%dT%H:%M:%SZ")
+
     # Root node
     training_center_database = ET.Element(
         "TrainingCenterDatabase",
@@ -154,7 +160,7 @@ def tcx_output(fit_array, run_data):
     activities.append(activity)
     #   Id
     activity_id = ET.Element("Id")
-    activity_id.text = fit_id
+    activity_id.text = fit_start_time  # Codoon use start_time as ID
     activity.append(activity_id)
     #   Creator
     activity_creator = ET.Element("Creator")
@@ -164,13 +170,6 @@ def tcx_output(fit_array, run_data):
     activity_creator_name.text = "咕咚"
     activity_creator.append(activity_creator_name)
     #   Lap
-
-    # local time
-    fit_start_time_local = run_data["start_time"]
-    # zulu time
-    utc = adjust_time_to_utc(to_date(fit_start_time_local), str(get_localzone()))
-    fit_start_time = utc.strftime("%Y-%m-%dT%H:%M:%SZ")
-
     activity_lap = ET.Element("Lap", {"StartTime": fit_start_time})
     activity.append(activity_lap)
     #       TotalTimeSeconds
@@ -347,9 +346,9 @@ class CodoonAuth:
             r.headers["timestamp"] = timestamp
             if "refresh_token" in params:
                 r.headers["authorization"] = "Basic " + basic_auth
-                r.headers[
-                    "content-type"
-                ] = "application/x-www-form-urlencode; charset=utf-8"
+                r.headers["content-type"] = (
+                    "application/x-www-form-urlencode; charset=utf-8"
+                )
             else:
                 r.headers["authorization"] = "Bearer " + self.token
                 r.headers["content-type"] = "application/json; charset=utf-8"

@@ -24,22 +24,27 @@ const MAP_LAYER_LIST = [
   'country-label',
 ];
 
+const USE_GOOGLE_ANALYTICS = false;
+const GOOGLE_ANALYTICS_TRACKING_ID = '';
+
 // styling: set to `true` if you want dash-line route
-const USE_DASH_LINE = true;
+const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
 const LINE_OPACITY = 0.4;
 // styling: map height
 const MAP_HEIGHT = 600;
 //set to `false` if you want to hide the road label characters
 const ROAD_LABEL_DISPLAY = false;
-//set to `false` if you want to hide the route start and end marker
-const ROUTE_START_END_DISPLAY = false;
+//set to `true` if you want to display only the routes without showing the map.
+const PRIVACY_MODE = false;
+//set to `false` if you want to make light off as default, only effect when `PRIVACY_MODE` = false
+const LIGHTS_ON = false;
 
 // IF you outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `户外运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
+  `坚持运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? '' : `, the map show routes in ${year}`);
@@ -87,6 +92,8 @@ const RUN_TITLES = {
 };
 
 export {
+  USE_GOOGLE_ANALYTICS,
+  GOOGLE_ANALYTICS_TRACKING_ID,
   CHINESE_LOCATION_INFO_MESSAGE_FIRST,
   CHINESE_LOCATION_INFO_MESSAGE_SECOND,
   MAPBOX_TOKEN,
@@ -101,6 +108,8 @@ export {
   USE_DASH_LINE,
   LINE_OPACITY,
   MAP_HEIGHT,
+  PRIVACY_MODE,
+  LIGHTS_ON,
 };
 
 const nike = 'rgb(224,237,94)';
