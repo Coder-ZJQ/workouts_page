@@ -128,3 +128,38 @@ python3(python) scripts\kml2polyline.py
 # Special thanks
 
 - @[yihong0618](https://github.com/yihong0618) for Awesome [running_page](https://github.com/yihong0618/running_page), Great Thanks
+- @[flopp](https://github.com/flopp) great repo [GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)
+- @[danpalmer](https://github.com/danpalmer) UI design
+- @[shaonianche](https://github.com/shaonianche) icon design and doc
+- @[geekplux](https://github.com/geekplux) Friendly help and encouragement, refactored the whole front-end code, learned a lot
+- @[MFYDev](https://github.com/MFYDev) Wiki
+
+# Recommended Forks
+
+- @[gongzili456](https://github.com/gongzili456) for [motorcycle version](https://github.com/gongzili456/running_page)
+- @[ben-29](https://github.com/ben-29) for [different types support](https://github.com/ben-29/workouts_page)
+- @[geekplux](https://github.com/geekplux) for [different types support](https://github.com/geekplux/activities)
+
+# Support
+
+Just enjoy it~
+
+# FAQ
+
+- Strava Api limit
+
+  <https://www.strava.com/settings/api>
+  <https://developers.strava.com/docs/#rate-limiting>
+
+  ```
+  Strava API Rate Limit Exceeded. Retry after 100 seconds
+  Strava API Rate Limit Timeout. Retry in 799.491622 seconds
+  ```
+
+- vercel git ignore gh-pages:
+
+  you can change settings -> build -> Ignored Build Step -> Custom command
+
+  ```bash
+  if [ "$VERCEL_GIT_COMMIT_REF" != "gh-pages" ]; then exit 1; else exit 0;
+  ```
