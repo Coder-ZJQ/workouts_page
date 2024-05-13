@@ -22200,6 +22200,21 @@
 "streak": 2
 },
 {
+"run_id": 11397867648,
+"name": "\ud83c\udf54 \u591c\u5bb5\u8d70\u8d77",
+"distance": 16249.6,
+"moving_time": "0:52:11",
+"type": "Ride",
+"start_date": "2024-05-11 15:39:21+00:00",
+"start_date_local": "2024-05-11 23:39:21",
+"location_country": "\u519c\u5927\u5b66\u751f\u8857, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "c|d~C}_yvUtAf@VL`@^JDJEbAAz@Lp@?l@DnB?h@Ef@MXAx@M|Ao@\\GPMP[d@[bCkAfIqD~CsAdAu@j@g@|@eA~AoC`AsApAsBzAqBf@}@lBsCbAuAtCiEj@oARs@fAwF^}A`@}@V]f@o@xA{AvBoBjAqAfB_BdEcDhAs@|D}CbAo@zBmBh@U~@o@|B_C\\WtDiDt@m@`AcA`@EbACFCBC?E@{@LUb@c@Tm@l@a@D@TIL?NYNCh@]v@q@LOdCcBhB_Bt@g@|@y@~@q@dByAnA}@`A_AR[n@k@DG`@_@b@k@l@g@NEN]NOj@w@LGpAgAd@o@fC}BXQh@g@pA_An@Y`CaBj@YhAs@d@GFCPQJGZc@|CyBbAm@RUJCVSFI~@s@t@s@ZMXUf@Oz@k@xAuA^e@`BgBD@JIZ?b@KHE|@MrAKn@?VJjC|BJXZXh@n@|A`BNJLB`BtBlEhEXTrAhBp@dA\\n@h@t@Vh@?JJj@\\l@Hd@R`@BJn@`Aj@hAPf@d@z@Nl@?NIVOT[Za@r@k@d@MP[Zw@j@cBfBq@x@MTy@r@o@t@QJ_AfAk@bA}@lBQTy@xAw@pBYb@MHSX_@bAMd@Qd@uBlEQXm@lASXUj@a@p@kAhCgAhAWNeAt@oBv@]@[HYEo@Zy@H[A[B{@Au@BGCmC?sDB_@DcG?_@IYBy@Cc@Jc@BiB@iHOwAQ}By@{@w@aAgASWa@_Ac@k@kAiBKc@SU[q@WWa@m@g@mAMk@UmCWeAM[g@w@k@g@s@g@KGKASF_@X@@O?CJeBpAk@}@MYGSWe@SUGAUL]^IDQRkA`AMFw@h@m@n@cAx@Y\\yDhDgAhAqD`Da@TgB|A{B`BWXMFONmCtAQNe@R[^ELa@d@wFrFuAxA{@t@c@r@Yt@e@n@K^E?g@lBUhBg@|ASROZKF{@pAMHc@l@s@p@qAxCqDoDSKSBKFiBpBq@j@u@x@OJY\\{@v@wC`DqApAEH}AvAk@r@wBrBEHsBrBGJgBzAaAdAe@b@}@h@_@JYC}DAOEw@CQGm@a@UI]IUC]JCD]BWJwBFi@Jy@\\QNiAf@[JGF",
+"average_heartrate": 116.7,
+"average_speed": 5.19,
+"source": "strava",
+"streak": 2
+},
+{
 "run_id": 11393958790,
 "name": "Zwift - Spiral into the Volcano in Watopia",
 "distance": 60409.9,
