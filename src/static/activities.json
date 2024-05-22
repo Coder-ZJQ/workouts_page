@@ -22363,5 +22363,20 @@
 "average_speed": 6.864,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 11471502627,
+"name": "Zwift - Zwift Games 2024 Epic in Watopia",
+"distance": 84108.0,
+"moving_time": "3:08:43",
+"type": "VirtualRide",
+"start_date": "2024-05-22 11:40:05+00:00",
+"start_date_local": "2024-05-22 19:40:05",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "nw_fAcm_z^`Ju@CfCU}KjDdKlBB}B{NzSwJpNd@tC`GaErGIdLoFu@yEfEmUdEw@bHxYoBnXhGfEoLhQgCoORnOuFqHgPz@}DpDx@|EdNbMgAjEk]_AyQ{h@fLmSyKiMtMc_@fKqC_DpFsYaGmZjQ_Gd@fDdDsAoArChB|BrC{FwBwGnCeDlBlGxBvAlGiIqDaCcDiHfEeDgEe@zIFtEvFuAcGlJsAfFrChHbJpGgAnDiGkDcLaTqBbPaEaIf@uG}CtKaG|Hv@lMoEDtHfHgBpB~C{GfBm@fNbC|ErAaF|Ej@_BtJpAbAbFkI`Ge@MsFfE~AlEkDmCgKtToR`@eGvEcBRuGfEuEnUlBtFdFjEkHvKcEnI}@rNnDdHmSlN`AxGuNxNeCpBcDhFjA`C{EhEhElJqDpUqDdCrExImG`N`KmDnFfArHxIn@fItHvJm@fA~ElEjA~I|V|BuAcEiKzHiByAlMnMbP~@fKz^rAtKvJzBnSwGjDPfN|DbAFjJnH\\|@aF`IxHqIxE|HjDQnLkO~EqIz]oGjBi@nMjI`E}C|MyNtGoF}GiOtH|JfGdBlLeAbU~Fw@pGhI}JdBeCtRoE`BsN`SuJhReLn@eEqEuUuAaLbAyIpG}MHoNfJKnFnF~E}DnGcIoFaH|B{EqE{Et@{D{FiLz@mEuMlBm@pAtF|EfA}B_D]sNt@eFxFzQxBeIqCeCWuJfUdA~FcF}C_He_@kIgE{FyCRcAfE{Bk@iMaQtEiDmHa@o@eDiPeBoQxE_PeA}VmVhDaZ~SaZt@_PvG_E}CyHzFaGP{OlGqAo@sE|F{FhAwLqN{MqSyCy]dG|BxPiFcCyNjG[aLmIwPl@aIdHaDkC{AjCgFoG`C_EcBFxF}F^qFnIh@wLeFu@mAdFaCwEb@wMzELdAuCsBuCcHjB?uHaNlEkH}@kLhGlHnDpHg@iPtD~UlDlC`GaE~ImHjA_GsI{FaDwJ|A|AzFqE{FyHW~CxAeEvC`DbHnD~BqGdIuAgH}CaAaCjDxBpGoCxF{AwBhA{CiDrAi@gD{DrDyIYmA`ElGdTwFhZxC~Gl@pTcCxAlDfEoJtI`ArJlT`MlHhMvEuDeEeIpBo@vFbG|CkC}CuD~@cCpE\\vFxJrLiIhEbFlDwGnHxDUuDxCcCuGmL{MX}DtJyYkGcXlDf@qIlUcEtEeEvFXhDgXgQwDuUdKdC|MeFxX|ZuChSvElCbIsHnFyF_K}FM|BtH}CdCiIuFo@rBtE`GkEdDgHgMaP}GiEwHFeFdJaIeDkFbJ_@OdCI_LrFfLcByOn[{JzGx@rBvD}DvI?pKqFm@}EhEeU~D_AtHrX}B",
+"average_heartrate": 156.6,
+"average_speed": 7.428,
+"source": "strava",
+"streak": 1
 }
 ]
