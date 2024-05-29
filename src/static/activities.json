@@ -22483,5 +22483,20 @@
 "average_speed": 7.716,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11525583641,
+"name": "Zwift - eFondo: Cat. D on Zwift Gran Fondo in Watopia",
+"distance": 104917.0,
+"moving_time": "4:19:15",
+"type": "VirtualRide",
+"start_date": "2024-05-29 11:18:33+00:00",
+"start_date_local": "2024-05-29 19:18:33",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "tx_fAg{~y^lE{EuF{I`CcAd@{W~]sI~H}KbHKrM`Kni@_L{Dbp@gLn@gFqNyDk@{@jEpHxOqOtFnOQkQdCeDhLgYiGiY~Bv@eHpc@wInEwTmCkG}Nm@kT~JdBtOkFgLPdLFkCqJf@bDtFsJ~N~DhIzPrHxExKoIRzGzU{FjLzC`HtJyBiAfQnEtCdMuAhKqRqH_MyUt@_DnF|DnMfNkEfIXcC{IwJoBoG~E`B|I`HjBhEiEyF_IiDhGxGdBDqFyGb@rGiChClFuArDkLiA}@}HfHmE|IbC~AhKkHeB{N|DcDiMrGuGzRVjGxL}GvOyPnCkEqDtAoPwJ~BkCgGbEoJzZwE`BbDoKrDCpIbJWpEaHbJrI~Cog@tTwLeEgF|CmCmDoKiOq@fO}CsODrO}EyHeQnC{DjIxPnm@pFlBjHxEeJX~L|YzH_CvXdVbVhPvA`c@{BbJfEyEbDpMlQzIoDbEzFf_@hItBfIwH~DwPkC]pLtBlIfHtDrHkBjAoLb]lEUpE{LrHnFdLoApEgMmDwItBmCeEiLiEmQLoNwN}EaL|D{GsD_HdJeAx@yFaDsENsJkHoHhEuDmIyDuOgByR|EgPwA}UuUxBaY_Z}HQwLsE|IuCqHsl@iFmI{P}C`EtHjQoOzErOEgOzCpObAdDxJkCrH{GiEoDxG{DgFeMnIwL}K}A|BdDvDqCnCsF}FoCjAxCrLqPLlH|Uz[MsKnFRrIjI_@xEgHhHlJ_O|VoDsBaOmAhAeQ}JxBkCwGxFmL{GsUjIg@uEmKwPqH_E}HpJiOiDkF~Im@EfCI}KrFfLcByO`TyJnNh@rC`GcEzGK~Kqc@pIw@rH`Y_C~YfGdDeLnQgCqO@pO_FoHqP~@_EjKbPzLu@jDsp@}i@`LiSwKoLjMkZtF}EfJpAfOcCzAlDdEcKvLtCjJhR~InHlMzEqDcEoIdJxE|CiCwA{HjE^hFtJnMiIvE`FtCuGhM`FcKtDoHdHkCbg@kJoIwEdHyIPH}HpK}DaCoDuT`BeJ`KrB`K|JwBoA~P~NfA|ChChSoZtB{e@lHwGbKmDuMuFgDzGkEiFiMlI_FqJsEi@_BrBxCdF{CpBaIsFfDrJ}FnCsFoL_QuHyDiIxJ_OmD{E~B{@mA{O`DoHj\\aHjLgMzQvKvVkE@{KzcAuZjFjCsCgPxQuEdQeAbPzDpRvQrAnMhLiNnA`O|DlCpCaFeAcd@fRGnGhJnHoCfN}QhQfLvJtL~DzQcDtIl@zJsG~DiFiBsErHnDbHyApHuXbBwCcFuL{A{CmLgOu@wIlLwEf[}JzSmEvARwJyEzBcDjZkDmCc@{ZiDtDgBzWsFgDvAyQcKpXB}PcFnBsXkGcA{MuEjJoA}Gw_@{G",
+"average_heartrate": 137.5,
+"average_speed": 6.745,
+"source": "strava",
+"streak": 2
 }
 ]
