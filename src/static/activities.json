@@ -22678,5 +22678,20 @@
 "average_speed": 7.414,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11579881431,
+"name": "Zwift - 2.5h Aerobic in Watopia",
+"distance": 31925.4,
+"moving_time": "2:29:29",
+"type": "VirtualRide",
+"start_date": "2024-06-05 11:36:08+00:00",
+"start_date_local": "2024-06-05 19:36:08",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "zfefAqs}y^vCzDrAbAxDdA~D~FbCtArHz@pE@xNiEpBS|GdBrFB\\d@K~Ad@^dCe@pCx@Fh@[`@qCH_@VMz@xDrCbBfCh@|Bm@fG~BvBb@rBi@~ANrAa@f@_ANkDcAsBlBJjA~BpBb@tBUTmAa@k@Zj@hCsAx@?bBhDhB?bC^`CnDfDrAtDnDvA`AxAzFjApBw@vD_@v@D|Af@f@tC~@~@`Dy@fBd@I|CkFxZ~KnNrA|CbDhCvA`E^jCSBa@sB}@}AsBeA{E_A_DcEgGaFa@?Gb@bDnCPpAWG]kAaC_AwCgCo@HBf@nEzDfBbCz@~BWHOkAaA}@aDyAk@VQbCx@|EWnCTpC}@dEm@`Ib@NVUPgCv@gCvEwBr@oANNg@fAwDlEY~F^tCc@|@s@\\qEKsDo@_@\\|EjCnBd@~BlBpBIdA}APHwAxBiCv@gCaBqCMgDcA]`@lHzClDbDhFKpBoAxAHuARgBnBaFhAuCc@gE{Ck@DBh@bI`HpJz@jDuCRJgCnDiAn@oJ\\mEc@j@pMlA`Cd@jDu@ZeBaAeCp@qCfFqBtFsEdGQr@j@\\bAwAnDoBpGyBx@A~B`EcCk@oCh@gJ|HCh@f@FpBuAxC@xFjFxEbBbE`CrFf@d@Sr@eAG`Dm@z@yDjBoGx@O\\RXdH|BdHz@tCIdCiAqEbEyEzAsPdBsJxBUx@n@r@dEaAhG^t@r@L|AW~@gD`CqDj@cAg@a@y@yAuGJkAtJyBdQmB`EqAnEaEKYsBhAqDJ_Gs@{HgCF_@dGy@jD{AhAyAD{C_@GeAtAaFa@uLqFyDcEaAe@{CD{BrAG_@fJ_IhBg@lCh@ZMyB{DeAEeF~AuE~BwAbBQWhFaIrFeMxBw@tB`Av@_@_@iDsA{Cg@yLlEh@fJ_@`Ac@jCqDBa@a@BeDjC{JiAgCqC_D{BI_@`@CrE~CtC^zF{AfA{AlAEDa@iAM_CpAaFLaEmDkG_CK[bE`AjCLpBxAb@?bC{@rAyBUSaAtAiBRoCsBwHyC?[bFn@~D@^Wj@_A_@yDZcFzEcGAa@]@aArA}D`B}@~BQjCO\\]Gp@wIx@kDSqCTqCy@mENiCRW|@VpCzAh@`BZLJ]cAcCiHqHAc@pD`ChCfA\\hA`@EOmAiDeD`@AjG`FzC|DfFfAhB~@rAzD\\PU{CsA{D}CeCiBsDqKeNfFoYv@]~FBt@]pAwAnBl@",
+"average_heartrate": 133.8,
+"average_speed": 3.56,
+"source": "strava",
+"streak": 2
 }
 ]
