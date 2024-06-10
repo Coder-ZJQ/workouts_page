@@ -22753,5 +22753,20 @@
 "average_speed": 4.927,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 11619091478,
+"name": "Zwift - Climb Portal: Col de la Couillole at 100% Elevation in France",
+"distance": 40224.6,
+"moving_time": "2:08:32",
+"type": "VirtualRide",
+"start_date": "2024-06-10 11:41:33+00:00",
+"start_date_local": "2024-06-10 19:41:33",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "tbscCw_cu^eBXmB~AmHiAmIbFgN`EaQvBsC@oP~UuAhFnAlCoBhDiBJsA~@q@rBFxBaBiAOoA~GwEf@cBsCoF@oAn@iBgAe@sAb@r@dB{@pBnArC?jAcFhDqBxCgBbJBxBm@bAkDsAoD?}@eAmEcAaLWiBxA_IjBiDxEk@~CuIvAoK~EoFmCeFaAkKm@oLp@uO}AcFdBkC]iEnGsBjAmPzAsEa@kEdBcHbBsK|@}UaHeHFqDgAcCNgAu@_@sAoBo@q@oCw@MaA`D~@rDpBtB|HdDb@`BrBjARtAdIbAd@tBbCCzDtBdEj@yFzI{@~GkCdDS~Et@f@OtA}Bi@n@wByA{An@oABkBlBeDeBgEDiBn@oAQo@sEg@aDgB_]vHkBpBu@DM{AbAiFzDa@n@}@NiCs@yAaAH{DzDq@vASzCy@jAgP~JmBPDkBdGgCPaBaRdGiRtC{Iz@c@rAfAfA|K_@pJbC`@vCmA~CDr@vAj@bEMoUpAuGxAQs@hBwAi@eCsNeCcCqBeB]wBwCcA]_A\\Or@tEzEXpA}EdAEbGkAeAyJyC}EWmEXkEtBgGr@gDrAi@_A_@wFsIwBiDcCmGk@SyAgAiAf@sAY{ARoBsAkBoBw@UqBoBOq@nBnApAtBo@zCtBRdA@|Cg@zAfBpD~Fb@rDdChIpB`@pFl@hAlLaCnEwB`E[rFXdK`Dn@z@\\WGoFrD_@j@u@UeAyE}EhAeApDnDfB^jCtBhN|Bh@vBiB|AX~@lH{ArSu@b@m@oGQdAoEk@gDqJcC_L^y@y@ZkAjJ}@xPiCzRgGWfAiEnAcAjALlB~AQ~PkKr@cA`AuF|EkEz@n@BnCu@rAwD`@kAxFZdB~@ObBkBf\\qHhEhBfDNZ`@s@`C@`BbBdDmBzDBnAu@xArArAk@dClCv@Z{@}@kAP{ElCkDjAwHjFqHqEeAmDsBiC@u@yBoHy@UmAyBwAc@aB}HgDeBcBw@}AMiBl@gCx@Hn@fCzB~@TfA|A|@lBSvDdApHCnUzGrKy@`OkEnEb@jP_BbB}@zE}GjCZ~EcBrO`BjLs@~Kp@|EbAxEfC|KaFtIwAz@wDzCeE~HgBpByA`KTnE`AdAhA`EDlCpAb@Qf@iATsFxAsFlHaGZw@AaAmAaCv@}Bm@kB`CBHl@w@z@CbAtCxFm@fBuGlEHtA`BvA`@YSeBz@aCjD{@rBgDiAkDlAmE`CeClLqR_IsJ{CyE}Dc@wFnAiDgBQmBfBmFHaDu@aBoBaA",
+"average_heartrate": 146.8,
+"average_speed": 5.216,
+"source": "strava",
+"streak": 7
 }
 ]
