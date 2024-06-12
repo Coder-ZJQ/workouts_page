@@ -22783,5 +22783,20 @@
 "average_speed": 8.37,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 11635266406,
+"name": "Zwift - Coastal Crown Loop in Watopia",
+"distance": 20850.4,
+"moving_time": "0:52:54",
+"type": "VirtualRide",
+"start_date": "2024-06-12 13:03:09+00:00",
+"start_date_local": "2024-06-12 21:03:09",
+"location_country": "China",
+"summary_polyline": "tfnfAap~y^s@d@iHp@Y`@AdAdAr@lFr@l@f@\\~@V|HlAfBiA`MBl@j@hAGf@m@p@Jr@`@b@`@FjCcBd@G^XXfBtAvAd@J~@KTNTp@Ah@q@f@wCLyDv@Kn@f@dCaDbM]XaC`@k@\\}@zB_MrOaAvGcCfAw@n@o@~@q@bCmBp@oAGeC\\u@MW[Ca@xBkNKyAmAyD\\aBeAi@qCb@u@a@w@iAmBcAAUt@w@r@mBAe@w@aBl@YbCGZYFq@Me@e@Y_FcAk@cAQ_BFsB`@wBr@iA|@a@n@JtBbBjCR^YVuBnACd@p@DrBZhBc@b@{CBg@dBoFaA]Y^oDrC{CTgB`@eAr@WbCt@n@[Xm@Me@y@{@Ce@LcB|@eDEs@o@_@aCOcBi@kAaAkBkCLaA`As@Xo@v@mEKkAwAw@]m@t@{C]uCBoCZiAjAEb@[~@gCLqAmAyAIi@Ne@nC{At@?~Aj@p@Y^}@]_A?{Af@yAh@MtB^t@Wb@g@ZuFf@kCp@MvBp@v@OlBoA`@u@Ju@SmAu@iAeDQuC}B}A^a@KYkA|@u@Ja@Gq@Y_@}@ScBn@c@YY_A?o@tAcCz@yH[_As@u@w@OmAPuAu@Ww@B}Dj@SdoAA\\@|A`Ap@Mt@s@`Bv@tFvAVn@a@`BXjFStAy@f@wEHgCdAiBxA_@v@MlDiBhCUtGsBdEs@tCw@h@iDHk@r@Ax@f@jDuAdD@dAdAx@tEp@`@^Nv@QhBuBtDErCQh@yA~@cCpCaCFaDv@i@Se@oB{@w@c@oAi@QeAh@qAdCi@d@gGd@cAd@K`ARj@xGfAv@n@\\~@V`IjAbBiAbMDh@b@n@D^Mj@i@n@F\\b@n@j@FpCgBZ?^\\Dz@\\r@tApA`BE`@p@@j@o@r@sCJ_Bf@cBTIh@f@dCcDdMc@\\qBXq@`@_A|B{LjOiAdHcDzAaApAk@zB}At@iBAoC\\aAg@l@sGfA}FM{AkAuD\\qAG[_A]iBd@k@Ck@]y@iAsBkAjBuDAe@w@aBf@YfCGZUHm@Ki@]WcEq@aA{@YeAG}Ah@eEv@oAfA]rClBpCTXU`@_CnADb@x@BfBTtBe@XkCC",
+"average_heartrate": 129.7,
+"average_speed": 6.569,
+"source": "strava",
+"streak": 9
 }
 ]
