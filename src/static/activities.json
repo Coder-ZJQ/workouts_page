@@ -22858,5 +22858,20 @@
 "average_speed": 5.889,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11681209914,
+"name": "Zwift - Tides and Temples in Watopia",
+"distance": 41698.4,
+"moving_time": "1:39:12",
+"type": "VirtualRide",
+"start_date": "2024-06-18 12:11:24+00:00",
+"start_date_local": "2024-06-18 20:11:24",
+"location_country": "Temuo, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "rknfA_ddz^mHLoB}@k@uJiMuOH}C`BiF]uA{CMiDbCBfAtBdAM|AtAxC_@bAgAPaJ_WkEiAeA{EqEcAkDjBiBaCsDOm@cDsIm@cAmHjAyBxAq@BeAaDwBqCc@mB}DeBs@mHlGsAUKeDuAS}CbBsCWwCtD{EoAiEtCcE\\uBqA?iBkAM_An@y@hDgFkAcChDcINuHbHaC|HkADaFoCsFpByAfC{@vJaBfByDGmHgDaFnA_CMkDxCgFh@cC~F}@h@uFeFmFb@wFsC}EImFzEgG~@}@pCxAhEIzEiMvH{@|D_CdAkArB|@jD|Ap@jAzEa@lBkBZMv@pBF\\l@iHlDo@fJhB`H`FrFOxH`AxBrHyBlDuCdDlCtAMLiBqBuB@gCmAgBf@eB|CAtOsEbNi@`LvBfKxGzEvHdCrADrI`AlB|BQtBuAv@gBGkFx@y@tANvAzOdAvAfCTtBeFeAeFT{GiAyOd@sBnRU|@z@R`FbElAlHmCr@aGtBkEzHqCpQjLd@rDfElAnCdEKfFbD~DhB|EhKNnCzAf@g@EmFbASp@r@PnFv@n@x@k@JmEj@aAjAJh@|GbAb@`Ag@TuFdAa@dAb@RtFx@p@dBo@|A_HfA@dEvCzHHd@lGjAt@fCClApB}@zHqA~BXtBlEBXdAcAjARzAnCIrCzB~CR`AjCc@zAuBvAuE[mA~JkAdAyD@a@tB\\~Ba@r@aEYoCxAObArAnBIfAgAxCiBV]jAZ`Hq@hDpB`BJ`As@fEkBpDvDpEvGzAkAjHjAtC{@z@wDa@eAzDoCtCe@nDtGlBr@iBxCAj@q@sAuGsABu@lCcCOeDqBcCxBg@hFhArDbG~AIjA_Ed@p@zCiBlDxEzDbD]x@j@[bBtAlGyBvNdA~@jIw@xBwEpDiBxAwHpN{RjEaB|CaM_@iDdKmBOoBaCSeCqEaEdB}@m@n@wBo@_ChAeMoAsBW{H{AkBqGcAMuAnIuAdEsEzDzGnHy@xFiFJmDxB}DPoBy@yAwGkBtAcFe@cFr@o@zEw@fD_JTsGfBeCh@_F~EuCpFSx@u@NwL{HmDtHaCX{AcIyHq@\\Q~DgHSGoJwDw@SsNb@s@zB?vB{Be@sCoAmAh@aFu@iEsFqDcDcEoH`AaHuBuHHsBk@i@uAUwHiMwOHgCbBwFa@yAuCMmDhCD`AtBfAKdBpAjCWdAoAR{IuVoEqAgA}EkEcAqDlB}A}BwDOo@gDaJw@u@qHbD_DFy@eDaCsCc@kDkF_BP}FvFgAQGeDqA[cD`BqCWaB`Ay@tBwEoAiF~CoDR",
+"average_heartrate": 138.5,
+"average_speed": 7.006,
+"source": "strava",
+"streak": 1
 }
 ]
