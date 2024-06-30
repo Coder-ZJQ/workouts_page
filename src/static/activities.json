@@ -22993,5 +22993,20 @@
 "average_speed": 6.967,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11774597124,
+"name": "Zwift - Climb Portal: C\u00f4te des Forche at 100% Elevation in Watopia",
+"distance": 14561.4,
+"moving_time": "0:42:04",
+"type": "VirtualRide",
+"start_date": "2024-06-30 11:46:16+00:00",
+"start_date_local": "2024-06-30 19:46:16",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "hi`fA}g}y^fCxGH`@?VIT{@|@YxAkAfAa@n@c@lAUtAiFnJmAdAcAh@sAZyQhC{CF}@]eBMs@@a@HQXGd@DTf@|@ATM^mAfBsBrBy@h@sAX_@TOn@FbASn@yArCa@zB_@`@y@\\wDh@y@CaA_@kFwC_AI_ATW?_@QaAw@g@MmAXq@h@Md@BxAO\\WR_@Fo@?cDMa@OuA_Bk@cAMkAQQWAi@HYPq@hA]z@G`@^d@Lf@Hr@An@W~@kAxAu@b@]?{Ay@Fu@Wq@WSi@Ku@L]\\Or@Fh@`@h@p@Nr@Kb@c@dB|@f@Ml@_@lA{AVeA@s@Gq@Me@]]Fk@fA{BVOf@IXJPtAd@x@tA`Bh@VrDNt@CVIb@e@HWEoADWLUf@_@hAUl@T|@t@VJZ?nAUt@LfFtCz@\\`AB`Eo@v@]TWL[b@{B|AaDF]I}@F]TUrBk@p@e@hBkBjA_BTu@C]a@q@E[D]RSv@Gx@Bv@FjA^jCE~Ca@jOaCbAc@xAiAxEyI`@WVHV`@l@xBTj@h@Vn@Ah@Uj@_BRKv@Az@e@TE^J`@^Ph@XpC?^M`ABxAKN_ADWJQr@CtALd@rC~Bv@Z\\@nEeBb@GVHNRFXGHoBRc@Ja@RKNBRLLR@x@QxDXvAWbBu@nAeA\\y@f@sCV]|@g@^e@pCkFR_AEm@Si@}BaCk@mCm@e@y@S]@YPcAvCoB|Ba@@iAc@a@Ee@Ru@z@c@Ha@Ie@_@k@yAMkANs@|@eBp@c@nBk@b@@x@P^CjBsBBMC[oAsBo@SwAHk@TuAbAo@LuBGcCi@{AHeB\\oB`AmAdAKRQnAiAdA_@l@i@pAGl@H`@r@rAp@dCNR\\N`@@l@MXWf@uATIn@?~@g@VCTHj@h@J`@ZrCObBBnAGRmAHUXKl@AjAFZRTlCvBf@TZDf@KnDyAp@GXXHVELmBPu@T]V?RLNRBv@QjDX|@GbC}@zAmAZw@\\wBLa@X[z@g@l@y@bCwENi@?o@Ic@Q]{B}B_@uBMYm@c@y@Q]@WR_ArCkBzBa@DoAc@]Ec@NcAbAc@Da@Mc@a@e@sAMy@Dq@x@eBV[d@Y",
+"average_heartrate": 111.1,
+"average_speed": 5.769,
+"source": "strava",
+"streak": 1
 }
 ]
