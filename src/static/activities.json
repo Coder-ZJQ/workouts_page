@@ -23158,5 +23158,20 @@
 "average_speed": 7.125,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11886850297,
+"name": "Zwift - Climb Portal: Col de Peyresourde (Avajan) at 100% Elevation in Watopia",
+"distance": 25444.6,
+"moving_time": "1:06:35",
+"type": "VirtualRide",
+"start_date": "2024-07-14 13:22:16+00:00",
+"start_date_local": "2024-07-14 21:22:16",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "zi`fAuf}y^vBvFHb@CVaAfA[|AeA`Ae@r@c@fAWzAcF~IOp@KxBY`AgJ~QcB`FeGxIaBnE_@lBaCnCg@x@]jAOhA?bGOtAQNw@DoHRkIc@mALwAd@UAw@_@YDKPFV^T|Dj@hA`@`GvD`B`Cb@DdAQpAVvCjDnA~@xBt@z@@z@K\\XAZURe@L}DPcF]_IEcCcA}@KgD?{E^uKnCaBt@qAlAgAdBm@fBKrAHvAf@dD|@nDl@~DfBzE`@jEdCbIhEjRjFhLbFrIxA`AfCrDpD`C~IbYt@pAzCdDdExH~@|GpE~OvEvItK`RFLa@l@Cr@Zr@n@X`AIZYRw@Iq@[a@]Oa@C_@NQKkRw\\yEyP_AuGyDgHaDmDw@qAwIwXi@k@sCeB_CiDiAs@e@m@{EiIaF}KeEcRiCoIa@gEiBeFm@yDy@kDk@}DCcAJeAj@aB~@{AnAmA`By@vKoCjE]fDC`AHpChA`IB`F\\`DK~@QXSF_@M[[O_AJaAEyB{@mAaAmBeCw@e@aAMaAR_@IiBeCqG_Ey@WaD_@]KSWTSx@\\^@vAe@~AM|Gd@`EEbEWTYLcA?sGf@eCd@{@nCaDh@kC`BcEtF}HbBaFnJsRRaAL}BH[|EkIPE^PR^v@pCTX\\Jl@Ch@Sv@iBfAG~@g@ZBl@`@Pf@\\vCM~ABtAKVcADWPQz@AdAPj@~CdCn@R^AhFkBb@VJXCL_Df@a@TATJNRDz@QfEVvBi@xBwAd@{@l@aDZ_@zAmAjCcFRq@?s@Kg@gCmCi@kCcAu@i@Ia@D]b@u@zBkB~Be@DsAg@YAa@P{@|@YHq@Ma@_@c@iAQaALgAnAuBvCcAlBTlBmBJ]G]qAoBw@OgAHe@PyAdAw@NaBC{Cm@oAHkB^mB~@iA`AMVUrAqAlAm@hAUt@Aj@x@fBr@fCf@b@h@Br@QV_@X_ARQ`AEfAg@f@L\\\\Nd@ZxCM~A@tAORy@BYLS|@AfARl@hCtBz@^^@fEaBh@Kd@XH\\IJqC^c@RIRFRRHpAQzDV|Bo@pAu@t@y@x@}D\\a@|@i@b@m@lCiFLeAWgA}B_Ck@oCk@c@_AUc@DQPaArCqB~B]?mBi@YJsAjAo@Ci@a@k@wAMmAPy@z@aBh@_@rBo@zBPpBuBAk@gAiB]U",
+"average_heartrate": 152.6,
+"average_speed": 6.369,
+"source": "strava",
+"streak": 1
 }
 ]
