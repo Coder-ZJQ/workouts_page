@@ -23368,5 +23368,20 @@
 "average_speed": 5.881,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11985809687,
+"name": "Zwift - Glyph Heights in Watopia",
+"distance": 33387.5,
+"moving_time": "1:27:13",
+"type": "VirtualRide",
+"start_date": "2024-07-26 12:07:34+00:00",
+"start_date_local": "2024-07-26 20:07:34",
+"location_country": "Temuo, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "`tofAq}`z^eBfBS|DkBvCSdGqDlJuEh@m@p@b@lFwA|EjAbApEp@r@pAOhB{BdEOnDaFtEyG`Aq@Um@yBeCmC{@^eCtDkIhAFjB|GjApAfBVbIlA`BiAdMn@pBw@fBLh@`Al@zDeBx@dCzAtAfB?Z|Aq@l@sIfAZlDaDfMiExA}@zB_MrOgA`HkDdBgBfE{Ap@mFZmAi@tBoOyAqGXgBcAc@sC`@{EuDjBsDw@kChD[h@}@_@cA{E}@}@gASeEdAgEhBu@jClBlCRt@kCfAKn@x@`@xEk@d@sC@a@bBsGwA^qDpCyCbAyDfDf@nAiAkAeCbAcIwGyAqDeEF_AbBsBr@gEOmAqBaBt@}C[{G^qAfBYdAqCLmAqA_BHkApCyApCj@n@Ub@u@_@eC`@sBdDHvA{@hAgK`FTpBwAf@gBqAwCyCMyC}BaCNUiAfA}Aa@iA}@QgBl@e@c@SiBvAcCv@wHuAwBoC@eAs@c@kG}HIoDmCmASeA~@q@nFyAf@y@{@MgFeBg@aAbAK|EeAZu@u@SqFqAg@aAbASfFu@Rg@u@SuFgAk@aAr@LrEa@d@yCaBwLEwD|Gz@nIQl@kGvD_DqBeADgAbAe@vCkBzATpBpCxC?xB{AzEyE|BcFk@sJ@iC}EqFHmEiBwAgEAwC_AkAmGQoFi@cFfFyBbEeFhTBvF_DfB{AlHiCdGoCjBq@k@K}@fAmFa@cAeB?wBxBo@rCStGsAvL{BJs@sBYuKbA{Ji@wAkAy@kA|@cAxCFlOoB~Fs@Z}DwETaEpBoDf@gCUcAgBIsA~@qBrEs@zHiAvEsAg@i@_BrB_IBaB}@YwAh@kClHGtFwA|DR~DfCtEjCjCnEtAjDhFlBtAlHdArFDbR}E~GbBvF@^ZKtAb@t@hCc@zCbAi@hAyCNSnAfF~DnClHrAtAnCh@z@mAJ_CdCIxChBHpBh@`@dUxHrDW|B^`@rA|Ap@\\pCeArAmAc@aAZKzB]VoHTgC}AqDs@aBlAr@xDWfDpCdCu@dCFn@xHnEzFcAx@e@^iAUkAz@cBq@aCrAy@tBP|BbCn@KfAeBlCnBdEs@fFpBTfB`A\\vLI`CeCzEmCxA[rD^zCeAtEd@jCzA~Ik@xAbDfBLf@q@rByMwA}GZaBaAk@yC`@wEmDhBaE{@_C|Di@XcAo@}@iFkAm@}AGgCd@aDrAcBjACbCjBdCNt@qCn@IbAv@`@nEQj@",
+"average_heartrate": 139.0,
+"average_speed": 6.38,
+"source": "strava",
+"streak": 1
 }
 ]
