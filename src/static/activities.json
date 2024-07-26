@@ -23325,6 +23325,21 @@
 "streak": 1
 },
 {
+"run_id": 11985135698,
+"name": "Zwift - Climb Portal: C\u00f4te des Forche at 125% Elevation in Watopia",
+"distance": 7379.6,
+"moving_time": "0:25:53",
+"type": "VirtualRide",
+"start_date": "2024-07-20 11:37:05+00:00",
+"start_date_local": "2024-07-20 19:37:05",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "hj`fAue}y^bApCb@`AH\\@TGRo@n@MNITIv@IRkAdA_@n@Wj@IXGXEd@IXcAfBaDdGa@b@_Ap@aA`@kAXuEj@iHjAwANkAFkA?OCk@WgBOu@@_@HKJGLEd@FX\\f@DPAZM\\Yd@q@|@{@|@u@r@]V_@RsAZSHIFGPG^?TFb@CPUp@qAfCK\\K~@K^INML]Na@N_ARuBTY@a@CUGk@W}D}Bs@]WEc@?YDa@NW@_@OgA}@QISA]Dm@PSL]ZIPER?RFl@ATMXWVWH[@cBCcBKUGOKcAmAe@q@Qa@Ey@ISOM[?k@JURo@jA[v@G\\DNVTJVLt@?p@Ij@M\\g@t@]^YV]PUFICo@a@k@UCIFU?WIa@MSQMUIUEW@a@JQLMPK^AT@RDRPXNLRH\\DTA\\ILMJSFAn@V`@XRHTARGl@a@l@o@^m@N_@Hk@?m@Kw@K_@]_@Fc@Nc@Tc@f@{@XM\\EL?LDFLF~@DLh@|@lAxATPXFpBJxABZCXMTSNWB]Ey@B[PWRSXOt@QZBXLbAz@\\J\\C\\K\\G^@\\Hv@`@nDtB^Pb@Jb@Dd@ElBUdAS^O\\ST[Ja@NeAJ_@vAwCL_@?a@Ea@Da@VY^M`AUx@g@p@m@dAkAj@q@d@w@J_@Ca@c@w@Ca@J]\\M^C^?~ALv@Z~@@zAGvC]jGcAnDe@tAYZKn@]pAcALS`@{@xCsFXa@HGLCJBRN",
+"average_heartrate": 121.4,
+"average_speed": 4.752,
+"source": "strava",
+"streak": 2
+},
+{
 "run_id": 11943213082,
 "name": "\ud83d\udeb5 \u69a8\u5e72\u4e86\u69a8\u5e72\u4e86\u2014\u2014\u9a91\u4e0a\u4e91\u9876 \ud83c\udf26\ufe0f\ud83e\udd75",
 "distance": 214088.0,
@@ -23337,7 +23352,7 @@
 "average_heartrate": 142.3,
 "average_speed": 6.443,
 "source": "strava",
-"streak": 1
+"streak": 3
 },
 {
 "run_id": 11960503096,
