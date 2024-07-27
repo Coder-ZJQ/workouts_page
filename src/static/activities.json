@@ -23383,5 +23383,20 @@
 "average_speed": 6.38,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11993947663,
+"name": "Zwift - Snowman in Watopia",
+"distance": 44142.1,
+"moving_time": "1:57:32",
+"type": "VirtualRide",
+"start_date": "2024-07-27 11:41:56+00:00",
+"start_date_local": "2024-07-27 19:41:56",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "du_fAgm~y^fFnD`KnDdEtJfBvA`Di@EgA`AeAyBoAEqByA_Aj@aBzAMxAfDhCzAdD}B?u@uCoCE{Az@c@zEXnFxJfMkIzDdFvDyGtGjE`@_Ag@aC`Cu@XcAgCsEa@uD{Cw@qJBLi@xNwBaAa@{JrAsA_@v@wAxMqCeHiOQ}BdBsBdB^bGrOlL_@h@gMnDyMNiNKyCuAk@aQfEkBcIf{@_UvF{BrBsB~CjClA?XsBoBuB?eCmAmBl@eBrC@fI_DtKyAlOl@pFdBpGdErErHoAtKwClAcBhD|@|D{ChByBQf@fB}AlE`@jFsFzEf@dDnBhACrB{GbEExJm@`DoCjGgDhB}@xCaEpCiEbLEpF}AtGxC~HnCnCpEvAvErG|ChApMl@tQ{ErHdBdFAx@hDhCe@xCbAg@fAwCJUzA`FtDhFhKlCf@|@oADyBhCMvCfBt@vCdUxHpHD`@pAzAn@\\zCgAlAiCKa@rCyHXeIsCsAdAp@bEUlDnCbCo@hDlHrEdIiBJ}Cv@yAo@cCjAs@zBNzBbCpBoB`DnBnDw@nFrBXjB|@XtLIdJuGpGBvCcApEd@dCzAbJk@vA~CjA\\dAy@tBqMwAmH\\}AeAk@yC^wEoDjBwDy@gCrDc@`@iA{GkCs@cFj@gDpA}AbAAlGzB~A{CfAp@ZtFwDVc@dBsGeB^aDtC_Dz@qDhDb@jAs@cAeDnA_HgHwBmDaE~CyJOqAqB}At@iDY}GXcArBe@`AuCDkAqAcBL}@rC{A|DVDeEf@oBzCN~AcAdA}JhFNpB}A\\iBoAkC_DOwC}B}BPWeAhA_Bc@mAcE@YiBtAiCv@aIyAsBeCDkAy@[aGcIM}FaDeA~@q@lFyAf@w@{@OiFgBc@_A`AM`FcAXu@u@WyFmA_@_Az@SlFq@Tm@u@SsFcAm@cAj@S`GwC_ByJOkG_LJ_F}CqEuD_As@}DoNcKoBe@_I|CkB`E{@lG_H`C{DoAQ{Eu@y@gSNi@fCjAnOU|GbAzEiBbFsBMoAuAkBiPuAIw@z@BxFs@xAuEhBmAiBQiJ{EY_AlIiCr@kBvDz@|DuC`B}BMh@hB}AnEb@~EyEfDc@zAv@lCjBdAA|AmFtC}@rAc@xNqCrGmDnBw@pCeDpBqChF}Z_Hg@sBr@_Gg@kAkBtA{@|Fs@Te@m@GkEq@m@q_@}GBmLxDkPDgOe@sAcC@m[xIsI`AkCu@sFcHcEeA_GnBcFzIwV|DqGfEqA`GrAhNcCrAlDbEmJtIQvC",
+"average_heartrate": 128.1,
+"average_speed": 6.26,
+"source": "strava",
+"streak": 2
 }
 ]
