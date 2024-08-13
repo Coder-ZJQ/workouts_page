@@ -23520,21 +23520,6 @@
 "streak": 3
 },
 {
-"run_id": 1722866102000,
-"name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in Watopia",
-"distance": 10149.424849942214,
-"moving_time": "0:50:48",
-"type": "VirtualRide",
-"start_date": "2024-08-05 13:55:02",
-"start_date_local": "2024-08-06 00:55:02",
-"location_country": "",
-"summary_polyline": "vm`fAa}|y^cAhA[~AiBrB}@dD}K`SoPp^yKjH}CV_RxG_@bAFlDy@rAe@dEoC`BoF`BcDtCe@zDrCrCIlBiAhAgFxBsA|B{AjAmAjDaBpAmA|F}BJqBdATrD_AjAIbCeEpCuGjIgAW{@XWhBjA~@vA_@XgA[{@dHwI`EsCDaCx@eAWkDpBgAdCUlA_GzAiAjAgD|AoAvA_C~EsBdA_AXyBwCwCb@{DjDwCrFaBbC}Ab@_E|@qBFiErA_AlOaFlD_@zJiGtQg`@lKaRr@NjApDn@`@pAQfAqBbCm@jAp@f@zDIrDeBh@UzBLl@",
-"average_heartrate": null,
-"average_speed": 3.3298637959127997,
-"source": "StravaGPX",
-"streak": 4
-},
-{
 "run_id": 12078018033,
 "name": "\ud83d\ude04 \u73af\u5357\u53f0\u2795\u4e09\u6c5f\u53e3\u4f11\u95f2\u9a91 \u2600\ufe0f\ud83e\udd75",
 "distance": 76897.5,
