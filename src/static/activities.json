@@ -23505,6 +23505,21 @@
 "streak": 2
 },
 {
+"run_id": 12137269481,
+"name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in Watopia",
+"distance": 10226.5,
+"moving_time": "0:45:17",
+"type": "VirtualRide",
+"start_date": "2024-08-05 13:55:02+00:00",
+"start_date_local": "2024-08-05 21:55:02",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "`j`fAgf}y^fAxCf@jAJf@CVILi@f@ORIVGp@KTgAbAa@n@Uf@M`@GZCd@KXq@fAiCzEwDvGi@fAyBtE_EhJuFnL[b@a@XmD`Bk@ZWPiAfAa@T]JuABg@Fs@V}CtAoD|@wC|@e@Ra@\\SZId@Ah@JbBC^GRe@l@IPIl@GdBGZMVOP[RcBx@oAd@qBd@m@Tw@j@}AxAMNOn@Mz@Gn@@`@L`@Z^VRx@`@VXFX@ZG\\KXe@l@e@Zm@ZwCfAa@T]`@u@zAA?STq@d@SPUf@e@~AQ`@GHAAMJs@b@UXK\\Kh@_@jCIZMPKHM@{@Ic@D_AZm@d@KXAf@DXT|@@ZGRk@d@ITAZF~@CPEJc@d@wBjAo@h@g@l@mBjCaCnCG@]Q_@G]F]RMNIRG`@Db@HPJNNLPH`@DZARGPKT[HY@MCc@Ya@@EtCcDfBcCh@o@d@_@nBeA\\[LOFS@UGaABUJSb@]HU?WEWOm@EWAYDYNSTOTOr@UZEx@HZCRULYH[^qCTw@RUr@]RUNYl@qBNYRUr@c@TU`AkBTUr@]rBu@v@]XSj@m@PYH]@_@E_@O[USu@a@WQUWM[A_@H_AZ}AvBoBr@g@\\M|Bg@vAk@rAq@ZQTWN]F_@JaCL]f@s@Da@?a@GeBBa@L_@TY\\S^ObDaAfD{@~DcB`@KjBG^M\\SlAiAZUz@e@~BcA\\SZWT[d@{@dGyMrDmI|@oB~A}CrHwMJSLMREPFNJP`@b@bBRl@RV\\Hh@Af@QPU^kAFIJEp@?JAv@e@LCL?VJTNNRLd@ZvC?XM|@@xACLGFcABOHEDGRI`@CfABVJR",
+"average_heartrate": 107.7,
+"average_speed": 3.764,
+"source": "strava",
+"streak": 3
+},
+{
 "run_id": 1722866102000,
 "name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in Watopia",
 "distance": 10149.424849942214,
@@ -23517,7 +23532,7 @@
 "average_heartrate": null,
 "average_speed": 3.3298637959127997,
 "source": "StravaGPX",
-"streak": 1
+"streak": 4
 },
 {
 "run_id": 12078018033,
@@ -23532,7 +23547,7 @@
 "average_heartrate": 118.7,
 "average_speed": 6.834,
 "source": "strava",
-"streak": 1
+"streak": 4
 },
 {
 "run_id": 12087624886,
@@ -23547,7 +23562,7 @@
 "average_heartrate": 151.9,
 "average_speed": 8.422,
 "source": "strava",
-"streak": 2
+"streak": 5
 },
 {
 "run_id": 12111676813,
