@@ -23460,6 +23460,21 @@
 "streak": 1
 },
 {
+"run_id": 1722604526000,
+"name": "Zwift - Climb Portal: Cheddar Gorge at 125% Elevation in Watopia",
+"distance": 10634.37555604425,
+"moving_time": "0:33:26",
+"type": "VirtualRide",
+"start_date": "2024-08-02 13:15:26",
+"start_date_local": "2024-08-03 00:15:26",
+"location_country": "",
+"summary_polyline": "zm`fAg}|y^eAlAY|AkBrBcApDyMhV@nAbAnAwBvDm@pEFpAjAl@\\jBaB|IsCjGz@|Cs@j@aBLi@|@t@vBo@vNo@jB{A~A_BjH_C~EwDbG}D`Bw@v@EtB~@hAPlAwA|D}B`BkBZgKaG]}@|@gEIuEaAuC{Am@{Bj@wGtGwK\\mIbFgDpAcCImD_AI_B}@o@qAPc@nANt@v@d@`ACf@e@nCz@fDTxDwAbI_FrKYnBqAtDkErBg@pAl@z@jCJnE}@dEb@nAlK`G`BSzByAlBwEOkAaAmABmBjGuDjF{IvC{K~BgDf@oDP{Ju@}AVw@zB]j@s@y@_DnCyFdBiJS{AkAq@SyAd@}D~BuE}@_AEwA`MgU",
+"average_heartrate": null,
+"average_speed": 5.301283926243395,
+"source": "StravaGPX",
+"streak": 1
+},
+{
 "run_id": 12048263821,
 "name": "\ud83d\udeb5 \u65e5\u51fa\u4e0e\u6d77\u2014\u2014\u957f\u4e50\u5341\u4e03\u5b54\u3001\u897f\u6d1b\u5c9b \u26c8\ufe0f\ud83e\udd75",
 "distance": 143911.0,
@@ -23488,6 +23503,21 @@
 "average_speed": 6.276,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 1722866102000,
+"name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in Watopia",
+"distance": 10149.424849942214,
+"moving_time": "0:50:48",
+"type": "VirtualRide",
+"start_date": "2024-08-05 13:55:02",
+"start_date_local": "2024-08-06 00:55:02",
+"location_country": "",
+"summary_polyline": "vm`fAa}|y^cAhA[~AiBrB}@dD}K`SoPp^yKjH}CV_RxG_@bAFlDy@rAe@dEoC`BoF`BcDtCe@zDrCrCIlBiAhAgFxBsA|B{AjAmAjDaBpAmA|F}BJqBdATrD_AjAIbCeEpCuGjIgAW{@XWhBjA~@vA_@XgA[{@dHwI`EsCDaCx@eAWkDpBgAdCUlA_GzAiAjAgD|AoAvA_C~EsBdA_AXyBwCwCb@{DjDwCrFaBbC}Ab@_E|@qBFiErA_AlOaFlD_@zJiGtQg`@lKaRr@NjApDn@`@pAQfAqBbCm@jAp@f@zDIrDeBh@UzBLl@",
+"average_heartrate": null,
+"average_speed": 3.3298637959127997,
+"source": "StravaGPX",
+"streak": 1
 },
 {
 "run_id": 12078018033,
