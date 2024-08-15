@@ -23608,5 +23608,20 @@
 "average_speed": 5.788,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12154030384,
+"name": "Zwift - Peak Performance in Watopia",
+"distance": 46375.0,
+"moving_time": "1:58:31",
+"type": "VirtualRide",
+"start_date": "2024-08-15 11:29:56+00:00",
+"start_date_local": "2024-08-15 19:29:56",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "nw_fA}l_z^`CgAoAeMd@oF_CeD[kCrEqMf@yI}@sHaEyHBcEnAmBhI`@lDmDb@fDdDuAkA~CjBnBn@{C`B{AwBaHv@uBlAc@bCx@QlE|@dBz@Cf@yChF{DqD}BF{EkDkAlEkC[i@uDVn@_AjHVl@rD`DfAv@w@mCcExHTt@uBnBfEfCk@tAxDhD|C`ImA`E{IqCsGsBiA{JVcAmAgDk@`GEnFiA|@s@Mu@oCm@iDtAoHiBTu@dHmBlBqCzHv@jD}@jCwCzCFJxH|GmBnBvCkAbCsEKb@pHkApDfCxEv@i@SeCn@u@`BWvBhA^`AqA`A^nBmA~BzA~@nDgEf@_CjGo@YcFbBClBzAbEcDDaCyBaBUgDzDmCx@}D~LeH\\_G~EqBPsGzDgExEOnGxCdFe@dGhFdEmHjFi@dDwCxI_AtHhDvDDhBsB`A_KxBwCvEkApGlCfC}HnCsDlDwBvIUhBaDfFlA`C{Ex@FLvBlCdAlD]zDqCjFjAzCwDlCZtDaB|@`@BxCbAVjGwFtASnDlFnHtCmDhFz@hHhJ~@f@bDxDNdB~BrDkB~D|@fA~EpEpAzItVvAO`@sAsAmCDmBiBy@GkAbDwBnCLXrAoBxJrMlPp@vJ|Bv@vHIdHvBfHeAvKtJp@~Dg@pFnAbAd@pCoBnBwCLO`BP`MxDz@JpJlHX|@_F`IzH_@lAyI`CkBcA{BbA_zA?wGgDkA|@s@pFiAh@eAu@MgFeAm@}Aj@IxEu@v@iAe@QiFy@_AwAd@{@vGw@YU{F{@}@qAf@UbGyCaBmLI}DpG`@rKgGrDeFkBiAfA_@jCoB~AVrBnCxC@zBaB|EuEzBwQi@gC}EyFDgEeBwAgE_AcFqNcAeJfLqFhUH~E}CfBgFvPoCjBq@m@x@kHa@cAiBBiBhBoCfYmA~@mA_@q@}CKoJbAeIwAeDuATwAtDFlO{AfFgAr@}DuETcErCqGMgBcAQaBh@}BpE}ArMkA~A}AaCxBaJW{AsFnBqWcGsAyBr@cHs@eAgBfB{AhGo@e@SiF{@_@m^eGsMTaFcN_DoAyAzAG|BrHbPoMjCaAbBbAj@lM}@qNnBSt@bOl@j@~DdCfE[bAsBf@G|@bAjC~Br@cDr@z@rBwGKqHxGmBfLh@vOq@`HiGrLkB~AcAjE_GtCsGM|DqAg@qAkGlBsE}CD{ChB{@DcE{@{DiENaAjByAToCmGxFoLyGgVpBsAnD|Bn@m@{EgLsPkHaEuHJcFbJgImDiEbCwAqAmLb@}F",
+"average_heartrate": 135.2,
+"average_speed": 6.522,
+"source": "strava",
+"streak": 2
 }
 ]
