@@ -23623,5 +23623,20 @@
 "average_speed": 6.522,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12161912547,
+"name": "Zwift - eFondo: Cat. C on Mayan San Remo in Watopia",
+"distance": 21578.3,
+"moving_time": "0:51:32",
+"type": "VirtualRide",
+"start_date": "2024-08-16 11:29:03+00:00",
+"start_date_local": "2024-08-16 19:29:03",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "duefAqe}y^l@GlBlCfBjAhKjAhFUvKqDjBWfCZtDhAxECd@XIzAf@t@zBg@bD`A@b@c@f@wCH[d@?p@dF|DrCrHpApArAj@v@?~@oAI}AP]n@YnAH`AT^p@~@b@JnBh@b@~TxHxDW~B`@b@tAtAd@`@rCcAxAoAc@aAZO^@|A]V}ARoBYuAZqC_BuDs@qAn@Kv@t@hDWdDt@`AxAx@w@jCDfAcArBq@B_@g@Hs@`@i@Ae@q@y@}@eCSmF_@We@LCz@]p@Nt@i@`AP`@d@BXZA~Ad@pAuAhGd@`A~Ad@Al@aBJwBmAy@aBEqBc@o@cAEc@bA~@~Ab@bBl@r@SjADhB~Az@r@FbBu@dB@lAa@pAJlAh@b@lCz@|@h@?rAs@hB@b@^`AlCpBb@tCUnAaBbAErAn@ClAX`@xClAt@BtBcAtA{EY{@w@_AyC_BOmBX}BpB{CrFaAdAq@v@qA`HFbESx@]bAeBxEmC`B]pD^tCeA|Ef@bCxAxIm@d@Tj@tBd@f@dAFr@o@xBkNK{AmAyD\\}AaAo@uCb@o@]}@kAmBcA?[t@w@r@oBGe@q@_Bd@UlCIX[Dk@Me@c@YcFeAi@cAQcBJaC`@iBr@iAz@]n@LtBbBfCP`@]VqBpAAb@r@FtBZ~Ac@f@}CBe@dBoF_A_@Y\\kDrC_DXqBb@aAr@S|Bt@p@[Xs@cAuAGk@J{A~@kDEw@u@]kFaAiDaEHaAbAy@Zs@t@eEOsAyAu@Ys@t@mC[yCBqCXgAlAE^YbAkCJsAmAyAGm@L]xC}AfCj@r@S`@u@[kAAeAb@iBl@SxB\\vA_AXgFh@uCf@QvBp@~@KlBqAn@iBUqAu@gAaDQwC}B}A^a@MYgA|@w@Je@Iq@[_@{@M}Al@k@_@UmBtAaCz@wH[aAs@q@s@Q{ANoAy@Sw@JgE|pAEjBdApBcAbAp@dG|ATl@a@nBZhFYrA}@`@kEFsCjA_BpA_@z@OlDgBfCWxGoBzDs@vC_An@aDDk@p@Et@f@|DsAxC?bAlA~@nEn@d@h@Jl@QfB{BfEMhDcBhAyBhCoCJkCt@o@Mq@}B}@y@]gAi@OeAj@qAdCg@b@kGd@",
+"average_heartrate": 135.3,
+"average_speed": 6.979,
+"source": "strava",
+"streak": 3
 }
 ]
