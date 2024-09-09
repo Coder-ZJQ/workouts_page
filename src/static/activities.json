@@ -24073,5 +24073,20 @@
 "average_speed": 5.952,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 12365764553,
+"name": "Zwift - Mayan 8 in Watopia",
+"distance": 23677.9,
+"moving_time": "0:59:34",
+"type": "VirtualRide",
+"start_date": "2024-09-09 11:31:27+00:00",
+"start_date_local": "2024-09-09 19:31:27",
+"location_country": "Temuo, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "zcnfAon~y^qF\\a@TOz@Ln@j@ZfG|@bAbBRvHnAlBiAjMn@vBu@lA@b@f@r@f@HnCgBh@@TTFbAZl@zAtA`BC^zAq@p@wCL{Dv@Mf@h@jCcDdMiEvA_A`CyLhOiAbHuDpBo@z@y@jCwAj@}AGaC^wBIiBo@w@gCc@YyAEgGp@oC_B_Fc@iCdAoD]}AVkFvCcAbBy@ZuMFkA|AcAj@iF|@wBzC]xBLzBfDrBv@~@Pr@{AnEqBz@eEsAOYCuAwAo@cAByAfBoCPiBc@{@iCo@c@iBAqBt@}@}@c@oCsAi@sAMkAb@gBAsBv@}BeAAaBPeAqA{C}@yABe@X[f@Cl@\\LbCbAnBvBhAhBYAe@gBm@]q@rA{Gg@sA?aB{@UO[j@iASs@^i@Ek@\\[h@XX`GfBlDA`@g@t@L|@^Rn@GpAuBfAv@dFxBtCiAdBDt@i@\\eAUiAz@oBo@}BXc@z@OpBPlAjBt@Vj@O|@_Bd@HpBbBtDw@tBjAtBb@V^FlA~@\\rLG|@]fAgB~EoC~A[lD^rCeAzEd@fCzApGq@pAD\\Xz@jCx@V`AYfCyNGcBoA_E\\{AaAo@oBd@m@EaBcBqBgAn@iAv@qBy@iCj@WlCMZeAo@{@gFiAi@gAOaBJ}B^iBv@kAv@[v@PnB|AjCR\\_@XoBjACf@t@b@nEa@j@}CBi@fBsFaAYY\\iDnCyC\\yBh@eAj@M~Bt@t@_@Tm@eAwAGq@lAoHq@e@cCQeBk@{AqA{A{BNaAzAgBr@aEIoAcBeAQc@t@aD_@uCDsC\\_AjAC\\W`AgCNqAqAaBFkArC}At@@tAh@t@U`@q@]sC`@gBj@UxB^zAcAXkFh@qCp@MtBp@~@QjBsAh@eBUqAu@eA_DOaDaC{A`@_@OUiAx@q@Nm@a@eAcAS{Al@g@]YeBtAeCz@aI[_Aw@s@w@MmAPoAw@Uu@DgEzpAKxBdAdBcAnAt@nFnAb@~@a@`BZjFYvAy@`@sEHoChA{AlAe@dAMhDeBbCYxGsBfEq@pC{@h@_DDq@t@b@pFqAtCAdAjA`ApEn@p@tAQfByBbEQpD{A`AcCnCeCH{Cv@m@W_@eBcAcAa@mAo@Ky@b@wBjDsGh@_Ab@M`AZp@`G|@dAp@f@|A",
+"average_heartrate": 128.7,
+"average_speed": 6.625,
+"source": "strava",
+"streak": 1
 }
 ]
