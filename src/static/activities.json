@@ -24268,5 +24268,20 @@
 "average_speed": 7.626,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12476310263,
+"name": "Zwift - Active Recovery on Power to the Tower in Watopia",
+"distance": 33312.7,
+"moving_time": "1:42:02",
+"type": "VirtualRide",
+"start_date": "2024-09-22 12:25:53+00:00",
+"start_date_local": "2024-09-22 20:25:53",
+"location_country": "Temuo, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "xcnfAon~y^uF^k@lAHj@b@ZlG`AdA~AXdIlA~AiApMn@zBu@lA@^jA|@nCeBh@A~@jCpAnAjB@\\|As@l@}CNwDz@\\rD{CvLmE~A_A~BsL`OyAvHqDjBq@bA]dBm@j@{Hn@}@}@zBcOyAgGZaBaAi@yC^wEmDhB{Dy@gCvDc@\\eAo@_AaFcAk@eAQ{Ah@oFt@kAx@_@p@LtBbBjCPZW^{BdA?h@n@b@xEa@f@_DDg@dBoG}Ab@oDjCqC`A{Dv@QxBt@r@]Vq@eAwAEk@hAwHwG}AyDkEJaA|AgBv@mEOoAwAu@Ym@t@uC]yCBoCZgAjB[dAwCJiAoAyADmApC{ArCj@n@Ub@w@_@mCf@oBh@OtB^xA}@\\wFh@mCn@KrBp@|@OjBoAl@gBSqAw@iAaDQyC}B}A^a@OUiAfAuAa@qAaAQ}Al@i@a@W}AxAqCv@}HmAmBmC?sA{@Qy@F}DjpAKrCbAv@y@]eAeAIeB~@_zAAkAYoC}By@OoA`As@nFiAf@k@MWi@OiFgAi@{@H]`@K~Eu@p@gAa@QmFSk@i@Sy@F[`@UnF_@b@{@WUcG}@w@oAd@JzEa@h@}CaBgLGaErGz@zIUn@kGvDo@KmBgBgAFgAfAa@nCoB~AEl@\\~@pCzC?zBg@dCw@xAaBjAwBl@}Ek@sGPeBScCyEqFFmEgByAiEC{C}@gAkA[oDJuDu@_ABgBnAwD~EuDpKp@rAcAdHl@~FlAlDjEbFsAvGq@t@{H~DcDD}Cc@iChAYp@ClBjClAzBmAlBqDtC_@lIcFxAwGIg@oE}EcAcDi@gG`AsGo@aAjDiKfGkHbAWbEv@pFFhApADlDzAxDtEdBjFK`BzDx@h@|IEbFj@hCu@fB{AfA}CN{C_@_AoBeBg@}ApBuBh@sCnBiAtBdB|@NxDoBjBoBy@}IhCyEZmEe@cB{CwDKiAVsCuCqEkEoA[iDoEcCyG}FiBs@sIxCsBrEm@pFoHnCqBYeAw@OyEu@y@oDU{LRs@t@QjBjAtOUrGbArFoAtDqARiBm@aAeCe@aL[u@qAOkAhAOfAZrCy@nBkBlAgBVk@]a@mAJ_F[gCqB{@}EuHeF}DsE{BqHyA}FQ}Gh@sGhAaHpCkCAe@^UjAnArBCvBrBbCB|@a@l@{@A_DmCcCxByElBen@bO{LdEEjArBdG",
+"average_heartrate": 118.8,
+"average_speed": 5.441,
+"source": "strava",
+"streak": 2
 }
 ]
