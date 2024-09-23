@@ -24283,5 +24283,20 @@
 "average_speed": 5.441,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12483226574,
+"name": "Zwift - Navig8 in Watopia",
+"distance": 64719.0,
+"moving_time": "1:59:21",
+"type": "VirtualRide",
+"start_date": "2024-09-23 10:37:33+00:00",
+"start_date_local": "2024-09-23 18:37:33",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "dj`fAg~dz^jGkEKkE_E_F|BiCKwCvJkYm@iD_IuDy@sEpIuSxIAtCaEtGqAb@cEaDuF|BwBpKfLxBcA~AuE`DvAHvEdDdD_EvDqAt`@tFnI~Ff@nOwB~AhToC|Fh@tJtBfBfLrAhEbHlHuMzCvA^pC|ERdEpDlDkAZeHtF{EpLdDbFc@dGdF~DgHdFk@vD{CjI}@hNnDnBoBnCuNnFqBjHjClCgIhH{GrIUvBeD`FnArC_FfEhEhJqDpFjAtCwDhIeA|@zDrAR~HkGdErFjHpCkDfFx@lHjJ`Ad@`DtDLfB`ClDkBjE`A`AxEpEpAbJzVrBeBeEuJfDcCvCPwAlMfMxO`AjKpU|CdHeAnKdJ|@rEg@dFtBrEuG~CPpOzD|@\\bK`HEv@wEpHzGC`BaItCvH`D?vK_H|AqF|CwCrJyDbRqGlBb@lFsAdFlIbE_DbNwEjEeHdAiF}GsDpEoIpARnBjG`AvAhBV|HlAdBiAhM@~FjAl@lDiB~FzE`@`BkK~B`@bDcDlMaEpAuN~RuArH{DxB_CrEcIj@o@kAxBqN}@kJ{EGwEmDfBwDu@qCrEeBqGaC}@cDd@iFpBqBpH`CdCsClApG_Ef@g@dBqGaBjFoN|DVbAmAkA{BdAeI}G_BoDoE`DkJ_CqDX_MjEwFu@{FpCyA`ERh@qHvFm@jAgKnE\\fD}DgAyCaMcCVkFiEA[eBnCmMuAqBsEu@QmFjpAYpCbAhMqE?yBmHsGiA~EoGA[eKyDw@OmOrGsCsB}Eh@iFw@iEuKqJwH~@eUyCy@aKmMcPzAiMwC]yDjC~DxJiBxA_J{VmEkAaAyEkEcAsDjBgBaCoDKg@cDeJy@y@oHjD}EqHaDgEsFmInGaASwA_EwHfA_DxDaFoA_KrD}DiEiCzE_FmAaCfDkIRyHhHaCxHaHkC_GtBmCpNiBpBkNqDqI~@qDzCoFn@sDbHgGgF}Ed@oM_DiFvEuGfA{@lCvAhEIxEkM|H}@bEaE~CxCrFhAvE_DzDpCz@iHnDm@fJlBdH~ExFCpLiv@xS`CjIlOcE~B`AMlQqDhNYnLmLf@mEmMiD{AcBjEtHtPoOjEz@fAjMkA}NrDbOn@pDdK{CxCfEtEiDz@r@nBcHE}GxGgBvLLrUqMjXcFjC_H@lDkC}HhAoEiDLmChBw@k@yJuEFwC~BoCiGtF{LyG{UdBuAbEzB`@eAyEqK{RsJeCsIh@kCtIiHkDkEbCgBoAaL^iGwC}GnEyMj@sHy@qIwE}K`EgTuHuGoBsHt@yGyBiFxEkAZyEvAw@dF|Ap@dDrBl@_AhDx@hAbIUjCqCcAoFvCsCNwDuBaGcGkGjAkFnG{EQsD}DwE|BuC",
+"average_heartrate": 138.5,
+"average_speed": 9.038,
+"source": "strava",
+"streak": 3
 }
 ]
