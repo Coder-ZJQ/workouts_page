@@ -24298,5 +24298,20 @@
 "average_speed": 9.038,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 12492177891,
+"name": "Zwift - Power to the Tower in Watopia",
+"distance": 54435.2,
+"moving_time": "2:27:22",
+"type": "VirtualRide",
+"start_date": "2024-09-24 11:24:55+00:00",
+"start_date_local": "2024-09-24 19:24:55",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "nw_fAcm_z^`C_AoAwNdBqGjGmD~UwDpEcIvB{AxGIzHnIxCn@vh@gLt@bAGzOyD`PLhM|_@xG^rFt@j@r@W\\eEnBsCn@hAq@~GrAvBfXhGfFqBkBjLnBvCnA}BtA}LnBaExAs@nANHjAsC`HUhExDvErAk@dBsFEmOlCmE`BpCeAjJPhJv@zCdBVz@w@hC{XnBwBvAGb@~@s@zH~@b@jCkBfFsPdDsBIiFhFmTzIiLbNv@dAnA?fCvApEjElBbGEhC`FnQh@`F{BbBgFEgCiCmC]iBxEuHhFhBfGwDc@gKpDsGdLDpDzALqFlAs@p@n@r@~GbAK^eGx@i@~@\\ZfGx@j@tAu@@}DdAkAxAp@J|EnAz@rAu@p@kFlAu@fGfDbzAAhCdA`AsAgA}@}BbA_zA@{GgDkAz@w@rFoAf@}@u@QoFyAe@cAh@M`FeAr@y@m@WyF_Ai@oAt@WtFkAFc@wGkAs@_Aj@U`G}CaBmLEyDzGf@~JmGxDeFiBkBxEkBvARjBtCfDAzBcB|EwEtBuQm@iC}EiFJqEiBwAiECyC_AgAsN}@cJjLgFhTFpFkD|BaFjPkCdBq@i@x@_Hg@uAaBDsBvBiCbYoAv@gA_@q@}CKiJ`A{IcB}CqAd@gAtC?~OiB|FeAZqDqET}DtCkHGcA_BYwAp@uBlE}AlMgA|A}AuCrB{H]qBmEvB{XoGeAwBr@oG{@sAwBxC]bEs@PuAcHk_@qGIcMvD{O@}PcCm@kOdE{B}Hv{@oU`JkFvChCnAB`@gBuBgC@aCmAmBXsAjNmDvKyAdPr@dMdG`InKzBfAHrIhAtBhFkBx@gBGkFjCi@`AxMbAdCnBl@xA]lAwDaAmFR}GiAwOhAsCtQDr@z@RxEdElAjHmCp@uFrBqErIsCvPbLd@pDtD~@tCvD@tFdEzH]xDeCtEx@|IsGxE{DuByBjA_@lC{BdCvDlGoBbI{EpB{Pc@mC_FsFBqEeByAcEGeD_AeA}Nw@{GxHiDdKp@hAeAdHn@dGrApDbEvEsAzGoJtFcJQqBtAO`CnDfA|DmF`Dg@bIwE~AiHoGqJw@kH`AoGs@o@cCbKLnE{ChByFjQoCzAi@s@|@}Go@oAcBNoB|BgCfYy@d@oAQu@oCS{J`AsJqBqCmCpED|N_B~FeAp@yDkEVyElCkGQcBaAM}Af@{BjEcBzMeA~A_BqCpByHSwBkFrBcXmGgAwBr@sGe@gAyAp@sAfHu@JuAcHo_@wGCqLzDqPDsOm@iA",
+"average_heartrate": 141.2,
+"average_speed": 6.156,
+"source": "strava",
+"streak": 4
 }
 ]
