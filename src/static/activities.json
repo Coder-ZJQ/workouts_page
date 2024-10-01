@@ -19183,5 +19183,20 @@
 "average_speed": 5.045,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 12547650565,
+"name": "Zwift - Libby Hill After Party in Richmond",
+"distance": 35340.8,
+"moving_time": "1:02:48",
+"type": "VirtualRide",
+"start_date": "2024-10-01 11:31:10+00:00",
+"start_date_local": "2024-10-01 19:31:10",
+"location_country": "University of Richmond Downtown, 626, East Broad Street, Jackson Ward, \u91cc\u58eb\u6ee1/\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde, 23219, \u7f8e\u5229\u575a\u5408\u4f17\u56fd/\u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "imcdFdeswMeBrDgSp`@cQx]Gb@@PVr@|GrET\\Eb@cT`b@yBrEwE~IUTq@Zq@jBaDlGKJ{@\\WZERCpAOb@mXdi@GP?THPNDNEJMdSaa@jDsGXYn@MV[Jg@@}@Lg@xCcGd@s@b@Kb@Hl@`@nAtAj@`@zOfHxCdBv@RPELONk@JgALm@lFwSLq@HaX@}TQQiDKe@QQDONoRh_@yD`IuE|IUZi@PWVi@bB}CfGYTk@RWVMb@CnAOb@wGjMoOlZIPCRDRLJN?X[~Rw`@zC}Fb@k@n@OXYNe@?_AJg@`DqGf@o@b@Gb@J\\TxA~Af@^tObH~CfBr@TP?NIRg@TsBtFmTJo@Lum@MUiDKw@QOLyRv_@yD`I{EdJYR[HWVk@dB}CfGYTm@RWZId@Ax@Ut@wGjMsOvZERBRJLN@ZWzMeXpIiP\\[^?d@e@Ji@?y@Lk@~CmG`@m@^In@Nf@^pAtAd@\\xOfHhDjBp@JNGJOJg@NwAtFqTN_AH}WAaMDqFMScDKu@SQDKNqRh_@{DhIsExIUXi@NUVi@`BcDnGKJy@ZUXIb@?x@Ur@gGpLgPv[CPBRJLLBZUvQs^rEyIV[j@OZUNa@BqANg@xCcG`@o@`@Kp@Nh@`@vAzAv@d@zNtGlDnB`@JPANIPe@PyAJk@xFeUByADmd@DwEOUcDIw@SOHMPgXfi@uE~IUVe@NURk@bBgDtGaAb@UXK`@ChAM`@qXji@ER@PJNLDZSrSya@vCqF^e@h@IVUN_@BkAHc@dDwGb@k@^Gn@PxBvBh@\\nO`H`DhBr@PPELMNi@ToB|FiUDqBHwj@OQUCaDImAcAaG_EY_@CSLe@|@kBvUge@ZU\\LrCxCnDhD~AlAn@RPA\\UT_@~@_CpBkExMsWvJeRfGaLhB_DRSXDfGpGPJT?PQhAaCPm@Bq@MwBR{AxBcFzE_IjC{EnByDXwAx@{AvHmM`CkDhAoAnP{LnE}E^OvDcAdC_Ap@g@H_@EQIKYCwAXgHzCk@j@iEzE{@j@}@Z_APcFQoBb@eFv@S?CQ@Id@k@?UEIOM]KoANGO@Sv@_@`@eAVFn@p@VFVCRMJW?YOc@gBqB]QUFMP[dAc@|@gIxOI^L`@|BnBHd@aDdHSVWJWIQQ{KkL_@]KEWHYb@oApCeKzR]z@Ab@NZh@n@|KfKHRAVi@pAiBjD{ChF",
+"average_heartrate": 146.4,
+"average_speed": 9.379,
+"source": "strava",
+"streak": 11
 }
 ]
