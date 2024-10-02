@@ -19198,5 +19198,20 @@
 "average_speed": 9.379,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 12554752652,
+"name": "\ud83c\udf38 \u8fd9\u5b63\u8282\u9a91\u8f66\u771f\u8212\u670d\uff0c\u4e00\u8def\u95fb\u7740\u6842\u82b1\u9999 \ud83c\udf26\ufe0f",
+"distance": 31373.6,
+"moving_time": "1:40:24",
+"type": "Ride",
+"start_date": "2024-10-02 07:23:03+00:00",
+"start_date_local": "2024-10-02 15:23:03",
+"location_country": "\u519c\u5927\u5b66\u751f\u8857, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "{nh~CihxvU_D`AsATkCbAu@e@cAJWMe@VQo@{@iAg@sA{@y@oAcBUk@_Dx@]QiAoCsBmC{BsDiBiGQyAk@{MO}AA{B]cJyAaGLuBz@iBEm@Q[gA}@}Bk@gAAkBZkEo@i@Tu@lAWpBUh@e@d@w@P_@IS]?k@z@_BI@c@~@YJKPHt@`@Vl@?p@Q^g@Lk@HkB`A}Bl@gEBaAm@aAsAgAiCQgA_@i@w@gCcGu@u@gBy@uC_Dk@wAoCuNkBuHUo@KOQ?INDf@hB~H|@fC~BnK|C`Ed@\\fBp@VVlD~HfAj@lCHpCbCFXA|A]xCJ^pAb@xB^j@CpAm@lAB|ATt@b@l@jAAh@m@v@Ob@E~AHrA`ArCXhDjA|\\P`Bz@bDt@dB@R`@Rl@p@xC~Eh@bBRnAv@jBLx@hDhIGt@LrAYt@]LcAjAgDnByNvBiGvAsBTg@ZSGc@AGLi@Sc@k@y@cBi@gCDe@n@u@Jg@?uASaBoAoDy@mDyC{Jk@o@s@W}BwAYCsAXy@CgCsI?eFEm@gCaBiBNBHzA_@`CdAHd@GhFnC~In@LrAYl@?dBfAzAl@p@zAVbAQa@q@De@V|Au@Kg@f@OGNM?o@eAeASyCwAcBXg@@MO}B{HIk@AgDPm@D?EQgAk@aAU}BZ}Az@WZ}@RU^XvFe@TcAL_@BUOq@kFe@eH]qYM_Bi@sBcDiGkAqFl@u@tAa@PWAWwAyGIqCSuBy@yA_AwD]i@}AcB]wC_@kAK}@@_@^u@`@_@~Ac@nAoAd@D`AYHTGODQx@e@PcA@}Cp@gBNgAl@aAJcBXYnAr@TOPoBl@oBDyF~AeDZsCfAeChC{@b@I~@H`Dy@jCQxEl@`Ev@lBJl@HbCuAbJeJzKaKdCmDpBiB|AiBl@oAHsAXo@g@kBIeNCwG@gGX_Bf@}@tGyGtF}D~@eBZYdUsEnFw@tKaCdKgBpAItDcAN?FhAT~@h@t@|BPdC[LDFVAdAZ\\h@tGj@jAR`AR~CXvIp@xAz@vEv@~BELR~@vA`D`@hCnCbHbAnE`@zCn@f@\\v@@ThArCrAtEfAlEDp@`CtJ`@hC?`@j@hBJ`BZr@nAvATt@fG|VbArK`BfN\\tGv@bHJnCX^FjAEtBO`@[fKBpAM^?z@c@rCkAfB",
+"average_heartrate": 132.2,
+"average_speed": 5.208,
+"source": "strava",
+"streak": 12
 }
 ]
