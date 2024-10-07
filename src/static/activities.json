@@ -19273,5 +19273,20 @@
 "average_speed": 8.463,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12596712746,
+"name": "Zwift - Active Recovery in Watopia",
+"distance": 32251.9,
+"moving_time": "1:00:15",
+"type": "VirtualRide",
+"start_date": "2024-10-07 10:41:28+00:00",
+"start_date_local": "2024-10-07 18:41:28",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "~g`fAqvdz^JmBx@kCdEcBdA{ALiBWeBoD{DOm@|BeCScBJaAfIoSh@cDCeBe@kAcGuBgAgAq@kB?cBzF}LxAwEnCo@hCv@~@Et@g@~A}CrCEtB}@l@iB?aBcDyFz@sA`Be@tAt@vE~HhAv@v@It@o@xAyEpBTfAtA@dE|CtBBr@Wj@{Bv@m@fAAbLuA`Rb@|AhDxDPnArG~@|L}C`ALj@p@n@fF\\xKUdCeBvAU|@LnFr@~CbB|@rCGrAl@pDd@dBrAf@~CnAv@dA{@~CqJf@c@t@CzBtAb@tCbDBrA\\lAtBb@dC?xBc@hAwLzGe@x@WhCqBv@uArB^bCj@`AhA\\RtBz@bB_@nBoB^Mf@V`@jBELf@sBhBcCd@u@f@k@xIhBdHbFxFSpGPbDie@hLmNdEi@^Mp@pBbH{CbAqInB{G`@qBcAqF{G{Bu@eCBkBl@yAjAeC~FgAdA_XlEiDjBmB~Cc@pEpAdMuBj@Kj@Xl@`CdBNt@y@hA{G|Ee@lACfBfArEpBtCrErC~GpB|A`ApErKAb@YFaB_BoA]eARy@hAVnC`GrQeAzA[`ByBjCYtBnBnFh@Z~AYv@gBlCo@l@Td@t@ZtCGzDuA^WZOvANbApE~CzGiBZz@cDh@a@^HT~GN`Cs@vB}AdAmEtBiB`GiLf@gCLgDk@eK@iCr@kGz@}CnHuGfBWhBp@|@GJu@gAy@dCMd@o@_@u@gBQ_AgCDk@`Cs@Ry@SeAsBmCc@yDgDu@aG\\_BULm@jLeAhAu@[Y{@?uJpAaAc@Nw@p@a@tJuAtAo@cHwOKcCh@cA`Ag@hBn@n@`AvCfKr@~@|HClBc@^iBDyI`AaClBcJJwQo@cAaB@q[xImJfAgC{@kGoH{Bo@uBDkBj@{AjAeC~FgAfAeVtD}D`ByB|Bo@CeB_CSuCp@cD~C_Hb@sD@uDw@sGqBiCIsAeAuAUwBfDyL^kE]wAy@iAsDaAo@aAqBiIv@sGwByEPq@j@]xC?`@eFvAk@nB\\xBhA\\d@DrBxBp@aA|CNr@h@`@lBHtEa@lCuCBq@aAiBIiAVm@dCqBTuAKiBsBwFsFqEOkAb@iCn@uAxDwAfA_BLwASkBeEmF~BgCMuCtIsTb@iEQqAi@s@gFcB_Au@}@eBMcBjGmNdA}DzCw@xBr@pACr@g@`B}CrCEtB_Af@{ABaB}CaFFeA",
+"average_heartrate": 135.1,
+"average_speed": 8.922,
+"source": "strava",
+"streak": 2
 }
 ]
