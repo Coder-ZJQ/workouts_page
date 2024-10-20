@@ -19513,5 +19513,35 @@
 "average_speed": 6.552,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 12700341325,
+"name": "\u26a1\ufe0f \u6d4b\u8bd5\u529f\u7387\u8ba1",
+"distance": 0.0,
+"moving_time": "0:45:58",
+"type": "Ride",
+"start_date": "2024-10-20 10:54:28+00:00",
+"start_date_local": "2024-10-20 10:54:28",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 129.1,
+"average_speed": 0.0,
+"source": "strava",
+"streak": 15
+},
+{
+"run_id": 12700272472,
+"name": "Zwift - Tempus Fugit in Watopia",
+"distance": 21154.7,
+"moving_time": "0:40:53",
+"type": "VirtualRide",
+"start_date": "2024-10-20 10:52:45+00:00",
+"start_date_local": "2024-10-20 18:52:45",
+"location_country": "Muie Village, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "|x_fAawbz^_Aq@gCc@u@kAmB}HBy@p@_D@u@[_AsA{BGy@Ve@f@UjBNh@QPk@LqD\\c@`AObB\\xBdAb@l@AbBzA`@`@TFb@}@dBGd@Jb@h@d@bBLhFe@bAw@`AuADu@{@aBQkAXu@`BaAb@q@RqAIiBi@qBcA}BsA{AgDaCMkAb@gCl@uAb@]~C_Ah@k@Vw@HeBYcB_@o@aCwB[q@Lc@nBgBBe@WeAJu@nIaTZ{AHsBOkAo@{@cFaB{@o@}@aBQsBb@yAzEwJh@yAV_BV_@fAc@jAM~Br@jAEv@k@vAuCxCGtAc@d@e@d@eBEeB_D}EV_AlA{@fAIt@`@fFpInAx@v@Ov@w@^kBn@cBtAFxAhANj@KbCJr@jCvATz@Sx@kCdAc@bAAfKmApOCfCp@rArCzCPlAXZvBDhCf@zL}Cx@Hl@h@XlAZtDZnL]jBkBdBKzAb@dGr@bBpAj@rCGpAj@bCRt@VxAdAN`@TzBlAbAb@Gb@i@tC}I`@q@b@SjALlAx@R^FbBV^lC@nAPhBlC\\VlAFjAS~@k@d@aAHkAMy@s@w@cAg@kA?eAb@mApBa@RuEE]UKoBQ]iAy@mAWk@Pa@d@yCfJ[f@g@NiAaAa@oCkB{AyDe@{Ao@yBLyAm@a@w@UqAUeGR}@jBaBP}@@cBe@wLSsB]mA_Aq@o@AcM|C{Be@sBCUU[}AmCuCo@iAF{ClAcO?aKh@cA~B}@Vy@WiAmB_Aa@a@D_DIm@[g@s@e@gBWe@n@y@hD{@x@q@DkAcA{EcIs@a@_A?{Av@_@j@Gd@Tp@lCxDBxAe@dBm@f@gAZuCDi@j@}@tBs@b@aABwBu@sALoAf@Yb@SvAk@|A}FfMCr@L`A~@nBhA|@dF`Bb@p@L~@GxBYtAuIpTGp@VhACZuBtBCXTl@fC`C`@p@TjBM|A{@pA}Bl@gAp@o@xAc@pCRnAnDfCxAjBtA~DL~Bc@dBqBpAWd@DzAbApBGf@o@bAsAfAsE^cBGo@e@Gw@fC{EhBeAhDa@nB}@z@o@\\gADkAKkAoBqFiCgCgBeAQ]Aq@\\yBr@eBb@]xC}@j@i@Vq@LuAKeBk@gAkCaCSo@Rc@fB}ABi@WiAHm@vIwTTmAHqB",
+"average_heartrate": 132.0,
+"average_speed": 8.624,
+"source": "strava",
+"streak": 15
 }
 ]
