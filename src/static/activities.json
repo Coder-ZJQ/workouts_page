@@ -19693,5 +19693,20 @@
 "average_speed": 7.818,
 "source": "strava",
 "streak": 21
+},
+{
+"run_id": 12757522863,
+"name": "Zwift - 90min Riders Choice in Watopia",
+"distance": 50876.5,
+"moving_time": "1:31:03",
+"type": "VirtualRide",
+"start_date": "2024-10-27 11:50:20+00:00",
+"start_date_local": "2024-10-27 19:50:20",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "`x_fA_xbz^aFcCoBsHx@uGwB_GnEo@b@aFtAu@lFbB^rC~Bz@aAbDr@jAvIYbCuCkAaFxCsCN}DqB}F{F{EIoAhAmEfGyDCkEeEmFzBcCI}CrIkTd@uE{@_CcHqCmA{ErIcT|Cs@dEn@jC}DvGsAd@cEcDkFhB{BzBZdHdKrBu@`B_FjDtAFxEdDhDaEvDsAd`@zFvInFh@`M}C`Bh@xApRQbDaClDpAlKnNzB`BnAb@xCfA~@hAe@zEmL~ChAf@zCnF\\jCfD~C[tAmBE}B}B_BgC`@cBbCeF?{@cDaDoA_HtMiA}@g@yCkBwAiNyBiAmK~B_DRqC{AkSqBk@}LzCoFi@oFwItAa`@`EyDgDiDEqE{D}AyAtEoB~@iHkKcCUoBxBdDrFa@|DoGlAoC`EcEo@aDr@sIxS|@fFpH`Dv@|Be@pEsIjTJvCyBzB`EzFFvD}@zAgEdBqAzEX|A~FhFhB~H_@bBmCzBhAvE_AlBmA~@yIBWiAbCuE~KyDfA_CgBsIyGwHrAgF~FqDCgEcEwFzB}BKwCtIsTb@mEu@}BqH_DaAcFlIoSbDw@rDr@`DiEhGcAj@kEeDsFpBuBxB`@nHdKpBiApAmEpDxAHvEbDxCcE|DsAh`@vFvIrFj@fM}CzAh@xA|TiCpEKfBvA|IbNrBjBtAb@vCnA`AzEsKnAcAtCpAb@vCjFXdCdDjDYvAiCWoBoCsAmBf@kBfC_FGo@}CeDuAsAnAuEdKgBuEeBqAqN_CgAwK|BuCReCwAqSsBs@}L|CwFk@iFsItAc`@`EwDSgAoC}AGsEqDgBiB`FeBz@oHmKwB[{BfCfDtFi@|DsGhAqC~DaEq@_Dx@mIvShAjFhHzCr@nB[hE{IzTNnC_CnCbEnFDdEeGvDmAxELrAlGvFdBxH_@dBoC|BhAjEm@dBeBrAyHRm@}AbCuEzKwDhAmCaB{HqGaGKkAnAyEbE_B`AaBIaEcEiF~BeCOsCtIoTd@yEs@wBuHcD_AaFvIwSrCm@|Dr@vCeEvGqAb@aEcDkFvB_CjB\\vHjKnBgAvAsEdDpAJ~EfD`DaErDuAj`@pFxI|Fl@`M}CbBp@pAbUsC~GvAhJdNrBdBnAf@|CjA`AhAq@tCaJnAcArCnAb@vCfFXpChDrDc@jAmCa@mBaCiA{Bl@yA|BoFEo@_DeDoA_HtMeA{@i@aDgBoAmN}BeAuK|BuCRcCwAsSsBs@{L|CsFi@qF{IxAc`@~D{DeD_DGqEmB{AyADmAjEcB`AaIuKqDVs@bBbDhF[lD_H~AmC|D_Es@iD~@iIvSjAhF",
+"average_heartrate": 129.6,
+"average_speed": 9.313,
+"source": "strava",
+"streak": 22
 }
 ]
