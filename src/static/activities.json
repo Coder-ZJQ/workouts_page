@@ -19708,5 +19708,20 @@
 "average_speed": 9.313,
 "source": "strava",
 "streak": 22
+},
+{
+"run_id": 12765239512,
+"name": "Zwift - eFondo: Cat. C on Yorkshire Double Loop in Yorkshire",
+"distance": 31325.5,
+"moving_time": "1:28:50",
+"type": "VirtualRide",
+"start_date": "2024-10-28 12:27:38+00:00",
+"start_date_local": "2024-10-28 20:27:38",
+"location_country": "1-6, Oak Terrace, Low Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, HG2 0EN, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "y|ohI|ulHPwA?o@oAuMMa@KEcOjEoAz@}DhDo@v@Gn@rBpJz@rBTz@RLf@BNNjFhHbCbCdE|ClEhBd@n@j@zAjExSrAfFtAnDbG|LHTB\\M`@e@z@{ItNcA`A{C|BsAt@sA^YPU\\q@fB{HpUMh@Ev@Br@ZrEdA`LDt@Gt@W^_@AYWeAuA[IsBZe@^y@hAmFdIE`@?j@h@pIB|AeBvt@FfAPd@b@XbX`B~@VbBdAv@dAdC`E~AvA|T~J~AhArAAPJv@pALFRc@^_CLQNCz@j@`BxAfAj@bKd@~C\\~XrEPEB]qFaf@}P}~A}Fyg@cBqP{b@k|BsBoKi@e@UAUDoIvFwC`BoC`AgNdEkAx@yDdDo@t@Ij@xB`Kv@hBB\\GXOPwBt@aAJ_@Kw@u@gAwAg@cAkAyCOAsFzDeCv@yGxAGd@^`IFd@^v@r@|@rBtBjA~GfB~FtJlS`A~Bj@lBr@`DzA|JNHLEpJiFX_@^_AVuADu@AqAD[JS\\YbCgAHO@WGs@c@}CcGi]qEaNSuABaBGm@[oAw@iBMe@iBsI@e@\\q@v@{@`DsCjAy@zQwF|C_BzI}Fl@I\\NX^`@fBpe@|eClCrWfCvTlVp{BrA~Lp@bFDl@CRSPU?y[cFqLo@_@I_Ai@cCwBa@Jc@|B_@\\aAwAg@ImACyAiAcCaAcHkDaHyCm@e@s@{@{C{Ei@g@aAi@gA[{W}AYM[a@Oy@?o@dBgu@GaCc@wG?q@Hm@~EoHnAcB^W~@U~@EZPfAzAXPZILg@?kAqAuMWgEBmAPw@bI_Vr@gB\\]dBg@v@a@xC{BvAqA`KuPF[a@iAuFgLeAmCyAsFoEiT{@oB}EuBmEcD}B_CsCwDoAoB[SUXKf@ArAL~@tEzMlGt^\\~BF~@E\\OT}BbAg@`@ET?xBK~@YfAg@dA}D|BaErBUBQYaBgKo@mCm@qBuAeDwIwQqBwG_A_GKYqBuBg@m@c@y@OiA]uG?q@FQfL{Ct@c@pDoCREPNnBrEhAzAn@n@b@Jv@IxC{@^Nn@FnFnH~B`CfE`DbBz@jBn@`@b@r@fBdEdSxAzFnAbDtGbN@`@Sj@qJxOyAvAuCvBoAp@qA^WNSZq@bB_IxUMn@Ct@Br@ZrEdA|KDr@Gt@W^_@A_BmBYIq@BqA^_BtB",
+"average_heartrate": 102.9,
+"average_speed": 5.877,
+"source": "strava",
+"streak": 23
 }
 ]
