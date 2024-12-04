@@ -20653,5 +20653,20 @@
 "average_speed": 6.081,
 "source": "strava",
 "streak": 59
+},
+{
+"run_id": 13045273833,
+"name": "\ud83d\ude02 Zwift \u8bb0\u5f55\u6ca1\u4e86\u5dee\u70b9\u767d\u9a91",
+"distance": 82502.3,
+"moving_time": "2:59:57",
+"type": "Ride",
+"start_date": "2024-12-04 11:04:32+00:00",
+"start_date_local": "2024-12-04 19:04:32",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 119.2,
+"average_speed": 7.641,
+"source": "strava",
+"streak": 60
 }
 ]
