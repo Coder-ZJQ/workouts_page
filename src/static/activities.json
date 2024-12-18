@@ -20953,5 +20953,35 @@
 "average_speed": 8.359,
 "source": "strava",
 "streak": 73
+},
+{
+"run_id": 13140499584,
+"name": "\ud83e\udd2a \u8e6d\u98ce\u4e00\u65f6\u723d\uff0c\u4e00\u76f4\u8e6d\u4e00\u76f4\u723d \u2600\ufe0f",
+"distance": 82639.6,
+"moving_time": "3:14:34",
+"type": "Ride",
+"start_date": "2024-12-18 05:16:39+00:00",
+"start_date_local": "2024-12-18 13:16:39",
+"location_country": "\u534e\u5ead\u5927\u9152\u5e97, \u91d1\u5c71\u8def, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "wpc~CwjyvUjCsAlBiBpUw]~@cCbBoInA}B`L{KnVqQjMqLvBI?kArCiCjAc@wAyA?{@dF_IvR}i@xLm`@tH}MjPsWlJ{I|D}EfB}FZaIt@uH`@UhCFxB_@rDoCtBcC?mAqGyOEoEScFg@kC_BoEw@Dq@zDu@lBqA@Ct@h@pAXXx@?hBlBlBxDyDdDsCpg@sAbGoAzCcBvB_LtKaVl_@cBjDcK`]mP~d@wElLkD~EEf@^t@EZ_OhLsKlKgQrMcK~JaBlCwClM_GtHyArCuJrNqCpC{UrKqEvAwGMcAi@gBG_BaAcD}@aCReQpJcMbFgPtF_RzB}E`D_FnAuHzD_RdEwFpF{F~C_Cn@uCRmE~BmC\\Dt@e@jAeApAk@hBSrD~BlLvApEzAlO~@fBhDbCtJvLdC`FlBpA~BNhDwAbJeAzEsCz@_CfC~@fBRBRtBLfGGhFaAdNiE``@_QhLaCzCI~Ep@hT\\|XoArOwBvGYbbAUhjAkMjd@mMze@eW`WuShBeAnBwBlEwBjmAmkAntAclAzDx@bA~AhBpAjBi@n@w@jAyEbCgD|DcKnAcAnHwChDuEf@kC[oGg@_AuCaCw@}Ib@qC|@yBdGkKvHuIx@kB\\oBJkBIyGt@oRdI_e@jAyt@pYahE]iIiD}Ke@uCe@mJLeLKcD|@wMp@qEt@qD|GkUzA}LTuuAdBwf@zAsChJaL`KmGrQsNz[id@fPoVhCoChJaGd@kACqAv@gBxCkBl@{Ac@wDIwEiCmDy@mCa@wS{@sHaBkHqFsNSsB@gEaMe^aE_J_EyF{`@ca@vGvG_@YyJiKiGmEkGaCoFy@_GSuFRqHdBaGlCkg@zb@iKlHiB`C{@pByAxH{@nCwB`DsAjAsCtAuCh@sCDmGg@}DXwCdAiCbByPvSkDjHeBdGuEtYiAtJSvFDtXi@vJqBnJiDbIi]pl@uDrF{EzJaElGsHrJaMnLaGzE{BnCeBvD{AzI{@dBgRbOoRvSqKrOiMrVeAn@qFx@_ErAcDlB_EtD}Zjj@eHpQgE|TyDxKwD|PaGnb@wA`Sk@dTE`Ou@xJ`@vQXpBhAjDnIzLhBhFwEnBgCsGk@E}BrBfBlERtAuQrIoB^sBtBm@L{MnJaALsCiCxExCpS}L?gA@NjTiKAi@uBuFjCcBd@Fr@lCjAxBtDgB\\@tBrHlDlGlBhFhFvTn@|@bCtAjE|HVdAdATpBpBrB`E_DhCYr@cDpi@kCfIgP|P_Xjc@gK|\\}Rlj@kCnGqDpFX~AiNbLgMvLiQ|MkJfJyApCaBpIy@|BgGxHwNjTgF|C",
+"average_heartrate": 135.1,
+"average_speed": 7.079,
+"source": "strava",
+"streak": 74
+},
+{
+"run_id": 13141967760,
+"name": "\ud83d\ude02 \u53f0\u5b50\u53c8\u62bd\u75af\u4e86\u84dd\u7259\u641c\u4e0d\u5230",
+"distance": 45608.9,
+"moving_time": "1:46:44",
+"type": "Ride",
+"start_date": "2024-12-18 11:54:23+00:00",
+"start_date_local": "2024-12-18 19:54:23",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 119.6,
+"average_speed": 7.122,
+"source": "strava",
+"streak": 74
 }
 ]
