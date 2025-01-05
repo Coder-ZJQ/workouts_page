@@ -21328,5 +21328,20 @@
 "average_speed": 4.16,
 "source": "strava",
 "streak": 91
+},
+{
+"run_id": 13272359159,
+"name": "Zwift - Climb Portal: Trollstigen at 100% Elevation in Watopia",
+"distance": 26219.2,
+"moving_time": "1:31:58",
+"type": "VirtualRide",
+"start_date": "2025-01-05 11:08:01+00:00",
+"start_date_local": "2025-01-05 19:08:01",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "dh`fAkj}y^hD`JJdAcAhA[`B}A|Ak@pA_@jB}I`PSt@N|@lG|EpEbF~@nBt@xEd@xApC~DtBvBn@~BnAnAb@zBXT~A\\t@pA`DnA~@v@lA~BH~BVx@fAfBxB`C`EhD\\FZKZcBRmDCgFVYXLdDbFvE~CZzAfAdK`@pAbD~BxGzCXb@j@hCb@~@rFrDp@r@Hb@EZ_BzBERJP^Hb@UtDqD@u@]uCVcBWs@LKRHj@fC|AbDK~AmBrD_BlA{EhCKRFTZBtKkDn@m@hAsBvA{AL@NZ_GrGkCtByC`BkHlCoAJgBk@Uc@YcBg@CGf@rAnEDVKJOGUeAUYwFqBoFmE_@MYHKPH^zB~B|@dBlCdJFh@SRc@UyAeCwD}AmAwAqCwAc@_AYQmJqCsMkB]NPh@jElA`BtAzBhDfA~DlDnBr@l@bCfDpArBNj@WtB[`A{G`IyBhEc@fBIbAFj@b@dA?x@uAnHkAbBoFxFY`ARb@dC~@zBf@tFx@jAl@h@l@Z|@Dl@kAzIl@x@nDpCNfEjC|CFr@KhCjB~Mb@j@lFhC`@`@?b@{@rCGx@\\l@pBnALrA[x@gDpEi@tACnGMfBaAVY^If@Dh@Xb@f@Rj@@r@_@Tw@WgAu@[L}BCuDHoAfA{BjCkDVaAMgAwByAYk@bA_EAq@a@c@mFgC_@c@iBqMD_E_@w@mBmBM}@@}BKYaDeCu@aAjA{IGq@a@aAs@q@iBu@}Em@gD}@_A_@Ug@b@aAjHgIxAuH?iAa@_AGm@d@qCh@{AhAoBlHuIXaATsB_@gAkEkGsEoC_@s@s@yCgCsDaBqAmD{@YMIYTKlJpAjGtAlEvA`AxAxBdA`BfBpDvAjArBh@b@XEJWC[cCsI_AwBkCsC@]\\IXP~EbEdGzBb@tAZHNWG]gAgDEy@ZA\\rBPTbBl@dBMlHoCbDiBjCyBpFkGIYSMWJ}AdB{@`Bi@h@cLlDEYfFsC|AoAlB}DF{A}AaDa@yBQW]AIZPz@UzA\\vDsCzCo@b@]DQUpAaBX}@S{@_H}Ea@y@e@aCe@u@eGmCkCcBo@q@]eB_A{I_@cByEaD}CyEWU]?OZFvDa@hGQv@u@EyEeEiCcDi@sAI}BmAgCgA}@mC_AiAaBqBk@a@wBuAwAg@sB{BaCsCcEc@wAu@yEk@uAeE}EaGoEm@k@K]A_@Vy@dIuN\\Y^Nv@`C",
+"average_heartrate": 119.1,
+"average_speed": 4.752,
+"source": "strava",
+"streak": 92
 }
 ]
