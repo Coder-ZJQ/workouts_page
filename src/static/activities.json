@@ -21343,5 +21343,20 @@
 "average_speed": 4.752,
 "source": "strava",
 "streak": 92
+},
+{
+"run_id": 13280861094,
+"name": "Zwift - Climb Portal: Old Willunga Hill at 100% Elevation in France",
+"distance": 30330.9,
+"moving_time": "1:15:51",
+"type": "VirtualRide",
+"start_date": "2025-01-06 12:08:39+00:00",
+"start_date_local": "2025-01-06 20:08:39",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "vlscCozbu^uDuBgCo@_BPiAvAm@LkCIqBy@u@CoAf@mFtDqBr@_Er@_E|AeCb@{AQwAJwC\\iBx@aDJ}NbUsS|_@}FdC{CtBcDNsE~AmIhBeAl@a@fACnD_AvAYtCWr@}C|AoFpAoDrCe@jBIxAb@bAbB~AB|@Wt@iAbAqFlBeBdCyA`AyAnDeBjAcBjG{BAqBz@QbATzBaAlAK`CoElCsHjIkAWw@Pc@bAH~@z@p@vAU^y@O}A`IoI`EcCLaCbAsAUmCVq@bBs@nBFTOzA}FjByApA_DzAgAlBkCnFmBbA{@Zu@B}@]s@wAkAYw@l@sDzD{CfFkAxC}AZu@Z{Cv@kAJcE\\y@rAs@xIkBvDsA`DO|CuBdGoCfSm_@tN_UPq@qAqBoA_Au@{AiBaBkAyC_BgAmAYoB@_FnAaAQeBmAWq@AkAfBcFJcD{@gBgBu@cD_IsAYaOBs@UA_C|@k@l@iAb@wBXaC@uCtF{FFsBS}@{@Q_RAg@m@NcCS_AcEyDkJc@}IwAcCs@}CqC_PoCo@_ALuCKo@sFmDe@wADaBfAsArE}APm@@eErCq@NmAN[nB}@lAQlByBrC{@xHN|A}@Rs@Eq@iCqAYe@Ng@hBiALg@Wm@yB{A@g@t@aB?aAm@u@_EqBIw@dJ_Ol@CtCfCnAT|@q@PwBd@q@f@?hChAbA[Xw@B{D^_AtAIxDnAnAi@Vk@AiAuBqFSaBZq@|A_Ar@{ExAgBCu@cAgBCc@vAiF`CuFjBDbGcBnCqAj@kBx@[f@\\Nn@q@tAAr@v@|Bt@f@nAAxGoAtBkCfBk@f@XfBtEr@f@BfBT~@\\z@~@r@~@BzBk@`AFtFzEdB^zCm@hDkClAeCDiCm@eCwCiE|GgCJa@q@a@uNgBYQIc@\\i@pCkArGaEXm@_@]sNyDr@_@nJe@`@]Be@QSiHkDPU~CX^SKg@cAmAvAkBRs@C}@y@cDz@jEf@x@fGxBzKbCpGfFzAnB~EdKjJxJtB`@pE_Ab@HTb@`AfUrDrTd@tE?xBiAzD@|ApLpd@nDnKzC~LQ`AmEfFY~@XpAdGfKt@tCR|C@jG[vB}AjE_ClBYj@KnNd@lA`GnFtC`EhDtBn@~ARnC\\`AbKpNdDfC@tAQn@gDx@LdCkChDWpADfBf@r@nABdEkA~@p@j@xAFn@Mn@oBrA?p@l@xBIx@kAnB_AB",
+"average_heartrate": 123.6,
+"average_speed": 6.665,
+"source": "strava",
+"streak": 93
 }
 ]
