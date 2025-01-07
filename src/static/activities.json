@@ -21358,5 +21358,20 @@
 "average_speed": 6.665,
 "source": "strava",
 "streak": 93
+},
+{
+"run_id": 13289578169,
+"name": "Zwift - Climb Portal: Bealach na Ba at 100% Elevation in Watopia",
+"distance": 31055.9,
+"moving_time": "1:29:03",
+"type": "VirtualRide",
+"start_date": "2025-01-07 11:13:24+00:00",
+"start_date_local": "2025-01-07 19:13:24",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "jg`fAgl}y^fEdLFz@gArAYxAsBdCo@nCqGvLqIlFkEbEyBNsI_@{Dr@mCmAyEH{AQgBeAoAcEoBwCcC_C}Am@sA?cDdD_K~CwTsIs@EQV@jAt@zHmDrPgAbB}B@mDnEmErCq@rAm@pDuAn@m@Ue@cJUm@aCo@kIxAuACwIyKyEwBiBcEmPcI_YiIcQiD{Ic@kIrAuICmEqCkCy@wJ}KeJ{FiCk@gBAgCpAy@dA_@@Sw@H{As@cBNQx@b@f@Ah@a@Ge@o@}@mAs@aBLk@dAoCsB?o@nBiB?aAgJqNc@uCoBiEm@}Cz@eAImAq@i@o@Cw@^Wz@\\hAvAVf@tCpBlE\\bCl@~AbIhLDt@uBpBAt@~C|Bl@eAtAOrAv@h@v@B`@[R_@FkAc@QT?Zr@hAGzB^b@fBuApBeAlB@tCt@fJdGzI`KpC~@xCxBfA\\xH?`IuAbKf@jPdDbXzHjQrIbBzDhFdC~HfKzAPxI{AnBf@\\p@^hIf@n@~A]~@eEl@mAlEsCdDgE`@SdBDbA{A~@uCpBuKs@uJBq@XEpRxHlB`@vJ_DbDcDrA@dBt@`C`C|A`CtAnEzA|@fBTzEGjChAdEo@xJZhB_@pDoD|HyEjHeMt@^dAhDv@\\hAW~@kB|@CrAi@fAz@b@zDQxDsAJUb@@lCvCdC~@\\|FmBp@^If@kDn@KR\\^~@SfEVvA[fDyBdAkEtBkBbDcHY}A_CeCg@gCiBy@o@LaAnCuBfCoCe@_CxAmAo@s@aDnAyC~CmA|BNjBsBGu@gAeBo@SsAH{DdB_Gq@yDj@wDdC[zAcBhBy@jCjBvFn@j@nAM`AoBnAKv@e@rAl@h@pDIdEgBf@Q~BNf@lCxBrAb@|FmBd@`@?^gCZw@b@?TNPtAQbDX~Be@zCuB~@cExBqBrCqFL_AYoA}BaCk@mCkBw@o@R_AnCwBfCsCg@qBvAoAm@m@_BIgAjAsC~CoAzBPlBoB?u@sAqBcCAkDbBqBEoCk@uDf@cEjC[|AqAnAs@tAQ`BjBhFr@d@nAS`AoB`ACfAk@dAf@n@~DIvDQXuARS`CNf@zCdCvARpFgB`@d@G\\_Df@]`@JRtAKvDVjBa@xBkAv@cAt@sDdBsAdDiG@qBmC{Co@sCiBs@o@Ty@fCmBbCm@HgBi@kBvAeAMu@iA]gB`AyClD}A|BN~AcBJu@oAuBm@SoBPsCzAkBAcBc@",
+"average_heartrate": 130.8,
+"average_speed": 5.812,
+"source": "strava",
+"streak": 94
 }
 ]
