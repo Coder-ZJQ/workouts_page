@@ -21373,5 +21373,20 @@
 "average_speed": 5.812,
 "source": "strava",
 "streak": 94
+},
+{
+"run_id": 13297856168,
+"name": "Zwift - Climb Portal: Col d'Aspin at 100% Elevation in France",
+"distance": 30443.5,
+"moving_time": "1:28:50",
+"type": "VirtualRide",
+"start_date": "2025-01-08 09:53:38+00:00",
+"start_date_local": "2025-01-08 17:53:38",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "hlscCwzbu^gDkBcCq@eBReAtAu@NaCIuB{@y@CeAb@}F|DoBr@{Dp@iE~AuB^sAOuAFyC\\}B~@kC?kHzKoAPaCvBaC~FoCxDiAp@sA^eESi@Tr@`HLbHGx@s@lACl@vAhGh@dGt@`E@`Aa@|AEpANvAv@dB}@jFB~GaBfDEjCe@d@y@Eo@kB@oAhAiCJcAU_A_ByB]{@@a@p@eA@}@mAeMy@kEsCcGcAuKm@}AiA_A{B}@kFa@qGJgD|BoDv@mB|@YIu@kA]?YVKf@Dl@`A`AtAChHyAfFKjC`@jBn@z@r@`@lACvA{AnCO|@vAjA`@l@Zt@@n@{DjOGbA\\jBG|@cD`LiBnKoDvG\\v@pDpBRnBU~A}@vAaCCuAq@q@sBgAsI|AuO?cNYaI]k@w@?g@p@@fCkAxJ_AtA_CjBcAdBaC`HqDfNiA~CkIxKuB~DyAhE_FjRUxAN`AjAjAdB^d@bAJlA{@pHMnI_DhMe@QCq@bA}IUgCy@iEkB{FsBsAe@w@{DsOu@e@c@z@zA|HvBdRVvJwBpGbBtGX|Fd@xCvAvFlB^nCpBzCnGhD~Dz@lCg@j@EdAt@bAx@Ft@a@V}@QaAs@g@_ADgA}CyCgDaDwGsCuBmBc@yAiGa@oC[{F}AaGvBmGW}JcCqSoAkGFa@XSn@r@tDfO^p@tBvArBpGdAhHeAtJ@\\h@^b@g@pCoLHcI|@_IGaAm@wAsBc@}@aAK{@TwAjFgSpAqDvB_ElI}KvFgSbC_Hv@wAbCmB|@oAnAqK?cCn@e@^D\\|@ZtQKxEsAnL?vBd@pBd@nEx@dBjAd@lBFn@Uh@cAXmBSuBg@g@oCoAUo@lDqGfBmKfDoLDy@]qBFy@zDkOCu@Wq@_@k@uA}@C[hB_EDoA[kAkAgAuFoAgFHuHxAmADg@_@Um@TmAZEr@fAj@PbBw@tDy@bD_CbHKrE^vBz@rAfAh@hBdAnKnCzF|@`FfApLI|@g@r@C`@Tx@~AzBX|@EbAkApCBtBv@rAn@@h@[PaDbBwDGsG~@kFy@iBOmA@kAd@kBEuAw@kEe@oFwAcGJq@j@_AHkAOoHy@{FTWdFRrA_@nA}@dCqDvBwF|BwBzA[vGmKHc@mAoBuAgAg@iAqBkBmA{CsAaAuA_@iBAoFpAgAYeBqAOoBbByERaCIgAu@oA",
+"average_heartrate": 136.5,
+"average_speed": 5.712,
+"source": "strava",
+"streak": 95
 }
 ]
