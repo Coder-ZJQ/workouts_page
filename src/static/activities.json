@@ -21403,5 +21403,20 @@
 "average_speed": 6.285,
 "source": "strava",
 "streak": 96
+},
+{
+"run_id": 13316199437,
+"name": "Zwift - Climb Portal: Climb to Hollywood Sign at 100% Elevation in Watopia",
+"distance": 30277.9,
+"moving_time": "1:11:16",
+"type": "VirtualRide",
+"start_date": "2025-01-10 12:27:47+00:00",
+"start_date_local": "2025-01-10 20:27:47",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "bg`fA{l}y^xEjNwE~HcHtNpBfAPh@iDbGgBbJZ~IUpBgE`LqCdCfA~Dg@pAm@KRwCeHkBoMsEM~@lDdCxAo@dAh@\\vCvDl@qAdBTdD_Af@uDw@yBNuAlBoGzAuAhBkBYeAcAoB@Sh@t@`DuCXeDbBdC|DkEQk@p@JxAgBr@a@jBr@|@O~AfBdB}BVmBp@UdD_BJ}AnAgEUgCbAsAs@oG`EcCh@e@c@j@oA[]cFjAt@eF}AEuBbC_AtEsAt@m@K]yBo@S{A|D}BsBuBlAYnBc@N}@mDZkA_ASk@fE_AtAL`BvAzBdFnAtHnEtASzC`AxB[dHx@Pq@wAy@kGyAaKYkAiBoBz@FpAp@j@pAIl@}@dJVzJ|Cg@`@wJe@eDaA_BLkHkEyEgAiBcEbA_CJgCp@g@TVYbAt@lD^Fj@{BpBqAt@Pr@~Af@GrAwDvA|CbBc@zAwFvByBbA@m@jFnFgAc@`Bj@n@hCi@lGcEjBp@dB}@nEPfBqAzAI@_Cb@o@|EaAgB{BRkAq@gAXwA~As@`@kCvE@eC{DtHuBc@gE`BIjAdAzBXtAiBpG_BfAcB~BQvDt@|@c@KyD|@o@Dw@sDo@c@yCoAa@cAn@iD_CAs@rH`BpChBnHrBY`Cr@`@r@sAeAkEhC{BhEaLXaCi@}ENaC`BoIjDiGUw@qBw@jFuIz@NdAdDv@h@rAY|@kBbCm@~@^t@~DExDkBv@MhCxEvDzFiBz@\\?`@uDr@Lt@xG@dEgBx@eAp@kDjB_BhDuGO{B}B}Bs@yCqAm@aAJwDvGmCg@yBzAqAq@u@{CnAaDxCkA|BPlBoB?u@{AwB_CDkD`BcIi@{E|AuBnD{AzA{@|CrCtGxAM|@mBbCo@xAl@h@|DIrDiBl@O`C`EtDjHaBb@bAkCZo@|@bHP~CeAdB{A|@aElBaBbDqGEcBiCqCm@qCeBw@u@PcArCuBbCgCi@cCxAgAk@w@iDfAmChDwAnBTxB_CaB_D}BBiDbBgIi@{E|AuBpD_B~Aw@~CpCjG`BMt@iBhCs@rAl@j@tDIzDeBh@QpCfEnDzGeBp@z@_Dh@_@x@dHNfDmAtAmAz@}D~B{B|C}G[_B{B}Bk@mCeBw@s@NqDtGkCe@wBxAsAc@}@aDhA_DhDuAlBTzBcCqAkCw@WiGnB_Go@kDb@{D|B{DvH?hAnC~FvAM~@oBdCm@~AfA",
+"average_heartrate": 134.3,
+"average_speed": 7.081,
+"source": "strava",
+"streak": 97
 }
 ]
