@@ -21418,5 +21418,20 @@
 "average_speed": 7.081,
 "source": "strava",
 "streak": 97
+},
+{
+"run_id": 13322253781,
+"name": "Zwift - Champs-\u00c9lys\u00e9es in Paris",
+"distance": 31138.5,
+"moving_time": "0:53:27",
+"type": "VirtualRide",
+"start_date": "2025-01-11 08:05:50+00:00",
+"start_date_local": "2025-01-11 16:05:50",
+"location_country": "Avenue des Champs-\u00c9lys\u00e9es, Quartier des Champs-\u00c9lys\u00e9es, Paris 8e Arrondissement, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75008, \u6cd5\u56fd",
+"summary_polyline": "ypgiH{sbM|@kElLgi@Tq@PQREf@@f@DtCh@PBR?NMTm@r@uCdAeF`FuTrFaW?[KUm@i@uEsCwEeDc@SQCQDOLMRIVmNzo@Ev@?v@UbE?z@FXJVZf@z@lAXl@HXBZOrAmSz~@gKre@aIb^uDbPSf@MJo@V[ZMPQj@EVCr@Fr@FVVf@\\ZPD`@?PGNIZ_@Rk@DYBq@Es@[aBA[Hs@nHw[ze@wxBH[NWPKTC|@DpDn@R?NMJWRq@b@gBpAiGrEqStFgWD[E[OQcAu@uEsCkE{CSGS?QHQNKXQt@_Nln@Ev@?x@UjEA\\B\\HXLTxAzBVn@F\\A\\Kv@_a@niBsGxYwDhPQh@KL{@b@[ZKPQh@CXCp@BXJp@HTLP\\XPD`@?PENKZ_@Rk@Hs@Au@_@}BAYJu@pFuU~YgsA@@Jo@lDeP`GeXHWLQPIRAb@@b@FfDl@NANIJSPi@d@oBhBwIbEwQtFiW?[ISk@g@eGuDuDmCa@OO?OFOLKPOl@kB|IyIz`@a@tBCp@?r@WnEBt@FVJTf@x@v@fATj@DX@ZIp@o`@~gBmIf_@uC`MOd@MJw@^YXINQd@ETEl@?VHn@Nh@JPZVNF^B^KZWTe@FSHo@?o@Im@ScACWAWHq@jF_U|FuWlGsYrKcf@dKoe@HULQPIPCb@@`@FnDl@NCLKHQ^qAb@iBhAqFnE_S|FeX?WISu@o@uEsC{EiD[MOAOBMHKLQf@mNxo@Cn@@r@WjE?r@BXHTd@x@bAxATj@DXAXIp@}`@liBuH~\\{CtMQf@KLy@`@YXKNQh@ETCp@@XHl@Rh@LN\\TNB`@A^QX]Ri@DWBq@Eq@Y_BCWFs@pF{UfFkUlCeMj\\{zAHWNQPIPAv@DzDp@NCNMHQn@gCdBeIrEmSnFwVAYISm@g@uFkDgEyC]KO@MDMJKPOh@gNfo@Er@@t@CXUzDBv@FXJRXh@x@hAXh@HXDZAZKp@g`@lgBaGxW",
+"average_heartrate": 149.6,
+"average_speed": 9.71,
+"source": "strava",
+"streak": 98
 }
 ]
