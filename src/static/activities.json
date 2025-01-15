@@ -21508,5 +21508,20 @@
 "average_speed": 9.592,
 "source": "strava",
 "streak": 101
+},
+{
+"run_id": 13360671808,
+"name": "Zwift - The Magnificent 8 in Watopia",
+"distance": 30999.1,
+"moving_time": "0:57:38",
+"type": "VirtualRide",
+"start_date": "2025-01-15 11:12:26+00:00",
+"start_date_local": "2025-01-15 19:12:26",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "tt_fAu__z^cBdB_@hBVtCrAnDdBlB~CpBpKzDhAlBtCtHK`@Y@}A_BaBYaA^k@nAXzB`GnQkAjBSrAuApA_A|B?t@hB`Fd@b@bA?h@]l@}AbAEjAk@fAl@l@zDK~DgBd@OdCxDnDhAHjFgBd@d@G^}BT{@b@?VtA?fEVtEgB|@gAt@qD~B{BpEeIx@sC^oFk@gNzAcLt@uA`GcFhB]zBr@|@QBs@_Aa@CWdCIb@}@a@g@aBKgAkDjC}@NwA_CoDk@cEsAg@oCOeJf@k@`AyAbGu@l@cYiG_DFsH`A_HlBcASSmAByBPwAb@g@zEuApNoBrEcEbEx@j@IV}@EaJf@mAjC{CHkBy@gCeBoA_Ea@eHCsB~@cHvFyGlABrAbClJGz@WPgAg@wBmIi@q@_@L_@z@KpH\\p@v@?j@gBYk@kFOqAmLb@eG{ByC]oCl@iDdDsHb@_E?oD{@uGmBcCEiA{@_Aa@iCLqAzCyJXgEuA{CmD}@q@cAsBgIv@qGkBsDKw@t@_AbDC\\_Fb@g@r@I`BVbChA^d@FvBzBr@?`@aA~Bl@jAnBN|Ea@hCkCJs@aAmBKkAVo@~BeBXwAImBmBsF{F}EKoAf@mCh@kA~D}A~@wAL{ASmBcEiF`CoCWeBJq@jI}Sf@qEMqAe@s@oFgBgAaA{@uB?aBxF_MtAsEvCu@bCv@~@Et@c@fBcD~CGnBgAb@aBCeB_D_FNs@n@q@jAa@dARvFzInAz@x@Ot@u@nAmErAD|@b@f@z@HpEfCpAVbA]|@sBn@o@jAAlKkA~NE|C~D`FXbB\\P~Ff@hLyCr@?v@f@t@jEb@xLQjCeB~AY~@LdFp@dDdB`AhCIvAn@vDf@fBxAb@vCtAx@z@s@hD}Jh@a@fAF`BfAd@xCfDB~An@tA`DJrDUbAk@n@cLjGq@rDoBv@yA|BJjAn@`B~Ar@JpB~@hBi@rBcBRMz@~BHNb@uBlBoD~@u@~I`@fChAfDbF`GUbGPjDqe@hLkNfEi@b@Et@pBnGsDpAeIhB{GZgB_AqF{GaCu@yBBoBn@}AnAaCxFkAdAoWhEgD`BoBnCe@pBKvBpApMgB\\[f@Rp@fCjBPt@k@|@kHpFc@nACvAfAtEpBxChElC`HtBdBdArEvKGb@[@wA{A}A]gAZk@|@VpC~FtQeAxA[~A}BtC[nANt@",
+"average_heartrate": 137.9,
+"average_speed": 8.964,
+"source": "strava",
+"streak": 102
 }
 ]
