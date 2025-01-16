@@ -21523,5 +21523,20 @@
 "average_speed": 8.964,
 "source": "strava",
 "streak": 102
+},
+{
+"run_id": 13370043493,
+"name": "Zwift - Makuri Madness in Makuri Islands",
+"distance": 30355.1,
+"moving_time": "1:00:36",
+"type": "VirtualRide",
+"start_date": "2025-01-16 12:05:04+00:00",
+"start_date_local": "2025-01-16 20:05:04",
+"location_country": "Bwuang, New/Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "xy}`Asles^aAYaHtAaAMs@gDsAgAy@uCBu@dBqCoBMe@_@{DmT{HaEmHoNeJ_B{CUgCXeBhBoChP`E~GF`A_@bCP^hOlALl@q@rGe@z@o@RmGYy@nCcHjAa@`B[|G}JbLcCVsHmB{GMcHsFoNo@}Dt@_D}BKoEcGmBe@eAjA}BJoCv@o@?{DTg@rDFF|@h@d@c@|@V\\`@_@hAGBo@_Ac@VsAjLRpCoAzD\\`HbHpHhFlMbA`IFnH_Al@cCl@StId@nBpAhCb@v@`Ch@^xIuBpAJ`BfA~@|AbCfKvIpIrCxIHbCh@HnAiAx@HlAfCeAhCLd@jFUnAv@Ep@yAlBNhD|@hCk@r@iCp@Kn@Tl@hALb@a@_AqF`@m@nAYzCNlC~DlCc@`A`AN~@Sj@kBrAPrCU`CgA~@{Bk@wDRQp@j@pEeAV_ByAu@LYlC_BpHuA~B_A@}@iAoAFiB~AY`DoFfC}Dl@qFi@kEXaJvDkFr@yCnBoGx@k@pB{@v@f@dEfDlB^hD`FlAn@`D\\\\`FIfAiAUkBm@e@{@@aAb@[r@~AvNbA|AbFE|@b@BzHV`IlCtApAjCz@r@xBVbb@IdBiA~@cBAgAmAkCJaAtLaGrCm@vAn@IrDPj@~@PvFe@nCtEh@HnBs@v@PbExGB|@oAl@eDsD}A\\{AtB`BlBDl@e@fAs@\\_ASoCmC{C_@gBXg@p@{@~DgGnCiKjKoBtFcFj@kAbCw@f@cFj@cF|AcAUg@}@^aFu@_BCgA\\}@|@YvAh@|@rAJxCcAhAwEDuAaAIaDiCsAh@{DGmB}CkM}EwCw@sAVuBdB{AfBe@bAH|@t@pAlCtBl@rb@?~Au@|AuB@iAsAaDZ}@lL{FvCi@nAj@IvDPj@~@PjFi@xAjClArAvDg@vEpHK|@iA\\_DoDwATcBlBJt@|AzAYlA}@n@aAQkCmCoC_@sBRk@r@{@~DiGpCgKhKk@|@iAzDaFh@mAhCq@`@oFn@{DtAiAC}@gA^cF}@wBFeAf@y@dACrAt@h@`ANbCs@rA{C\\kBSi@c@[q@?gCgCuAh@}DEuA{CuMu@_AsEkCQoAf@}AzAmA|Bc@zAp@xAvCxAl@tc@BjBaApAuBAgAoAuCNu@n@e@hK_FbCi@`Bj@EjE",
+"average_heartrate": 129.8,
+"average_speed": 8.348,
+"source": "strava",
+"streak": 103
 }
 ]
