@@ -21538,5 +21538,20 @@
 "average_speed": 8.348,
 "source": "strava",
 "streak": 103
+},
+{
+"run_id": 13378825268,
+"name": "Zwift - NYC KOM After Party in New York",
+"distance": 44148.8,
+"moving_time": "1:25:30",
+"type": "VirtualRide",
+"start_date": "2025-01-17 12:23:34+00:00",
+"start_date_local": "2025-01-17 20:23:34",
+"location_country": "East Drive, Upper East Side, Manhattan, \u7ebd\u7ea6\u53bf, \u7ebd\u7ea6/\u7d10\u7d04, \u7ebd\u7ea6\u5dde / \u7d10\u7d04\u5dde, 10075, \u7f8e\u5229\u575a\u5408\u4f17\u56fd/\u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "cx{wFlhmbMiI}Gy@qDTeGe@{Bi]iUgBo@aGWiGnB}EuCkHkIaJSiAv@HnC|CrHQxCwBpFrC|J|LzHnC`FhHz@fApBnAnFfCpDfFtBnHyAxB`@bFlFtAdDlFDpBhAvJhLpE~HlBlBtAd@nH[rCh@vAs@fBsBf@cBKqFnAqHReE^m@bAShCx@nA`AlCtFbErC|A~B?jBuAjFf@tCvBlCxJhGNzBkAzEsDtGsAt@u@E}EsD}IgLyMqGk@gBI}BrCiEf@gBKgFpA{HKaDkFqBuDeHuDMsGeB_TcQuAaEL_IeA}Bc^kU_Ic@sFlBaFuCmHmIeJQeA~@PpCvC~GMzC{BrFtC`KbMbIdCxErHbA`AlBjAfFrC|D|EnBvHyApB`@dFlFzAhDpFDzAx@lKbMdElH`C~B`AVpH[tCh@hDkC|@iCMcFpA{HHiDr@iAzBFfCtAvC`GfEtClA`BThBwArFHdCjCpDnJtF`@lAEzAsBfHqC~DiBj@mFqDaJoLiM{Fu@}AQ{Cb@qAlBuBh@gBKkFrAgIIoCsFyBqDcHyDMuGgBaTgQuAiFPgHeAkBi^kUwH]eFlBmFwCmHmIeJQy@d@?vC`CdF^`C]hCmBnEtCfK~LzHfCzEpHbA`AhBlAlFnCxDjFtBhH{AvB`@dFpF|AfDbF?`Bz@nK`M~DhHfCdCdAXjH[`Df@pAu@vA}An@mBG{FnAiHTmE\\m@`AQpCz@hA~@pCxFxDfC~A|BH|A{A~FZdC~B|C`KvGJpBiAzEwDtGgAr@}@CaFuDyIcLeMyFw@{AU{Cb@sAlBwBj@iBKmFnAuHKiDeFgByDkHuDMmG_BqSuPs@}@u@}CPmGa@cCo]oUsBq@aGS{DfBgA@wEqCcHgI{FAgDq@iBiBiA{Cm@]kAd@[`ARrBfAhCMnAo@l@u@GqDwDcD_BsBBwC~GqA~JHjAx@bAv\\lSlC\\dM}@tBZvg@x_@hKdEvIxA~Es@jE{OdDuBbCDzFxBbU~NvIfIZrAK~@}CbFjBrHgAhKj@fAjEl@zDqCpBMpDgI|A}@bDvDjBgCjCXdFhDh@jA?fAgFxMmI|X_CfCoEy@aD{Bg@uB|AaGlBgB]kHrDcJDwBaCuBsAbB{BTgDfCsFeAbAuLgBkHnCkETqAg@oBaBoBaYaSqFmCcEaA_C`@gBvAkE~OwEr@oGsAq@mFiBsCkCeBYuA~@qCtD^dAu@x@kHe@qCgDeCaUeIiS{Ng@mAn@iFkEiEhAmFKkBeBqBmM{I}DyCmAWeAx@iBzFyFDmC~@eAnAmBpHTvCzEnCxDvDvAo@PkAM{@",
+"average_heartrate": 142.7,
+"average_speed": 8.606,
+"source": "strava",
+"streak": 104
 }
 ]
