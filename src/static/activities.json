@@ -21553,5 +21553,20 @@
 "average_speed": 8.606,
 "source": "strava",
 "streak": 104
+},
+{
+"run_id": 13387270921,
+"name": "Zwift - Scotland Smash in Scotland",
+"distance": 31336.5,
+"moving_time": "0:54:23",
+"type": "VirtualRide",
+"start_date": "2025-01-18 12:18:12+00:00",
+"start_date_local": "2025-01-18 20:18:12",
+"location_country": "Portcullis Buttress, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170 / \u8607\u683c\u862d, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "esrrIhez^jAlApf@L`@vBUfDqFVMzKY|AsFa@SaL[aAgEB}Fx@S}ABe\\h@w@tHAZy@DiEd@m@rN?`AbABrK_@`AaJ@}@`A{@aAyCEYj@AjJTbAbTJf@PV~AClC[n@oF\\YdNsEPo@`BFhJbDxFnCnIZjIg@vCcCBc@tDqCl@w@vCKdCx@zA~JdAl@zCRxJq@pDuDHaCpBeApCSrDqAhBeGL{AzA_BwDoEkA}GBcBfFwJjKoElI}Bn@mAmAkAgEgAeB}FVkAs@q@kBy@iHuEsKo@_GhAmJz@}ArAb@N~BaAvAeDuCiCxAkBoFk@HaBtCw@G}@wA?uAjB}EMyDd@wBy@mFx@gDuAsEi@GaBtB{@JqBuEq@wE_Bo@{@jChAbD_@hDwFxAaD~Cc@vAf@tCnEhB`FkA~Dj@p@rAXlFlAfCf@LdCgGWaCd@gDu@eFt@aDmAeGdBaDz@AzBnCzCgAzAnBvIaFr@f@fBvEdARl@_AxCoLxEwDxBiNrC_AhCrErAmEdB}@fAyBpApAfCAnGrBhOz@Z_BSmMkECyEpAu@y@?u^bJi@TyFd@w@pOHj@tA?vJ_@bAsI?sA`A}@cAqCAWn@NjLnTJd@XPdBWfDsFZWdNqEXu@tA@hJfDdGpCxIX`Ii@zC{BIg@~DyCv@w@fDCrB|@vAzJdAl@~CPhJMzBe@~@sDH{BhBmAzCOjDuApBgGL}AvAi@o@w@gCoEkAaHJcBnFgJvJaFdJkB\\mAgAqCmHyFRaBiAgBsKsEqKi@}FdAoIv@iBnAP^vBy@lBsDwCkCxAmBqFkDfDyEqHa@aGi@gAeEm@iFhAgEgBk@wCd@qB|CyC`GcBXsCeAwCbAkD~Ar@x@nFnAfDl@Z|HaJnCvChCkAnBvBdJaFlCvFbA\\x@qAnC{KzEwDzAoLlB_CzAPnB`Eb@]n@kDdB}@b@{Av@a@`ApAhCAxFlBnOpAj@lALdIdD~FfC~H`@zHm@xDkBYu@nEwCr@}@nGv@`BvJx@t@tCT|Ji@vDaER_CrBaAdCU|DkA`BwGVkAvAk@a@WmBk@k@mEiA_HJqAvEiKbLkEjIaC\\y@{@{AeFkAyAeF^aBeAiBwKuEwKg@yEdAkJt@kBnAN`@vBw@nBqDuCiCxA{AwEg@]sCjD}EmHc@aGi@kAgEo@_FjAcE}Ay@aC`@mCxCwCnGyBPsCcAuC^uBh@k@|Ax@v@lFlAdDj@ZzHaJrCvCrCiAdBtB~IcFtC~Fv@Z|@eAtCmLzCoB",
+"average_heartrate": 151.3,
+"average_speed": 9.604,
+"source": "strava",
+"streak": 105
 }
 ]
