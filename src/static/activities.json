@@ -21598,5 +21598,20 @@
 "average_speed": 6.014,
 "source": "strava",
 "streak": 107
+},
+{
+"run_id": 13413552234,
+"name": "Zwift - Group Workout: \u9f13\u8f6eCybrei\u9a91\u884c\u53f0\u56e2\u7ec3 on Tempus Fugit in Watopia",
+"distance": 33002.3,
+"moving_time": "0:56:42",
+"type": "VirtualRide",
+"start_date": "2025-01-21 11:59:59+00:00",
+"start_date_local": "2025-01-21 19:59:59",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "fc_fAm}bz^bB\\lGiBi@{Ex@oFyBwF`AeAnCB`@yEf@q@dCBnDhBNdCzBv@cAdD`AlAdI[bCoCDo@}@eBOsAzCwCTsAGiBkBqF}FcFMwApAsE|DuAdAcBJ{AWkBqD_EKm@|BaCMyCrIiTb@mEs@aCqHaD{@gBIeB`GyMrAoExCo@xDr@z@g@dBaDrCE|BmA`@{AAcBcDsFh@iAfAi@~@Cz@h@|E`IhAx@j@CbA}@vAsE`BNnAbAFtEjC`BZfAWz@{Bt@m@jAAjKqAvSbEfFT|AZPnFj@hM}C`Bn@|@hHRpKYbBmBfBMdB^pFr@lB~Ar@lCIzFnAhBpAb@zCnA~@jAw@|CoJhAq@rCrAZnClF^pChDhCM|AyAJmCsBiBaAIoA`@kBjCcFAa@_@YaCsA_AoAO}@r@wCbJcA|@sAcAg@{CiBqAkGqA{BHwAi@q@aB_@qFLwBlBcBV}AYaLy@wG_B_AeM`D}Fi@q@sBaEiFvAqS?iK^y@nCgAPeAOm@sCaBCcEqA_BmBU{AvEeB~@oA}@eFkIsB]uAv@c@fA~ChFBbBa@|AoBbAaDL}AxCy@h@eA@oBs@kDv@wA~EyFtL@pB|@pBrAfAbFbBn@jBa@pEuInTJzC}BfC~DjFJxD{@zAmElBmA`FTpAbEzCbAvAxAhEJjB_@dBmCzBBxAfA`CkAtB_Ar@mE`@uCa@MmAfCwEdB_AlDc@bCkAp@u@XwASoCuAwD}AmBiDeCMgAjAyEfEeB|@wAL{AWkBaEmFzBaCG}CvIsT^oEu@wBmHyCcAyBCgBxF}LtAyE~Cw@xBt@dAEv@g@xAwCvCGxBcAh@}A@eBaDuFj@mAlAm@z@?r@f@|EbI`Ax@~@Ez@w@xAwE`BRfAbAJ|EdCrAXnAa@v@yBv@a@`AAdKqAdTzD~Et@tBxFl@~L}CdBj@n@lDf@pLKfDoBjBS~@RdGx@nCxAn@dCIrGzAxAhAj@~ChA~@jAq@nCsIlAoAbAL|AfA^pC~ETjChDtCMfBoBAcCwB_BiCZqBhCsEAe@[_@mCyA_AcAKeAt@{CdJaAv@eAu@i@_DiBqAkGuAmCHyA{@w@kDKuEXcAfB_BRkCc@yLu@sEqBm@qL|CyFi@m@kBeEmFtAqS@kKf@eA|By@Vw@UiAoC_BBsD_A{AgCa@uAtEaB`AoAw@iFwI}@a@mALoA~@W`AbDbF@jBk@bBoBx@_DLkC|D_ABqCs@{Bd@s@bA",
+"average_heartrate": 158.1,
+"average_speed": 9.701,
+"source": "strava",
+"streak": 108
 }
 ]
