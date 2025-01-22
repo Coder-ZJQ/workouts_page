@@ -21613,5 +21613,20 @@
 "average_speed": 9.701,
 "source": "strava",
 "streak": 108
+},
+{
+"run_id": 13422602350,
+"name": "Zwift - Downtown Eruption in Watopia",
+"distance": 22858.7,
+"moving_time": "0:50:56",
+"type": "VirtualRide",
+"start_date": "2025-01-22 12:02:54+00:00",
+"start_date_local": "2025-01-22 20:02:54",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "hn_fA}d_z^rAVzEtGz@?fAu@tAwBL}AcAsBaDgCKm@NUdASnGGVNB^g@vAu@CSm@JeHXu@\\Qf@z@lBxHzAdBoApCDrDeBt@[l@QzDHfAVj@pABvFcB~F{@~CW~BFlSvEHzBxA`Aj@tAFb@INaGlDi@z@QBc@a@aC{FiA_BgBe@oCTm@h@RrBVl@dB|@Tb@_@l@sBxAOFiAiA_AUWuA_AkAe@Is@Nu@dA?v@zA|@?hBtBfA_AfAJz@kAb@eDZoBcBuA_@iATq@|@Ev@VxAbGpQE`@cAjAUrAkAfAo@hA[`ABt@n@jAx@vCf@`@r@?n@Wx@gB`AChAk@dAj@l@~DIrDQXuAPOv@AnAZp@fCrBt@Xv@IfEaB~Al@t@?rD_BXa@h@mBdByA|AsBPkBScCyA_CoAcEo@k@uAk@_Gw@qHh@uBh@w@j@k@tAsApAQl@v@bDh@`Ej@jAf@b@lBB^mA`@[xH_Bf@Rd@tAnBd@~AEh@qAB}CwBuEmDkBcEMsC|@mBhBYp@KjAJrAxA~DbDdBtBLnBo@bByCBeBu@eCoAcAcBQ{ANy@h@i@tAAdBl@vAbA`AfAHfAUv@w@XiA@aAa@u@uAq@_AGo@LaAnA_@E?Sh@wAhAi@nBEpA^fA|A^jCOt@wAbC_Bn@mBCsCkAcAwA}@yDBqARq@vCkCjA_@rAIfDZpC~AtBpE?xBUrAQRs@J_C]e@_@YeAi@OaI`Bo@xAUN}@@u@[y@_Be@}Ds@}B?k@xAcBdAqBbD_ApIe@lDj@jBn@t@r@jA|DxA~BP|C_@dBoDhDs@zBwCbBiATsBq@wFjB}@]oC_CKcAPwAzAULa@EkAN{Ag@}Do@q@q@GgAh@aADaApBoAJc@a@kBqFb@iBj@_AdAaAX{A`AgAF_@gGcRSqB^y@dAc@|AX`B`Bd@KBs@uCqHiAiBaB}@kH{BqCaBwAsAu@oA{@gCUiBFwA~@cB`GeEr@aA@_@Uk@mCsB?s@vCa@jE@T`@]tAq@Na@a@FeHh@uAV?V`@|BxId@d@l@@\\]By@_CeJCyA|GiAvGqFjB}@|JHrB\\~@l@v@tAXfBSpAeClCe@jAIvANfGO|@e@JoC{@q@Cu@^oB`Cu@b@wMhBsFxAu@|@MvE^rAp@JrHqBvG}@vDKbQvD",
+"average_heartrate": 134.1,
+"average_speed": 7.48,
+"source": "strava",
+"streak": 109
 }
 ]
