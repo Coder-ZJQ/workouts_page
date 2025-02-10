@@ -65,6 +65,7 @@ const RIDE_TITLE = IS_CHINESE ? '骑行' : 'Ride';
 const INDOOR_RIDE_TITLE = IS_CHINESE ? '室内骑行' : 'Indoor Ride';
 const VIRTUAL_RIDE_TITLE = IS_CHINESE ? '虚拟骑行' : 'Virtual Ride';
 const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
+const WALK_TITLE = IS_CHINESE ? '散步' : 'Walk';
 const ROWING_TITLE = IS_CHINESE ? '划船' : 'Rowing';
 const KAYAKING_TITLE = IS_CHINESE ? '皮划艇' : 'Kayaking';
 const SNOWBOARD_TITLE = IS_CHINESE ? '单板滑雪' : 'Snowboard';
@@ -77,7 +78,7 @@ const RUN_TITLES = {
   HALF_MARATHON_RUN_TITLE,
   RUN_TITLE,
   TRAIL_RUN_TITLE,
-
+  WALK_TITLE,
   RIDE_TITLE,
   INDOOR_RIDE_TITLE,
   VIRTUAL_RIDE_TITLE,

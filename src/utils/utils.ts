@@ -216,6 +216,8 @@ const titleForType = (type: string): string => {
       return RUN_TITLES.VIRTUAL_RIDE_TITLE;
     case 'Hike':
       return RUN_TITLES.HIKE_TITLE;
+    case 'Walk':
+      return RUN_TITLES.WALK_TITLE;
     case 'Rowing':
       return RUN_TITLES.ROWING_TITLE;
     case 'Swim':
@@ -263,6 +265,8 @@ const typeForRun = (run: Activity): string => {
       return 'VirtualRide';
     case 'Hike':
       return 'Hike';
+    case 'Walk':
+      return 'Walk';
     case 'Rowing':
       return 'Rowing';
     case 'Swim':
