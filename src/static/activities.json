@@ -27208,5 +27208,20 @@
 "average_speed": 5.341,
 "source": "strava",
 "streak": 129
+},
+{
+"run_id": 13608196134,
+"name": "\ud83c\udf27\ufe0f \u4e0b\u96e8\u4e0d\u9a91\u8f66\uff0c\u51fa\u95e8\u95f9\u5143\u5bb5",
+"distance": 1905.0,
+"moving_time": "0:32:55",
+"type": "Walk",
+"start_date": "2025-02-12 11:31:09+00:00",
+"start_date_local": "2025-02-12 19:31:09",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 86.4,
+"average_speed": 0.965,
+"source": "strava",
+"streak": 130
 }
 ]
