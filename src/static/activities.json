@@ -27343,5 +27343,20 @@
 "average_speed": 9.126,
 "source": "strava",
 "streak": 137
+},
+{
+"run_id": 13678497674,
+"name": "Zwift - ZG25 Queen in Watopia",
+"distance": 55415.9,
+"moving_time": "2:23:53",
+"type": "VirtualRide",
+"start_date": "2025-02-20 11:38:19+00:00",
+"start_date_local": "2025-02-20 19:38:19",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "tp_fAig_z^jAhFoA~BBrC~A`GdGbFvK`E|ExK_@l@yDyBuBdBzG|UyFlLtCvGpCuBrCy@nAr@^pJmBr@FbDpEvCvGeBRz@wD|AfMBdFrGnHa@hOxBnL_ApNjFd@xDGjG|REdHnDJvDaGxUsPhOeE^gGsF_F_PyKvCkL_K{B{LkIiNc@eEdAwEgDsG~BcIlKyQIeVhBuLpH}GrGNy@sBhDs@gCmAaAqC|CsCiCsEc@uDkO{@dOkCoO?`AwAjMaCqHeQT_CzAcAhCzA|E~MrMUx^bGz@|Ft@p@v@a@|@_G|AgASrIp@jB~Y~HaAfLuA`ERfEvEhHhGfCfGrH`PxAnR}ExO`B~@jDhCe@tC|@_@jAcDTOnAdFzDbFbKlCj@dAiEbCO~ClBl@nClU|HvHJrBvB`@tCeAvAqCE[jCyHZcIqCuA`AVlJrClCq@bDdHpEdI{AjAeGq@wBnA}@tBNdCdCnBqBvCnB~Ds@|EhB~AlCxLK|IqG|KaAlJ`CzIm@jBnD|Bg@xBcNyAwG\\cB{EIyEoDhBwDw@mCnD_@b@gAoGaC_AmDj@iFnBeBpH`Cv@qChAAlAhG}Dj@k@fBmG{A`@qDnCwC~@uDpDb@fAiAiAaChA_IaHcBoDoE~CoJaCsDv@wCYeHfCcBdAyC}@oFvC}AxDZh@qH`G{@dA}JzET|C_EiAuCcDSyC}B}BRUkAfAyA_@kAmEISaBpA{B|@cIoAuB}E}@[aGcIM_GaDcA`As@lFyAd@u@_AM_FcBi@eA|@KbFeAZkAkHiAc@gA~@SjFu@Py@cHcAq@gAj@S`GoC_BeKQgGeLLqEoCiE}DiA{@cEcQeLyI|CgDlMwG~ByDaAsAaHuRDw@pChApOS`HbAdFcAhDeBh@}BsAeBqPgCLa@|HcFzC_BaBMeJcFa@u@zHuCdAeBrDz@xDcDhBoBUf@jB{AlEZpFkFhEj@xDjBdAGlBqGvDy@~OoCnGgDhB}@vC_D~Bn@rD}BvJvBnChEqShBoCbC?eC`J]vD`FtFpCkGByPnCoDxAnCeAdJL~Iz@fDrAZjAs@lCiYbEyBd@z@q@~HbA^lCqB`FkPbDqBImFfFgTnIcLzNt@jAnGtA`DfE`B~FAjCzEjQh@jFmCxA}HoD}GpEkHjFfBvGiEo@sJdD}IUoCuDsFF_FuC_E_EcAa@oDyQkLaItCgDjMmHjCsDmAOoEiAmAaRF}@`DfAxNS`HdAdF}BbFwB]eAgB_BmOqC|@JvE_AxBeFvAkAkMmOqOaOgFkOBsWrF]fBhA|AFxClBpBQ|AiFgCyJpFst@rQ",
+"average_heartrate": 117.6,
+"average_speed": 6.419,
+"source": "strava",
+"streak": 138
 }
 ]
