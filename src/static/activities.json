@@ -27403,5 +27403,20 @@
 "average_speed": 8.912,
 "source": "strava",
 "streak": 140
+},
+{
+"run_id": 13704664208,
+"name": "Zwift - Climb Portal: Norton Summit at 100% Elevation in Watopia",
+"distance": 18920.8,
+"moving_time": "0:55:41",
+"type": "VirtualRide",
+"start_date": "2025-02-23 11:53:28+00:00",
+"start_date_local": "2025-02-23 19:53:28",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "ze`fA_p}y^jC~HfBtEJh@?XOVq@p@KXEj@IXiAbAW`@o@zAKx@I\\wH|MYx@e@lC_@hAu@n@aEzB[^CZN`@^Z~AbAJLHRCv@O|@Qd@c@n@iAfAsAp@cB\\{BL_BCmCOqDc@qAIy@@mCV{@Am@M}@_@eAg@_BeA]Iw@GyAAsBDoCLuD`@gBCe@HKNAJNZZPx@RpBP|FDfAL`@PFNILcAv@kDbDa@h@AXLXd@PxEVjAPVPJTDl@Cd@IPKDeAJ_FUwNFuBLuEr@yDXqCFqFIYBSHGLCJFXhA~@fEjCxDvAnBnAn@r@Tt@FbAA`AMpBEf@Ut@S^]TuAOmCo@WYq@aB]_@]OyAMaCIsCCiDFu@Cs@QwBiAiA]_AL{CdAyCh@qBLyCAsBQuCm@aEoA}BiAuA_@mBOaBNm@Au@YaBeAaA[iBQ_Mo@u@MkAe@i@M]@c@P]\\q@~@SPg@Ji@EyAq@y@m@Ye@[sAOa@W[k@[e@ESBsCbA]AYKSUGWGgBKg@a@i@c@SeASkD_@qWqDcEg@mA]uC_B_AUe@?c@FcCdAy@NOKYk@wAyBCG^k@Ba@Ge@W]c@SYE[DYJUPMXEZ@ZPf@b@Zj@Ff@QJHnBfDNJR@f@KjCiAl@IV@dAVpC|AdAZp^|EbCVlATn@X\\h@DXBjAHn@JTPNl@JVC|B{@j@GRDl@\\TZb@jB^l@~@r@xAn@j@Bf@K`@[bAqAXQ^Cn@NpAf@b@F`Jd@jE^dAZxA`Az@Zl@@rBO~ANfAXfCnAhDdAvCp@|BT~CB|BO|Ci@rCaA|@O^Hp@XdB|@lAX|@@jEGxDFzBPTJ`@b@v@bBTTvCr@bALTC^]\\w@Jg@PiC@aAEeAUu@i@s@kAw@iAm@{CiAkDsB_BkAMWFWXKX?bFHlDKpDYpDk@tBQbOGbFTnAMRSD[@YIu@QUUOoAQoEUWESOGUHW`@e@`DyC`Aw@JWKYWM[G{@GiFCkBMs@Om@SOSBUTIpB@~Ee@vDMpB?vALZLfAv@lB|@x@V^D|@AvBUz@AxAJpD`@vCNxABvBMz@Mv@WlAo@j@i@f@m@`@q@H]PwAA]OYwByASUI[JYl@e@dDgBj@c@NU^iA^cCRq@h@cAlAmBpDwGVQL?XNTd@l@|BZf@f@Jz@K",
+"average_heartrate": 131.4,
+"average_speed": 5.663,
+"source": "strava",
+"streak": 141
 }
 ]
