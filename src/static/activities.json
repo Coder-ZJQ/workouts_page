@@ -27433,5 +27433,20 @@
 "average_speed": 5.615,
 "source": "strava",
 "streak": 142
+},
+{
+"run_id": 13722389095,
+"name": "Zwift - Climb Portal: Old La Honda at 100% Elevation in Watopia",
+"distance": 12878.9,
+"moving_time": "0:43:56",
+"type": "VirtualRide",
+"start_date": "2025-02-25 11:58:46+00:00",
+"start_date_local": "2025-02-25 19:58:46",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "dh`fAkj}y^jDdJJt@KX{@|@OfAKXaAx@a@n@i@nAUvAkE|Hq@jAO|AAfBl@dFfBxCLxA`@Np@Kn@c@N_@`@wBTWpHJd@FzAr@tEpC`Bb@Zd@h@|Aj@XKdABRTHj@MP\\KXa@^]J[As@OsCoA}Dc@mBo@k@Gg@FsAj@k@d@Yf@[pAKvADnATnAXRbAVt@x@~@Fh@\\Xr@ARYz@BXJLd@BbC_@b@BDRMj@GrAFh@Rl@^d@`@VlBVN^@|@FXb@Tz@JNL@Ri@pAiBpAUn@?TJTp@VHTTxBBp@G^[p@_@`@wAh@]XSd@[xAg@r@y@j@cAXa@C}Ac@w@T[?SGIMSqAUc@i@Wq@BWJSX{@pCoA|@GT@P^p@h@^l@@h@e@JCp@RrBfAtADpA~An@Zh@L|@IrBy@pAW`BOb@Hx@nBXf@pBzBz@|@CXa@z@k@`DgAdEHp@j@v@GdADb@PNv@DLHRj@Kr@F\\Z\\v@\\`@f@b@BfB_@h@AxAb@Ar@L`@PPl@Th@Al@]Vs@A]I[_@a@[Km@Ag@TMZMDyAe@UAoB`@YBYIe@i@s@YSWC]F[?]K[USy@IQUFyAs@iAC]hAiEf@sCh@qAE]iDoDgAkCUU{@CwAPsAZeBr@y@FmAc@mA{A[I{@A[IgCqA]@q@d@_@C[Qe@s@?a@VYv@c@P]n@{BTW^G^@ZNRXVzATT\\Dx@U\\BrA`@\\?x@Sp@_@h@i@PYb@oBNWVQdBs@`@m@Vu@GuBWwAs@]M[D_@PYjAu@h@m@Zw@A_@SU}@MYMK_@A_AO[]M_AG_@Km@k@O[M_AB_AP}@M]_@EaD`@SWFa@N]@a@M_@U[[QcAIm@o@yAi@QYG_@IcA?aAP_Bl@sAn@g@rAg@z@?nBp@jEf@`CfAv@T\\@t@Wb@m@C]WQy@@J}@I[]MQ[e@wAUYwA_@eGkDqAe@qFO{@A[FSTm@pCm@d@[J_@?UWEcAM[{AeCg@aECaCL{A~E}IXY^ATV~@zCP\\\\Pn@?f@OT[d@qAjAGfAk@`@Jb@^L\\J|@",
+"average_heartrate": 134.2,
+"average_speed": 4.886,
+"source": "strava",
+"streak": 143
 }
 ]
