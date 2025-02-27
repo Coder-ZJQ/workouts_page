@@ -27463,5 +27463,20 @@
 "average_speed": 6.105,
 "source": "strava",
 "streak": 144
+},
+{
+"run_id": 13741127112,
+"name": "Zwift - Climb Portal: Cipressa at 100% Elevation in Watopia",
+"distance": 16394.9,
+"moving_time": "0:40:10",
+"type": "VirtualRide",
+"start_date": "2025-02-27 12:16:10+00:00",
+"start_date_local": "2025-02-27 20:16:10",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "zf`fAom}y^tEhMJx@MVy@z@[`BaAx@i@|@a@bAWxAsFhKw@^aCXcAXgCfAwBpAw@Ra@OcAkB_AYe@kBQW_@GuAB}A\\i@^Ud@WtEWz@oA`@w@HSSEaAIY]S_@DWd@{@nCgA|B}@z@mD`BqBfBiBxC}@zCYj@u@`@}@Se@VC\\NVr@Tf@?~@e@|@q@\\e@r@_Bv@k@dASbDWrBEpAHbBcAZIn@Zf@rCX^|ClA\\AfA_@N@B\\WVcCdBmC~BqAj@Y^[x@Q~@Hl@h@`AG^[b@s@l@s@\\{M`DcFdB{Cj@uCH_@Za@v@_@Ra@GiCuBg@DeAr@WFg@Gq@[_@y@QKg@Fg@d@Mh@FpAOjEH|@`@v@b@^XBfCq@f@EdAn@hBDV\\@`@s@rAgE~F_DvFgCzBU`@Cv@V`@xExAXX^nAAd@Op@_@j@u@j@{C`ByErBs@p@o@xAU|A@hCV~AA`@{@tAc@Oi@?y@f@Of@?\\Zt@f@Tl@@h@SZc@B}@[e@?Mp@{@No@YiB?eDXsAh@iAl@k@tEoBbDgBx@o@^o@Jc@@w@Gc@[s@]W{EyAMc@Bg@T_@bCsBbD_GrEmGh@kAIq@YWoBG_@[e@OiDv@WEa@_@a@_AEq@NgEEkAPm@h@a@Z@r@fAlA^ZE`Aq@p@IrBhBl@Rj@Wx@oAnCIjCc@dFcBdOuDdAo@t@aAD]IYc@m@E[Hw@b@kAf@e@hAg@vBqBbC_Bb@e@@[OQaB^YAmCiA[k@c@cCi@]Y?uAz@m@PgAM_BBcFd@i@Pc@\\gAzBmBvAi@PWCk@SMSDWRMjANn@]\\k@dAkDjBuCrBeB~CwAv@u@nAaCnAuDRIVDNRFjAJRn@D|A_@RMTi@ReEZeAf@]p@SfBKr@Jr@`Ct@PTPz@`BXJt@KvBoAvCqAr@UhC[p@UfFqJZ[PAf@b@~@bDVV\\HlAURYV{@RW~@C`Ai@^BXNb@r@ZfCBn@MjABnAMXiADUVM|A@f@JXpC|B`A^p@IrDyAn@E^b@BNGLgCXu@b@?TLPtAQjCVjAE`C{@|AiA^y@j@{CjB{AdDoGFo@M}@[g@eBaBWaA",
+"average_heartrate": 133.8,
+"average_speed": 6.803,
+"source": "strava",
+"streak": 145
 }
 ]
