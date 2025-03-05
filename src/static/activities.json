@@ -27553,5 +27553,35 @@
 "average_speed": 5.999,
 "source": "strava",
 "streak": 149
+},
+{
+"run_id": 13795022055,
+"name": "Zwift - Climb Portal: Cote de Pike at 100% Elevation in Watopia",
+"distance": 5981.4,
+"moving_time": "0:25:53",
+"type": "VirtualRide",
+"start_date": "2025-03-04 09:37:19+00:00",
+"start_date_local": "2025-03-04 17:37:19",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "je`fAoq}y^rAlEt@|BfAxCt@fBHh@ALMXi@d@OVOfAEJQTw@n@Y`@i@nAIZEl@KZc@r@cDbG{@lASh@K|@G`A?r@Fz@Pn@bA`BN\\FVAb@UvBEj@DtDAb@Ip@}AzFm@jBMTUH_ALwCZeAHkBDm@FQJKRI^?LBHLL^PfBj@t@ZVR^f@L^Hz@Dx@Cl@ATGPu@`AEL?PFNLF~@@LHFNIbCIr@Kd@KVSZyAvAMRER?j@HhC?hAGr@UbBEr@BPZ|AEHUFSNO`@CVFf@JTRRXJf@DXGLEHGRSJY@M?[AMKYQSUOMCg@@EKIi@Oq@?[Dq@RuADu@?y@KkDDe@V_@rAqAT_@Lc@Jg@Dg@D}BY_@i@Ec@IDe@r@_AJg@@i@GsAGg@Qe@Wa@]Ye@SsBo@e@UOe@Pg@h@MhCEtAMzDe@^OP]La@dAcEh@eBNs@Do@EeEZ}C?m@GSUe@_A_BKa@CSE_A@m@HmANw@NYx@iAhDkGJOPKR@NHJNN^j@vBLXPPXHV?VC\\KTWVu@",
+"average_heartrate": 103.5,
+"average_speed": 3.852,
+"source": "strava",
+"streak": 150
+},
+{
+"run_id": 13795200221,
+"name": "Zwift - Climb Portal: Cote de Domancy at 100% Elevation in Watopia",
+"distance": 7395.9,
+"moving_time": "0:16:40",
+"type": "VirtualRide",
+"start_date": "2025-03-05 12:08:10+00:00",
+"start_date_local": "2025-03-05 20:08:10",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "hg`fAol}y^dCdH`AdCHd@@NCJGJw@x@KXEh@IXQTu@l@a@l@Uf@Qf@G\\C^IZk@~@}DlHUZMHQ@y@AcCKk@?m@@w@LkCt@mBZiBNk@?iBIyDWqBGa@BSFOJKLCLBLHNHFXBb@IL?JD\\Zt@~@lAjBHRBRAJKJSBIA_@Os@i@WIKAM?WJSPEHET?RZbC@^Cb@Kh@Ob@kAbCa@dAE\\BTFHNHT?`@K`Bw@`@KfAOp@Cb@?`@FXHVPRZP\\b@pAPfBFVJLNHV?vAQd@AJBDF@PENS^e@r@s@x@c@^a@T{@VaBP[FULU^GPCT@j@FXFLHFf@HNFRv@Df@D`AEPKJMFS@kA?YFYXc@fAGLIFM@SC{@YQEg@?aANY?MEOMm@u@COT]BQAc@M_@IK[SME_@AO@[JUROXE\\@ZHZPTTLd@HXA`@SHFl@x@ZR^?hAQV?VBv@Zb@DLELKj@wAVS\\Gz@BZCVQJYA_@IcAGa@M_@_@Q_@IO_@Cc@De@P_@^Ub@GfAK`@Ix@[XQl@k@h@q@f@y@N]Cc@a@Mc@BcAN_@?WWI_@GgAKc@a@eASc@[[a@Qg@Ie@AiAHcAN_@NwAp@]H]GI]H]\\}@hA}BXcAFe@?e@Ee@QkAEe@Hc@ZYb@A^Pt@h@^J\\KJYE_@QYoAmBm@s@YW_@Ia@D]CM[PY\\M`@A`BFvEZvADx@ArAKjBYt@QhBi@t@KpAArCNl@?TGPO~E_JVUNALDHFPVn@`CRd@RRTF",
+"average_heartrate": 149.1,
+"average_speed": 7.396,
+"source": "strava",
+"streak": 151
 }
 ]
