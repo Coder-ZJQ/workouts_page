@@ -27598,5 +27598,20 @@
 "average_speed": 6.867,
 "source": "strava",
 "streak": 152
+},
+{
+"run_id": 13814169058,
+"name": "Zwift - Climb Portal: Col de la Madone at 100% Elevation in Watopia",
+"distance": 33767.1,
+"moving_time": "1:50:29",
+"type": "VirtualRide",
+"start_date": "2025-03-07 11:54:47+00:00",
+"start_date_local": "2025-03-07 19:54:47",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "pg`fAyk}y^fEvMeG`McHdMaNdNYlA}EtFcFbCT|BgBfHd@tEiDlKiBfDuD~C}EvG_CzFEvBsBfAcCdDu@`Ii@Kf@qBg@Ue@v@YvEk@Db@sAk@[oBpDRzEyBvKv@lDkCjLd@jBx@AfAyDfAJjA`B~@[v@{CCyEzDzCdDwEvByAf@VeClBMdAr@zCmBt@G|A{@nDkAvB\\nBSxCcAlAOxBaAp@X`Ea@h@yCHmAdDaDoAqC~CsCm@mFt@Mr@d@l@fIm@bCn@l@bAoAzByAkA}B]iFvByG}@i@gD`@uC_@{Fb@_BuAi@cAz@\\`DmB`BvB`GGdAyA~B^pBxI|EfDFhErCvAIrB_CfA?N|@mB^qBtDeE_AuAuAoCTyB}@uEpA{Cw@yE\\kCy@mDj@oQ_BiA\\v@fAhDd@`CnAxCH|EnBtBH`EdDtF@jEnAnAkChCrAfEh@hAnBHfDgBtBh@`Fa@|@_A@u@v@eCxJ_Cb@kEjD_DRcBwBaDj@_DrFcHxCiEzKaFbTt@rHrAv@VlABlHMjAiArAD|FN~@tAj@^`Ae@~Dr@zDlAbCn@xQtAn@nF{B~FdDh@xAaDxGyBZe@fAChBpB|D}@`Br@pAlBOX}As@}@_AAqBgE@aBf@gAtBUfD_Hk@aBeGiDyFzBcAa@q@}Q}BwH\\{EaCqCCkG|@_ATuAAsH]wAmAo@w@mHbFgT`EqKjH_D|CoFvCg@|ArBjDQhEiD|ACl@m@|BmJj@u@hB{@LcAs@aDfB}BIiD{@oByEs@yBoAq@FKlAs@n@oDkAgGG{DcDgBEiFqBsCGgCqA}C_@}@cAjASfPzAfEi@pCx@fFY`Cp@fFkA|Bx@bCS|AzArDt@p@YlA}ChB[EkAsAEsB|BuAJaEoCuDOiIqE_@yB~AyDuBkGjByA[iD|@k@dAn@a@hA\\hGa@fCj@pDjBFxD|@|EwBdCZ`BfApAaCu@mAwBk@{Ih@GqAnFo@zBn@rC}CtDdAbA{C|Dq@M{E|@i@JeBt@m@ZeBUoEhAsBx@oDPkBdBi@g@{EfCgCo@S{BxAcDtEoCqCs@@DxEo@nC}@XmAaBgAIo@v@WzB{@AQuBbCeKu@}DvBeKImF`AaAV{Ad@Z]lAn@@z@oG`@Je@nBt@Px@aIbCgDrBgADwB|BwFvEsG|DeDjBkDfDiKa@kFbBwGU}BrFqCjEaFVkAdNeNvEqI",
+"average_heartrate": 115.2,
+"average_speed": 5.094,
+"source": "strava",
+"streak": 153
 }
 ]
