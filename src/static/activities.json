@@ -27613,5 +27613,35 @@
 "average_speed": 5.094,
 "source": "strava",
 "streak": 153
+},
+{
+"run_id": 13822927691,
+"name": "Zwift - Climb Portal: Col des Aravis at 100% Elevation in Watopia",
+"distance": 11889.8,
+"moving_time": "0:30:32",
+"type": "VirtualRide",
+"start_date": "2025-03-08 12:28:50+00:00",
+"start_date_local": "2025-03-08 20:28:50",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "rf`fAcn}y^FJx@hCz@dC`BfEHf@ANMTg@d@OTGVEh@KVQTs@j@a@l@Uf@Qf@GZA^IZk@|@}CzFs@`AQ`@Ej@?l@Bd@LjAThAt@bDZhBTx@\\t@b@p@`BpBtAxAh@p@Xf@z@pBb@v@n@v@bB~At@|@`AtA|@~AXt@Ld@?TG`@?TJh@Xz@Hd@@XKn@B\\\\`B^`AXV\\LP@FADCHMBg@EcDBqA@IJILGJ?PHHL|A`EtA`CLZJd@TdCR~@Pb@T\\hAhAHPHVJjAFxHH`BRvAXrAd@~AJRLLPJTBPGLQD]C{@@MRg@z@gAVc@F[Bw@DMRIVBJLRb@XbAJz@AvA]pGA|@FfAXdCDtAC`BKtB_@fD?XFNTTTHN?LETSV}@`@_CbAaFDGLCJ?PDHHBN@r@?pBRvBJn@Rx@Vr@\\n@n@|@z@x@rA~@lHpEz@t@x@|@b@l@^p@zAjDnE|IbAzBALYTK\\?^H`@FLXT^J`@?^KXUHMHa@Aa@M_@WY_@MQAa@HMAoAmCcEmI}AiD]q@a@m@cAiAcA{@_HeEkAw@eAaAm@y@Yi@Si@Qo@WoASqBBwCCUKQSIY?UNeB|ISv@INMHQBQEOMMSAWBW\\qCJ{BBmACqA_@mDE}@B}@\\cG@wAIw@]mA[o@WI[DQXC|@IZQXy@`AOXIXAX@p@CTOPU@UMQSK[q@iCUyAI}AIyEAwBGw@EYKYOW}@y@QWYq@Qu@WqCW_AwA{B_BiEMOUEUDQLGTAr@FbDAv@QRYEWMSUa@mAS{@E_@@]F]A]EYc@sAE]Fs@@UESMc@Sg@cAeBqAgBw@}@wAqAc@k@_@m@w@kB_@u@e@o@wB_C_BqBa@w@Wy@]qB{@qDSiAQiB@{@D[JY`AwA~CyFTYLEN@JFRVJXd@jBRd@VRNDTB",
+"average_heartrate": 132.1,
+"average_speed": 6.49,
+"source": "strava",
+"streak": 154
+},
+{
+"run_id": 13823252846,
+"name": "Zwift - Climb Portal: Cote de Trebiac at 100% Elevation in Watopia",
+"distance": 10424.4,
+"moving_time": "0:24:20",
+"type": "VirtualRide",
+"start_date": "2025-03-08 13:05:29+00:00",
+"start_date_local": "2025-03-08 21:05:29",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "hf`fA}n}y^~BdHdApC^z@H^BPANGNo@n@ILK^Eb@CNINkAfAg@z@[`AIv@ENiFfJGTAZHVLTl@v@`@TZFlACvBQx@CpD?jAGr@Or@W~@e@l@c@v@o@`CyBdCiCtAeAV[P]Tw@Lq@d@sDlA_Hb@cDv@oIBiAK_C?mAD_AJ}@Fa@LSVUJCJ?t@TfCfAp@Rv@N~BVz@NTJRRv@nA\\^LFPBd@CPKJSlAeEhBiEnAsDb@eAVe@TURC\\HNLLZ@d@E`@GVU`@yAnBWj@[z@[tAOlAGlA@~@L|Ap@`F`@zEZrB`@|A~@rCvAjD^bAd@~ATdALrANdGTxBJh@Xp@\\`@x@n@dAn@lEpB`Cr@dAPBH?ZFZRVVNND\\@^GLGVUFMH_@A_@K_@WY]Ma@C_@F[TM^MDuAW_Cu@mD_BiAq@s@g@_@_@MOQe@Q_AQiBS{GK_AQ{@c@}A_@cAeBmEy@gCe@kBU_Ba@}Eo@sEM}ACcAFaANqAXmATu@Xs@T_@nAaBP]Ja@@e@Ee@IQMMOISES@OFYZS`@g@lAgAbDqBvEgA|DILMHg@BQE]]w@qASQUMu@QmCWu@Ow@WmB{@}@Yc@A[PS\\K`@G`AG`CJbCAh@KdBm@jG_@pCqArH_@vCWrAWx@Yb@eBxA_C`C}CrC{@l@_Ah@eA^q@LoAFeDA}DXs@@YAYKUQSUa@o@IYBYHSj@{@pAaC",
+"average_heartrate": 134.8,
+"average_speed": 7.14,
+"source": "strava",
+"streak": 154
 }
 ]
