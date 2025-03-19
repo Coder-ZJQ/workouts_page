@@ -27958,5 +27958,35 @@
 "average_speed": 6.775,
 "source": "strava",
 "streak": 164
+},
+{
+"run_id": 13924027909,
+"name": "\ud83d\udeb4\u200d\u2642\ufe0f \u65e0\u654c\u5c0f\u9752\u51fa\u51fb\uff01 \u2601\ufe0f",
+"distance": 9152.1,
+"moving_time": "0:43:07",
+"type": "Ride",
+"start_date": "2025-03-19 07:30:44+00:00",
+"start_date_local": "2025-03-19 15:30:44",
+"location_country": "\u79d1\u6280\u4e1c\u8def, \u95fd\u4faf\u53bf, \u798f\u5dde\u5e02, \u798f\u5efa\u7701, 350100, \u4e2d\u56fd",
+"summary_polyline": "q|}}C{zrvU?MIMGa@]yACs@GWCUOe@GIIEe@CaAFcATq@Jc@BuAPqALoFn@mHb@sAN{@?aAHk@?]EcBc@k@IqFCw@MmABaECg@Hq@^q@V{@TaBXmBTuAFm@?c@F_FToAPeBPoE@}@CuAIyB[qFuAqAOiCCmCBuDIsDByCJwCV{BHcD`@aDp@mEv@kANqCh@wBd@_@LONEJAv@ZrCl@jEBXCDCKeBaMMs@Si@]uBOmASoBmAwIa@wBUsBcAwGuA_Kg@}Bm@kEe@oDIiA",
+"average_heartrate": 97.6,
+"average_speed": 3.538,
+"source": "strava",
+"streak": 165
+},
+{
+"run_id": 13926281169,
+"name": "Zwift - Climb Portal: Mt Fuji at 100% Elevation in France",
+"distance": 56597.6,
+"moving_time": "2:00:12",
+"type": "VirtualRide",
+"start_date": "2025-03-19 11:36:58+00:00",
+"start_date_local": "2025-03-19 19:36:58",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "jlscCuzbu^cDkBoCs@aBTaApAy@PeCK_D_AoIdFcN|DqFTqEb@oCbA{BCqMxRyV`VaGfE{Bz@cCJqUuCkCCiCh@{BnAkBpBqIjRuBpC{CPkGsAmDf@wBtAgEzFiL`FuIfFs@tCxCbNR`DHjQ]lB_@d@uAT{I`@sHgGiBU_Ax@_BfMRvAx@jAlObJdC|HBtAsA~FiIlGgBdUp@xBpMrHLr@]d@cHUaJoDiVkSeC{CiE}HsA}@mImA_J|AwW{FeLsEwJhBiQ}GcGxBe@a@oAwJyD{@oFSyG|CoIiEgGtAuMm@iHsGmJdCqA`EkCnP_BhC_Bf@oHd@iLrImHq@o@RSn@l@fAdHhCvIZzEj@pR|FVhA{@JuIaBqGIuAx@kEdFuDj@qG@eIxJuL`CwAdDaBlHaAhLsKhNcDjGg@jD\\~HkC~GkA~WoErLy@|FQnKr@`GXnIeA`ORlAz@Rf@c@|Fk\\fDiK|G_HlDqJ~DqAZaHnKmE|FyH|@JHv@mCbEmDvJwDlEyAjDWlBE~HmBnFZt@pAEfB_DT_BB}GjBiF|Fs@vGuCvMiAbAy@dAeD|Ag@`R}@rCj@pDhBbBLbTiDhG]vDZxNlDvD`@fe@uF|O|B~ThAtAhB|A]ReBoAeAcAPy@dAsUoAiOwB}d@rFaEc@cNgDaE]mH`@eS`DkBOsDmBeCe@kR~@cBn@eAfDcAr@_M`AkHzCcGz@iBpFUnJaBvCgAL[i@pAsCd@mCRwJvAoDxDmErDeKdCqDA{@oAYiG`IiKjESvG_EpAyD`KuGpGqDbLsFp[aAb@c@k@bAsOYwJs@cGRaKx@_GbDmHj@gClAkXfCsG]wHh@qDrCsF~KuNjAsMjBuHfAyBvLaCrHoJfHEpDo@lGuGpGBtKzAHs@]k@kPeF}FaAgIKeIoCy@cAx@aArHn@xL{IfH]fBu@rA_CvC{Qn@yBn@g@dIsBpHvGhMj@~DoAvAEzHdEt@AvF{CdFTxD~@dA`Jn@r@fGyBpPtGtH{A~ACfLtE~VrFlJ{A|HhAvAx@lIvM|V~SnJnDbH@FuA_NcIe@sBfB{TnIsGjAyFC_BcC{HoOcJ}@wAMsAxAgLz@aApB\\hH~FxJg@`B{@^yBMiROaCyC{Mb@_CdHsEfNgGnEcGlBkA~Ce@tGrAxCQ|BuCpIkRdF_ExBe@|C@rUtCpBGfC}@jGqExVeVzLsRIy@gCaCeDeEmAyCyAgAaE]oFnAeDgBQyBbByELkDq@{AsBcAgDcI}R]G_ClB}Bd@{BXsGlFoFHeDy@e@}RG[m@DqDcCsC",
+"average_heartrate": 158.1,
+"average_speed": 7.848,
+"source": "strava",
+"streak": 165
 }
 ]
