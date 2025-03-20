@@ -27988,5 +27988,20 @@
 "average_speed": 7.848,
 "source": "strava",
 "streak": 165
+},
+{
+"run_id": 13935468408,
+"name": "Zwift - Climb Portal: Gotthard Pass at 100% Elevation in France",
+"distance": 34830.9,
+"moving_time": "1:15:15",
+"type": "VirtualRide",
+"start_date": "2025-03-20 11:26:13+00:00",
+"start_date_local": "2025-03-20 19:26:13",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "plscCqzbu^mDqBiCq@cBTaAnA}@RwBIgDaAmIbFaN|DuCh@eDGwCZmBz@eDLyMjSqRx`@sHxTaDpQmB~EY]fAqQEoE[aBa@]k@Zu@tBq@?]}BDiHaALc@xC}C~E]bE]DtBoVKw@c@Sw@r@wBtP{HlRWm@zAaEOyFtB}GW]s@d@}CfIq@hDWFAiAbCcI^iCUuE}@cE{AN{BjByA~BeHhCkCvBmCnFYfBLv@l@ZvC_B`@b@mAtGkBvDPrB~AdEKz@qC}Fc@Zn@jBArAUR]kB_Am@cJuBiBqB_Bu@sH{@w@kBQyF{DkByCr@wEjCuMxM}E|AwCjCeEn@KSrBON[cEFP]hDk@H]e@UcFfAaD`CJs@|AiAOa@e@HoExFSc@jDwDAi@yHvCbG}FWc@sCjBoE~AgDxE{ALB_@bAe@]k@kAf@cAxAKgAp@wBz@_@hC?Lq@kE}@kBnBu@NcCg@[i@^SzAl@|DiDnECRi@iDs@aErAyBO?[hAK@]oB@Mk@|AB\\g@qBWKm@hBNRg@y@cAkBi@Xe@jCr@r@]]kDrDuNKgAuUw@eP`HqEZaAk@}@Ds@`ANvAz@f@t@Ej@g@@aB^UtESfOuGhUp@HjAsDzNb@hCs@d@cCq@a@v@xBr@h@p@KZ_BYQ\\Fb@fBHH\\yBZFb@vBRcAJK^zB\\lEsAvC^F\\[L_EBkElDqAo@[NLt@vCp@z@UrAeBlEp@@\\YFsD^w@vBPxA`C}B^A@^y@\\Dv@zAWlD{ExEeBlBwA\\AeGdGr@NvFsCVLqDjE^h@bFaGTNyAjAUv@p@F~ByBxEiAd@XqDt@Mj@xDEmBVQTTNpEq@pCgCxE{AfNgNxDyBhDy@jDlBLzEv@bC`JrAzClCrKrC~@~BZiBo@cBJ]dAvArA`DZy@cB{EOeBpBcEjA{F[w@]@cCxAy@cAR_BdCiFxBuB|HsCrDsErBk@x@hDXvE[hCiCnIC`ARTXOdE}Ml@q@TPwBxHRbFyApEP\\^I|HcShBiOf@y@^HLdAmBjVj@[h@oEpCeEZmCt@UCxHXfBx@LtAqC\\Db@~AFlFcApP@b@v@GhBsF~CeQpHqTdJeQxFoMxMsSH{@{H{IkAwCcBmAqDW{FlAwC_BYqBdBiFLmD{@cBcBq@kDgIaS_@CaC`As@nA_EVoGvFaGImDcTYc@u@PoBOcAuDwDsLu@oI{AaBi@mCiCeCg@",
+"average_heartrate": 172.4,
+"average_speed": 7.714,
+"source": "strava",
+"streak": 166
 }
 ]
