@@ -28408,5 +28408,20 @@
 "average_speed": 6.454,
 "source": "strava",
 "streak": 185
+},
+{
+"run_id": 14126868322,
+"name": "Zwift - Gentil 8 in France",
+"distance": 23903.7,
+"moving_time": "0:54:39",
+"type": "VirtualRide",
+"start_date": "2025-04-09 12:54:20+00:00",
+"start_date_local": "2025-04-09 20:54:20",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "`ercCmpcu^k@mBJo@^i@l@UfI{@\\[Rm@Bu@Uk@uKiGe@g@Ei@zAcFToD\\WrBOVi@@wBRo@fCa@bAqAV_B?eEbAaC?q@a@gAy@iAeU}UkBsFcB_CqBqBaAi@_AOcHtAoBK}F}CoDsEIu@FgAZmC`@wA`B{BbGeEjAwBf@qBHqAYoAm@{@wCmC]y@EuAf@wB\\o@p@YnET`De@f@c@^w@\\oCYwB{AcDi@o@y@[uAOwAF_Bf@mCxAsAF}@Qm@k@kAuBiAqDMuAFyB^sAlCaC|CqA|AyBXuBVi@pE}@|@Bz@f@`EvDt@X`ADdB[lBaArAmAjAkBXwB]qCmDwFxGcCNUE[q@WmNcB[SI]^o@jCiA|GgERk@e@_@wMaDUSh@]tJe@^SJi@S[iHmDRSvDP@g@kA}AjAwAl@OjAHfFfBxIfBtB`AdGzFlGdMlJpJnAVxE}@|@RTfAv@bTnD~Sf@bF?xBgAnDArA|Lze@fDxJB~@yGvGM`@]xJURaAe@[HSfBw@TQXB`Ce@?{B{Aa@EmAjBu@y@SDm@bA_AGOL_@~COLQCWs@_@GYv@WNSOa@o@k@`@Wr@SDKODcAyAYa@_Ca@Ey@p@_@DmBoD[Yg@DgB|Au@JGQR{@Ci@u@YoACRsACUkAIc@OAe@Zi@I_@WKsAZYKE[t@c@Fm@m@k@iA]MWD[VMvAVd@GNe@CiB\\KjALP[RmBi@c@uBYFc@j@_@Jc@}AiBLcB?iAU{@kC}BsAa@uFUgCr@sA`AyAjB_CjE{@~BKhAt@bFF|Ag@`CcAfB}BrA}F|@cBUiCmA_ADq@j@uC|EiDpB_B`EaCnBKnAh@zAh@XnBFZZ@j@m@vAJdAKZ[Hm@SqSwNg@q@Hk@r@c@f@DvAzAlBXtAhBxA`@Jf@Md@mErDK^P~@hBdD`@xA@n@c@fAw@b@kEoA_@FcAv@{BFg@RI^J|KwF~FC~C[dC[bBi@fAcAv@GvAHr@h@TlMEdCLpAdC|AhEfBt@t@zAMlDaBtE?nARp@dBpAbAV`AGnDgAnB?bAX~AfAdApCpBjB~@fBnD~ClAZnAOpB{@pE_@xANdDo@fDuAtDm@nBu@tAw@xByBX_BkA}Ea@]{AZ[QUgCwBaESwA\\_Ah@_@|IaAh@}@BmAW_@cLyG",
+"average_heartrate": 112.1,
+"average_speed": 7.29,
+"source": "strava",
+"streak": 186
 }
 ]
