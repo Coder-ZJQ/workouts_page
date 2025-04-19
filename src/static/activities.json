@@ -28573,5 +28573,20 @@
 "average_speed": 6.16,
 "source": "strava",
 "streak": 195
+},
+{
+"run_id": 14222389175,
+"name": "Zwift - Knights of the Roundabout in France",
+"distance": 54827.8,
+"moving_time": "1:44:25",
+"type": "VirtualRide",
+"start_date": "2025-04-19 10:54:58+00:00",
+"start_date_local": "2025-04-19 18:54:58",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "x`pcCqgcu^jAkDFgD}CsCgDeIkSy@BoBlCgF^eHrFyFCwL|F}AxElAzAsBaDqJvEkEFkAgKsGcB~@|TfQ~AO^oEsDcAe@_DbCuBbBaEfIcJCkBqDiFb@eGtByDvG_FlBsFYmCsE_FBuDvA{BbKY~A}Eg@{CgC_EgE]mJfCiB{AwBwFTqHzGeE|B{Du@}K_DcGgCJgCvCkIpA}BiDr@kC}@iA{FxEsKhCwDbMjAzDyA`Bu@|EuBlBjCdJ[hBkA^gGgAcAtHuFk@gBvE}GyCcJtN@pAjF`Dw@lEpCjCeCtCzCpBHbA_B|AiIKwC|@iBvByDlAU`ByCt@YxFiGpCKpDnG`FNfF~PlD~FxDvVlCvDxD\\fF`TRNdDuFzF]|GkClF?bC~Rd@nDhI|CvCMlDaBtEXdChDbBlFqAjDT`JtLvDdDhBLhOeBbMeD|G}Dt@qBqA_GoCAcDaLhAeB`JeAf@eCsMyJpBsKxCq@b@gEjEsBZoHbAaD{WmZoBwF}DoFLuK{@qHfEuJnCuC|CaAzG^hDdCLbF~ApB_AjB`D~@]zBuBJIhCuC@dCnC{@~AbCGKrBpBXCvBrBHA`CdEqBhCjExBm@^xBxAVRvAnA}Ar@~@`AiAhAx@d@iDzAEn@eAbAv@~@gBjE~AAmCjAk@NcBrBHf@sKbHwFhCdJwFdJpHvNv@jNiBlIiDvDInNzLzNnD|BzAhH~JjNdDbCOrCeDx@PtBwChEKhCrAvAvFkAfBjEyBhBj@dEsApCqF]mGvDcB_CwH_C@sAhBcBWcCqCOcAgDwG}BaPeCwNh@cMuFgFvBgJeB}AyFoCAeDoLbAwAbJeAh@iCiLiHg@sAtBsKlCc@d@gEpE_CtAmNuWqYqB{FwEsF_Cu@mKhA}F{CwD_F`AaJ~IyHtBiFK}CcF_G`@{EhAcApJQhBiFuB{GeBmAuDCqF`CsCYsDaIDaG~H_G~C{GzFs@dG~EvB\\|EgBrCwDE}FmD}FpG}BNu@cQ_D|MsJqOqEdMoByHqFhEHiAcC`CiB`UrFxHvGjGbMrIbJzAp@tF{@`Ad@~@tTzEv[aAbLxVb_AyFxIbHjNdA~H]tJ}AfEsCrCMjN`MhOjDxB|AjH~JlN`D|BMrCcDv@JfCoCnDShB|@`CzFmAxAfA^tCyBhBf@rEuA~BaFk@{GzDaBcCkHsBEyAfBwA?oBoDy@Y{BgA{@oWkF_Of@uLsF{EtB}HeAeLlGwMlDuO`BaG_EyIkL_ESsElAaBe@sAeAQ{AhB}FFiDaDwCeD_IoRSYkCvBsCx@eKpFsF@aMzFwArElA~AqBaDmJ|EwE?kA_KiGwAVJhBbTbOhAHHsA",
+"average_heartrate": 141.8,
+"average_speed": 8.751,
+"source": "strava",
+"streak": 196
 }
 ]
