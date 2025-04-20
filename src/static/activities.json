@@ -28588,5 +28588,20 @@
 "average_speed": 8.751,
 "source": "strava",
 "streak": 196
+},
+{
+"run_id": 14232818879,
+"name": "Zwift - Three Musketeers in France",
+"distance": 36077.8,
+"moving_time": "1:01:01",
+"type": "VirtualRide",
+"start_date": "2025-04-20 12:22:06+00:00",
+"start_date_local": "2025-04-20 20:22:06",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "jfrcCmncu^qAuCZeB`K}Ar@{BSm@cLwGY_BtAcEXwDlCe@h@iElCi@~@kAZsHdA{CuAuCeU{UaCsGyF_G}AU}HtAoFgBuAd@_DfFkDtBaB`EgCvBA`Bl@jAjDv@k@bCIfBgAU}SaOUk@Rm@tAQxAxApBZ`AzAlB|@M`AuEhEvBbFf@tCuAdBmEkAkB~@kCLYXEfEoAp@mQC_@k@?}DgE_EaTqB_Dw@gDwC{OmCw@iAB}DqEmC_AyAI{AXeAfGoCRqFvCw@\\gBvDkA`BqB`C}@dJDxAgA?gByCkBdCoCSu@}BaBx@eEiFgDKy@bJaOp@?jC~BvAZt@k@v@kDpDbAjA[^gGZi@zAGlDjAtAg@XcByBaGQiBtBiBx@iFnAkABy@iAuCrE}MtB@zFaBzC{Af@iBn@U|@nAs@`C|@fCz@d@vIqAbCsCpAe@n@PhBvEv@l@DnBv@~CKvC{BhDgC~@yCpC_@xCRvCrBnFtBbBvBGrF_CdE\\dCdE`@vC_@|By@nAiDh@wEQ_B`CEnDtEdFXtCkBhFaHhFiBnDg@fGxDxFEdBsCzEkDtBiBjEaCtB?~Aj@hAhDp@i@jCJlAi@Xq@WkSqNe@mAvAu@bB~AxB`@|@vAlBz@K~@wEvEvBxEf@nCkAhBiFiAuA~@eD^DnL{FlG[zGkAvD_An@BlCzRZjDfIjBz@t@|AKfDeBjF\\vBjD`BfFmAvDZ`BnAz@`CpDtExEvDnE}@nD_@bE?fRsF~CiCb@aCmAyEuCIMuByBmEWcBhAyAzIaAn@yBa@u@uKmG[wArAcEX}DvCm@b@gEpCi@v@cA\\cB@mEfA_DsAuCsUoVcBeFwD_FYyC^eG{@eH`@qBlDcHnDcDtCk@dHv@|C~CMxD~AzBaAxA`DhAc@xBmB@MlCoCCAv@bC|A_AtAlCFShBjBRGvBbCXEzBlEmB~BfEvBu@f@fCpALCbA`@TdA{Az@~@r@iAh@t@h@@b@cDvAGl@gAjAt@fAgB|CfBf@GE}BjAu@RmBjAd@b@Sh@yKtGwFdAhBpAdGeFvGQjAnHlNp@bEHzGY~CoAxDkD|DGpNhH|HrC|D`DnBbBpH~JjNdDbCAhCmD`AJfCuCzDMbBJpAf@f@xFiAfBlA^dC}BrBh@rE{A`CyEm@kAvA}AJ{BtAwA_CyDo@_CsADoAdBwAQiCwCU_AcDqG{BsPiCaCl@mJC}LuFyALsA|As@JeJ{AmBiGgCDUaC}BqESwAnAaB|IeAb@cCkLmHc@yA",
+"average_heartrate": 153.0,
+"average_speed": 9.855,
+"source": "strava",
+"streak": 197
 }
 ]
