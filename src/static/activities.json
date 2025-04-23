@@ -28633,5 +28633,20 @@
 "average_speed": 7.375,
 "source": "strava",
 "streak": 199
+},
+{
+"run_id": 14263056509,
+"name": "Zwift - Climb Portal: C\u00f4te de la Redoute at 100% Elevation in Watopia",
+"distance": 16950.8,
+"moving_time": "0:42:47",
+"type": "VirtualRide",
+"start_date": "2025-04-23 14:08:15+00:00",
+"start_date_local": "2025-04-23 22:08:15",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "jg`fAgl}y^bE|KJbAcAjA[~AkAdAa@r@a@fAQlAaFdJiHpA_@Rm@r@WFc@Y_BwBaAq@}JwD}@OgAh@gB`BoBnCw@~A]XM^?`@rAtDRbFOp@gAjBYv@?dAh@rCg@XS\\Il@F`@h@l@|@Jv@_@V}@Gi@Yc@]Om@?o@kDNsAxAiCJcAUqEqAiD?g@~DqGpAsAzAcAhALpJpDtAbAxApB\\P`@Gl@u@^QnF{@z@[vEkITC`@XbAfDTZ`@JnAU|@mBz@A~@i@ZAd@TZ`@d@|DMnABnAEXsALW`@IzAJr@zChCz@Xl@IvD{Af@G^ZHZGJgBNu@Ta@V?TLNTBx@SdDX`AG~B_AzAkAZq@f@sCVa@bBwApCkFN_AGs@Sa@yB}Bk@mCm@c@{@U]BYRy@fCyBhCWBoAe@e@E_@Py@z@_@Ji@Ka@]m@aBIeALs@~@eBh@]tBo@tBRrBwBAk@kAmBUOi@G}ARkBlAs@NqBGkCi@oAHgB\\mB|@mAbAQ`@SjAkAdAw@zAQt@?f@p@tAt@lCb@f@f@Dr@MZYd@sAhAK`Ai@d@Dn@l@f@|DOxADlAGVkAFYVO|AL~@tCbCz@\\l@CrEgBZBZ`@AZgBPiA^MLATLNTBx@SxDX~A[~Au@lAeAXs@h@uCrAeAb@g@pCoFN_AGs@Sc@yByBm@qCe@_@{@U_@?YP}@hCwBjCYBqAe@e@C]Ny@|@_@Hk@Ma@]k@_BIgANq@|@eBh@[rBq@`BR`@EdBmBD]K[yAsBu@EcAJwBrAs@LoBCkCk@uAHaBXyBdAmAfA_@bBkAfAq@pAWx@Af@v@bBv@lCd@`@f@Bp@OX]d@qAjAIt@e@d@@p@h@Lb@\\tCObBDlAGVgAFWLQz@AjATl@lDhCz@HdFkBXFPRFXCJwCb@c@RGRFPPJlASbEVzCcA`BsATo@j@wCV]~@i@\\e@pCkFP}@Eq@Oc@_CcCk@oCo@c@{@S[BWPy@dCyBlC_@@iBi@_@J_AbAa@Hi@M_@]i@sAOiAJq@z@eBp@g@rBo@~AR`@CjByBEk@cAaB_@Wi@E{AR{AdA}@TkBCgCk@}BNuA\\yAt@iAx@Yd@SnAmAhAg@z@_@dACf@Jd@lBdFp@TdAO",
+"average_heartrate": 120.1,
+"average_speed": 6.603,
+"source": "strava",
+"streak": 200
 }
 ]
