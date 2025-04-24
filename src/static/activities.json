@@ -28648,5 +28648,20 @@
 "average_speed": 6.603,
 "source": "strava",
 "streak": 200
+},
+{
+"run_id": 14272502053,
+"name": "Zwift - Sacre Bleu in France",
+"distance": 74464.4,
+"moving_time": "2:26:00",
+"type": "VirtualRide",
+"start_date": "2025-04-24 11:18:08+00:00",
+"start_date_local": "2025-04-24 19:18:08",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "zdrcCwpcu^LcEzKkCoMoMvBqKrDkFnE{B~AkM{c@gk@{UA{PdTl@bDnDz@y@hFuUmOGmBhMdGeFvGbD~IyArBkMBgBpGmQE_@gFcE_EiTsBaZ}Is@iGuG{Fl@eDrFwBLgF~DkDxKwFvLy@wC{EdCuCoCkCx@eEyFcFbJaOtGxCnBwEvFl@lA}HzITyBgM`G_LiAgE`EmMfKsBdFyEhAbAjAxHdQgGtDvGz@pIuBhFsHbFKrH`FnIzPeBzCnK{A`DqJNcB|BGnDpFbK{NhSa@bGlD`JkPrSl@~CjDt@_@xEiWgQtAk@dKjG_F|G|CtJeHRiG~ADtLwF`GiDxS|R\\lI|MyAhObDdBfLu@`P~Q~d@oI~DaGqAcFuCK{CgL`LuCp@yBuMqKrBqKxDsFjEqB`BuM_a@}h@SaYzIaM|LLzC~CpAhHaAdB`DbAa@zBuBjC}CJdCbC_AzAlCFMpBnBTlBbCBdCdEsB`CfEjG|DfGg@r@uDjGuBdEbB|AaHtBBf@qKtGwFtChJyF`JpHvNz@lMeBbJoD~DIlNjR|R~ApHdPrRK`CaIlMh@jCnGeAjBpB}@nKsApCcFc@kHxDgKuF~AiHkDs@mB{D_WeF_Oh@{LuFcJlBsF_BeB_GkCAwC{LzKeCp@wBsM_LlB}JzDuFjEsB`B}Mab@wi@sONuL}JbAaJvMkPsFsK\\sEbM_BbBqEkDkJsPhBeFoIRsHxKwJo@{KqD}G{Q~FaC}JqFxEgKpBeEnMfAnE_GbLpBjMwIa@eAxHoFq@oBzEyG{CkJ`OvFlFw@hEnChCeCrCrC|EoLn@{KxF_EdDKfFkHfGzG`Hp@hGdZ`JdTnBdE`Eb@hFdQB`By@XyE|L@`BoB_DwJ|E_HoMwFDrB|UpO~@qFoD_Am@yC~PiTjUFzc@dk@cBhMcElByDnFyBnKrMvKi@vB_LfCzCnMfCElBfGjFxAdJmBnLpF`Og@nWhFjB|DdDl@cBdHjKxFnHyDdHq@dBiJ_@oC{ICy@{B|HuMLuCgPqRaBoHgR_SL_NrGwNy@_OoHkNtFgJsBuI{HnEs@dLqBMyA|G_EcBwG~Bo@pDqDw@sA|AkCsFwBt@}BcEiEnBGgCiBwByBm@V_BiC?z@gBcC}BtCAzBoC`@}B}CcA|@kB{AcIoFoDcHGaGrE_ExIt@|JiCdGwIrBcHcBeKjKiFzI|ErDg@hFcWoQtAs@fKnG_FzG|CrJ{AdBuEmAaGbBDtLuF~FoDvRtSjA~HxMsAdO|C|A`Lw@lQjRj_@sGhI_HaFqGaD_LlLiDb@gCqMwJtB{KnCc@b@eErE_CnAuNsb@ki@yLp@{FgBsBlB",
+"average_heartrate": 104.6,
+"average_speed": 8.501,
+"source": "strava",
+"streak": 201
 }
 ]
