@@ -28663,5 +28663,35 @@
 "average_speed": 8.501,
 "source": "strava",
 "streak": 201
+},
+{
+"run_id": 14281574431,
+"name": "Zwift - Macaron in France",
+"distance": 2973.4,
+"moving_time": "0:05:58",
+"type": "VirtualRide",
+"start_date": "2025-04-25 12:47:10+00:00",
+"start_date_local": "2025-04-25 20:47:10",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "h}ocCuybu^h@ERIPS`AqBLKNCPArAL`@C^IzAo@~@QrAC`@B^F^Jh@Zh@\\TVP\\\\jALXd@l@pAfAJLZx@PV`Ap@p@z@~@v@\\PND`@Br@E^Iv@g@l@O`E_@^An@NN@`@C|@QpBg@fCgAr@O`BUj@MnBu@n@[dCuBR]Rq@Da@AQ_@gBSo@Oq@Q[MIOCO@_AXQAKKGQCQ?w@Ec@a@_A_A{A[q@Qu@Ag@DQPa@XYNGNE|Hw@REPMP]Je@@g@E[GKIIeK_Ga@]OUCM?e@Lm@^_A",
+"average_heartrate": 109.2,
+"average_speed": 8.306,
+"source": "strava",
+"streak": 202
+},
+{
+"run_id": 14282319042,
+"name": "Zwift - Climb Portal: Ski Lift Climb at 100% Elevation in Watopia",
+"distance": 18485.1,
+"moving_time": "1:32:39",
+"type": "VirtualRide",
+"start_date": "2025-04-25 12:54:40+00:00",
+"start_date_local": "2025-04-25 20:54:40",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "~f`fAem}y^~B|GpAbDJv@MVy@~@UrAiAdAi@|@a@fAQlAwEvIQL[CWNc@vAq@xDQxBRb@zAvA`@r@RxA@`AGZ{@bAmA~@_EbBs@x@g@fA?\\JdAnA|HNlDM`@oBrBu@nA_AdCg@`CMfCBdDDhBb@vFBdAO`ByAlIIjAA~ATfGZbCVl@pArBNn@XvCZr@fA~AXjABtAKrFSbAmAjCE\\JXx@p@r@Hx@YfBwAl@Wp@CnC\\ZElAg@LDDPIpAYh@yApAATJPTB^MrCyA^If@A|Dh@vCzAZ`@GNYB{B}@oAMuAPkA\\g@f@c@x@e@dFcAnAQj@FXNLPDRGnFyEhAs@VFvAdAtBzBDTEXYRWM]q@[Qq@F[XKZAr@DhFSXkCbBQR?LFLZBt@W^BnCdEx@v@j@ZTALSZqD\\YVN@xAUxD?jAKl@kA|CYX{Al@OZ?\\HVRJpAGh@e@|AyB`@OXPFl@BxDH~AfBtINbEJhA~@hDB`AMzAi@tCa@bASTe@VeCl@iAx@uAbBWp@Oz@c@xJ}@hGAlAJpBn@vFPn@LLP@TGl@[TZRPt@Lt@SZc@F]?_@Ui@WS]I_@A_@JWRQZC|@_@HWT]ASi@q@}FKwDbAmH\\wILu@Ts@bAsAlAaAl@WbB_@j@Y\\e@b@sA^}BLeCGk@aAmD[iGaBuHImACcEGaAMQ[E[JiBdCk@^aABW[Dg@^YnAi@Xc@bAmCH_@?oAVaE@s@Ko@m@CWh@QfCS`@e@McAaA{@mAw@uAc@c@o@@m@NE_@~C{BFo@G}A?gCJk@b@[l@@r@fAd@ARa@Eg@{AcBiA_Ag@[o@EiAv@uEdEk@JQi@Vg@x@aAJm@NqCLm@r@kAf@YfCa@n@Bl@NvAl@p@?Am@yCeBm@SuCYu@Am@N{BnAk@PMe@jAaA\\i@Lo@?s@e@WyAh@uC[q@Bk@TeBrAgA\\i@Kc@]Ui@No@hAeCJo@HsHGs@Qo@{A}BSo@W{CWm@}@sAYk@_@uCSuG@uALsApAcHPyAA{Ae@eGE_C?qDJ{Ah@gCz@{Bn@gArBuBNe@CsAOuBoAgIGm@Jk@r@kA^]|DaBtAeAt@aAD}@OiBe@aAeBcBK_@`@yD^uB^oAdAWzDkHXY^@TTv@nCVh@n@Rt@I",
+"average_heartrate": 141.0,
+"average_speed": 3.325,
+"source": "strava",
+"streak": 202
 }
 ]
