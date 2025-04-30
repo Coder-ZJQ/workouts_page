@@ -28756,7 +28756,7 @@
 },
 {
 "run_id": 14322804179,
-"name": "\ud83d\ude2d \u8fd9\u4e24\u5929\u6d77\u5ce1\u90fd\u6ca1\u6709\u5927\u817f\u53ef\u4ee5\u8e6d\u98ce \u2600\ufe0f",
+"name": "\ud83d\ude02 \u6bd4\u5b8c\u8d5b\u6d77\u5ce1\u90fd\u6ca1\u4ec0\u4e48\u5927\u4f6c \u2600\ufe0f",
 "distance": 82397.7,
 "moving_time": "2:53:38",
 "type": "Ride",
@@ -28768,5 +28768,20 @@
 "average_speed": 7.909,
 "source": "strava",
 "streak": 206
+},
+{
+"run_id": 14333178753,
+"name": "\ud83e\udd75 \u88ab\u7701\u5185\u6700\u5f3a\u5c0f\u5b69\u54e5\u4e0a\u8bfe\u4e86 \u2600\ufe0f\ud83e\udd75",
+"distance": 65156.1,
+"moving_time": "2:25:28",
+"type": "Ride",
+"start_date": "2025-04-30 11:03:43+00:00",
+"start_date_local": "2025-04-30 19:03:43",
+"location_country": "\u798f\u5efa\u884c\u653f\u5b66\u9662\u7814\u7a76\u751f\u9662, \u4e0a\u4e0b\u5e97\u8def, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "itd~CkizvUr@oBR_B^gPf@gFpMUzBk@pBqAf}@cmAnBmBdLoHjBeBrAoBtDyIzHmTj@qCN{Cn@gC|JwOhH{PhCiI`AqAvGsEfHeHbByB~AaEd@{BRqCC}Wj@kEtA_EVuCBiFe@gEsAcDkEgFcHwC_Go@cBsCxDsCvP{I`ASzDqBm@eC{ByEgFoHiAyBiAuFUsO|@gLCsKXcQjB}WxE_]h@}AvAaInBaId@yAlAgBhAkEfFkWvEyLpZqj@rBcClC{B|F_CtDs@r_@uCnEy@rCgAfEgCzEmFNi@G]`ALtAo@h@sCtBaC`C{D|AgEhAoFZiD@{EUqDy@aGKaDl@gGvAuE`DyEfLwJrHsH`IgKpHsL|b@{u@vCoF~AiElB{Ht@qGNgFGkY`@iHbGw`@hDqKdFiIdLwM|BiBpAg@nFaA~BBrDf@rDQjCm@dDgB~BkCjA{BvBiKxAgD`DoDvDeCFc@}FrDyB`CqBxEiBdJkAzBgBnB{ClBoCr@eDLoJa@yCd@wChAmCzB{JnL}BzCiBfD{BpFeAhEeGpa@_@|ICr\\aAzIwAbGsEfKyUra@cKbPqJlQyI|KgHfHkLxJiD`FwA~Ee@tEHpFv@tGL`D?vCYrE}@bEcBfEqGhIgB\\e@d@Gv@^nAEJQSLRISKDrATnAw@d@eCjCyCbBiCdBoEjAuE`@eFB{CWkEu@oFK}El@cGnAcEbCwD|PkO|FiGnFcHjIuMfe@my@bDsHfBkH~@qILgF@eZ`@}GvF{^hDmK~EqIrKgMdCsBzCiAfDe@lI`@tCK~Cq@|CaBpC_Dz@cBx@sCbAeGjAeCtCmDvE_DDa@i@FeExCkCrCaBtDcCxKcAfBgBpBuCfB}Cv@uDLuIg@_Df@qBz@wCpBaKpLmGxJcBlEuAnFyFj`@_@zHAf]q@|GqApGeBdFwAtC}Yzg@wG|JaElIuF`JgH`JaMpLmHfGgCzDwArEs@~GPxEbAxIDzDQbDmAbHmBvEiGtH{Bb@Wx@BrAJ^OWSFmH~HoC`BmDfAeDf@_`@jC}FdBoEjCcCzBeCpDkVxc@cHpPaAdDoDpRmDlKaEbQwGve@aBtU[~PBjLy@tJf@vRp@`DbAfC|IdNrDvMrChF`DzHjAbHpC~JlDhCzCjGp@x@ZhA~Af@hDjE~I~TlAnBfB|AxIpFnArAt@dB|@tF_@p@cIfGgAbBcAlDeBvLe@nFSb@[~Eo@lC}AxCyM|Rq@L}AvC]xAmBvBiKrIwWrQyUvUaYzSmVvT}HnGiGbEeKtJwAzAu@fBgBtIqAzCkIbLmK~Oy@v@}DpB",
+"average_heartrate": 135.2,
+"average_speed": 7.465,
+"source": "strava",
+"streak": 207
 }
 ]
