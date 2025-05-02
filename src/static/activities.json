@@ -28828,5 +28828,20 @@
 "average_speed": 5.409,
 "source": "strava",
 "streak": 208
+},
+{
+"run_id": 14354571769,
+"name": "Zwift - Climb Portal: Sa Calobra at 100% Elevation in Watopia",
+"distance": 23402.8,
+"moving_time": "1:17:05",
+"type": "VirtualRide",
+"start_date": "2025-05-02 12:06:06+00:00",
+"start_date_local": "2025-05-02 20:06:06",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "|g`fA_k}y^pDtJJ~@eArA[|AmB|Bu@vC}EpIHVvE_AhCGbJhBdDrAbHOrAfAdBfE~B`Dl@g@FaEb@_@rCk@\\oB|Bp@fJ{BtGyN\\oCy@kCu@O}Cf@aKdEgKxBaBI}Bw@cELm@m@v@SFm@iCcCgBcD^qCiAeF@k@hAk@pDg@d@Nv@lAj@DnBmCtAuDbBoBnE_ApCkAdJoIfEm@|GgChCJf@f@k@~IaDxFTtA`AhA|AKnBsAPaAMiDh@cAnCXz@KbHwDRc@IqBLe@jDt@jBrDt@Hj@WJy@}As@yCkEcBiAaBKy@s@G_@f@Kb@lA\\FPUUaAuCuESaA|@Hj@~B~@KNo@a@{@cEyEeAuCy@i@mEY}A{DkBwAZ}@d@TdBa@@a@e@kAJk@Ka@YK{@T}AfAOv@BxDSn@]De@[[mAVwBhAmDrDmDrD|AzAi@JVUp@RNt@k@MeBRe@VCRT?h@q@rBv@f@t@UTmAAsBqAmCq@K}B|@W]AuA[[kABsDpBgB_@m@HO`@Nb@|@@pAyCjLeH|A]hE}Ez@?xBhACpAhAx@r@Gh@c@Nu@Kk@i@i@k@Ii@Jg@l@Kj@Rt@xAb@h@O`@m@IuA{@i@eAJk@hAThAEsBaCmAy@?sAdA_CzCaBb@aL`HyA|Ca@@UYB_@z@MtA^xDqBz@IZLHzA^j@~B_Ap@TfA~B?vBa@nAmA[r@kCa@q@o@d@N~Ae@p@UIL_A[Gu@f@_@CoDwAyDrDiAlDUxBh@~A~@L\\kAE_DL}@fA{@vAYLXZfCEXqATu@M]p@H\\~AhAzAzDhE`@jAn@~@pCzDjEf@lAKVs@Nk@}BgAOLpAhDhGOVYQOy@YM[F?v@h@h@rBThAp@pApA|AhCzAp@Ah@i@Zi@Eg@i@wAsCcBe@iA?Ol@J`BUh@sGnDkAJcCYg@f@Ov@FhEqBzAwAL{@eAUwAzC_Fp@mJE[k@[cCMcHhCcEj@qJtIiCdAkE|@eBhBcBjEiBbCo@So@eAs@KuDl@{@h@?dA`AhE_@lBDv@dB|CjChC_An@Nh@j@TnDOjCv@bBF~JuB~JeE|Cg@x@Nn@~B_@tC{FtMoAx@qGrAc@@_Bs@YTIhAUZiD|@SbADhCOZ]?yBiD_B{DiAaA_BMwEVyCoAkJmBsCFkE~@rCiF",
+"average_heartrate": 115.4,
+"average_speed": 5.06,
+"source": "strava",
+"streak": 209
 }
 ]
