@@ -29113,5 +29113,50 @@
 "average_speed": 6.935,
 "source": "strava",
 "streak": 224
+},
+{
+"run_id": 14528505245,
+"name": "Zwift - Climb Portal: Lagos de Covadonga at 100% Elevation in Watopia",
+"distance": 30454.1,
+"moving_time": "1:40:34",
+"type": "VirtualRide",
+"start_date": "2025-05-18 11:19:49+00:00",
+"start_date_local": "2025-05-18 19:19:49",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "lh`fAwi}y^lDnKcAjA]bBaBfBaAjDgGrKi@BK_@nA}CFcBwAgCq@Yc@PKf@ThAq@f@eB{AgEOuAi@kHd@]]OkA^wAvB}@~B`@r@}@Yq@aB_@sCNaMnEwK`HwHnHFbAz@d@hGvAnFL\\f@M^{@o@uL|@sOhCeDrCiE|AmBvAi@k@Co@f@_Bz@w@S[c@FaJrGaG`Dc@v@Bj@d@f@~Jf@\\NAb@}Gl@eD~AsAvAyBz@s@FqAk@_JZM]\\{B{BsC_A@uBzH_FzDsClF}FfAeAbBkCz@i@vAiIrG}GvDuEzDkHnDqGtA}A_@^yCzBeHZiEu@iAaAe@uBQqAeAkGzB{AeAo@AaA`B}@j@Kl@b@f@xBIBfA{ApB}B~@eAdAWzBaAbBf@hA?r@_CrBi@hC_CbAyC{@iGjEiC]gCuBRiAlBoBNqA[aC{AwCzAcCcA}BXwBcAg@UqAwCWmD~@mPpI{AlBW_BoBoBy@IyCn@cDqCQaBaBsDAkCgAsAjAyFMo@uAk@uDx@{FhDkB|DgDhCiGhIi@bA@hCiBxCaFfB{A{@wAeBm@@oBnC_JnF{FhFmBtDkBjA}BzHPzHhBdIuD`BsCb@m@y@iAEs@j@KdAt@bAfA@t@q@Dy@jCa@zDaBDu@iBsHOkH|BqH|A}@zBcEjFyEhJyFpBoCj@@lA~AbBz@fFcBnBgDF_DxF}HnEuDv@yBvAgBjG_DdCa@pAz@iApGbAlABhC`BxDThB|CnChEm@fC`CHnAl@EZeAt@i@~OaIlD{@fCRLdAhAp@YvB`AvByAxBzAdDZfCWnAeBbBSrAnBhB|Cn@|GoE~C|@tBcAb@_ClCoCk@sB`AcBZ_CdEaCzAuBGkAgCDUe@|BcDt@A`BbAjGwBnAbAdDn@v@nA[`E}BfHW`DbB\\jGsAfHkD`FcEnGkDlIuGl@yArCcAjAgB~FiAlCkFdFcEdBiHt@IbC~Cc@pBLXtJUv@d@bAAzB}@`BaBtCsAzGk@Dw@YMyJe@e@]Gm@d@y@rFwCvJ_HR`@{@r@c@lBn@hAzHkDzB}B~@a@|NcCvL}@n@j@\\GFa@k@o@wEGaDi@iDoAI{@nHiH|KeHjLgE|B]dBXn@n@g@x@kC_@}BfAWdBj@|AnH_@zAh@hEP`BvAt@_@EyBZOt@\\|@hANx@GtAmAnCV|@|@YpFsJp@Rj@hB",
+"average_heartrate": 153.6,
+"average_speed": 5.047,
+"source": "strava",
+"streak": 225
+},
+{
+"run_id": 14528651280,
+"name": "MyWhoosh - Tokyo Drift",
+"distance": 2144.7,
+"moving_time": "0:04:51",
+"type": "VirtualRide",
+"start_date": "2025-05-19 13:20:43+00:00",
+"start_date_local": "2025-05-19 21:20:43",
+"location_country": "\u6797\u9053\u76c6\u5800\u7dda, \u79cb\u7559\u91ce\u5e02, \u4e1c\u4eac\u90fd/\u6771\u4eac\u90fd, 190-0173, \u65e5\u672c",
+"summary_polyline": "_h|xE}ropYzE?^Cl@Mj@Y^Wb@o@Tc@V{@Ny@DoAIsAMm@K[Um@QY]a@c@]WOg@Mi@GiR?MCsJ?eAJg@Lc@Xc@\\]f@Uf@Ql@Ib@Ep@AdA@^LbAT|@j@dAj@h@r@\\`AN~\\@",
+"average_heartrate": 131.5,
+"average_speed": 7.37,
+"source": "strava",
+"streak": 226
+},
+{
+"run_id": 14528745957,
+"name": "MyWhoosh - Heian Samurai Circuit",
+"distance": 5021.6,
+"moving_time": "0:11:28",
+"type": "VirtualRide",
+"start_date": "2025-05-19 13:26:25+00:00",
+"start_date_local": "2025-05-19 21:26:25",
+"location_country": "\u5e83\u6cb3\u539f\u80fd\u898b\u753a, \u5de6\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 520-0465, \u65e5\u672c",
+"summary_polyline": "u~dvEiru{XHFDLHD@DB@FLX\\LPVX^h@d@z@n@tAXv@Jv@J|A?jACn@M~@Oj@Yx@_@r@?NpAxAfBfBh@p@~@|@VPL?JDlEALChFALEvF?XGXKLAb@[jAaBHOhAaBFQHG~@{AZ_@Zi@FGHO@MEO_@a@GMIIS[gCkDQ]K[Es@Du@H]j@yANo@Jo@Be@@cADaVHuARq@hCmDFMCOIKmA}AKIy@kAKIcAsA_@c@s@Se@AM@_F?QBiD@_@RY\\oAhBa@f@gAbB_@b@]j@OZEd@?t@Db@J\\rGxIRND?FFNDl@@ZOJAn@m@l@Ib@FXJ^TPRNVLl@Dn@Cb@Kj@MZqBhCkAbBIFgBfC]^o@|@g@j@c@Rg@Ng@?MCo@]c@q@Qm@Ca@@_@H_@d@aAH]@a@G]M[OW[]e@q@uCeD[c@[]_@SQEQCQ?ODODYT{BdDIJGLq@z@e@r@G`@?`@P~@HNjAvANVNL@D",
+"average_heartrate": 136.5,
+"average_speed": 7.299,
+"source": "strava",
+"streak": 226
 }
 ]
