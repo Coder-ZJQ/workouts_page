@@ -29173,5 +29173,50 @@
 "average_speed": 6.11,
 "source": "strava",
 "streak": 227
+},
+{
+"run_id": 14560719580,
+"name": "Zwift - Climb Portal: Isola 2000 at 100% Elevation in Watopia",
+"distance": 40360.9,
+"moving_time": "2:15:32",
+"type": "VirtualRide",
+"start_date": "2025-05-21 11:12:12+00:00",
+"start_date_local": "2025-05-21 19:12:12",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "xf`fAum}y^bFjOeAnA_@dB_BbBcApDeItN_@nDy@TyB[oA`@bAfApAfCJp@UP_CgC{H{AmO}JgGwGkGiB{DeDqAImDZcGcGg@\\x@~Bc@Z{EqKuCoCk@iH}@q@k@HdAhCo@L{AcCyEoBViAbB@Ig@cEcDaAC}BwA`@y@lBj@Hk@iFwB{GcI{@l@vAjDm@PgEaI?qFs@J_@~EUv@YCZcDyAkIu@JRxBYzB_AfDg@?f@mDm@cP{BoFa@oEbACzBpEnDhA`AlDf@[AiB_BcE}DsCgDmMqDsJ}@kATs@p@\\f@rAx@e@m@wAqBgADc@fF`COcBmPoOq@}BuAqA|@MlD`Cl@@LkAiBcEaPuKoB_EsUeKk@|@pBfB{@N}H_E_@a@EoAm@GBhCdFfFQ\\{KkHuEmIsCsNnByKeAOgBhC]U`BkK|EgBPm@u@wKsE{H`CmIh@mFdCiIpCoQbC_Gr@mJvB{F}@{ELaDp@uAjCYxAaAvDuFhGoVJwB_@wEh@aH`@m@nC{@hAqDeAyCKcDiAkAq@JYrAiArAsBbAm@ItCiEHgHeDqQsB}NCsDsBkKeAuJNkDpCwQi@OgArBUQzIe`@j@}@dBcMhAWd@_A_@uAcBMw@lATdAl@XgBnMo@`AwEtU_CfI\\`@`BuBiC~QMvDlAlKfB~IHnEjBvMlD|RQxGqCvDt@XnB{@rAwA`@_Bf@Az@`ANjDbArCiAjDmDbBm@lHXlHkAtGcEvNmDfF}AbAgCX_AfBGnDz@hEyB|Fw@xJyBbFsCtQiCtIi@jF_ChItEdIr@lK[l@sEfB_B~JVl@lBeCfAFaBjGQjCvCxN~EtIrK~G\\g@gFqFMcBRUXpAf@n@lHtDrAEoByB\\k@zUdKzApDpPdLdB`EW|@qEmC_AVnAnAjAzCvOnNLbBcAaAeDw@Bh@hB`An@bAYp@cA_Bw@UWt@xFrMbDhMtDfCbBxDBxBa@Lq@cDeE{AoBiEiADPzDrBvEVlBh@tNi@tCj@Z`@q@fA_GWmBl@KpApHUxDl@Kj@eGh@K?rFxDnHj@VXe@qAwCf@w@xG~HpFzBUV}Ai@m@dAhA`A|Bb@hEfDeBNWtAdFvBvAdCv@SiAuBL]vAv@ZjG|C~CtEnKz@Qw@wBd@c@lCpDpBpAxFSlD~CzGpB|FrGdOtJ~H~A`ClCf@YIs@uAoCcAo@jAg@~BZz@a@d@yDbHcMh@YhBdEn@`@vAWx@iBdCm@v@R`AdEG|DiBt@IzCrEfDrEwA",
+"average_heartrate": 136.4,
+"average_speed": 4.963,
+"source": "strava",
+"streak": 228
+},
+{
+"run_id": 14560877881,
+"name": "MyWhoosh - Stage 1",
+"distance": 1793.1,
+"moving_time": "0:04:10",
+"type": "VirtualRide",
+"start_date": "2025-05-22 14:03:22+00:00",
+"start_date_local": "2025-05-22 22:03:22",
+"location_country": "None",
+"summary_polyline": "riEicC`@a@XSfCmARKNQHU@KAYIUOScAu@OSEK?WXy@?KIW_@WgAYSOGIGY@g@GYKU[[CMFeA?[WqA]_A_@k@c@Yi@K]BOFMLS`@Gh@?VFTvLfXPh@F\\@ZEf@O\\UVe@Zg@Rg@B[GWSK]?_@Lk@\\i@b@e@^Wx@_@",
+"average_heartrate": 126.0,
+"average_speed": 7.172,
+"source": "strava",
+"streak": 229
+},
+{
+"run_id": 14560991008,
+"name": "MyWhoosh - Kaido Circuit",
+"distance": 6301.3,
+"moving_time": "0:13:32",
+"type": "VirtualRide",
+"start_date": "2025-05-22 14:09:03+00:00",
+"start_date_local": "2025-05-22 22:09:03",
+"location_country": "\u5965\u591a\u6469\u3042\u304d\u308b\u91ce\u7dda, \u4e0a\u5742, \u5967\u591a\u6469\u753a, \u897f\u591a\u6469\u90e1, \u4e1c\u4eac\u90fd/\u6771\u4eac\u90fd, 198-0107, \u65e5\u672c",
+"summary_polyline": "_elyEitepY@nQD`@J\\Zd@VJZFt@BLBlU?ZCXKTSL]Fa@Dq@CkJIKaI?u@O}@c@UYKG[e@[y@Q_AGq@?gABq@NaAPi@Vi@p@y@JEVQJALKf@Mb`@Ah@Id@Od@W`@]HMJIb@u@Pm@LeADq@Iwg@Cc@Q[KE[Eoc@?MDENA|BE^I`@OZUTMFu@N_Q@]DM?[Fu@XILUNSVWh@UtAAhADt@Lp@Xj@PXb@^JBXRh@Jv@H|G?hECzH@f@HJFHJFND`@@lJI^GLIJIHg@NO?MBmO@MDcC?w@LKFQZGb@Ab@?~[",
+"average_heartrate": 133.9,
+"average_speed": 7.76,
+"source": "strava",
+"streak": 229
 }
 ]
