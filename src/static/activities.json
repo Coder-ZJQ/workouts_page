@@ -29263,5 +29263,20 @@
 "average_speed": 4.19,
 "source": "strava",
 "streak": 231
+},
+{
+"run_id": 14591531243,
+"name": "Zwift - Climb Portal: Mt. Hamilton at 100% Elevation in Watopia",
+"distance": 65705.9,
+"moving_time": "3:02:25",
+"type": "VirtualRide",
+"start_date": "2025-05-25 11:44:14+00:00",
+"start_date_local": "2025-05-25 19:44:14",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "lg`fAcl}y^nEhM{AtDyOjYm\\xTiNbd@KjKaSfQf@`AdHmBhAhHmExVzBhHeAtFzA`DuEvD|FrKzAtN`AjQqE~\\iIhMuEiAaG~HaDoBgD`AcDzJ}BC_BnCyBi@qE`G{EOaHbJeG|BuCrFiDf@gAnImD~Ck@bSmBdHuFrCeDqDgAzDkDZkI|YG~FcCBwBjK{BnByEBHvDaE~LyCbCwBw@k@zLaG|D|@xEgE|J}NdMyK~Sak@hb@^bb@sGlHgInTkG|CoC`IaGtAqNdZlEjKcGtBeBpIPjCqB[yA}DcCZkB|CgCId@pEgDJy@lKuClD_CeEcBf@CbH`C~CYvErEOdAdGdCh@u@zKsBhB]sCoBJk@jFuCfAqE|FjAp_@eClFeG~G_MjDsDbJ_IvIbD`CtTgKoAfFuEbCe@`EjE`A^|HdGMbBvGdHaBw@_ExAqAjJrAtAmFfJdGXkDfC|CxES|CdGrDgCbCXjBwExFrEgCnLlE~HwB`@a@aCeIiIaBtArE|GvA~IAjHuB|E`BlF_G_@yAvAoC_ImED}DhDhExCeBjHfDbEoFdBjG~@vAoFjIwA}BbEcC^nAbDm@nC|BjBfEg@_AnBbAdD|FbAqCbEOvEwEq@dG|DfBe@mC`BzA|GaMT}HoBqGrFrEnBvNq@nGdCqBvNmBbAf@nBnC{@aAwBjBcOmGaCcOn@}DqBzF{EpIlB`Ma@}A_HdCeBkBb@yFmDzEb@JoEnCiE_GcA_AaDv@wBaEf@{BaBl@_CuAcDjCq@xBeEoInAwAnFiG_ArF}AgDgEdBcHkEwCtD_DhEGbCtHfJg@uAkGrBeEBoHuA_JwEwGvAwAdIlIRnBxC_@iBo@kBsGzByLyFmEiBpE_IpBqC_GsENyCyCGhD}JcGmAjFuJoAuAvAx@xDaHxAcB{GuFZ_@yHmE_Ab@}DrEgCpAoFsT|JcDaBtNmU~LgD`G}GfCwFmAg_@nEyFpCcAr@sF|AKf@vC~B}Br@mKoC{@y@yFuERTcF{BmC@mHhAa@tCdExC{Dt@{JdDKc@uE`CNrBaDzBSfAjD~Bl@AeD`CgEa@wBbGsBsEoJlHmPvEgJzFkAfCyHdGuChImTxG}H_@_b@~j@eb@pK{SfOsMfEaKaAiEbG}Dh@aMxBz@zCgC~D}LC}DzEEpBgB~BsK`CGBsFhI{YjD]dAwDhDnDpFmCpBkHh@{RnDmDdAiIjDi@pCmFfG_CfHgJnERxEcGtBh@~AmCbC?dD}JpC{@jDnBlCoA~BuFtEfAbIcMrEw]_AeQ}AuN}FmKvEyD{AyC`AeGwByGjEcWoAkHiI`A`SiQLqKzNyd@zReKfBeExOkRnD~E",
+"average_heartrate": 121.7,
+"average_speed": 6.003,
+"source": "strava",
+"streak": 232
 }
 ]
