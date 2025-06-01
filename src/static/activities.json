@@ -29383,5 +29383,35 @@
 "average_speed": 7.345,
 "source": "strava",
 "streak": 237
+},
+{
+"run_id": 14663396343,
+"name": "Zwift - Climb Portal: Passo dello Stelvio at 100% Elevation in Watopia",
+"distance": 50178.6,
+"moving_time": "2:58:49",
+"type": "VirtualRide",
+"start_date": "2025-05-31 11:27:09+00:00",
+"start_date_local": "2025-05-31 19:27:09",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "|m`fAm}|y^}MzWaJwFp@hMsHnOw@ZYuGg@c@uDpEkBPa@nAp@pJgCxHl@lDvAtB`@tFdB`D{F|FdB|NaAbDg@tK`EzI_@|A^fAfBtCbC|@fDlTq@dBTfBkCvJ|@|EMnC{BzFBfEu@f@}MP}LxApEwBQy@yG`BqTQqKtBIs@nEmANs@oKd@{CkAwF[gBuAgKdE_LeBiLb@Ls@hE?Cq@yE]`Fm@Ju@_F\\wE_AcEyDcL_FkHqFsMcDqOkCsFgDyPm@eLcBeS~BmMAwJdBQu@~C_BiEDsB~@LaAtC{AuAo@cJjBm@fCoAmBgAlFk@kIi@YwAzE\\vFuAuB]eIo@q@m@~H`A|IqDoJOqGw@_@mA|IdFbOq@DmEgEsAoFaAKb@bL_HvJmBdA|@bFiB~BeAnMkF~ByAhBu@jBMzEeEtI}IvG}HLkAdGiFrAcCtD}YjCao@_OeKkEsIyHuBuFo@oFg@`@k@dEsDeLe@LK`G]AyA}B{@uHeDkDkAkHiCg@lBmMGaF_FsBkJWsA}BMuFmCwC}@Zy@pG}AQ{EaHwE{BjBoDdEwA_@o@aFGd@aHkIyA}B\\wDeKj@eAOgA}Ag@mAhAb@bB`BDt@sAm@sAaB?m@tAp@rA~AGj@wAs@mA_BDi@|AbBpAjAm@FwAo@zBxDnKhC[xHnAVz@y@dF`FN\\n@cEjAiB|DvEvBxE`HdBVdA{Gn@SlC`DJlFvA|BrJTnEhBRhCyB~OhCl@tAzHxCxCx@hH~ApCl@GQsBt@mCtDbLn@W`@mEl@jF`DjHfGnF~IbEbo@lOxGLvSiCxBqDnFsAfAgGjIOvIwGhEcJv@oH`BwBjFyBdAmMjBiCaA}EzBuAnGaJUoLpBrFrEnE|@D{E{OrAiIt@|HlDbJ\\YoAuIXeHp@j@d@vInA`Bb@o@s@mEnAqEv@bId@\\jAqFr@pBfAkC`JiBdAZoDbDdIaAeDlBt@p@rJgB~LD|R}Bx]jCtFfDnOlC|MhDpHnFnKrEnE`EnE~@bFe@Mn@{Ej@dF`A{EN?`AvKc@`LfB~KcEzAnA|KjBbKi@yEnBHdArKqBlTNtG}AX\\{EbCz\\iBl@eAEeDvBoFLuC{@eFbCiJOeBp@gCeDoSeCoAoBcDHwCaEsI`@}JdAuDaBkOrC_B`ByCcBaDa@uF{AaCi@cDfCmHi@qKpCoAvC_Eh@h@XhGdAYzHgP?aDs@sG~HhGxFuI`DhFvAWz@kBbEQx@nEItDiBj@KtCrElD",
+"average_heartrate": 132.1,
+"average_speed": 4.677,
+"source": "strava",
+"streak": 238
+},
+{
+"run_id": 14663615364,
+"name": "MyWhoosh - Stage 3",
+"distance": 4616.1,
+"moving_time": "0:13:36",
+"type": "VirtualRide",
+"start_date": "2025-06-01 14:40:18+00:00",
+"start_date_local": "2025-06-01 22:40:18",
+"location_country": "None",
+"summary_polyline": "zn@y|CFtA@|BExCC\\I\\OZSRUPWJo@LuM~@WCWG_@QQOuEuLa@u@WQq@Ku@OoAe@SMIMC[L}BDWJUTa@d@g@b@QbH}A|@Y`Bw@dDiBhAy@x@w@Va@Xq@pAgCv@gAjDgE|A{BRe@Ng@d@yB`@_Bz@{DHSPKRETBTFNJpDlCh@f@h@h@V^FPHd@@x@U~F?x@Jx@~@rCJd@Bd@ATEd@GPIP[VmAf@_B`@wFhAi@NUN]^Wd@i@rAKLOHSBgAD[DUJOPSj@Oj@E^?ZD`@Nv@b@bANz@JhB@~BEvCE\\IZMVSRUPUJo@L",
+"average_heartrate": 130.0,
+"average_speed": 5.657,
+"source": "strava",
+"streak": 239
 }
 ]
