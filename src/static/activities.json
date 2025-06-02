@@ -29413,5 +29413,20 @@
 "average_speed": 5.657,
 "source": "strava",
 "streak": 239
+},
+{
+"run_id": 14672089548,
+"name": "MyWhoosh - Hudayriyat Outer Loop",
+"distance": 10806.7,
+"moving_time": "0:25:13",
+"type": "VirtualRide",
+"start_date": "2025-06-02 12:35:22+00:00",
+"start_date_local": "2025-06-02 20:35:22",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "gaqmCqnrnInAdDLb@DXBh@?bAOv@MVY^cEdEi@b@e@Re@HY?g@EYIWM_@YuAmAa@[sCmBu@a@eAg@cC_A}Bs@aCm@s@Gu@Au@HWJk@Z_At@gArAw@nAy@|AaA~Bc@nA]pAYvAQvAOtBGfB@zALfDNvAVdBh@~BVv@^n@Z`@|@z@rE|DhMbLfu@hq@vG|FtA|@fA^n@NjAR~BXtEXjWnBfEVlY|BlCNlABd@EVITMz@u@PUXm@JYFi@@g@Ak@OoBi@}EkGmw@}BsX@KHUZSh@i@T[Tg@Rw@J_A?e@As@M_AUo@Ua@[[]WuA{@[[Uc@Ow@WcDOuAOy@]sAa@oAa@_Ay@aBg@w@mA}AgAeAeBsAwCkBiAk@o@W{@Uy@G_A@qANo@PeAf@q@b@URg@l@Yb@aAnBy@lA[^q@j@SPw@^m@T{@VgAPiALq@@}@AkAM}@Sy@[cAk@k@c@{@w@e@i@sB{Ce@o@q@u@}AqAsA}@wAs@yAo@gCy@uAYyAMq@Cs@@e@DWHa@RQRSb@Kh@C\\?ZD\\\\lA",
+"average_heartrate": 111.3,
+"average_speed": 7.143,
+"source": "strava",
+"streak": 240
 }
 ]
