@@ -29923,5 +29923,20 @@
 "average_speed": 7.558,
 "source": "strava",
 "streak": 262
+},
+{
+"run_id": 14911619516,
+"name": "MyWhoosh - City Beach",
+"distance": 9673.8,
+"moving_time": "0:26:32",
+"type": "VirtualRide",
+"start_date": "2025-06-25 13:09:27+00:00",
+"start_date_local": "2025-06-25 21:09:27",
+"location_country": "Langley Crescent, Innaloo, City of Stirling, \u897f\u6fb3\u5927\u5229\u4e9a\u5dde, 6018, \u6fb3\u5927\u5229\u4e9a / \u6fb3\u6d32",
+"summary_polyline": "j}raEgcvaUJf@RRXP^DFBp@DNFb@BPDZ@PD`@BHDP?DBX@NDd@BFBR@FDR?FBR@DBv@DDBn@DDD~@FBBR@DBX?BBP@DDf@BNDh@DL?\\JR?j@HvBRb@HP?f@HP?RF|@HxC`@j@DTFh@B`BA|@OZQHA@CF?LIRELKH?NID?ZOf@MPIH?TMHAp@WJ?tBm@z@S\\E\\ANCNBl@@|@HvBZNDZBx@PXJHNJ^Db@?`@qAdSFZPb@HF^Hv@BRFj@BRDZ@NDr@DDDV@BBT?BBR@DBn@DBDr@DDBV@NDh@BNFV?DBR@FB\\BPDb@D\\Jh@Dl@Nn@FXHJ?ZJZBLDh@DXJJ?f@Hb@B^Ft@Fd@HX?b@HV?FBTBFBp@DDBR@DBR?DB^DDBb@DZN\\ZLVJZBb@]~Di@zIGh@EFOLk@RaA@e@GS?k@Ik@C{Dc@mBQi@IQ?g@Kc@CQEgCUiBKk@F[NMHINGNAPSlDGp@IPMLQNUHI?KFe@?]Ga@?KC_BE_@EOGOAa@Mq@_@c@[QGQEQFo@`@}@|@IDk@z@Ml@[lEy@lOa@vGQdB[b@YHgAMqCM]EcCQk@IO?[HUTQXGPEb@EJM@y@Ii@CiC[}B_@_E}@WWEQCa@r@{FJeABw@Au@E_@Ma@]e@e@[e@U[I_BYKE[CYKM?kB[u@UWOCKJ]RmAFmA?_@OeAK[Yo@_@i@oBsB_@e@i@i@GIw@y@}BoCSMWEK?KBW?WGWKUQKCKIa@QGKAODg@PqBFiADoCFaA?_@Ca@U{A{BsIOa@i@oBYeBWiAgB_F]{A_@kB]sAkAiDs@}Aa@m@g@c@u@a@c@OKKICSMGIKa@?s@Hi@^_ATs@lAaFd@wBj@sBr@}CDMPQJCHKJ?TIb@?h@HJ?\\JR@v@LP?d@JR?HB~ALvATL?f@HL?JDJFRTH\\D\\@x@Cz@aAhL",
+"average_heartrate": 104.5,
+"average_speed": 6.077,
+"source": "strava",
+"streak": 263
 }
 ]
