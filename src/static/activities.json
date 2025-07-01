@@ -30001,7 +30001,7 @@
 },
 {
 "run_id": 14962938633,
-"name": "\ud83d\udca1 \u4f5c\u6b7b\u5927\u665a\u4e0a\u8dd1\u5230\u5c71\u6c9f\u6c9f\u91cc\u770b\u8424\u706b\u866b \u26c5\ufe0f\ud83e\udd75",
+"name": "\u2728 \u4f5c\u6b7b\u5927\u665a\u4e0a\u8dd1\u5230\u5c71\u6c9f\u6c9f\u91cc\u770b\u8424\u706b\u866b \u26c5\ufe0f\ud83e\udd75",
 "distance": 120093.0,
 "moving_time": "4:44:43",
 "type": "Ride",
@@ -30013,5 +30013,20 @@
 "average_speed": 7.03,
 "source": "strava",
 "streak": 268
+},
+{
+"run_id": 14972796843,
+"name": "Zwift - Active Recovery on Tempus Fugit in Watopia",
+"distance": 40089.8,
+"moving_time": "1:10:46",
+"type": "VirtualRide",
+"start_date": "2025-06-30 22:55:34+00:00",
+"start_date_local": "2025-07-01 06:55:34",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "lr_fA}ybz^uAiDgAyEt@uGsBmF~@}@pCBb@eFxAo@jFfB`@vCvBr@_AxCz@xAfIYfCsCgA}EvC}CNgEmBoFyF{EMmAjAuElEiBz@}AKaEaEeF|BgCKwCrIqTb@kEq@_CsHcD_AsBCcBlIyS~Cw@`Ep@nC_EfDOpBeAb@aEaDoFlBwBrBXlHfKpBw@`B_F~ATjAfABjErChBR~@Yz@iCbA]~@?~JqAdT`EdFp@nBrFj@xL{CjBf@v@bF`@|MUxAkBbBQjB^zFt@jBbFb@jGvAzAhAd@zCtAbAhAaArC{IjAy@nClAh@|C~ERvCjDhCMdBkB@eCwBaBeCXqBjC}EAe@a@YcCuCoAiAl@aDpJeAt@eA_Ac@uCeBsAwGwAqE_@y@iCWeGVcAhBeBP_Dc@wKs@yEsBs@_MzCsFk@k@oB}D_FrAgT@aKn@cAnCkBYqAoCcBGsEqAeAcBQ{AtEiB~@sHkKaCSkBrB~CpFDfBe@~AyBbAwCFmC`E}Do@gDt@sIxS@fB~@zBjH~Cz@xBa@jEqIjTDbD{BfC~DhFHfEcAvAyDvAuAdFV|A~FfFrArDRjC]bBmCvBDdBbA~BqAtBaAn@sE\\gCc@IkA~BmEnKoDtAqCQeCqAyDmG}FMmAhAsEhEgB~@yAKmE_E_F`CqCOoCrIoTb@{E{@yBeHwC_AkBIkBpI}SdDw@pDr@dAq@vAsCtCGvBaAh@iEaDkFnB}BrB\\fHbKvBw@xAyEbBNjAfAFpEpCdBRbAwCnBe@~@EzKsAdS`EnFt@tB`Gh@jLyCnBj@v@|FZ`M[bBeBzAOdB^|Ft@jBtE`@xGxA~AnA^nCpAhAbAm@vCaJpAgAvCtAh@xC|EPfCdDxCKbBoBAaCsB_BmC\\iBdC{E?g@[WgCgDqAoApAwC~I}@`@aA{@a@sCcBsAwG{AwEa@{@oCUaGbCiDNuCe@wLs@cEsBo@sLzCoFg@wFsIpAmS@sKj@gAxBw@Z{@[oAeCsAQeFcBkAsAC}AzE_Bv@gAu@kFsIqB_@yAx@e@hA`DnFe@dEgBx@iDPqC~D_Eq@{Cr@wIdTJvB|@hBfHxCx@~Ba@bEsIlTJvC_ChCdEzF@~D{@pAgEdBmA`FVtA`GlFtAxDLpCg@`BcCnBDvAdA`CsAzBs@j@qE`@uCc@MaAdCyEpKoDnAmCMaCuAcEmG{FMaApAcFdEcB|@}AG_EaEsFzB_CKwCpIkTd@sE{@cCmHaD}@uB?cBjIqSzCw@hEn@tCcErCGrB}@l@kBAaBaDkFf@kA",
+"average_heartrate": 128.6,
+"average_speed": 9.442,
+"source": "strava",
+"streak": 269
 }
 ]
