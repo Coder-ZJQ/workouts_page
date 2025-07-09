@@ -30133,5 +30133,20 @@
 "average_speed": 8.477,
 "source": "strava",
 "streak": 276
+},
+{
+"run_id": 15056754111,
+"name": "Zwift - Beach Island Loop in Watopia",
+"distance": 30755.8,
+"moving_time": "1:00:21",
+"type": "VirtualRide",
+"start_date": "2025-07-08 22:50:32+00:00",
+"start_date_local": "2025-07-09 06:50:32",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "xp_fA}z~y^EjBb@fChApC`BfBhDrBbKtDdA`BxC|HA`@WJ_B_B_B]cAXq@nAX|B`GvQeA|A]`BuApA}@zBBt@fB`Fd@`@dAAh@]l@{AbAEjAk@dAl@l@tDI|DiBn@ObCrDlDhALfFiB^LNp@cDh@_@^FVzGLtDqApAmAz@}D|BwBrEiIt@_Cd@mGi@wNp@iGt@_Dp@cA`G}EdBYlBp@~@GJw@eA{@fCK`@q@c@s@{BTgAUkDkDcA_@o@d@wArEg@^oDcF_@AoA|@]Gm@{A{AaAE{ATSfBTj@c@`CeKtN{ArAg@Ea@c@KmKrA{@CY[Lw@l@a@~JyArAq@kH{OIqB`A}AzASvAlAfD~Kn@`AlI?nBo@T{AByIdAiClBgJBcRm@k@aBB{[|IiI`AmCk@sEcGmA_A}Bk@sBFiBn@yAjA}BnFcAhAmBl@kNbBiE`AmDjBwBpD[rB@nBlAjLqB`@Qj@Xl@bCfBNt@m@|@gHjFe@lAAfBfApEpBtC`EhCbHtBfBfArEpK?b@WJaB_B}A]cAVs@lA\\lC|FdQiAhBSpA_CxCWpBlBhFf@\\|ASbAmBfCk@dAj@j@`EItDiBh@Q|BVp@nCxBvAVrFiBb@d@G^yBRaAx@d@TbAQlDV~A[`CoAz@eAp@kDbCaCpEgIv@mC^yFi@sNn@gGz@iDrFuF~@g@`BWnBp@|@GLu@gAi@@WdCG`@m@g@y@yBVeAUgDgD_Ac@{@h@{AzEm@LwCwEm@EaB|@y@kByA}@GmAZ_@fBTh@c@dCgKtNyAnAg@Ga@c@KoKrAy@EW]Nu@n@a@`KyAlAu@mHaPI}A~@cBzAUxAjAdDvKv@nAdIChAKh@c@TmBBeIvCuJ`@qDDkOIi@m@g@eCPg[tI}H|@sCu@kGsHyBo@oB@iBf@eBnAiCbGuAjAkRlC_GhB}C|CeApEFbChAdKkB^Uv@nC~BZbAy@fAgGjEy@bBLrDnB~EnF|DnKzDzExKB\\]PiBeByAU_AXo@dAT`CbG~QeAxA[~AoB|Be@|BlBnFh@b@zASz@kBbAEdAi@dAb@p@~DGtDIX_BXMpC|CrC|@\\`GkBr@`@@\\}Dz@Bf@TF~@SzERrCgAvAoAbAgExBsBvEoIx@qC\\oFi@uNp@qGv@aD`HuGzBa@dCr@",
+"average_heartrate": 126.2,
+"average_speed": 8.494,
+"source": "strava",
+"streak": 277
 }
 ]
