@@ -30148,5 +30148,20 @@
 "average_speed": 8.494,
 "source": "strava",
 "streak": 277
+},
+{
+"run_id": 15068241175,
+"name": "MyWhoosh - Worlds Road Race Below 3.0 W/KG",
+"distance": 35548.6,
+"moving_time": "1:07:53",
+"type": "VirtualRide",
+"start_date": "2025-07-10 11:59:59+00:00",
+"start_date_local": "2025-07-10 19:59:59",
+"location_country": "Mendocino County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde/\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u5229\u575a\u5408\u4f17\u56fd/\u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "qcjmFf`jqVZu@pPD@lXk@ZeP?}GwBkXB}LkCgA^oApDy@DgKaGo@eAQsCdAgDLoFCkAeAyBGeB^{@nDDvItEfGcRvAJnCfBnA_@n@_CUsA}NoIoAwAYuBf@{CtAoCbMkLnBgApFhB`IQbDtBHj@oDpL@`Ah^jVJpWNJzU?xDaBfJi@hCmAjIyHpCyAnDPfGbDxOhAjDeA`EiEpBcA|BK~Er@`CErC_BzAwBrBqKjBcEhTgS~AMlAdAp@xCSbDw@zB}InPi@xCZdHS|CcA~C_FbIm@lDTtDdCrFl@nCr@zQbBvC?zOiNLy@lABl@d@n@`KbFjBZl@u@[cBqAOy@~Ae@zE_BfAwReA}AdBMxAJxA~@rAjIfCJtAe@pFR~@pF|CpFU`DfD`EdAh@n@r@lDd@l@nP`KlEoLtEoKbBoFNqAUmJLoMnI?`@HNl@^rK]`AwCdDe@lBGtFo@|Ft@pDl@VdJM?sNZq@xDr@n@dALfCU~@}BgBi@J[h@CzHd@`Lb@GPwAGkEk@oGb@yAr@?f@~@HtN`MHl@O\\iAF}MVaBdAg@rIJ@pZWnBsA~CFlNzUFh@`@f@hFhKI^XPfAPrKqK|@e@x@qAnH|Bx[@lc@`AzBPzA?vkAxK?AiA}Aw@dBiDg@iEb@gAhALnCdBnCk@~@Hn@jAXbBcCjKBvFl@nHj@dAnCNlArB`C?fClK@bBsBjDy@dE}Ap@iDZy@n@u@bGyBzCyGKg@[[uAw@c@sI@KfOyFfEu@?yQqOs@}AUsV]aAwDgCg@aBJ{BxAgCBgMGi@oAmASgCc@cAsBcAuGJs@\\i@`A?hA^lASn@eDgAuAjAsBaE_@}AqBs@g@q@uAxA}BE@k@jAw@HsBnAsD|FcFbAuBJwEcB{@EmBmBsEuCp@k@IiAeAg@uB]KOnBsCz@oArBgA?mB_B_@|BmCHAfAj@jAtAHtC|B~@pCvBnDJx@s@fDeB?q@zAmDnAa@~J{@lD]PgBWiEAkAd@Kc@fA}AK_Be@_@_DRB[xAs@@]qDaAe@kAEqAVq@`@tBjAOb@{@NuC`@a@xCnAlA_AjBNTm@YkCTaBzBd@dAkCdCxABo@qCgDkAO}@xB}ChB_Ih@mDzFm@]o@yBkAq@oAqCmAFoBzBa@GN_B]iH]oCrC}B~@SzBrB`Cq@vA~GZb@nEAlAk@pEqJtAq@n@wAaAe@eEn@",
+"average_heartrate": 170.4,
+"average_speed": 8.728,
+"source": "strava",
+"streak": 278
 }
 ]
