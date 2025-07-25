@@ -30373,5 +30373,20 @@
 "average_speed": 6.222,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15227962029,
+"name": "\u231a\ufe0f Apple Watch \u9a91\u884c\u7248\uff08\u51fa\u95e8\u4fee\u624b\u8868\uff09\ud83c\udf26\ufe0f",
+"distance": 21794.4,
+"moving_time": "1:12:01",
+"type": "Ride",
+"start_date": "2025-07-25 02:18:01+00:00",
+"start_date_local": "2025-07-25 10:18:01",
+"location_country": "\u519c\u5927\u5b66\u751f\u8857, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "ssd~CsjzvUH]Tg@TiADi@HmDCq@?c@JiABcACs@@m@PwCCaDa@_EGoASwBKm@MkBYwCKiBSiAw@mGG}@uAkMa@_Co@{BMu@uAsFM}@}@qDIe@@MTWrAg@fAk@hCaAjA]fCgAjHqCXONOdAc@v@OzEsBlGcCVGXMFIb@MdDqAPEVCd@OTC~A_AvAq@~@a@XEl@WxEqB^ShHmCCOl@w@x@kB`AuDn@cBbAyDb@sAPq@^iB^aAn@yBT_AHi@d@yAFeACqAAuD@SJIDU?M?UKc@CW?kBGuH?uDGeB@gACkDB{AO?e@PO?MOGSKIG?w@DkAPy@FABEEE?EFgAb@UF_Ad@o@P[P[DOEIKYaAMOSa@[qAQcAQk@GYAa@i@{BIk@OiE@g@GoB@k@EyA?k@GaA?wAE_@@uAGqB@q@CsDA[EWCgAEW@c@B}DASKKKFCZH`CRxDCfBJ~DHnBEnAFb@@p@?rDDbDAHEF]N_B^q@VoF|Au@Xc@XqAXu@Zk@J_A`@c@JDDN@ZVJB?KGEEM@QHIZKXSj@S~@Un@Yz@U`@Q^MLAb@Qj@QvCiAr@[n@EVFBBDPJpDBXNp@TvAv@jDFjARbAv@`DD@f@Y\\ETOxBu@p@[j@MJGNCJg@BgD?OQ_AF_BDMKQBWCcCBaACiBKiCD_AHQVGp@?nAI\\?RCDEBOC@?DHVBTHzIAl@Ep@EdDBfECjACHIDs@Jw@Pw@JKEQ?KGEEAQBICNDH?PFBP@d@EfCg@HDDJBh@FVAr@HxOAjEBhD@PFJTBz@GPx@LLRBpHItCItEEnFMpCC`AF^?xIUhEC~@@ZHHDFLF\\GP{@xA]|@cBjD}BpDgB~BcA~Aq@rAu@jAIFEPBLFVBA@CEFI\\OZIbBo@bCKVSJYh@EX]lAi@|Ae@jAEl@ERKLe@jAq@hAc@bA]l@GT?HCTOROJY?KBMTC^BFFBDRAHO`@a@`@U`AQZ_@d@o@j@e@XGTKNGPMNg@^_@Li@f@a@v@Y\\}@p@u@`@oAdAWNk@j@[Ts@v@iA`B_@b@iBjCuBlCi@x@[VUj@q@v@wJ|MyBnC{CfEmFfHqCzDo@`AoB`CyExGi@l@q@f@mAp@w@TiAN]B_DByCAsAEq@IWAWGC@Fl@BlAEpAKr@EbGU~HQhBOd@Ij@OXOL",
+"average_heartrate": 114.6,
+"average_speed": 5.044,
+"source": "strava",
+"streak": 3
 }
 ]
