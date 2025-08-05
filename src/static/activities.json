@@ -30568,5 +30568,20 @@
 "average_speed": 6.238,
 "source": "strava",
 "streak": 303
+},
+{
+"run_id": 15352076638,
+"name": "MyWhoosh - Mystic Metropolis",
+"distance": 12431.4,
+"moving_time": "0:28:04",
+"type": "VirtualRide",
+"start_date": "2025-08-05 12:11:44+00:00",
+"start_date_local": "2025-08-05 20:11:44",
+"location_country": "None",
+"summary_polyline": "warwCdpkpL]RW?k@WWa@GWFk@x@}@d@cAp@QpA?f@KNQJcA?oBKc@g@K}@?_@P_BfAq@BsAEWRM\\?pDMFkIE}@XcAfAOf@Al@^rCF`AIr@]h@aA\\q@CiCkAq@Je@d@OTEb@PrACx@]n@i@^MVRrBEZQVgAb@_CPo@RoDlBwExCgAb@{@CSUGi@Ns@\\i@v@w@X_ADk@Ga@Wc@UOu@EUDc@\\Yf@m@vCUVe@Lg@?i@M_@q@}AwAESBk@Tc@jBUnAmAdBE`Bq@t@PfA~@|@f@p@Jn@EhAe@Vc@Hs@QoA_@c@iGwAm@Ck@Hk@RqAhAiAZoABkDUyAY}@k@Uk@?}@Nq@h@g@h@O^@f@PzB~A|@Z`AAn@g@zGuJ`@w@P}@Is@Wk@YSo@Ek@Xi@|A[`@a@Re@B]YMk@Aq@Js@d@eA~@u@pDiAfAm@PURy@@y@Me@QUo@]s@IY@o@V_@h@a@fAi@|@e@Zi@NaABuAUkAu@g@{@UgACkARgA^a@j@Mj@@RJn@nB`@d@THl@Bj@OPMTg@DeA[y@_@]}Aq@[]ES@i@Nc@X]^QbAD`@j@ZtAN\\`@d@j@Rl@Cf@]Vi@NcAEa@O[YQyAQ[]c@sASSi@Sk@@q@ToAxAm@ZeAC[QU]Ka@Aq@Ps@`@c@j@MhBPlAGfA_@HIH_@s@kFk@sCg@i@{Aw@i@k@O_AJcAb@u@b@Yl@K`AJl@^R`@Nz@C~AFp@Xr@h@f@fAPjBQz@?fDx@hC`@~Ah@VTnAnBZx@^fBZZ`@CNYBW]gA]uCYgACo@XaCRUTEXFT^?`CHl@bBtB|@jBj@\\h@F`@KVg@@c@Uq@]SmA[{@qAQm@Aa@Di@RWTCVFf@|AV`@f@d@d@Lf@AhFqAd@C|@hFVf@d@TVAh@WnAgCb@Wd@IZ@b@Pv@~@b@R|BHt@TJ\\L~AfBpCVfAIrBNhGm@`F[tHv@xC?dAWl@i@r@]Jm@YuA{A_AKi@XsBdCYD[Cc@[OYIYHi@x@}@Xu@VWrBGv@WJSBi@?gCQ[uAIYHcAx@o@X",
+"average_heartrate": 122.9,
+"average_speed": 7.382,
+"source": "strava",
+"streak": 304
 }
 ]
