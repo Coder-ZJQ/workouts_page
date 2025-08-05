@@ -30465,6 +30465,21 @@
 "streak": 296
 },
 {
+"run_id": 15351293478,
+"name": "Zwift - The Classic in Watopia",
+"distance": 5051.9,
+"moving_time": "0:11:36",
+"type": "VirtualRide",
+"start_date": "2025-07-29 11:19:04+00:00",
+"start_date_local": "2025-07-29 19:19:04",
+"location_country": "La P\u00e9rouse, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "`vafAmuzy^|@pArA`B`@r@^hA^tBFd@DdBJv@LZVb@nAvAz@j@z@v@bB~A|@fA\\Pn@PXBb@?b@Gb@Kh@QpAk@bBgARGJATFJRNd@`@zBz@pDt@vBr@vAfA~AZ^`@Zl@\\d@Rf@Lp@Jf@?f@If@Of@Yd@a@r@u@fCyCj@c@rE_Db@c@^i@j@iAZ_ALo@VsB`@kCXaAt@kBV{@VsAHeAEq@Mc@Sa@_@a@y@o@o@[s@Yu@OaCWyBEiCB_DPsAJe@AQIKMES?SFi@X_BBu@?u@Es@Ku@KYMSSSo@WwCw@mCeAqBs@eAUWCm@@i@HcB`@_BXc@De@Bc@Cu@K_GiAsAQsBQq@Aq@BoAJ}@Py@Zc@\\[d@Yz@K|@?n@Dn@ThATz@\\v@v@zAl@~@fA|AzAlBRb@",
+"average_heartrate": 106.7,
+"average_speed": 7.258,
+"source": "strava",
+"streak": 297
+},
+{
 "run_id": 15288028654,
 "name": "\ud83c\udf68 \u9a91\u6709\u5403\u7406\uff1a\u8ddf\u4e8c\u54c8\u5341\u4e03\u5b54\u70ab\u51b0\u996d \u2600\ufe0f\ud83e\udd75",
 "distance": 123078.0,
@@ -30477,7 +30492,7 @@
 "average_heartrate": 149.3,
 "average_speed": 7.319,
 "source": "strava",
-"streak": 1
+"streak": 298
 },
 {
 "run_id": 15298047335,
@@ -30492,7 +30507,22 @@
 "average_heartrate": 134.7,
 "average_speed": 7.235,
 "source": "strava",
-"streak": 2
+"streak": 299
+},
+{
+"run_id": 15351462519,
+"name": "Zwift - Volcano Circuit in Watopia",
+"distance": 5761.1,
+"moving_time": "0:12:10",
+"type": "VirtualRide",
+"start_date": "2025-08-01 11:32:07+00:00",
+"start_date_local": "2025-08-01 19:32:07",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "dj`fAcf}y^pAlDZp@\\^JDLB\\GXId@WXIdAOx@G\\?\\DlAZb@HbABl@AZGVK`Au@XOXIj@I\\AZDLDRTTd@j@|@BLCNQTw@t@]b@MBMAcAU[?[HmBp@SNQRw@`BKXCZ@ZDb@Tt@Pd@RVVR\\LL@^CXQp@u@NKPARBbA`@PDPANEZWtAiBVk@ZkAN[HINCL?l@JXLTRPZT|APd@\\^tAlAJRFRDT?j@ERQd@uChFUXy@d@UVSl@[nBSj@]b@kAv@eAd@k@N]F_@@]CkAO}@G]D[LO?KICKFKr@[`@GnAIJAJGBK?MK]SQSGI?UB]JuDxAM@M?[IYMoC_CEGGU@mABYHWHILCp@ANEJOBQEiA@QJq@@c@[sCI_@IMUW[QMEO?OBu@b@MBo@?MDKHGLWz@GLIJOF]Ha@?MEMIQ[s@gCq@qAAO@]Nk@Xs@Xc@RUj@e@RUH[Fm@N[^_@p@e@nB}@l@OnAM^C^@^F`AXb@Ft@Dn@?ZEXIVM`Aw@ZKZIj@E\\@LBVP^r@d@n@DL?LCLSVk@h@]b@IHO@MAw@SSAQ@SBaBj@ULSN_@j@g@fAIXCh@Hp@V`AZj@\\ZVHVBTATKt@{@XONALBlAd@L@VC\\S",
+"average_heartrate": 107.8,
+"average_speed": 7.892,
+"source": "strava",
+"streak": 300
 },
 {
 "run_id": 15314079140,
@@ -30507,7 +30537,22 @@
 "average_heartrate": 135.7,
 "average_speed": 7.652,
 "source": "strava",
-"streak": 1
+"streak": 301
+},
+{
+"run_id": 15351691275,
+"name": "Zwift - Volcano Circuit CCW in Watopia",
+"distance": 7729.4,
+"moving_time": "0:16:48",
+"type": "VirtualRide",
+"start_date": "2025-08-03 11:45:41+00:00",
+"start_date_local": "2025-08-03 19:45:41",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "xi`fAyf}y^tAtD^z@Lt@ALEJq@n@OTGZEf@ELQT}@v@o@hAQh@I\\?^DLh@bALZ\\vAPh@PVZLL@\\Ah@ORUd@qAJGl@ALC`Ai@N?\\Hb@^FJJ\\XhC?n@M|@BrAENMDw@DSHGFGRG`@Cb@?f@DXPRvC~B^NPBN@PCpDyAl@ON@LFRVBLANOF_BLUFg@POLETLPV@h@ORA~@HlANd@?b@Cr@S|@]x@e@n@i@TYFMT}@R}AL]TU`Ao@TYzC{FH]@a@C_@I_@SY{AqAYa@K]QuAM[QQYOa@O_@EWBIBQPKV_@vAKTY`@gAtAUPMBM?oAe@]EMBYNm@r@WNY@SE[OQOYm@Uu@Ga@Ag@D]L[t@yAVSXOjBm@\\A|@RRBPELKV]t@q@R]@QCOGO_@g@g@{@KIOEOCa@?a@B]Fk@VgAx@[J_@Ds@?w@E{Aa@g@Gu@@cAJcARmB~@w@h@e@h@KXCh@KXQTu@l@Yb@]p@Uv@C\\@NL\\h@bAt@fCRXZL^@j@KVSN[Ty@JKNCn@?LGh@]NEN?\\NXRHJFNF\\VjC?\\Mz@BxACLIHeADOHILIl@Ct@@b@HTbA|@nA`A\\R^JP@^GxD}A\\GL@LFPXDLCLOF{AJy@TQJKPDTPJVCf@OpAHlANv@A`@I`@MjAe@v@e@VUTWN]J]XmBJ]R[`Ao@TWv@qAbBeDNm@@_@C_@K]QYmAeAa@i@Qe@QwAMWQQYOc@M_@EWBQLQ`@[jASb@U^eApASPMBM@MC}@]YIM?MBULq@t@KJOBO@[EQKQMWc@]eAKu@Be@La@p@sA",
+"average_heartrate": 102.4,
+"average_speed": 7.668,
+"source": "strava",
+"streak": 302
 },
 {
 "run_id": 15336734518,
@@ -30522,6 +30567,6 @@
 "average_heartrate": 135.4,
 "average_speed": 6.238,
 "source": "strava",
-"streak": 1
+"streak": 303
 }
 ]
