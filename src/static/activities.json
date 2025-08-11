@@ -30673,5 +30673,20 @@
 "average_speed": 7.986,
 "source": "strava",
 "streak": 309
+},
+{
+"run_id": 15421829621,
+"name": "\ud83d\ude02 \u8fd8\u4ee5\u4e3a\u78b0\u4e0a\u9b3c\u6253\u5899\uff0c\u539f\u6765\u662f\u81ea\u5df1\u592a\u83dc \u2600\ufe0f\ud83e\udd75",
+"distance": 73855.6,
+"moving_time": "3:38:52",
+"type": "Ride",
+"start_date": "2025-08-11 10:57:16+00:00",
+"start_date_local": "2025-08-11 18:57:16",
+"location_country": "\u798f\u5efa\u884c\u653f\u5b66\u9662\u7814\u7a76\u751f\u9662, \u4e0a\u4e0b\u5e97\u8def, \u5efa\u65b0\u9547, \u4ed3\u5c71\u533a, \u798f\u5efa\u7701, 350002, \u4e2d\u56fd",
+"summary_polyline": "{qd~CwozvUv@mWbNWtFqCrt@_bAbJcKnO}JrMuYnHaZpIwKjNi^hTcR~CyMSgYpCkNOgM}GkLsPkEeDuE}K_y@tFgAkBeWnHaxAvPo}@r[gbA}ZuNZcCsAcCwMDcRnCwFmMKyGmBiAcDXuIcGgDeGmBmJ|X}N|TqC}@}K_A_EvNoAjIkEn@b@sAnHnHbCr@lGhC[fBiFXmBaBsDvAkBjGbFlCwBnC|C|DNlAmCzGzDpBkArAvB|ACbGmECkB}HcH_F}KmCwBg@aKjAyCnGoDvCj@~@mA~C`@B}@}GkDmDfCgN~BuA|AGlI[iDiBkBfEoKcCu@cIoOzC_FmBpAyIDkEsCqAzA|Ct@gHDgClAqApDqO_@}BaSnBoChCt@r@gAiAiFeEcCc@jAtCrCgEaCeEKmE~FyBvKqCbAaH{C{Aj@oVuThBpQeBvDqCExBg@RmAgBiH}DkGc@^xBhGqCmAgDfAcBmCHiIgE{CcF|BoDkEPuBlCs@mAmAFoD_C}EgCx@iCyAwAiFhAkDmCeGcDXwBgDyB~B}AkAuDpGm@nCwD_AcInEyEyFmDlCm@U\\sCuE`C_DUkB}B_@wEcEfByAoDkIvM}DmBsBrHkGg@sDoAtBbHeH|NoK|EcDcGyCSUhDwBvBxBbJsEn@uHnSA{BqHiB}MbBgGsEsAcDqCaAgBbDa@xKaBlI_FeAaAvDoD}FgCoAaBaFHcFmB{BcHyB}@eIoFcCaBVbI`BjBhK~FfAjBvBIhFzAxEnCzAnDxGgKoHuBtG_NoBoDpJTlPsCnOaMfDsHzEkDkCgHZsBlDg@zIyGGyCrBuF\\{BvGz@hCm@rBkBa@_H_JsDiA_E~Cm@`FaHlAcCpDwXx@_IhHeJhPiHdDl@jJi@tAuKeDeBkCkGsCkFYqCaDyD~JkIkCyBfAwC|ImEReDgK]yFyEw@mDpB_FfIaED{FjCaMHaKfGmHYsCcEiDbCoEGyLdOmHd@}CjByAdD]pF_BdB_HS}GpH_JbCVp^zEhSh@lHrA`CMhF~@rEhE~EpC`RbHhINlBiAfCnEjFYzFwFyAw@dArEzHSfEdCpBo@fCt@xBkA|C`DhC~@lLvBt@k@jDhAtEs@`D`B`CkArH|BfCtFU?rExC`EhAbItMp@~AjCSlBgFjFpEpBx@fDzCjClB|Sw@jCdEbGKvDdDzGq@lCeDHkAjEqCv@a@dI|DQ~IkHpEDpBvCnAyCzAAxFnKpMnCjH`GvA}CjEdAxDwA|HzCvEaH`Ju@~K`p@rFXdE~H|`@i@ll@L~JfkAsAxF{MtNq@hLrEnNvMdQpHrN|LnLlJvRpDxWjAbv@bCbLrIfIvHvAfSzJ|c@xNr@b@eBo@NsAzPiE",
+"average_heartrate": 117.1,
+"average_speed": 5.624,
+"source": "strava",
+"streak": 310
 }
 ]
