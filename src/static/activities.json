@@ -30703,5 +30703,20 @@
 "average_speed": 7.971,
 "source": "strava",
 "streak": 311
+},
+{
+"run_id": 15443892913,
+"name": "MyWhoosh - Desert Pearls",
+"distance": 25186.6,
+"moving_time": "0:50:14",
+"type": "VirtualRide",
+"start_date": "2025-08-13 10:59:22+00:00",
+"start_date_local": "2025-08-13 18:59:22",
+"location_country": "\u0627\u0644\u0633\u0648\u062f\u064a\u0629, \u5e03\u8cf4\u7c73\u7701, \u963f\u66fc",
+"summary_polyline": "_e_uC}avuIaA`CSfAGbBf@fCx@|A|B`CN\\Ft@RZzAR~@jA\\v@r@rFbArA|BjAzBb@hERjCGdAx@ZCp@i@^BZVl@lAFl@EjAo@vCkArBw@v@y@^gBFuBgA}E}EgAw@{Ac@uAJiBlAmBhCsBzDoExKcAfBm@h@{Ar@yABuAW{Ay@aAgASm@Iq@HcAl@uA`AcAhG}CrAgA\\y@NaABeBIaAWmAi@cA_Ao@uAc@k@o@g@kBNqASi@eAa@uAeAsAe@kAK{@RwDxB_DxBiDbDWj@Kp@HlIIpA[nAsAlBuHrEcA`Am@`Ag@xAu@|DJdBWXkAb@{AvB_@bAIjBXjF?rBYnBg@dAaBlAkHvAwEdC{OrESSaGiT[eBAcALq@R[rAu@fCEtA[ND`@p@`@NbBSt@_@bA{@`BeCj@}ARkAFeBOeBa@yAq@mAeAsAcAw@yAw@}A]kAEcBXaAh@}AzAoGpKkBtBiAf@u@L}AM_Aa@eBcBYu@Q{A?sDf@}VOmC}@mBmBgBwBgAsBa@oA?eBXoB|@cAx@MRCfAIR}@VYb@eB`JsAtD}@`Bu@`Ak@`@o@PgA?}@SuNmGaBmAoCuEu@o@q@Wy@EoAPwI|CuDr@}DLmD[kBo@gBkA}AgBuAaCgBmEqBoGg@wBN_B_AcAQqAJsA^y@x@w@bFeDpDgGtAqA`Cc@`ILvC[fCoAlFeE~BuAxCgAtB_@nB?fA`@l@~@fE~IjRoL~Ak@v@MzARf@f@Tp@Bt@Mv@c@bAiE|Fg@tAGrAJr@\\z@dAdAlAT~@Qh@YpBoCfBmEn@mC\\cCh@yMRsBn@iBzBqCn@uBPoB@}BU}ODiBPuAdAmCxLiT`BcCxA_A|AUlA?zBNjB\\zAz@tDpElAj@zAHdB]tA}@x@gAbBkDp@q@t@]zB]pBApGf@nDbA|AdAfAbBtA|EbAjAzBrAxEvBn@PdABlA_@r@m@fFwHr@a@dAU|HIxAOvAc@lAGx@LnD~A`Cn@`CVtAUt@o@Zk@rBeI`@eA`AiAfAe@xCSrKl@dDAvB[|HiClBc@`B?hBb@nA`Ap@z@Ph@JfAh@jXUpBgAbCuAlBsFdF{AjBwDfJmAnBw@t@aDlAoNdC}DvAgBnAoEvFmMxRwBfDm@bBUhAGdBPrAb@lAz@vApBrB\\~ANLvAP|@fA^bAp@hFh@z@",
+"average_heartrate": 129.4,
+"average_speed": 8.357,
+"source": "strava",
+"streak": 312
 }
 ]
