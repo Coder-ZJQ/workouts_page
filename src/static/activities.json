@@ -30733,5 +30733,20 @@
 "average_speed": 7.842,
 "source": "strava",
 "streak": 313
+},
+{
+"run_id": 15466893414,
+"name": "MyWhoosh - Kluisbergen",
+"distance": 26862.9,
+"moving_time": "1:09:08",
+"type": "VirtualRide",
+"start_date": "2025-08-15 11:09:28+00:00",
+"start_date_local": "2025-08-15 19:09:28",
+"location_country": "Kokereelstraat, Pensemont, Ruien, Kluisbergen, Oudenaarde, \u4e1c\u5f17\u5170\u5fb7\u7701, \u5f17\u62c9\u8292\u5927\u5340, 9690, \u6bd4\u5229\u65f6 / \u6bd4\u5229\u6642",
+"summary_polyline": "ebytHiwiTDLJ@jRgPn@_AJ_@Dw@CeAU_AcAqAy@_BiAcF}Lwb@[cCwAwWY_CaAmBsNcUq@eBu@eEg@sGCqBF{CCqBoBed@gAgKs@iJkAgLo@sEoEyVgBeJCi@v@eCFe@Ae@Oo@oA_D[qAs@eHEaBCwCWkAaCsFS{@?eAT_DFcDEgE]kF?mEZeDF{CCsCYqDU{Au@_DsAmJi@eBqC{Gm@qC[yC_@oBwA_GwDmJS_A?iAXyEvBuR\\oED{ACaB]_Cc@{A]w@g@k@o@YmKsDuCu@aBOoDV}AMqAu@sAkBqDoHgAwCqRcw@[k@a@_@cDoAi@o@mDoNw@qB}@iA{@c@q@OgFNs@Iq@YgAkAmCiFs@_AwGeDaA_A_BiCq@s@s@_@qA]yAIoAPyAx@{DfDmBv@sBBwEaAyACoC^c@X]h@e@tAc@dCObBIbBBpE^dLE~Du@nHgB`MSnCCpCDfBTzDTjCjApGdAhEnA~Dx@nB|@xAtAzA`Ar@`HpDlB|A~BdCrA~Bl@|APr@RfBFnDG~AWrAu@rBoAdCkB~BkKjIiCfCk@x@uAtCkFhMGd@fFlHnFqa@yEjb@hC|CfAv@fCv@~IzA|D~@`Bv@xBhBhA`B^lAN|@PtD?lILtALd@R\\l@d@~I`E@VSdB{DpX}@bEkC`K]~BEbABfAT`AfB|DtAtBn@n@ZJt@EhA{@tFqFt@_@\\EhB`@pFtCtAj@`AN~@Mx@[d@]lA}ArCiEdAmAz@s@t@OZHb@Xp@fAbGbMVp@Jx@CrBYrA_@|@_V`b@a@|@@PrFnKJd@A~@SnAS`@yK|QwAfCMb@Gh@BhBp@fLPnAPZrB~@lA^d@E`@]fGgIVq@Bi@S_KBi@Jc@rBoDxA_C`@a@f@CvAn@d@Db@_@nD_Fn@g@pJvA~AZXPPb@?`Ai@fKUpA{@pB{ItNO`@Ah@fBjEf@v@ZB~Cc@|ADlAPd@RhD`ClDpBvCrAlFxAtFlDxAvAdA|AjB~F`BdDx@rBvAtFd@lCHjBAvHDlBb@bDp@hBN|@D~@CbAYfBg@~@}A`BmH|GGPpIx[tNdk@JJXOxZiW`Ae@\\@XNf@~@bE~OPDxRuP\\i@Nk@Bs@Au@[oAaAoA_AoBgAcF{Lub@_@mDkAoTUwCKa@{@aBuNcUg@kA]sAi@{D_@}ECwCDiE",
+"average_heartrate": 105.0,
+"average_speed": 6.476,
+"source": "strava",
+"streak": 314
 }
 ]
