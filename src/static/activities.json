@@ -30765,6 +30765,36 @@
 "streak": 315
 },
 {
+"run_id": 1755434091000,
+"name": "Zwift - \u6446\u70c2 \ud83d\ude10",
+"distance": 5024.384612491755,
+"moving_time": "0:10:48",
+"type": "Ride",
+"start_date": "2025-08-17 12:34:51",
+"start_date_local": "2025-08-17 23:34:51",
+"location_country": "La P\u00e9rouse, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "z{afA{mzy^x@hDXlEnBtC`HnGpAb@xBMnFmCl@DtBdJrB~E`ClCfDhAvAKrAo@pP}O|BcLvBgHFoBc@wAoCqBcDq@yFQgJ\\a@m@f@{Ee@uDkNmFgCSaIlAaQ_CsCPuBr@aArA[fCvA~F",
+"average_heartrate": null,
+"average_speed": 7.753679957549005,
+"source": "Sauce for Strava\u2122",
+"streak": 316
+},
+{
+"run_id": 1755521244000,
+"name": "Zwift - \u7ee7\u7eed\u6446\u70c2 \ud83d\ude10",
+"distance": 3269.373289111688,
+"moving_time": "0:07:37",
+"type": "Ride",
+"start_date": "2025-08-18 12:47:24",
+"start_date_local": "2025-08-18 13:47:24",
+"location_country": "Portcullis Buttress, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170 / \u8607\u683c\u862d, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "kiqrI~gz^b@hA@~Be@fBcFLKfLa@vAqDB_Au@MmK]mA}DB}EtAm@a@Ie_@d@q@fIIP_Gn@k@~M@dAj@EfNqJF_AbA{@cA{CAU`A?dJVp@lUd@FxF",
+"average_heartrate": null,
+"average_speed": 7.153989691710477,
+"source": "Sauce for Strava\u2122",
+"streak": 317
+},
+{
 "run_id": 15513131328,
 "name": "\ud83d\ude2d \u6446\u70c2\u4e86\u4e09\u5929\u5fc3\u7387\u5c31\u538b\u4e0d\u4f4f\u4e86 \u2600\ufe0f\ud83e\udd75",
 "distance": 66664.5,
@@ -30777,7 +30807,7 @@
 "average_heartrate": 147.9,
 "average_speed": 7.166,
 "source": "strava",
-"streak": 1
+"streak": 318
 },
 {
 "run_id": 15525615135,
@@ -30792,7 +30822,7 @@
 "average_heartrate": 133.4,
 "average_speed": 7.065,
 "source": "strava",
-"streak": 2
+"streak": 319
 },
 {
 "run_id": 15536496173,
@@ -30807,7 +30837,7 @@
 "average_heartrate": 141.7,
 "average_speed": 7.921,
 "source": "strava",
-"streak": 3
+"streak": 320
 },
 {
 "run_id": 15547682187,
@@ -30822,7 +30852,7 @@
 "average_heartrate": 122.4,
 "average_speed": 6.443,
 "source": "strava",
-"streak": 4
+"streak": 321
 },
 {
 "run_id": 15552706105,
@@ -30837,7 +30867,7 @@
 "average_heartrate": 130.0,
 "average_speed": 5.583,
 "source": "strava",
-"streak": 5
+"streak": 322
 },
 {
 "run_id": 15565543966,
@@ -30852,7 +30882,7 @@
 "average_heartrate": 138.1,
 "average_speed": 5.495,
 "source": "strava",
-"streak": 6
+"streak": 323
 },
 {
 "run_id": 15581751890,
@@ -30867,7 +30897,7 @@
 "average_heartrate": 129.4,
 "average_speed": 7.945,
 "source": "strava",
-"streak": 7
+"streak": 324
 },
 {
 "run_id": 15592686194,
@@ -30882,7 +30912,7 @@
 "average_heartrate": 134.8,
 "average_speed": 6.924,
 "source": "strava",
-"streak": 8
+"streak": 325
 },
 {
 "run_id": 15601838786,
@@ -30897,7 +30927,7 @@
 "average_heartrate": 83.3,
 "average_speed": 1.229,
 "source": "strava",
-"streak": 9
+"streak": 326
 },
 {
 "run_id": 15616247480,
@@ -30912,7 +30942,7 @@
 "average_heartrate": 141.7,
 "average_speed": 8.145,
 "source": "strava",
-"streak": 10
+"streak": 327
 },
 {
 "run_id": 15626478491,
@@ -30927,7 +30957,7 @@
 "average_heartrate": 111.4,
 "average_speed": 5.43,
 "source": "strava",
-"streak": 11
+"streak": 328
 },
 {
 "run_id": 15637831120,
@@ -30942,7 +30972,7 @@
 "average_heartrate": 119.7,
 "average_speed": 8.406,
 "source": "strava",
-"streak": 12
+"streak": 329
 },
 {
 "run_id": 15654646728,
