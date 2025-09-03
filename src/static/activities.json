@@ -30958,5 +30958,35 @@
 "average_speed": 7.347,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15682931317,
+"name": "Zwift - \u770b\u6bd4\u8d5b\u5077\u4e2a\u61d2 \ud83e\udd2a",
+"distance": 6251.7,
+"moving_time": "0:14:46",
+"type": "VirtualRide",
+"start_date": "2025-09-02 12:56:09+00:00",
+"start_date_local": "2025-09-02 20:56:09",
+"location_country": "The West Park Hotel, 19, West Park, West End Park, Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, York and North Yorkshire, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, HG1 1BJ, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "msohIfzkH}DdCk@ZmAf@uBt@aFxAgD|@mAb@gAt@yDbDm@n@S^Cj@hBdIRz@p@vALp@Rh@BXCfA@f@J`Ap@tBjCrHX|@fG~]`@vCFn@A^MXIFy@^u@Xi@^IPCX@jAKxAKf@M`@Wl@QXUPoBjA}FvCW?M[mA{HUoAs@_Dq@sBgAkCgFiKyByEmBqG}@{FO[QSqAqA_AqAQc@Ig@[eEKkCD]NMNGfASzCu@dBe@jA_@h@]~CeCPMREPJrAdDXh@dAvAl@n@NLNDP@r@IbAU`Aa@NCNFJRDV?\\Cp@@h@Hv@b@vA`C~Gp@rBnGx^^lC@p@APELQPm@ZcA^[RKLITAV@hACn@Gj@Kd@O`@Wn@QXkC|A{FvCUGK]ScBaA_G_AyDk@iBi@sAm@qAeEsImC}FmBoGWwAc@{CEUISwByBo@}@OYK[G_@MuBSoE",
+"average_heartrate": 114.3,
+"average_speed": 7.056,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15682931403,
+"name": "Zwift - \u521a\u51c6\u5907\u51fa\u95e8\u5c31\u4e0b\u5927\u96e8 \ud83d\ude02",
+"distance": 5735.6,
+"moving_time": "0:12:40",
+"type": "VirtualRide",
+"start_date": "2025-09-03 13:13:44+00:00",
+"start_date_local": "2025-09-03 21:13:44",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "dk`fAyc}y^t@hBVj@XZTJJ@XGdAc@VGlAQr@EX?ZBv@Vn@L`ADh@?d@GTIRK`Au@VMVEf@Gf@?VFRPZn@`@h@HV?LELQRq@n@[`@MD[A{@QY?a@HeBn@]TORs@zAIVCX@d@D^Nh@Vl@PVTRJF\\HZ?NEVS`@g@LMPIR?PDdA`@PBNAPGVYvAgBN[f@kBFKLILA\\@ZJXLTPPZRzARd@Z^rAjAJPHRDT@h@CROd@{CvFWVw@b@UVSl@S|AOj@[d@y@n@{At@i@Pk@Jo@?mCW]@]LOBKGGMFKf@Wh@OlAEPCHEDQEYEMQQ[E]B]JsDxA[?q@WsCaCEGES?eADe@HWJGLCp@ANGHO@SCkALgA?c@_@wCM]UW[QOEO?MBu@b@MBo@?MDKHGJ]fAILKFOD]D]AMGSUQi@c@cBM[a@q@EMAM@]Ts@Zq@Va@hAaAJYH{@NWj@i@p@c@zAs@fAUx@Kx@Al@HpA\\bAFn@?f@IXIhA}@d@Qv@K\\?ZBVR\\p@b@l@DLBLELGJ_A|@[b@MDYCu@QQAQ@oBn@k@XW^u@~AGZAZFn@V`AP^NT^VTHVBTCHERMl@u@JGNE\\DlAd@L?VEZU",
+"average_heartrate": 115.8,
+"average_speed": 7.547,
+"source": "strava",
+"streak": 3
 }
 ]
