@@ -31093,5 +31093,20 @@
 "average_speed": 9.107,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15798479220,
+"name": "\ud83d\ude2e\u200d\ud83d\udca8 \u4e00\u6b21\u8fa3\u5821\u9700\u8981\u7528\u4e24\u5929\u8eba\u5e73\u6765\u6cbb\u6108 \u2600\ufe0f\ud83e\udd75",
+"distance": 4473.3,
+"moving_time": "1:01:34",
+"type": "Walk",
+"start_date": "2025-09-13 12:12:45+00:00",
+"start_date_local": "2025-09-13 20:12:45",
+"location_country": null,
+"summary_polyline": null,
+"average_heartrate": 99.4,
+"average_speed": 1.211,
+"source": "strava",
+"streak": 1
 }
 ]
