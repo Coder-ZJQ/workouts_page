@@ -32083,5 +32083,20 @@
 "average_speed": 8.167,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16647564539,
+"name": "Zwift - Watts of the Wild in Watopia",
+"distance": 42308.5,
+"moving_time": "1:13:36",
+"type": "VirtualRide",
+"start_date": "2025-12-04 11:13:55+00:00",
+"start_date_local": "2025-12-04 19:13:55",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "xq_fAcs~y^fBrDjFvDfKrD|DhJdB|AbDg@CiA|@{@{BaB?eByA}@VqAlBc@zAhD~CtAvCiC_DwDA{AjAc@nE`@lFtJxLkIbF|ExCqGtFrEnEJO|@qCRhAlAM`@qDk@sCz@aFpE_A~BkAzJj@`Na@xFqG|MuBjBcCxHjDnHgAvDJxCrBpFvFlIhAxI~@jBvKhJjCKxGgCzDvN|EvFjCn@pB_@tPaO~GoWCcCsAmBiIwB}OPNaHg@_D_NcFeCW{HnAgOyB}H^gEwG`CiI`C{BhGuM^wFi@uNlByLvHyGhGPJo@cAcA`CGb@o@]s@_BIeAmC~B}AXy@iC_Fg@wDgDq@}IFRo@fLcAjAu@}AWiJlAgA]`A_BjMkCaHaOSiCxAkBpBXnGxObLi@f@iMrDmNEoRgCY{[|IeI`AwCq@sGwH_Fo@kElBcDbHqBjAsSpCoEfBmCdCaBeA{@qCReDhDiHx@iGo@qKyBcDeAuC_@cChDgMZcEyAgDgDy@u@gAsBcIt@wGuBiF|@aApCFf@kF~Am@`FbB^tC~Bx@aAjD`AhAzHYrCeDmAuEvCuCJmEkBmFqFoEUsAjAyEpEkBx@uAOoE}D{EzBeCG_DjI}Sh@uEq@aC{HmD}@uEtIyS|Cq@|Dn@rCaEdDKnBaAd@eEcDqFz@{AvCOzF`JtAx@`BcAtAsEdA@nB|AJxE|CjCsCzBq@rA?fKqArSxFxI`Gh@bM}CxAv@nAzRQlCaC`DbAhKhB`A|BKrGrAfBtAb@xClA|@bAq@rDkKjBObBrAb@nC~DHjAp@lAtCJhE_A`B}KdGu@xDaErCb@zDpBnAI|BcE|C{A{AiBC`@fBWlCyF^q@bCcB`AgAdCmAw@jAyB]uBlAy@c@uAaCiAcB^o@|@PdCq@ZwBiEfAsDe@mH|EFjAeBUoAoBqBoGpBHgHeDe@gDbDuBl@yCPiEaAuBtCuC\\oDtBfIlC|CwAjCj@Fp@{@f@qFfAgEc@w@r@lDr@jArAxJWjBfAjCpGoExIiHv@cDyCyAyDeCh@eBaEm@JWfBaB[qE?Gt@jCzCk@l@kDwA]}C{H]u@f@Jh@xDUJb@iEhCrDxAOnEnC~@`@hAiFfDk@vCq@Es@aBPaE{BeAeBj@y@~B`ArBt@dDeB`Bc@nC_BcBjAeD{@O{BvAD}Bi@c@sDpDkJGw@tF~AbFtBvCt@fJo@tGaDbHi@jDXbC~BrDc@|EjAjMkB`@Qn@jDfEgIzGw@bCl@tE",
+"average_heartrate": 148.9,
+"average_speed": 9.581,
+"source": "strava",
+"streak": 1
 }
 ]
