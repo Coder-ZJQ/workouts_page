@@ -32158,5 +32158,20 @@
 "average_speed": 6.917,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16684323067,
+"name": "Zwift - Electric Break in Makuri Islands",
+"distance": 29567.6,
+"moving_time": "1:00:29",
+"type": "VirtualRide",
+"start_date": "2025-12-08 12:21:33+00:00",
+"start_date_local": "2025-12-08 20:21:33",
+"location_country": "Dueboi, New/Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "no|`Aagfs^bBgAu@_CeCt@NhDqE|@i@rHxAfBdDx@|A|CnIuBhDx@vAtB|BbK|IzIlCjIJhClDy@tAlCeAjCNd@fFWnAr@}AnDlAlHuD|AF|AnBI_AoFdCsA`CLlC~DhCa@vA|AQvAiBjAHzEq@pB}HWk@x@`@|EcAHuAuA}@XeC|MwExER~FaAhAwB|H?hAb@J`BuFfBMb@v@[hCj@xAtBhB|Bi@e@~DvAbAnAEZ_CeAoA~CgAPaAoD[}@qAkAxAo@KuBmE_BeAiAwKzEkFtCoN~@IzAvA`A_@a@uFdEWfDJNoH`BgA\\qAy@yA_DZkC}DiCQ{BfA|@zFkA\\w@a@B_BnDsAmA{H`BwCmAw@gFVQw@bAeCw@gBgA[uAjAs@_@E_CmCkIgCcE[kCp@wB{AaIuAoAy@sCdBqEgCWiBoJ_AY}@|@j@bF{@x@hBbBIjAiDl@K}@`Aq@YcBkCGy@iBc@VTjCo@dAp@dA_Ah@wA{@m@kKbBiAc@aC{Cr@R`DcC\\k[_BmBgA{GsJeC_@{CvBa@dGqCr@^vEyAnCnClDz@qAHgG_BoFF{L}@eAqFUq@q@J}M}ApAgDe@b@u@fCCf@eBzASSo@iEU@w@lAMMcA_DMq@z@HxBlBhAcBdAKdCzB|AkB|AAbGu@zC`@j@pDVcCt@`AlDeATgCiCiAbBk@A{@eCw@dB}BYBqBlCa@N_CdDkA?q@cBWMq@pBeA\\}Af@Nb@~DdAS`@eD`A^N|CfCWTuMg@K{@zAaCEa@o@hDi@d@cB`Bm@{Ei@Iw@jAMJq@}Cg@{@`@CbC`Bn@N~@aBn@M|B|BdBiBzACdGu@tC\\r@pDP_Cx@fAbDoA^eCgCy@xA}@D}@cCw@fByAEe@s@PyAjCa@P_CtCs@BiAaBWIq@bBo@n@oBd@Vf@zD`A[NsCdA@H~CvBbA@fFgAdAiGHa@xHaD~BuClEAlDz@bApQVnJzCfAc@hAsQaBuFL}K{@wAwFWq@s@F_N{AtAaDYR}@lCEj@eB~AYQi@qE]Fq@jAMQiAcDGi@z@NbCtARNr@aBz@MbCzBxAgB|ACfGw@bDpEx@_C|@bAdDkAXkCgCu@|Ay@Bm@aCcA`BaCa@FiBrCm@NyB~CeA?o@{AUSeAbBg@h@kBf@LZ|DdAGp@oDz@f@CdCjCL",
+"average_heartrate": 127.0,
+"average_speed": 8.148,
+"source": "strava",
+"streak": 5
 }
 ]
