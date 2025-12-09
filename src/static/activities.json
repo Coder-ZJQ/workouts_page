@@ -32173,5 +32173,20 @@
 "average_speed": 8.148,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 16693635844,
+"name": "Zwift - Tropic Rush in Makuri Islands",
+"distance": 41355.6,
+"moving_time": "1:13:43",
+"type": "VirtualRide",
+"start_date": "2025-12-09 11:40:25+00:00",
+"start_date_local": "2025-12-09 19:40:25",
+"location_country": "Dueboi, New/Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "la{`Aa{ds^xI_KbAiKtHwAnAsC|Ib@|F|BzAzCbIqB~BPdCnChCtK|CxBbAcFaBqImCiFhB_EoCe@_EoTcIkE_HcN{PwB}DjCiCbObEfI}@zEcHc@kI{KmDc@_CtBc@jGkCl@`@lE}AnChD|Fm@tEcLsC{Ro@WyFrHeId@yHzH_@RoFp@u@xGJtA~AKlL~ArF[lIgAHkC}DzA{B[cF`CUi@pYoElCyEdJ}DeCcNo@iDz@cD}A_FW}CbAiBdBIpEgAbCr@bEIxA}B~@{EjHeGfB}BvH~DnE|GbCfDHc@zCzGtATjEdAz@bBP|Ey@z@tE|BvBdApLlAF^}@aAiIVuFjDg@hE`Dx@hDy@pGuBbC`@jCxAe@hC_Jv@g@rB|B{A~C~@xA~DVzDsAnDz@rEy@zErARxAkAtE`DZp@fCrFnBoAfD\\|EmDhD?lBfArAfEHvAhBYnCxErAl@fAo@zB{BjAq@Uy@gD}Ab@oBm@iBxAa@vAz@bCjDdCyDzBFvBr@z@dFd@vD{ElDXbGwBrG`Bh@nI{CfCUpBvGnFzCrMe@pGjCzAVtD|GVp@oAUiC_CeBoA|@v@vDa@tEr@fArNcCbCmDvEc@nCsGlJkJjGwCnBuFxFFrEdDjAiBgB{CrB}BdBEhCdDhA]kEwIcE`@yCwEoHPYyFeCG{HlCiDwGhAkDuAuBk@kMsA_AEiCbBcCiAmCvDeCoDa@aAsA{BlAwEyGgAkKzEqFnCgNbASxCfAWiGbJ@V_I|BqCcA}AiCb@{CcEaCM_ChA|@vFeCIH{AjDsAmAwHbBwCiAw@wFJz@iDkAgC{Dj@C{BmCoIiC_E]uCr@iB_BwImCaFhBcEmCa@gBqJaAU{@~@l@tE_A`AnBnBK`AmDl@Ku@bAy@WaBqCIw@eB{@dFp@lA{@d@{AaAm@}J`BsAc@aCqCh@T`DgCf@i[}AuBgAuGoJaDe@kC`C_@`GmCl@^|E{AbCrCrDx@cAHwGaBuFHsL}@eA_H_AJ_NqBlAwCs@fDi@d@aBdBo@aFq@As@vA_@g@cAaDFWbDpBvA}Ax@QlCzBtAkBdB?`Gw@|CtEfAaCl@fA`DqAb@iCgCw@|A{@@o@aCaAdBaCg@LiBdC[^oCrCq@AgAkAE]aAbBm@l@mBfAnEdAQ\\eDbATH~ClBj@BvFgAbAcG@]jH_IxI?~DbBdAtPP`KvCz@cEoD_H|AaC_@mE`CY[rX{EhD}DzJzApAnGHvGfB",
+"average_heartrate": 150.4,
+"average_speed": 9.35,
+"source": "strava",
+"streak": 6
 }
 ]
