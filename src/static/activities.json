@@ -32248,5 +32248,35 @@
 "average_speed": 7.754,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 16730118176,
+"name": "MyWhoosh - Alto del Aguila",
+"distance": 14377.0,
+"moving_time": "0:41:57",
+"type": "VirtualRide",
+"start_date": "2025-12-13 11:29:45+00:00",
+"start_date_local": "2025-12-13 19:29:45",
+"location_country": "Zipaquir\u00e1, Sabana Centro, Cundinamarca, RAP (Especial) Central, 250252, \u54e5\u4f26\u6bd4\u4e9a / \u54e5\u502b\u6bd4\u4e9e",
+"summary_polyline": "amt]zi{bMRDTJJTDh@BlI?NFNJF\\HN@nQ?xJCZHFL@N@zFAl@G\\GLKJMBmE?_@P_A~@[Ta@DqIDaJ?]MmAiAWQME_KAKBILCZ?~JvCl@zi@A`ADLFHLF^BnPDp@Ln@Xj@j@t@hIlJx@|@bAr@j@XpAX`ADtAA`A@`AEnD_@|AGfW?DL@vN@n@F\\FHTPd@FJ?TEl@]JQTk@\\cBb@{ERs@PYTSNIZEN@VDtAd@lCxA\\LXBb@APCHEPSFODc@CYIWWWm@YqBi@WMc@YYWYa@W_@a@_A]mBe@yAGc@Cq@@gAB[FONQj@W`Cg@ZSJQFW@WCcBRkBAOCOKKME_@@u@Ru@^a@LWFc@?y@Gu@Q_@SOWEOBWHMLGPEJ?p@LdAJn@A\\IRIRM\\a@~@qALc@@MCQGKa@Ia@?m@HcAFmBBo@C_BU[?]B{AZ[DO?SCIGGQ@QHOf@WrBu@VM|@Yl@In@AZC\\In@[bA}@l@u@b@s@Vi@Vs@He@Da@GqBD_@HUHO\\[rB_ANQDIFWAYGWo@mA{@cCs@}AOk@_@{AYw@g@m@s@o@kAq@u@[OMMOCKC]LyA?OCMGKOKUESBWH]VUBICIKAK@GLSv@q@n@g@^URGN?NBTNJLrAnBv@z@rCxBrA`AZLb@FX?j@G^@b@Lj@V~@NZHJFJJDJ@dADJLN\\Bb@GpDyARQd@q@Lc@H]?SCU]gAGY?QDURc@p@_Ad@w@x@_Bz@cAh@c@p@]|@[|Am@d@]TWHQHc@Bq@@kID_@HKLILCp@ClD@zFAn@IRKPOJQFU@SIi@IQ_@Ye@Kc@AmH?]ESEQKQ_@Ec@Jg@NUTOXKnG?TA^KDKBW@kBDYRUJIbA]l@g@\\e@\\y@F]@_@?a@C_@I_@K[Q]_@c@s@e@}@W_AEa@Bo@Lk@Te@`@_@f@Wj@S~@M\\KJ_@H}\\?KP@hD@TFNJNNHd@FbL?pBAb@@p@J`@TPTPb@Hh@C^CLKZQXURi@Rm@FuACc@Bc@JKLGRAP@tACf@EVSb@MLQHe@JQ?SAa@KYYM_@E_@",
+"average_heartrate": 146.6,
+"average_speed": 5.712,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16730224461,
+"name": "MyWhoosh - Valley of Tombs",
+"distance": 5064.1,
+"moving_time": "0:09:16",
+"type": "VirtualRide",
+"start_date": "2025-12-13 12:13:42+00:00",
+"start_date_local": "2025-12-13 20:13:42",
+"location_country": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0644\u0627, \u9ea6\u5730\u90a3\u7701, 20115, \u6c99\u7279\u963f\u62c9\u4f2f",
+"summary_polyline": "_bwbDm`neFWb@]dAY|AG|@?\\LjCCdBR~ACd@OfACx@|@~[Av@]|BO|BObE@nANr@\\n@XZZVNH`@FfAFrH@r@C~@IZGh@Oj@_@jBoBxAkA\\Qx@UrAi@xBaA~AkAhBsBl@a@|E{BrBg@`@Mx@i@r@s@`A}AXq@Ts@He@JcB\\qET}ADQ^k@Pa@Ro@XeBRs@pAoDzCyJXgAFc@@c@Cq@O_AYkA_@iAO]_@i@[Y_@SQIe@Ie@Ae@BaCTc@@u@Ea@KOGuAeA_@S_@Os@Ks@AeA?c@Da@Hm@Vm@\\}@`@{WxJq@Ns@Da@AsBOa@?q@@qAR}A`@]PKJS\\M^Wz@Kl@Ih@",
+"average_heartrate": 143.7,
+"average_speed": 9.108,
+"source": "strava",
+"streak": 1
 }
 ]
