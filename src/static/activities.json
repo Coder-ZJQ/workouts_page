@@ -32383,5 +32383,35 @@
 "average_speed": 7.444,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 16784339861,
+"name": "MyWhoosh - Ghent",
+"distance": 12976.0,
+"moving_time": "0:33:36",
+"type": "VirtualRide",
+"start_date": "2025-12-19 12:06:48+00:00",
+"start_date_local": "2025-12-19 20:06:48",
+"location_country": "E17, Ottergemse Dries, Gent, \u6839\u7279, Gent, \u4e1c\u5f17\u5170\u5fb7\u7701, 9000, \u6bd4\u5229\u65f6 / \u6bd4\u5229\u6642",
+"summary_polyline": "cbkvHmdxUJi@Nc@b@g@nMwKJMBUoH_ZqDmN[oAcHcXg@cBMGKJ}DpDcD~CcCtB[P[J_@Bk@Ck@O[QYUq@s@i@cAOg@YuAs@{Fs@cFWwAYmAc@oAa@aAqAcCeBwCcEyGgF}HyBeC}@y@y@kAs@i@i@s@m@gAQS[[mAaAyA_B{BsB_@Wq@YoBq@{Ao@sAq@iBgAyAw@wBcA_A_@o@Io@?s@JYJ}BlAw@\\w@V[F{@Hy@Cy@Q]Ms@e@o@q@eAqA{KsNaCaDk@q@o@i@mAk@kAWs@Gq@CkADkARyBn@q@XcAj@uAhAwAdBgE|Fy@vAe@lAOj@q@jDe@zDa@fGWfCQhEIjA?nBDr@FnDDh@Nh@v@tAx@hCNl@\\lBNvANrB\\fJNnIPtANt@Tn@t@rA~AfDV`@d@f@l@b@fDnBvFzC^LRBP?PE|Aq@dG_DfBeAh@a@b@q@`@}@lA{Cr@_Bd@{@TUjPcJt@_@t@]x@OZA\\DZFx@Zt@^p@j@h@v@b@z@tB~EpHrQ|AlDPf@Jj@@XAn@Kj@Qf@_@r@gOtQm@v@GRLf@fC|GbAzCzFrR`@t@f@h@h@`@fEdCvGpDhDdB`GrCL?Li@hCeRbCmPj@wCRc@JKLGLAN?ZFjOvFZNXXNd@Hj@@fAEdAM|AiBvQc@fF?tBDl@L`Af@|B|DfPHPLA`CoBfIeHVYV]Ng@NaAf@gEf@qDpCwTP_APa@`@a@",
+"average_heartrate": 114.6,
+"average_speed": 6.437,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 16784564962,
+"name": "MyWhoosh - Golden Gate Bridge",
+"distance": 12419.2,
+"moving_time": "0:26:48",
+"type": "VirtualRide",
+"start_date": "2025-12-19 12:42:33+00:00",
+"start_date_local": "2025-12-19 20:42:33",
+"location_country": "Navarro Ridge Road, Mendocino County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "gjcnFl_pqVDVDJFH`@NhG?XPVVpIdM\\NP?f@M`@@TJHH|@jBpAvCXh@^~@DR?RGPKPkAp@W`@Cn@DbBAj@Gf@Ob@S^Y`@{@`AQh@Aj@RjBh@`E@tAI`DFnAHf@Nd@Rb@LN\\Vb@n@Nh@Hl@Lh@Rd@b@x@FVJp@HvAH\\PVl@TnBNRARE^c@p@gAJIXOJCVAf@Hh@A`@IFE^OVQJKTa@DU?_@EUIQGIYMmC?KBqD?M@EN@nNBNR^d@x@FRHt@@z@?doADbYAd@Ef@ENWVO?MB}I?MCmI?OBMFWRM`@AVA~A@nADd@DRHNLH\\HfPDl@@j@HXRJLJ`@BR@h@@tMHNvE?L@tBAJBZTFHZrATT^HnAHTFvBFl@Ob@Wd@m@Ve@Vs@Ja@Fq@DiAL{@FWTa@ZUTKXCDCzAE@Ch@CVIBCJ?JIF?FKLENQHQL_@Fs@?UL}@Re@^a@HEh@w@HWFc@@u@Ik@Oo@m@qBSwAYa@CKKgAKO]Gu@BWDUAa@]EKQs@IMKMk@IO?_@Da@A_@QKMGWIi@KeCWsBE_ACeE@a@N}@dB}FJ{@A]E]Wy@M[QUUQ[GYDqBh@]?[Ks@e@o@i@WMYK[?WNO\\C`@Dd@J\\RhA@d@Gf@Q`@cApAGd@PZ^BZFVX@`@MZWJiJ@MIES?qkAE}@EQQe@k@_AIe@?ec@e@gH]kGImAi@aEEo@?o@Fm@fAaGHUPYNOl@On@?JCf@AJCh@?LEj@A_G|bAzGacAzAELEDQQkKEk@Oa@WSMAyA@]@ODo@@QBo@?OBm@@KBk@?WOGQGw@GsBGe@GOOMQEQAeG?s@E{K?OCcI?_@H[NKLGPAnC@h@P`@ZLlG?NFZT",
+"average_heartrate": 123.8,
+"average_speed": 7.723,
+"source": "strava",
+"streak": 7
 }
 ]
