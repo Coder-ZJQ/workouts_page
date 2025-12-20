@@ -32413,5 +32413,20 @@
 "average_speed": 7.723,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 16792925748,
+"name": "MyWhoosh - Alto del Aguila",
+"distance": 18423.5,
+"moving_time": "1:01:05",
+"type": "VirtualRide",
+"start_date": "2025-12-20 11:48:48+00:00",
+"start_date_local": "2025-12-20 19:48:48",
+"location_country": "Zipaquir\u00e1, Sabana Centro, Cundinamarca, RAP (Especial) Central, 250252, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "gmt]zi{bM\\FRLJTBd@BtIHZXJ\\Bf]CZDFJBZ@fGIx@OVMDuE@k@\\iAfA_@DuTD]KoAmAi@U}JAMFELCj@?bJB^HJj@Hll@AnAFTRF\\BnPBl@Ln@Th@r@|@zJdLhAx@v@\\jAT~@DzDClGi@`X@DJ@xNBv@FVXV^Fn@Gn@e@Ti@`@sBh@gFTo@X[d@Qp@BxAh@hCtAt@Rl@A\\QP]Dg@Mk@SUs@[gCw@a@Ys@u@a@q@Yu@[_B_@mAMm@Ew@@oABWHSj@a@rCo@VOJSHm@CaBPiBCc@UQa@?oC`A}@F_AKy@S]YIY?SHQ`@ObCXn@At@Wj@i@~@qAPk@EYQQSCwCPoBBm@CuASa@A}B`@i@BUEOQ?OFQh@]lE}Ah@IlAE^Ip@_@t@m@tAiBb@}@Ng@NcAEuBDa@HYf@i@tBaARWFYGi@m@mAw@}B}@sBm@eCYq@]c@{@u@y@i@oAi@W[Ge@LaBE]SQ[G[Fg@ZUDUO?Up@q@`BoARGX@ZNVXhAdBj@n@pFfEZL`@FhBEfA`@rAV`@PJV@bATXPB`@C|D}AZYV_@\\iACk@c@_BBe@Rg@nAiBz@eBh@s@fA_Al@[xCgAf@_@\\i@LiA@oIB_@DMXQn@CtL?VCh@Q\\a@FU?g@Oe@][iAMsH?[EYIUUK_@?c@Vm@j@[rGA\\CXMH]?_BFg@Z[p@Ul@]n@u@`@aAJgAEk@Ow@Ug@e@k@a@Wu@Yy@M_@?_@By@R[Ne@\\o@~@Qj@[hAYP_@Bs\\@GR@dDHd@ZXb@FbQ?l@Lf@^Zn@Ff@Gh@IXWb@a@XcAPmBCa@F[PIb@AtBQz@IP_@Rs@Ja@C]M]i@K}@?iCI]O[a@]a@Mq@Fa@PSNUb@K`AAlHFl@RVh@JlAB|p@Cz@Ch@QZa@Pe@Bg@C_@I_@SYYOi@OyCGc@Ka@]MUOg@Gs@@c@He@Nc@Xa@d@Od@I|AA^OJKTo@BcB?kKEwVAUKOQIaBG_C?q@HKLCRAhDI`ASj@u@z@g@ViBp@yIjCoEbBiBZmAD_AAq@Ic@O]YU_@Ge@?a@Ng@X]~@]",
+"average_heartrate": 118.4,
+"average_speed": 5.027,
+"source": "strava",
+"streak": 8
 }
 ]
