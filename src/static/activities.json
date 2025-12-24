@@ -32458,5 +32458,20 @@
 "average_speed": 6.081,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16829411936,
+"name": "MyWhoosh - Mount Fuji",
+"distance": 34125.9,
+"moving_time": "1:58:52",
+"type": "VirtualRide",
+"start_date": "2025-12-24 11:34:59+00:00",
+"start_date_local": "2025-12-24 19:34:59",
+"location_country": "\u8db3\u67c4\u505c\u8eca\u5834\u5bcc\u58eb\u516c\u5712\u7dda, \u5c0f\u5c71\u753a, \u99ff\u6771\u90e1, \u9759\u5188\u53bf/\u975c\u5ca1\u7e23, 410-1431, \u65e5\u672c",
+"summary_polyline": "mxxvEwjmnYb@zBdKxMfCfBzLrBxAfAz@zBBzCmA|CoLjCcA|@WnA@nBn@xArJvBxAnAr@~BEfDw@vB{IdGiA~B@|C|DxFb@JjEyDlJn@~JeBfHkEvH}JnDlDzDm@vAR\\tAw@pBHr@vD_Al@\\F~Ak@bCFp@tAL`CsA\\Lo@vHm@zAHh@|HT`@^s@zCuAjB@x@vHm@Tr@kBbDHbAhINFn@oCdJt@x@nIGA|@}BzCb@f@tDd@k@|Dp@xAfDtB~EkBhETpChCr@xDzCqAn@Pl@zF`@p@hG_APv@q@|BLlAxI`CKjFbCjAq@`CJbArFi@Xn@@bCzErEx@AlFqDlBM~@b@D|@uB|Fb@|B~@YjEcFdASEfHaBpFf@vAlGsBxBqDt@YD~@wBzEq@|En@ZbHcDp@~@kFnQH`Ap@?hC_CnJeFrGp@?n@qBpAeAbBm@xGcC~LTr@t@AxK}OlAw@Tp@iAhGa@bIs@rBXp@bAa@g@qD`@aH~@cHeAPkLrPu@DY_ApBsJ|@qIdAgB~A_ANmAiGi@aHlDyErD_AQjFaSs@w@_H`De@KQi@VcBxCaICq@c@EuCjEyEjB}@ISuAxA}EJiHmAVkE|EgADQ_CxB_GSi@aDS{E~CoARoEaEQaD_@c@cFn@Wm@t@}C{BaAQq@\\gDUq@{H}A[_Bh@{Cg@[yF|@cAaHg@U{CrA{@{DsCiC{DWsEjB{DoBu@qAh@iEsEgAHq@dB_BRo@Se@{HNy@q@Ck@pCmIOg@iIWHqA|AiCIi@eAMkE`Aw@[lCwHgJaA`B_LW]}BjAcBCKc@l@yC_@sBeE`AMeAr@kBYgAaA[sEl@eDsDrI}MrAsGe@aFyFqHoAyGp@cEzFeCzAiH?_DmAaJzCsFXgDgAiGwCgIGgC\\kCjBwD`DeBxCMfGlA|Ek@hJeMcFoHGeFmA_BmAF{BrH_CHSgA~BgK_C{HqYhOiDWe@gAMsDcCkBW}AXaBfBuBD{CeAaDoD_D_LdGcAhBc@nFWdTwDvJwBhBeKrAiBrA}DfJwKjO]f\\wA~Hx@zBpD|EvGfHfNhClBfBd@tA@xDgAfCeKtBgBhA_@tA@vBn@tA~KrCbBxDCpCw@`CqI|F{AnCNpD|DlF~EwDlJn@~LaCpFuD`IuJnCdDlEg@xAVZnAy@xBRr@jE_AZlAo@vDTt@zAGnC}@{ApLvIh@FhAgC`Gx@\\~EgAp@RDp@mB|D\\l@",
+"average_heartrate": 145.2,
+"average_speed": 4.785,
+"source": "strava",
+"streak": 2
 }
 ]
