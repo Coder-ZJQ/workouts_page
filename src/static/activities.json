@@ -32683,5 +32683,20 @@
 "average_speed": 5.791,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17138631898,
+"name": "MyWhoosh - Ardennes",
+"distance": 31095.2,
+"moving_time": "1:16:07",
+"type": "VirtualRide",
+"start_date": "2026-01-22 11:42:14+00:00",
+"start_date_local": "2026-01-22 19:42:14",
+"location_country": "RAVeL 2 Ligne 150B, Houyet, Dinant, \u90a3\u6155\u723e, \u74e6\u9686\u5927\u533a, 5560, \u6bd4\u5229\u65f6;\u6bd4\u5229\u6642",
+"summary_polyline": "{oiqHsyp]MvAt@xMP|Ab@j@vB|@lATx@i@nGuIL}ASaI@iA`BaDpCeEl@KxAn@l@BrEaGh@_@fN~BRb@@p@i@fKU|AsArCyHvL[z@Bn@hBfEd@l@bEa@pD`@vKtGxJdDpEtCzBzBv@|AzAvEdCjF|BjIT`BFfBA|HFfBXzBjAfEBlAIdBe@vAqAxAsX|VyAv@mBIcBmAiA{BaD{Sq@}B}BsEoO{UqDsDqB{BgBiCqH}GqIqDeIgEeC{@_CPyDhBsAb@wBFuA]w@g@aBeBqQiUiA}@kAg@aC[gB@_C`@sCdAqBrAqBxB_EpF{AvC{@lDm@bE{AxTRfKfAxBv@`C`A|Fl@fNJzFNzBj@lBrCrFh@x@j@d@lJfFpB|@v@G`I{DhDuBd@q@bDwH|@mAfR_KrAc@z@CtA^pAn@vAfBhPh_@TzAM~As@zAy_@|c@sAVgNF{BTwClAwEtC}G~F_AVoBF{BYkMoFu@q@{@oB_AmA{@i@{Cw@eEsDsH{C{Es@_@a@aBaEk@w@sJwDkDyCiFyEqIuFaCgAkBEkDf@wWdHmAr@wCvCuAn@gTfCaBMwA}A_H{JeBkCc@aAW}Bc@mHaAaHS_DFaEt@sG@cBMsC_@mC_AoCsAsBuA{@}BMoQnFi@b@}@tAwFvKwAxAeBp@gHd@gH`B}A?}AaAs@yAa@{CUmEA{CNeC\\sBjCeLd@gHXgBj@aB|DwHj@{@nIiJr@k@jAe@vCuEtBkBjAgB~DiFlB}AhDmBbGeFVm@XcCd@eA|JqG`Bm@~@B\\XhArCvC~F`AxElChF|F`PR^XLb@Qn@{@hIsM`DgD~AoAv@SfADtAb@lCtAjARvB{@zA}A|CqFl@aBVuBBuFU{Ag@kAqCuCm@cAyB}Hs@wAy@e@{A]m@Aw@X_FfFeJtKg@`@o@Je@Ko@g@iAeCwAmFc@}BMaABqBRuAh@{@xQgLtI{EfAaAXq@HsAEeBiB}QgAaHwAiECWNg@fCn@pFt@~DSvIuEnBeBbCwC\\KfC@zAZjAv@fAxATv@PvA`@pPNp@RV`Bd@tYUv@q@h@cAzCmI|BiElEyAx@EV\\j@nBdA~Bh@d@n@JRXlBhHZPtAOzA~CnAfBhCrE~EhFzLbRrBzBlFvEpBjCtDjBrOjRl@Bd@g@dMuTV_@L@tFpKJf@CbAm@rBkNpUUpA^~Hd@hG^j@",
+"average_heartrate": 146.1,
+"average_speed": 6.809,
+"source": "strava",
+"streak": 1
 }
 ]
