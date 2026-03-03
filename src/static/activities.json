@@ -33058,5 +33058,20 @@
 "average_speed": 1.032,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17587358596,
+"name": "\ud83d\udea9 \u95f9\u5143\u5bb5\u625b\u5927\u65d7 \u2601\ufe0f\ud83c\udf19",
+"distance": 5864.2,
+"moving_time": "1:14:41",
+"type": "Walk",
+"start_date": "2026-03-03 07:02:57+00:00",
+"start_date_local": "2026-03-03 15:02:57",
+"location_country": null,
+"summary_polyline": null,
+"average_heartrate": 104.8,
+"average_speed": 1.309,
+"source": "strava",
+"streak": 2
 }
 ]
