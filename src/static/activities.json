@@ -33208,5 +33208,20 @@
 "average_speed": 8.78,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17765347666,
+"name": "Zwift - Southern Coast Cruise in Watopia",
+"distance": 24119.6,
+"moving_time": "0:42:17",
+"type": "VirtualRide",
+"start_date": "2026-03-18 10:58:37+00:00",
+"start_date_local": "2026-03-18 18:58:37",
+"location_country": "Temuo, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "dknfA_ddz^eHLkB}@WmABaFYgAgBmCcHqH{@yAJ{C`BaFWqA_A]{AFoBx@{@`AIp@L^pB`AMzAvA|CWz@iAZ_AmAuAiFuCuG_AsDs@k@uC[]}Cg@_AqBs@cBMwB|Aq@JeB_CmDIO]CcB]g@uGSeA_@Ws@e@cGjAmBzAs@Dw@m@w@uBeAsCe@mB}DaBu@iAb@cDzDqAn@eASA{CkAa@y@JyBvAiBa@k@J{AbAGdA]`@k@DeCiA}@Cw@VsC|BsD\\]Gc@m@_AU?iB}@UiAf@c@rC[^u@?{BeAy@Ca@Zk@hBi@\\sIVcDrBq@dBwAdAoAzFw@dAiA?qCqBeAYaC\\yBrAsA|B[zFc@`Cm@fAs@`@mDCuHiD_ABsCdAaCMq@X}B|BmFj@{@fAkAvDw@l@s@SyBsCsA}@mF`@eFkC}D]eBr@kDpDeDJmA`@w@`Aa@dB`A|Bh@\\hBClAe@l@s@R_ASyCJs@xCiDhBw@dE`@xEdCpF_@fAt@tBnCt@\\bAc@lAwDr@iAbA_@pDShDuCxBNnEmAtAZpFpClD?|@i@l@qAx@cJ\\eAv@aAtBoAbC_@dA^bChBvA?z@iAlA{FtAeAj@yAlD{BlF?dBUh@_@h@kBd@YnDnAt@A`@k@^mCv@_@|@HDnB|A|@j@NvD_@nC{Bt@Wx@B|BfAt@Ab@c@LqAbBaAzB`@~BuA~@M~@\\@zClAVrAq@hD_EvAYdAn@fBxDrCd@~CrB@t@kBdAaAhBh@bG\\v@lA`@`GJ`@b@DhBR^lDHjB`Cp@K|B_BhBPvAh@j@~@\\~Cj@VfBDt@h@bA|DhC|FdBfGl@|@d@Hp@W`@m@@e@sAqCDkBeBu@QaAv@gApB_ApAGfA^NxA_BrEKzCx@zA~GjHpBzCVtAA|Ep@xAlBd@xHGxGvBnHeAfDbE~EzCj@vATrBg@pFjAdAh@hCUdAq@Nc@f@_CBg@h@NlOVV~B?\\TF~INd@lHDNe@?yCb@[|HhHBr@Wh@kGpAgAp@a@Eo@s@eA@c@v@Z~@bALhDwBzGeBJu@Ss@uHyG_@HO^InDgHCMyJ]]wCQSwOf@[lBB~A{@\\aAa@kCsAqAh@mFU{Bm@yA}EwCiDgE}@CwFdAeHwB{I@_BcAQmA",
+"average_heartrate": 138.6,
+"average_speed": 9.507,
+"source": "strava",
+"streak": 2
 }
 ]
