@@ -33238,5 +33238,20 @@
 "average_speed": 6.725,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17790987959,
+"name": "Zwift - Fuhgeddaboudit in New York",
+"distance": 79639.4,
+"moving_time": "2:25:21",
+"type": "VirtualRide",
+"start_date": "2026-03-20 10:46:51+00:00",
+"start_date_local": "2026-03-20 18:46:51",
+"location_country": "West Drive, Brooklyn, Kings County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 11215, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "ypewF`wnbM~LhKfH~OlE`BlCmBfBqIpHyLtKIvJuG|IRhB{Ah@oDmAyFyE{IoDyQ_FkF_GgB_QfCwMvGqRzEsErCsFxJqHpAaIsBgBlAqA~DwCb@sDqFwGR{DjDgAdIul@lc@uF~\\}Mt`@_KwEiHnDav@m@}C{An@{G\\j@s@`CaEtCcuAvn@i[pB}KkBaNf^iJ`LuBb@kI{LkNkLgHcA_i@w\\@q\\s@iCqx@Gk^o`@gOoAuo@`@kH}E~CgNqJ_HuACsFbFyD|ImO}MgAmCFaBxFXrJ_GnBxABzB}D~Jf@nGaCjCkArF|@dCpEnClDFhDkFtNqd@IgBsB}B_GcC}CfCcDkDiG~JqH`DqEw@t@eMiBqHdDuGgCaFkXsRqMaF_FvBiE|OmEv@mGgAcA{FmG_I~@}CxD\\fAaAr@_He@oCwd@wTyC`DyGfCcGv@gApFqK~@iIyC_UsNeBeC~@uIpIuYlE{BlFAhCaHnB@`VjQZbBkAzFnE~Eu@xEl@~AtS~NrYxLf@vCu@|GqFRgAlDpGjIAlDmKoCkh@i`@gTRcWcOa@iBbAyFvH}ArCtBbCvHfDn@hCwHgDkKt@gClJR~NxMjGkBlJhAb]bUPhKpBpFpSpPfMpBbDnGrF|BLnCkAxP{D`I~@xEtMjGrPxQbCUvCcEzBkH?qCcO{L]{BzAaGMkBaHqGwEsHsCy@_Bx@mBtOHnFmCjEePZaWa[oIeA{HqKcCc@gHxAmFaCuGeOuHeAgC_FaMcIkCgJ|BaGHsCwCiHSwEyDaH_ClAxAvGaApBaK{G{B?yCfHqAdKlAdCz\\lStTKjg@n_@zKpEbO|@pA{@tC_MzAyBdDy@fHzBfTbNfKjJRpC}C~EhBfIwA`P~AzDvMxLfBGdC{HfHqFfKjHaDpMhHtFjq@@pMlAnYvX`CdEdCh@v@dF`Ie@r@zMlD}@EaGmBoDJyOtE_Gp@`@VrIrL@f@cA_@kHkDTV|EbHJt@|CxGsAlAz@Dng@hh@j]dHbA|L|JbK`MdDu@fIsJdF{JhVfNhInLdJ~HpFVzEhC`DaApjAc_BnUI~@o@RkD~@qAda@TfGuDtItEdBUdN}b@xF_\\xl@uc@nH`AjEo@rAkDMmEgDuCaHrAsBlCy@pHml@~b@wFn\\qMfa@cATaJyEyGnD{`@N_AnAcAzEcVNglAp`B}CAqKoCyIsHwI_MgSaL}@iD`FeOrKlBn[qBzuAgo@vDwCj@mBc@cAy@bHzCfBnv@tA|GwD`LnEjNeb@vFs\\rm@od@nLx@|A_AnBwE|CYpO|LrNT",
+"average_heartrate": 154.1,
+"average_speed": 9.132,
+"source": "strava",
+"streak": 4
 }
 ]
