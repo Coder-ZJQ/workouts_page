@@ -33343,5 +33343,20 @@
 "average_speed": 7.855,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17864547162,
+"name": "Zwift - \u61d2\u764c\u72af\u4e86\u4e0d\u60f3\u9a91",
+"distance": 21770.2,
+"moving_time": "0:38:36",
+"type": "VirtualRide",
+"start_date": "2026-03-26 11:24:27+00:00",
+"start_date_local": "2026-03-26 19:24:27",
+"location_country": "Muie Village, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "bw_fAoxbz^sCi@k@{@qB_I@cAp@_D?_AmBsDGu@Rc@j@[nBNf@ONk@PyDd@a@n@I|Bb@jB`A\\b@DrBvBn@F^eAjCHb@f@b@jBNdFc@zAoAl@gA?q@_AiBIgAXm@dBeA\\i@TsAIeBqBwF}B}BsBqASi@?o@d@gCn@uAnDoAr@q@Xq@J}AWoBk@}@{BsBWq@Na@lBcBBe@WeAHu@jIyS\\wAJ_CKgAi@{@iFeBcAy@}@kBIkB`GqMnAkE`Aa@vASdCv@dAGv@o@pAoC`DKrAe@f@e@b@gBCyA_@{@iB{BYw@`@aAfAq@jAEt@d@zEbIrA~@f@C~@u@bAuD`@i@fB\\`A`AHv@EtCd@f@`Br@^`A[bAwBr@o@pAAlKiAnNEdDn@lAhClC^dBZTnB@jCf@rL{Ct@@v@l@n@dEb@fLMrC]l@sAdASfARnFTzAd@|@~Ar@zBM|An@zBNbA\\~ApA^pCdA~@n@K`@g@hCiIh@aA^ShAHxAbAN^F`BV\\tENl@b@fApB\\RjABvA[x@m@`@sA?iAWo@eA{@cAWuBl@gAjB_@T}EEYUWgC_BgAgAMcAx@{CfJ_@f@]JmA_AU}BS_@}AiAu@WcCQqAm@uCDqAo@c@aAUyAMsFXaA~AuAPs@DoBi@mMUkB[cAy@k@s@A_M|CyBe@}BGMKSwAwCaDo@oADcClAkO@iK^aA`C{@^}@Iu@S[gCuAGu@JkBKu@kAiAeBYe@d@eA~D{@p@e@BgAy@aFiIo@c@iAAsAr@i@lARr@rBjCZv@@rAa@`Bm@h@iA\\yCFe@j@}@rBy@d@}@@qBs@uALmAb@_@j@SvAm@`B_DjGyAtDFjB`AtBbAv@jFhBb@t@Jx@IbCYnAqIhTG~@Tx@A^iB`BSj@Xv@bCxB`@t@VlBO|A_ApAwC|@k@d@m@xAa@jCPhArDjCtAfBxAfEJbCa@zAuBrAWh@J|A`ArBy@bBqAfAcF^gBMc@k@Ai@`CuEtBoAxC]zBaA~@y@XoA@cAQqAuA_EyAiBgD_CWcAZ_Cr@mBr@e@fCu@dAwAPaBQcBk@eAkCeCMm@|BiCUkBP}@|HwRj@gCB}Be@wAs@e@iFeBy@aAk@aBE}@ViA",
+"average_heartrate": 127.7,
+"average_speed": 9.4,
+"source": "strava",
+"streak": 2
 }
 ]
