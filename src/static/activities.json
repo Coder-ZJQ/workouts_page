@@ -33538,5 +33538,20 @@
 "average_speed": 9.964,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18078991002,
+"name": "Zwift - Peaky Pav\u00e9 in France",
+"distance": 33889.8,
+"moving_time": "1:03:43",
+"type": "VirtualRide",
+"start_date": "2026-04-12 11:17:38+00:00",
+"start_date_local": "2026-04-12 19:17:38",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "dcpcC}lcu^DoDq@qAmB_AiDcIwQOm@k@A{AhAeAfAiDb@mHrFaGCqL`DYrA_A`FjAvAgBg@_DwByE`FwE?_AiBw@eA_BmBYcB}AoAL]z@^t@zS|NlAPT]`@iEa@m@wC_@g@oAJwA|BgB~A_EjDsBfEkGt@E|CvA`BLvF_ArBkAfAiBj@sC{@aIV_BpF{JzEgCrH^`DbC`@nAQ|C~AtBy@v@Ej@zCn@YdCqBDKlCuBQc@VDr@~BnA}@bBd@T`BWHf@]x@\\^rA@Q|AN^xBL@dChBq@|A_A|BdEzBs@^|BzAXE~@\\VrAyA`@x@f@G\\}@lAz@j@mDrA?t@kA`Ax@dAiB|CdBl@GEeChAo@PgBxAb@Z[b@gKbHoHuDeMsL{d@AyAhAsD?cC{Eu[kAuUm@[cE|@yBSyJcKwFgLkGcGwBgAwSyEs@RgAzAlA|BmE@nHzDFt@eMxA^f@nNlDSr@_LfGg@|@p@t@tOrBQp@qG~BpDnGVlC_@nBoCfDuE~AyBc@aGyEeGv@_AhDqAfB}FbDsAhCDfFtAbEdB~BlCVlF_C`EBdAj@vAnCn@nDa@dC{@lAaDd@aFMyA~BUdBRpAlExE^nCmBrFyG`FsBzDa@pGnD~EAtB{CdFiDrB{AxDkCbC?jAf@lApC^b@b@m@xB@dBcACgTeOY}@f@s@|@A~A~AfBTlAbBpATTd@M|@uEpE|CzHUjBkAp@qEmAuA|@uCPUZA~DgAr@gQ?o@m@N_CSeAqDmDkTyBgDy@qD{CyOoCo@iADuDeGmEYwARwAz@_ApE{ATq@?_E~CaAZcBpDgAjByBpBs@|IBhBiAAeByCiBhBcBZu@Mi@cCcBz@oCCy@gFeDI_A~IyNr@ClC`CtAXr@e@T_Ch@s@jDdAhA[^aGXk@xAM`EnAnAw@HeBoBiFUgBzByBn@wEvA{A@u@kAsCzEaNrBDtF_BvCyAf@eB|@[t@`As@rCr@vBv@j@fJmArBkCpBm@r@n@rAxDv@j@PrC~A`CbG[hFnEtBh@`Ds@xC_CnAaCHgCi@gCyCyErG{BPi@aPcCg@u@bMyHVu@sOmE\\]fKi@`@]O{@gHqDhEBBe@kA{AjAiBuAhBpAtBoEDlHxD?`A{LnATb@tNlDEn@oLrGa@p@l@|@|O`CgHhDlDzFZrCS`BwCxD}EbBwBc@_FmEsBK_E|@k@xC",
+"average_heartrate": 144.8,
+"average_speed": 8.865,
+"source": "strava",
+"streak": 2
 }
 ]
