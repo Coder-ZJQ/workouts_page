@@ -33628,5 +33628,20 @@
 "average_speed": 9.867,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 18171353986,
+"name": "Zwift - Easy Hour",
+"distance": 33457.1,
+"moving_time": "1:04:04",
+"type": "VirtualRide",
+"start_date": "2026-04-19 11:10:17+00:00",
+"start_date_local": "2026-04-19 19:10:17",
+"location_country": "Jay Cataldo Life Coaching, 304, Park Avenue South, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 10010, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "{uswFvpqbMLFN^PrB?pPC|BYbDHf@R`@rJvFx@bAxRfMbGjEnA\\~BGzAn@zL|JtDxEnAjAtBrC\\N^A|@Uf@_@xIiKpGkOjEyMLEn@FvIjB|QaArDIvBa@dFwBthAyg@`EuBlCgBr@}@d@kBA]MWUEQNIXIxBUvA@\\Vt@RLvBl@dPBzCt@pWIj@Fd@R`EHdA[lCeCrAUpA^fFnDn@Nn@OZW\\q@tH{UbCuIlA_GdB}Mj@cDv@iAxAsAfAsArRmNtSkNv@ElBx@zBT|BIjAc@n@u@`AqC\\o@~Cc@f@_An@eCd@g@h@[h@Ol@BfEdB|@LfBs@tBI~AYTM`@m@jAiD`AgBx@cA~BwArIkDv@QtBAb@PJR@zJK|DXjBr@bBv@~@z@j@pDb@v@\\pA|Bb@dCRl@f@h@`B|@`@^x@hCEt@uBpEkCdES|@[zCu@pBo@~@e@Zk@J{@Es@Ss@a@}AiBu@yAy@wC_A}Bi@eAy@mAmBiByCiB}CqCcA[cAIqA@cEZqBQyB{@gAo@oCsCiCmBcBcB]ImCRa@m@eAmCu@o@}@W_AAkDj@eB`Aq@t@]p@Oz@MzDKf@U^sRvMqQ~M}Az@qAhAeAtAm@zCqBpOoA~F{B`IoHdUm@x@_@J_@IoFuDo@Uo@G}AZaCzBkAV_DGsBRgWAyCu@gPCiBc@a@YKUEk@RmAH}BPg@JAPN@j@q@rBkAbAuBnAgDfBiiAbh@}EpBoB^uDHyQ`AkIgBcAIOHS`@aEjMgGrNiJbLm@Xm@JUAe@]uBwCq@iBqCkD}M}K{As@qCD_AWoB_B{TcOuAy@oA[iJ}FO_@Ee@X}CBgBAg\\Kg@Y[o@MuGtA[SIoBS[iHMIMGe@@mCNUXEvB@VT@tGM^i@PeK?MEQa@A_HGYQO{@Ga@V}ChFOt@@xNXv@dApAPn@AzFKP_@PkBAYYESA_KYo@i@KoFfAi@WOUEYBgCVg@d@Ihr@@LFRb@NhB?nREtAWrCFf@R`@vJzFx@bA|RjMfGjE~@VbCGzAl@|L~JvDzEnAjAvBtC\\Jp@En@Uf@c@~HiJdEkJTWZ?jKtHnFrBfB~@rAfBxFlIjDnClDbDfAZdDCj@TnB~AdBVfAOx@q@nAuBjGuIzNqRr\\}d@zJoMbFsHl@Q~S@`@E\\YT{@BoBEaAQy@S][M",
+"average_heartrate": 124.1,
+"average_speed": 8.704,
+"source": "strava",
+"streak": 5
 }
 ]
