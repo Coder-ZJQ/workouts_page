@@ -33823,5 +33823,20 @@
 "average_speed": 10.175,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18346599650,
+"name": "Zwift - \u6628\u665a\u5931\u7720\u901a\u5bb5\uff0c\u4eca\u5929\u5077\u4e2a\u61d2\ud83d\ude34",
+"distance": 43747.7,
+"moving_time": "1:43:37",
+"type": "VirtualRide",
+"start_date": "2026-05-02 11:53:09+00:00",
+"start_date_local": "2026-05-02 19:53:09",
+"location_country": "Rennweg, Innenstadt, Innsbruck, \u56e0\u65af\u5e03\u9c81\u514b, \u8482\u7f57\u5c14\u5dde, 6020, \u5967\u5730\u5229",
+"summary_polyline": "oco_H_spdAB}AqB{RHs@jFoApCnAbAUb@aC|@_MlBsAjAoB|BeFxA}FzDh@t@YFkBe@kIRgAfKgEjJcGbBmB\\?dAjOfArHrC~d@nC`NG`AsAhAsDvAsHr@yDjFgAp@uJnBsIAaYhIMt@NxCf@nBcCnEMzDaDzDmHzLM_@FaEgAmIm@s@eDiA{FgKyDg@t@iF`CuCFsA[gAuBmCuM}HmCqCmIkQiFoQq@mGt@OpEdD~Sfa@rEfGjGnFdEvBrXjBZQFeAoByRFqA~EmA`DrAv@Of@yBbAwMlBsAtAcChBaE|AcG`Ed@r@]DqBe@wIPm@xJaEtJgGbBoBj@Fv@dNnAvIfCdc@j@dElBbIA|@gAjA{D|AeI|@mD~EoAv@qJlByI@yXbIMvATdD^jAgCpEKvD_DxDgHvLS]J}C_@wE}@uD}D}A{FgKwD_@CiAh@wCnCsDKwBeCiDsM{HeCkCuIwQiFoQm@kGt@IdEtCtTfb@hEtFpGxFnDhBlYlBVc@?s@qBkSDu@jFuApClAv@Cl@sB~@uMjBwAvAeCtBsEzA_G~Dj@r@a@a@}LLq@tM_GbHsErBsBVZv@|MjAfIlCbd@pCpNGvAgG|CqHr@{DjFoAr@cJhBcJBgKlDeLlCWlAX|D\\`AiCvEGlDcD`EiHvLCuD]uEy@wDuEwBeFsJ_A_@cCQj@iEnCsDDsA]gAgC{CiMsH{B_CuIwQaFsP}@aHHYf@ArEbDdTna@jE|FvG~FzDnB`YhBV_@@q@oBwTZc@lEaA|CpAbA[|A}PlBsA`BwCfB}DxA}F`Eh@p@c@_@}LLq@jJyDxFgD~EsFz@mBrAEvGuDdQoEtAyAJsAs@sHZaHEoD_DkPcB}M}BgYIaM`@_FtBeGMiLXMZ`@\\tDbBjHr@f@p@_@LcA[qHz@_HjBiHpBkAp@gB[{SaCiPdAwEjCaFpHz@xEnCfB`D`FhT|A~CbLtFdDvCbDfE`KzDzD|BtIdHHrDbFaBpD`CnD\\|QzFpGpEpK~BvLkBtCX|D`BpEjDzDjFrC`H|DnOjDtFpGrDpSvDxEfD|AbC]rA{@jAqMtA_EnAeQ~NqAbCcEl@wC|D}E~DuHhN_B~AwGdAyH_@kFnLiBtMq@xA{Bx@aDP_DvCkCv@_BH_GuAkJpMgFlDkC{@mDAaAq@qDk@{@o@eAwByCI_@a@Ky@MkFqA_C_CyBaQgKeCUuDl@a@V{A`DoBtAuAAeBcAaAuAy@eDmC{TwAaHo@gH]oAmAu@kQxDeIxEa@lAC|@",
+"average_heartrate": 129.7,
+"average_speed": 7.037,
+"source": "strava",
+"streak": 3
 }
 ]
