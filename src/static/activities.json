@@ -33988,5 +33988,20 @@
 "average_speed": 8.41,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 18489924417,
+"name": "Zwift - Active Recovery",
+"distance": 60374.4,
+"moving_time": "1:56:47",
+"type": "VirtualRide",
+"start_date": "2026-05-13 10:15:24+00:00",
+"start_date_local": "2026-05-13 18:15:24",
+"location_country": "East Drive, Brooklyn, Kings County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 11238, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "mcfwF~anbMxHwAxD}HpBwBrLeFhDKj@x@M|On@bD~BrC|FnApAzBn@hDrDrCv@hDiGlLo@vE{@zBqApAmB?uDuCyGiOyK}IsCm@sKDqDcB_KgJoDHgB_Ew@m@qBYcDf@kB|@sAhBc@`Gc@fAgh@v^iCjCwFx\\cLz^y@hA}@AgIqE}AXkEtC{_@HwCu@uPCoBi@g@y@ZkFZg@Vt@w@~BoEzC_uApn@e[jBkKqBiFnOCtAbAdBhGrEdKpE`IfLfJbIpFVfD|BlCDjAy@zjAi_BhUCx@k@TmDfAuA~WInGb@pGwDpATpGbEzAYjNmc@bFyZzEgFpf@e]|GbAdDQrA_AjBsEhDm@jAyD~@{@fBS|FrBfIyAzD_IbBmBvLiF|COz@n@KpPt@bDxBjC~FnAnA|Bn@fDpDlCx@fCIdA_GlKm@xEu@lBmAxAoBH}Am@gBoBqDuJgBuCuKyIeDm@oH\\wDgAkMyKuD@{AqDsA_A_CI{D`AeCnC_@|Fe@fA}g@n^yC|CcFl[qMpa@oATqFuDoB_@iGnD{`@JeAnAYvDu@f@wULmjA~~AsA|@_CIcD{BwFYgJcIaIiLcIgDiI}F}@{ADsAzE}N~KlBh[sBvuAco@~DgDd@mBk@s@s@`HZp@|Br@xPFf\\j@nGb@rEaDtAUzHpEtA?~@oAlLs_@dFs[vEsFfg@y]|G`AfEa@|@_A|A_EhDm@jAuDzAoAtACrFnBpI}AzFoK~MgG~CKl@h@G~P~@pDtBxBvFlArA`Cn@dDnDlCx@dDgGjLs@fFy@pBoApAiBD_Bo@_BkBuGcOgLiJqCe@eKFwDgB}JeJmDHwCgFuB_@kDf@oBbAkA~Ag@lGi@fAah@p^mCrCcFl[wLj`@o@v@}@B{FyDsAYeB^aEnCu_@HiDu@iPCqBk@c@{@ZiFZe@Vt@s@zB{DnCguAzn@u[pBiKqBiFfOIpAdAnBhGrE|JjExI~L~IvHdFPnD`CjCBpAaA`jAs~AhVSr@w@ToDz@eAfXKjGd@hGuDfBX|FxD|AQfNwb@pFy[vE_Fdf@a]fAOjFlAhDWlAeA|AaEjDo@pA}DbA}@zASzFtBbIsA|@w@lCsGbBiB`MkF|CIn@`AMlOn@jD~BrCzFjApA|Br@nDpDlCx@nCyBxFmCfEgBnI{A|AkB?yDyCqG_O}KcJwCo@mKFsDcBcKkJiDLkCaFsD_@oDz@sBjBg@vASvEe@~@{h@f_@wB`C",
+"average_heartrate": 132.0,
+"average_speed": 8.616,
+"source": "strava",
+"streak": 9
 }
 ]
