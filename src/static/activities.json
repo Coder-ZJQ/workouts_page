@@ -34078,5 +34078,20 @@
 "average_speed": 5.331,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18554403148,
+"name": "Zwift - Active Recovery",
+"distance": 31771.9,
+"moving_time": "1:08:48",
+"type": "VirtualRide",
+"start_date": "2026-05-18 11:49:45+00:00",
+"start_date_local": "2026-05-18 19:49:45",
+"location_country": "304, Park Avenue South, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 10010, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "_vswFvpqbM`@b@NjB@nPCdCYfDHn@Zb@dJlFhAlAnR`MdGjEbAZjCGzAp@zL|J|F|GjCdDhAClAs@jIwJ~DcJRUX?fKrHvFtBbB~@hInLbJzHdAXfDCtCtB|AVlAM`Aw@nI{LfOcSb\\id@fK_N`FoHn@S|TA\\WRc@HyCUiBU_@]OqO?oCq@[e@Eo@TqAFyBXg@TPB^s@|BcA~@iC|AeuAtn@sB`@kWhAqIiBcACW^_EhMmG`OgJ|Km@ZgAHe@_@mBkCu@qB_CwCoNqLgBw@_CF_AS{XkRmAu@sA]aJwFS_@Ee@ZcE?oSOoB_@o@cy@Oi@e@mBoDuJkJkAsBeKuJeEq@uH[mVR}CViSGy@[{FcE?m@`DiKGw@yJaH_A@g@d@kAnBcClA{BfH_@j@k@J{@i@_EqEwDqCmAmAk@_A]kAEq@Jm@b@OhDj@j@EnDmClBKbAyATKp@Zz@|@Nx@I~@oChGm@vBAjAd@nC@t@S\\}AlAiAnDQfBJz@t@hAlBpAbCdAlAJfAYdAoAnAaCpGwUl@gBrD_JNeACc@Y{@e@m@oEuCiBc@}@R}@hB]L]W}AoCa@Kc@J_Ar@aC`Gg@x@YN}ADgCtB{@\\kEi@[PMd@BlA|@|BzA~AxDjCrEhFL~@Mv@o@r@iA^{Ae@oC}BwG{I}AcBaJuD{A}@w@qA_@qCZuAxBkCf@cBFs@O}B@iAlAgHN}D\\o@p@Yn@AbA^nBhAnCvFhExC`BdCH~@Gj@eAfDOdADlA`@dAvBlCvI`Fj@`AF|@G~@uAfFe@dAWT]H]MaFmFcE}CiAiAg@}@]oA?{@Nc@b@EdEf@r@]bCsBnBKl@y@~BeG`@g@~@]f@PrAbCd@^`@QhAuBv@Ev@NrEjCr@p@b@z@Fv@UpAmDhIw@|BiEbPyAlEuAzBu@l@aBDsBu@gD_Cg@gAAm@^}B~@gC|AkAN]Be@e@qCCmAf@qBrCyGHoAIe@qA{Ao@OwAbBcBHkDjCy@FcDg@]FS^CjAT`At@tA|AzAxDpC|DlEl@`@n@Eb@g@|BmH~BgAvB}Cb@I`@NhJrGFPCf@}C~JAl@b@l@pG~DbT?zCR~VUhGX~Dp@v@h@`IfI|AdAbJdJl@t@tAnCr@j@vx@H^h@NpA",
+"average_heartrate": 122.6,
+"average_speed": 7.697,
+"source": "strava",
+"streak": 3
 }
 ]
