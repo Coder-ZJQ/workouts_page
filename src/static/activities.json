@@ -34138,5 +34138,20 @@
 "average_speed": 10.348,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 18608622221,
+"name": "Zwift - Active Recovery",
+"distance": 59136.2,
+"moving_time": "1:55:09",
+"type": "VirtualRide",
+"start_date": "2026-05-22 11:28:43+00:00",
+"start_date_local": "2026-05-22 19:28:43",
+"location_country": "Jay Cataldo Life Coaching, 304, Park Avenue South, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 10010, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "iuswFnpqbMd@w@?mCiAmAcHtA[SEgBYe@mHUAaEtCM`@j@AbGWb@mLFWk@A_HqAk@sEvH@pNpB`EGfGcCVg@[WyL{@SkFbA{@gAJ{CdA[zq@B^j@NjB?dR[nFZjAph@r]lEPxAp@zL|J`K~LlA?tAw@dIoJ~DcJl@YjKrHnIjDhIlLfJbItFZtCrB~AVdC_A|iAo~A`Ac@~TEp@uAO}Es@w@yO?cCo@g@sAv@uFVz@w@xByE~CqtAjn@e[jBsKkBuEdNsGjOaJtK{Af@}@]kHaLqNoLyAo@mEQuXiR}NeI]aAZwE?ySg@eCuq@KoAL]p@?zCr@x@lHq@RrLb@f@nB?r@s@@gFqBuEAmNtDcHxALBlH`@t@~LSLcIyC]i@NKp@DnC\\d@zGFTvBn@h@rHoAh@bA?~[[`GPnAvh@z]~G|@fMfKzKfM`Cw@xIkKjNi^pKrB`[oBzuAeo@`EeDf@mBg@y@]j@]nEl@`BfCn@vOBl@t@H`Fi@z@}V`@gjA|~AsBv@gBYoCqB}F]qIkHqI{LaJ{D}JkH{@XeEjJkI|JyAp@_AOgH{K}N}LaBu@mESkXaRiOoIWiA\\aGE_]qA{@}GrAq@}CqHUEcEbDMV\\AjGi@p@eLISoIy@a@w@VgDxFExOpB`E?dF]t@uCWGqKWo@mHr@k@{@?eCRk@jAO`q@B|@u@AgDo@u@uHpA_@_@[aCmHQAkE~CGRZ?jGg@p@cLCWsIw@a@w@RcDtFMtOpBdEMxG_CLg@e@UqL{@QyEdAiAw@BaD`Ag@br@@`@j@NfB?lR[rFRz@|h@~]xGx@fMfK|JzLvA?hAs@lIyJ~DcJd@SvKzHtIpDbIjLhJ`IfFPvCrB|AXlCcAdjAy~AlVWr@y@HoD_@cBg@a@sO?kCo@e@mA\\oE\\k@Rx@q@pBsEbDauArn@_[hBgKsBeFtNmG|NgJzK}Af@}@c@qHeLeNcLwAq@oEQwXiRgOoISgAZeE?mSe@qC{q@MoAN[fABbCp@x@jHs@Rn@BhKf@b@pBAl@{@?gFqBeEAsNrDaHxAHDlH`@v@bMYDcI}CWe@TGt@FjC^`@tGB\\hCb@X`IiA`@hA?h\\[rFVnAth@v]xGv@fMfKtKhMbCq@|ImKlG_OrEgNpKlB`XkA",
+"average_heartrate": 129.5,
+"average_speed": 8.559,
+"source": "strava",
+"streak": 7
 }
 ]
