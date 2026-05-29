@@ -34318,5 +34318,20 @@
 "average_speed": 7.878,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 18702071584,
+"name": "Zwift - \u6ca1\u5e72\u996d\u9a91\u5230\u773c\u5192\u91d1\u661f\u63d0\u524d\u4e0b\u8bfe \ud83d\ude35\u200d\ud83d\udcab",
+"distance": 75178.4,
+"moving_time": "2:03:08",
+"type": "VirtualRide",
+"start_date": "2026-05-29 10:46:14+00:00",
+"start_date_local": "2026-05-29 18:46:14",
+"location_country": "Muie Village, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~p_fAa|bz^oBcIv@mGuBuFnEs@|BwGbKhHIxFnISjCyCiAcF|CaDF_EsJ{OtAyE|FuDKkE{DoF|BcChJs_@gJ{GgAqEtIaT|ICrCaExGwA`@aEcDiFjB{BdLbLhEqGnDhAJ~EdDbDcE|DuA``@|F|IxWaArApRqCxHjAxKrN~BzEjH~GuMtChAvGvDfCdDzFmC_DyEyEnD}EGqEqFmHtMwEkHmN_CeAmKpCgHwAkSiXz@gFoItAi`@~DwDgDeDGwEuD}AmEtGiHeKmCScBrBbD|Fg@zDsGlAqC|DyI@uI|SfAhF`JpGiJv_@}B`C`EzFHrDiGdEmA~EtG~HjB~HkD|EfAdFmApB}Kp@nB{GrKsDrAoCgBeIwGiIrA{E|FsDIoE_EeFjNmd@cJiGeAeFtIwSzIAxCeEjGkA`@mE_DgF`C}BlKhLnEsGnBVnA`HnC~AsDpFuAd`@xFxIvWeAxAlSsCfHlAxKvN|BpEhH|GuM~CjAjGpDlChDzFaCaC_FoFdD_FAcFqF_HrMsEkHmN{BkAuKrC_HuAmSgPdBeGk@iF_JxA{_@~DuDeDcDIyEyDyA{DtG_IsKaCMgB`C`DdFc@hEiGdAsCbEiJHoIvSdAhFbJnGiNfd@bElFBbEcGxDmA~E~GjI~AzHmD~EjAnEkAxBaLt@vBcH~MwHaBeI}GkInAyEdGyDA_EgE}FxB{BlJc`@kJ{G}@wExI{SrI@zCgEnGiA`@oEaDgFtBwBvK`L|EwGbD|AHvEbDzCcEhEqA|_@xFvIvWcAvAvSqCpGhAzKvNbCtEjHjHwMzDjFbFTpChDjFiBJmCyBiBmMbDkFuFiHrMeEcHqN}BoAkKrCqIyAqR{WbAuFwIrAw_@tD_GwCiBgAwG{BYcErG}KgLcC`C~CfF_@hEmGjAwCdEcJDsI`TdA|EfJpGiNdd@`ElFFdEeGxDmA`FzGbIbBbImD~EjAtEkArB_Lr@pB}GdNyHiBuIuG_IjAuEfG}DImE}DqFhN_c@u@kCuHiD_A}EtIwSzI?jC_ErGiAj@gEcDoFpB}B|K`LzEwGfDbB@jEfD|CaE|DuAj`@rFxInGf@rOcBrAvQsCpIjAvKtN~BxEjHbHwMdLbGpCfDpF{B}BgFqFdD{E?aFuF}GtMaFmH_NqBuAwIrCkHwAqUyWfAuFqIrAe`@`EyDeDgDGuEsDaBiExGqLeLqBbCbDnFa@xDoGlA}CfEuI?uIvS|@bFhJbHmJt_@{B`C|DjFL`E_GzDuA~E~GrI~A`IkDrEhAtEqA`C}Kj@|BcH`KcDxAqCeBmIyGcIrA}E~FsDA_EcE_GfN{c@iJyGw@sF`IyR`JGzCgEjGgAf@kEaDiFjAiB`CGxG`K",
+"average_heartrate": 134.4,
+"average_speed": 10.176,
+"source": "strava",
+"streak": 1
 }
 ]
