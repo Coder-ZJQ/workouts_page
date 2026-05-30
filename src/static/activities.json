@@ -34333,5 +34333,20 @@
 "average_speed": 10.176,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18715399811,
+"name": "Zwift - Green to Screen in New York",
+"distance": 31685.8,
+"moving_time": "1:00:12",
+"type": "VirtualRide",
+"start_date": "2026-05-30 12:11:09+00:00",
+"start_date_local": "2026-05-30 20:11:09",
+"location_country": "3rd Street, Brooklyn, Kings County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 11215, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "wuewFvunbMdBLfAd@bC~BhDvBvBxBbBfDlB|FxA`CbBlAnBXfAYlA_Bp@oBVmCTeA|BmDpBkEt@y@`AWlHLhAO`Ak@pE}DfAc@jA@bDj@lBWx@a@n@u@f@_BDmAW{Bi@kBi@gAgB_CoAcD[yA_@sDe@}Ca@_Bm@wAiBgCqB}AgCoA{B]cCJiGxBuD@{DxBcH`DyDv@uBDaI~C_CjAkAbAkB`DiAbDW\\c@R_EZmBr@{@OcEaBeA?y@^m@l@o@`Ce@bAsC\\OCW]oAaDeAs@oBO_Dh@gB~@qAfBQz@K|Da@fAsRxMqQzM}A|@oAhAgArAs@nDqBnOgAhFcCrIeHlTQb@e@d@_@H]KkFqD{A_@kB^qBpBkA\\mDGsBRwVAeDu@oPCgBi@QKUg@Ak@RkADmBH_@NQRJFh@s@vBgA`AuBpA_ErBcoAbk@gCh@}VhA{@I}G}AaAIa@l@_EhMkGxNwIlKk@`@m@Nm@@SMwByC}@{BqCiDaN_LwAo@oCD}@WyBcB}TgOiAq@mAYsJgGOu@X}CBiBA_\\Eg@c@k@o@KcGrA[CSa@C}AU[wGEYQGe@?mCNWXExB@XT?rGK^g@RmK?MIMe@EiHc@]i@ASD[`@uC|EMf@?nNR|@zA~BBhFGl@s@VyA?]YEk@?qIMw@QQi@I}EfAm@M]i@DeD^]d@Edr@DZn@LjB?jR[dFFh@R^rJxFx@`AbRxL|GzEjAZ~BGxAl@~L`K`GbHdC|C~@@hAg@jIsJh@}@fD}Hd@Sf@TvEtDvCnBdIdDtA`BvFnIjJbIz@XjDEp@XzBdBz@NdAEn@Uf@g@pAwBzFaI|NuR~\\me@`KuM~DiGd@g@p@IhT?^UVc@NcD^u@\\WlXKpAZ`EDbAc@`C{BbAUrAThG`Ep@Bl@[h@cAbGeRnD_MnAeGbCqQ^iAtE_FbR_NpSiNv@K~Ar@hARnAHzBKz@]f@a@tAqD^k@nCY\\PdBfBzBbBxCvCpD`BdCTvF_@bCZz@h@jBjBbDnBbB`BhBtC~@`C~@`DbAlBp@v@|@n@pBb@lAQrAaBt@wBVsCZiAtB}CtBqEx@{@r@SpHLhAMdAm@|DoDdAk@lAE|Dl@dAKpAg@r@s@j@_BFqAImA[}Ae@sAiCyDkAyC]}AaAgIg@qBqAeCiBuB{CoB",
+"average_heartrate": 117.2,
+"average_speed": 8.772,
+"source": "strava",
+"streak": 2
 }
 ]
