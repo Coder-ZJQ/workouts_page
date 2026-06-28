@@ -34498,5 +34498,20 @@
 "average_speed": 8.472,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19099031668,
+"name": "Zwift - \u88ab\u6c57\u75b1\u75b9\u652f\u914d\u7684\u6050\u60e7\uff0c\u7ec8\u4e8e\u5feb\u597d\u4e86\ud83d\ude2d",
+"distance": 57496.3,
+"moving_time": "2:46:50",
+"type": "VirtualRide",
+"start_date": "2026-06-28 11:01:06+00:00",
+"start_date_local": "2026-06-28 19:01:06",
+"location_country": "Usili, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "hmefAel}y^dFdBhDhFpC`BhN~@bS_FhHdBtECdAjDxBi@`D~@_@nA{CNSrAxGrGf@dCk@~FvBhBj@xBw@|EoFq@sBjBhC|D`@pBmCRl@dCwA~@DjBdD`Bb@jGfDzCvAxDtFtDrFhAdJqAbBn@xAhElDu@dBn@qFt_@rSrWtBhIwBqEkI_CgLgLk@`@bDnCPtAu@wAgI{DvJfNeB{BqEeAh@~ICbHiBjOz@IfAoG|G{D_FtGBvKg@`AuMAjM|GnBGzAuAyAzBcCt@iC}A{Iu@`NbInLuA_LpEiKyDjIjInJz@~DiC{E`FsPGh@jMrBvH_Dg@{Bl@kNrWb@f@rFeEnIaC~BbEsBk@mC^yJpJlHoAxFjFbLfFrFd@vAwAw@~EcMbD?v@hQvD|GqAuEfEeEpAw\\dFQz@n@n@|D_AtG`@p@|@CfC_DbCwFXaCsH@wBx\\eF|EeBtDeEwGtAgQuD`MoEt@}AEqC}AxAuFk@{KeFkFcFuD@qBpAxI_JfCi@dCj@qBkEwH`BsHjEjN_XzBg@`DXuBuHc@eMzOPbF{E[a@yDpCgJgAqHuHlJ~DvLiEwAa@uBpAuFHqDkDwGqCfIdAxC|AjC_ApA}BiEzA_MkGjMK`@}MtEwFUk@kGbEqBbHdBiOAyHe@eI~DdAtB|Bq@aCeI}I~HtDv@tAFcAyCeE`L`L|InCzBzDmB_IoS_Wv@eHeA|GpSfWpB`IsBkEqIcCaLcLm@b@`DjCRrA{@yAcIuDvJbNiB}BkEeAd@`JA`HiBpO|@ObAiG~G{D}EjG@`Lg@~@uMBjMvGpBGxAuAyAzBiCv@aC_B{Io@lHxCnDbDvI{AzAH_LlEkKwDlIhIpJx@|DkCmE`FeQAl@jMpBvHwCk@gCp@gNrWf@`@fF_EtIeCbCdEqCm@eCl@gJbJrHmArFhF~KdFvFj@xAyAy@~EcMbD?v@lQvDzGsAsEhEkErAu\\dFOz@n@l@vD_AbIhACfDgInDuB{AoAkJr\\cFxE_BbE{DeI~@qPgEhMqD~@uAScDy@tAqF[sLoFgGkF{GnApJwIbCe@`Cj@mBiEqGhA}I|ExMgWnC{@jBbAp@e@qBkHs@}L|PItEaFaFzB_JeA{HkH`KtDjLmEuA_@qBnAoFLkDaDkHyChI~@fC~AxC}@pAmB_F~@mL}G`M`@v@yAa@gD`@sFvE}FeHbDuBbHdB_OBqHg@}IxE|Ax@tB\\e@oJqMtJvGOcBiCcD|KvKvIlC`BhEf@MqByHySsWtFo][gB",
+"average_heartrate": 159.9,
+"average_speed": 5.744,
+"source": "strava",
+"streak": 1
 }
 ]
