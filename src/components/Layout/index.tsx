@@ -1,16 +1,14 @@
-import PropTypes from 'prop-types';
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import Header from '@/components/Header';
-import useSiteMetadata from '@/hooks/useSiteMetadata';
-import styles from './style.module.scss';
+import getSiteMetadata from '@/hooks/useSiteMetadata';
 
 const Layout = ({ children }: React.PropsWithChildren) => {
-  const { siteTitle, description, keywords } = useSiteMetadata();
+  const { siteTitle, description, keywords } = getSiteMetadata();
 
   return (
     <>
-      <Helmet bodyAttributes={{ class: styles.body }}>
+      <Helmet>
         <html lang="en" />
         <title>{siteTitle}</title>
         <meta name="description" content={description} />
@@ -21,13 +19,9 @@ const Layout = ({ children }: React.PropsWithChildren) => {
         />
       </Helmet>
       <Header />
-      <div className="pa3 pa5-l mb5 cf">{children}</div>
+      <div className="mx-auto mb-16 p-4 lg:flex lg:p-16">{children}</div>
     </>
   );
-};
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
 };
 
 export default Layout;

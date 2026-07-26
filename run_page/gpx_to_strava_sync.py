@@ -11,7 +11,7 @@ from utils import get_strava_last_time, make_strava_client, upload_file_to_strav
 
 def get_to_generate_files(last_time):
     """
-    reuturn to values one dict for upload
+    return to values one dict for upload
     and one sorted list for next time upload
     """
     file_names = os.listdir(GPX_FOLDER)
@@ -64,13 +64,13 @@ if __name__ == "__main__":
     for i in to_upload_time_list:
         gpx_file = to_upload_dict.get(i)
         try:
-            upload_file_to_strava(client, gpx_file, "gpx")
+            upload_file_to_strava(client, gpx_file, "gpx", False)
         except RateLimitTimeout as e:
             timeout = e.timeout
             print(f"Strava API Rate Limit Timeout. Retry in {timeout} seconds\n")
             time.sleep(timeout)
             # try previous again
-            upload_file_to_strava(client, gpx_file, "gpx")
+            upload_file_to_strava(client, gpx_file, "gpx", False)
 
         except ActivityUploadFailed as e:
             print(f"Upload faild error {str(e)}")

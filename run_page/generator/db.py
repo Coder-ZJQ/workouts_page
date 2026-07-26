@@ -1,12 +1,19 @@
 import datetime
 import random
 import string
-import time
 
-import geopy
 from config import TYPE_DICT
-from geopy.geocoders import Nominatim
-from sqlalchemy import Column, Float, Integer, Interval, String, create_engine
+from geopy.geocoders import options, Nominatim
+from sqlalchemy import (
+    Column,
+    Float,
+    Integer,
+    Interval,
+    String,
+    create_engine,
+    inspect,
+    text,
+)
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
@@ -19,8 +26,8 @@ def randomword():
     return "".join(random.choice(letters) for i in range(4))
 
 
-geopy.geocoders.options.default_user_agent = "my-application"
-# reverse the location (lan, lon) -> location detail
+options.default_user_agent = "workouts_page"
+# reverse the location (lat, lon) -> location detail
 g = Nominatim(user_agent=randomword())
 
 
@@ -36,6 +43,7 @@ ACTIVITY_KEYS = [
     "summary_polyline",
     "average_heartrate",
     "average_speed",
+    "elevation_gain",
     "source",
 ]
 
@@ -55,6 +63,7 @@ class Activity(Base):
     summary_polyline = Column(String)
     average_heartrate = Column(Float)
     average_speed = Column(Float)
+    elevation_gain = Column(Float)
     streak = None
     source = Column(String)
 
@@ -83,6 +92,21 @@ def update_or_create_activity(session, run_activity):
         source = run_activity.source if hasattr(run_activity, "source") else "gpx"
         if run_activity.type in TYPE_DICT:
             type = TYPE_DICT[run_activity.type]
+
+        current_elevation_gain = 0.0  # default value
+
+        # https://github.com/stravalib/stravalib/blob/main/src/stravalib/strava_model.py#L639C1-L643C41
+        if (
+            hasattr(run_activity, "total_elevation_gain")
+            and run_activity.total_elevation_gain is not None
+        ):
+            current_elevation_gain = float(run_activity.total_elevation_gain)
+        elif (
+            hasattr(run_activity, "elevation_gain")
+            and run_activity.elevation_gain is not None
+        ):
+            current_elevation_gain = float(run_activity.elevation_gain)
+
         if not activity:
             start_point = run_activity.start_latlng
             location_country = getattr(run_activity, "location_country", "")
@@ -91,19 +115,22 @@ def update_or_create_activity(session, run_activity):
                 try:
                     location_country = str(
                         g.reverse(
-                            f"{start_point.lat}, {start_point.lon}", language="zh-CN"
+                            f"{start_point.lat}, {start_point.lon}",
+                            language="zh-CN",  # type: ignore
+                            timeout=15,
                         )
                     )
                 # limit (only for the first time)
-                except Exception as e:
+                except Exception:
                     try:
                         location_country = str(
                             g.reverse(
                                 f"{start_point.lat}, {start_point.lon}",
-                                language="zh-CN",
+                                language="zh-CN",  # type: ignore
+                                timeout=15,
                             )
                         )
-                    except Exception as e:
+                    except Exception:
                         pass
 
             activity = Activity(
@@ -118,6 +145,7 @@ def update_or_create_activity(session, run_activity):
                 location_country=location_country,
                 average_heartrate=run_activity.average_heartrate,
                 average_speed=float(run_activity.average_speed),
+                elevation_gain=current_elevation_gain,
                 summary_polyline=(
                     run_activity.map and run_activity.map.summary_polyline or ""
                 ),
@@ -133,6 +161,7 @@ def update_or_create_activity(session, run_activity):
             activity.type = type
             activity.average_heartrate = run_activity.average_heartrate
             activity.average_speed = float(run_activity.average_speed)
+            activity.elevation_gain = current_elevation_gain
             activity.summary_polyline = (
                 run_activity.map and run_activity.map.summary_polyline or ""
             )
@@ -144,10 +173,37 @@ def update_or_create_activity(session, run_activity):
     return created
 
 
+def add_missing_columns(engine, model):
+    inspector = inspect(engine)
+    table_name = model.__tablename__
+    columns = {col["name"] for col in inspector.get_columns(table_name)}
+    missing_columns = []
+
+    for column in model.__table__.columns:
+        if column.name not in columns:
+            missing_columns.append(column)
+    if missing_columns:
+        with engine.connect() as conn:
+            for column in missing_columns:
+                column_type = str(column.type)
+                conn.execute(
+                    text(
+                        f"ALTER TABLE {table_name} ADD COLUMN {column.name} {column_type}"
+                    )
+                )
+
+
 def init_db(db_path):
     engine = create_engine(
         f"sqlite:///{db_path}", connect_args={"check_same_thread": False}
     )
     Base.metadata.create_all(engine)
-    session = sessionmaker(bind=engine)
-    return session()
+
+    # check missing columns
+    add_missing_columns(engine, Activity)
+
+    sm = sessionmaker(bind=engine)
+    session = sm()
+    # apply the changes
+    session.commit()
+    return session

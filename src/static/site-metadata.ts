@@ -10,6 +10,11 @@ interface ISiteMetadataResult {
   }[];
 }
 
+const getBasePath = () => {
+  const baseUrl = import.meta.env.BASE_URL;
+  return baseUrl === '/' ? '' : baseUrl;
+};
+
 const data: ISiteMetadataResult = {
   siteTitle: 'ZJQ\'s Workouts Map',
   siteUrl: 'https://workouts.jqz3.tech',
@@ -17,6 +22,10 @@ const data: ISiteMetadataResult = {
   description: 'Personal Workouts Page',
   keywords: 'workouts, running, cycling, riding',
   navLinks: [
+    {
+      name: 'Summary',
+      url: `${getBasePath()}/summary`,
+    },
     {
       name: 'Blog',
       url: 'https://jqz3.tech',

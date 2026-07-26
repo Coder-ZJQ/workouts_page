@@ -1,5 +1,14 @@
-import { formatPace, colorFromType, formatRunTime, Activity, RunIds } from '@/utils/utils';
-import styles from './style.module.scss';
+import {
+  formatPace,
+  colorFromType,
+  titleForRun,
+  formatRunTime,
+  Activity,
+  RunIds,
+} from '@/utils/utils';
+import { SHOW_ELEVATION_GAIN } from '@/utils/const';
+import { M_TO_DIST, M_TO_ELEV } from '@/utils/utils';
+import styles from './style.module.css';
 
 interface IRunRowProperties {
   elementIndex: number;
@@ -9,8 +18,15 @@ interface IRunRowProperties {
   setRunIndex: (_ndex: number) => void;
 }
 
-const RunRow = ({ elementIndex, locateActivity, run, runIndex, setRunIndex }: IRunRowProperties) => {
-  const distance = (run.distance / 1000.0).toFixed(2);
+const RunRow = ({
+  elementIndex,
+  locateActivity,
+  run,
+  runIndex,
+  setRunIndex,
+}: IRunRowProperties) => {
+  const distance = (run.distance / M_TO_DIST).toFixed(2);
+  const elevation_gain = run.elevation_gain?.toFixed(0);
   const paceParts = run.average_speed ? formatPace(run.average_speed) : null;
   const heartRate = run.average_heartrate;
   const type = run.type;
@@ -19,8 +35,8 @@ const RunRow = ({ elementIndex, locateActivity, run, runIndex, setRunIndex }: IR
     if (runIndex === elementIndex) {
       setRunIndex(-1);
       locateActivity([]);
-      return
-    };
+      return;
+    }
     setRunIndex(elementIndex);
     locateActivity([run.run_id]);
   };
@@ -30,11 +46,14 @@ const RunRow = ({ elementIndex, locateActivity, run, runIndex, setRunIndex }: IR
       className={`${styles.runRow} ${runIndex === elementIndex ? styles.selected : ''}`}
       key={run.start_date_local}
       onClick={handleClick}
-      style={{color: colorFromType(type)}}
+      style={{ color: colorFromType(type) }}
     >
-      <td>{run.name}</td>
+      <td>{titleForRun(run)}</td>
       <td>{type}</td>
       <td>{distance}</td>
+      {SHOW_ELEVATION_GAIN && (
+        <td>{((elevation_gain ?? 0) * M_TO_ELEV).toFixed(1)}</td>
+      )}
       <td>{paceParts}</td>
       <td>{heartRate && heartRate.toFixed(0)}</td>
       <td>{runTime}</td>
