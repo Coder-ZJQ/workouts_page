@@ -43,6 +43,7 @@ import RunMapButtons from './RunMapButtons';
 import styles from './style.module.css';
 import type { FeatureCollection } from 'geojson';
 import type { RPGeometry } from '@/static/run_countries';
+import type { FilterSpecification } from 'mapbox-gl';
 import './mapbox.css';
 import LightsControl from '@/components/RunMap/LightsControl';
 import { useMapTheme, useThemeChangeCounter } from '@/hooks/useTheme';
@@ -62,7 +63,58 @@ interface IRunMapProps {
 type MapStyleLayer = {
   id: string;
   type?: string;
+  'source-layer'?: string;
   layout?: Record<string, unknown>;
+  filter?: FilterSpecification;
+};
+
+const NATURAL_LABEL =
+  /mountain|peak|natural[-_](point|line)|waterway|water[-_]|river/i;
+const SCENIC_POI_FILTER: FilterSpecification = [
+  'any',
+  [
+    'in',
+    ['get', 'class'],
+    ['literal', ['park_like', 'historic', 'museum', 'tourist_attraction']],
+  ],
+  [
+    'in',
+    ['get', 'maki'],
+    [
+      'literal',
+      [
+        'park',
+        'national-park',
+        'monument',
+        'castle',
+        'attraction',
+        'viewpoint',
+        'museum',
+        'garden',
+        'zoo',
+        'mountain',
+        'waterfall',
+      ],
+    ],
+  ],
+];
+
+// Keep geometry and feature-class restrictions, but allow less prominent peaks.
+const removeLabelRankLimit = (filter: unknown): unknown => {
+  if (!Array.isArray(filter)) return filter;
+  if (
+    ['<', '<=', '>', '>=', '==', '!='].includes(filter[0]) &&
+    filter.some(
+      (value) =>
+        value === 'filterrank' ||
+        (Array.isArray(value) &&
+          value[0] === 'get' &&
+          value[1] === 'filterrank')
+    )
+  ) {
+    return ['literal', true];
+  }
+  return filter.map(removeLabelRankLimit);
 };
 
 const RunMap = ({
@@ -87,6 +139,7 @@ const RunMap = ({
     toggleFullscreen,
   } = useMapFullscreen(resizeMap);
   const [lights, setLights] = useState(PRIVACY_MODE ? false : LIGHTS_ON);
+  const lightsRef = useRef(lights);
   const [mapGeoData, setMapGeoData] =
     useState<FeatureCollection<RPGeometry> | null>(null);
   const isLoadingMapDataRef = useRef(false);
@@ -118,10 +171,43 @@ const RunMap = ({
   const switchLayerVisibility = useCallback(
     (map: MapInstance, nextLights: boolean) => {
       const styleJson = map.getStyle();
-      styleJson.layers.forEach((it: { id: string }) => {
-        if (!KEEP_WHEN_LIGHTS_OFF.includes(it.id)) {
-          if (nextLights) map.setLayoutProperty(it.id, 'visibility', 'visible');
-          else map.setLayoutProperty(it.id, 'visibility', 'none');
+      (styleJson.layers as MapStyleLayer[]).forEach((layer) => {
+        if (KEEP_WHEN_LIGHTS_OFF.includes(layer.id)) return;
+
+        const sourceLayer = layer['source-layer'] ?? '';
+        const isNaturalLabel = NATURAL_LABEL.test(`${layer.id} ${sourceLayer}`);
+        const isPoi = /poi[-_]label/i.test(`${layer.id} ${sourceLayer}`);
+        const isCountryLabel = layer.id === 'country-label';
+        const isLabel =
+          layer.type === 'symbol' &&
+          (layer.layout?.['text-field'] !== undefined ||
+            layer.layout?.text_field !== undefined);
+        const isAdministrative =
+          ['province', 'countries'].includes(layer.id) ||
+          sourceLayer === 'admin' ||
+          /(^|[-_])(admin|boundary|boundaries)([-_]|$)/i.test(layer.id);
+        const visible =
+          nextLights &&
+          (ROAD_LABEL_DISPLAY ||
+            (!isAdministrative &&
+              (!isLabel || isNaturalLabel || isPoi || isCountryLabel)));
+
+        const nextFilter = ROAD_LABEL_DISPLAY
+          ? undefined
+          : isPoi
+            ? SCENIC_POI_FILTER
+            : isNaturalLabel && layer.filter
+              ? (removeLabelRankLimit(layer.filter) as FilterSpecification)
+              : undefined;
+        if (
+          nextFilter &&
+          JSON.stringify(layer.filter) !== JSON.stringify(nextFilter)
+        ) {
+          map.setFilter(layer.id, nextFilter);
+        }
+        const visibility = visible ? 'visible' : 'none';
+        if (layer.layout?.visibility !== visibility) {
+          map.setLayoutProperty(layer.id, 'visibility', visibility);
         }
       });
     },
@@ -155,7 +241,7 @@ const RunMap = ({
             map.setPitch(currentPitch);
 
             // Reapply layer visibility settings with current lights state
-            switchLayerVisibility(map, lights);
+            switchLayerVisibility(map, lightsRef.current);
           } catch (error) {
             console.warn('Error applying map style changes:', error);
           }
@@ -171,7 +257,7 @@ const RunMap = ({
         }
       };
     }
-  }, [mapStyle, lights, switchLayerVisibility]); // Include lights to ensure layer visibility updates correctly when theme changes
+  }, [mapStyle, switchLayerVisibility]);
 
   useEffect(() => {
     if (mapRef.current) {
@@ -244,6 +330,7 @@ const RunMap = ({
 
   // Apply layer visibility when lights setting changes
   useEffect(() => {
+    lightsRef.current = lights;
     if (mapRef.current) {
       const map = mapRef.current.getMap();
       // Add a small delay to ensure map is ready
@@ -274,30 +361,16 @@ const RunMap = ({
           if (event.dataType !== 'style' || mapRef.current) {
             return;
           }
-          if (!ROAD_LABEL_DISPLAY) {
-            const layers = (map.getStyle().layers ?? []) as MapStyleLayer[];
-            const labelLayerNames = layers
-              .filter(
-                (layer) =>
-                  (layer.type === 'symbol' || layer.type === 'composite') &&
-                  (layer.layout?.['text-field'] !== undefined ||
-                    layer.layout?.text_field !== undefined)
-              )
-              .map((layer) => layer.id);
-            labelLayerNames.forEach((layerId) => {
-              map.removeLayer(layerId);
-            });
-          }
           mapRef.current = ref;
-          switchLayerVisibility(map, lights);
+          switchLayerVisibility(map, lightsRef.current);
         });
       }
       if (mapRef.current) {
         const map = mapRef.current.getMap();
-        switchLayerVisibility(map, lights);
+        switchLayerVisibility(map, lightsRef.current);
       }
     },
-    [lights, switchLayerVisibility]
+    [switchLayerVisibility]
   );
 
   const initGeoDataLength = geoData.features.length;
@@ -469,6 +542,9 @@ const RunMap = ({
           <Layer
             id="province"
             type="fill"
+            layout={{
+              visibility: ROAD_LABEL_DISPLAY && lights ? 'visible' : 'none',
+            }}
             paint={{
               'fill-color': PROVINCE_FILL_COLOR,
               'fill-opacity': 0.2,
@@ -478,6 +554,9 @@ const RunMap = ({
           <Layer
             id="countries"
             type="fill"
+            layout={{
+              visibility: ROAD_LABEL_DISPLAY && lights ? 'visible' : 'none',
+            }}
             paint={{
               'fill-color': COUNTRY_FILL_COLOR,
               // in China, fill a bit lighter while already filled provinces
