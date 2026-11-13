@@ -9,12 +9,12 @@ import React, {
 import Map, {
   Layer,
   Source,
-  FullscreenControl,
   NavigationControl,
   MapRef,
   MapInstance,
 } from 'react-map-gl/mapbox';
 import useActivities from '@/hooks/useActivities';
+import useMapFullscreen from '@/hooks/useMapFullscreen';
 import {
   IS_CHINESE,
   ROAD_LABEL_DISPLAY,
@@ -43,6 +43,7 @@ import RunMapButtons from './RunMapButtons';
 import styles from './style.module.css';
 import type { FeatureCollection } from 'geojson';
 import type { RPGeometry } from '@/static/run_countries';
+import type { FilterSpecification } from 'mapbox-gl';
 import './mapbox.css';
 import LightsControl from '@/components/RunMap/LightsControl';
 import { useMapTheme, useThemeChangeCounter } from '@/hooks/useTheme';
@@ -62,7 +63,58 @@ interface IRunMapProps {
 type MapStyleLayer = {
   id: string;
   type?: string;
+  'source-layer'?: string;
   layout?: Record<string, unknown>;
+  filter?: FilterSpecification;
+};
+
+const NATURAL_LABEL =
+  /mountain|peak|natural[-_](point|line)|waterway|water[-_]|river/i;
+const SCENIC_POI_FILTER: FilterSpecification = [
+  'any',
+  [
+    'in',
+    ['get', 'class'],
+    ['literal', ['park_like', 'historic', 'museum', 'tourist_attraction']],
+  ],
+  [
+    'in',
+    ['get', 'maki'],
+    [
+      'literal',
+      [
+        'park',
+        'national-park',
+        'monument',
+        'castle',
+        'attraction',
+        'viewpoint',
+        'museum',
+        'garden',
+        'zoo',
+        'mountain',
+        'waterfall',
+      ],
+    ],
+  ],
+];
+
+// Keep geometry and feature-class restrictions, but allow less prominent peaks.
+const removeLabelRankLimit = (filter: unknown): unknown => {
+  if (!Array.isArray(filter)) return filter;
+  if (
+    ['<', '<=', '>', '>=', '==', '!='].includes(filter[0]) &&
+    filter.some(
+      (value) =>
+        value === 'filterrank' ||
+        (Array.isArray(value) &&
+          value[0] === 'get' &&
+          value[1] === 'filterrank')
+    )
+  ) {
+    return ['literal', true];
+  }
+  return filter.map(removeLabelRankLimit);
 };
 
 const RunMap = ({
@@ -76,7 +128,18 @@ const RunMap = ({
 }: IRunMapProps) => {
   const { countries, provinces } = useActivities();
   const mapRef = useRef<MapRef>(null);
+  // Resize must work even before the first map style has finished loading.
+  const mountedMapRef = useRef<MapRef>(null);
+  const resizeMap = useCallback(() => mountedMapRef.current?.resize(), []);
+  const {
+    containerRef,
+    buttonRef,
+    isFullscreen,
+    fallbackFullscreen,
+    toggleFullscreen,
+  } = useMapFullscreen(resizeMap);
   const [lights, setLights] = useState(PRIVACY_MODE ? false : LIGHTS_ON);
+  const lightsRef = useRef(lights);
   const [mapGeoData, setMapGeoData] =
     useState<FeatureCollection<RPGeometry> | null>(null);
   const isLoadingMapDataRef = useRef(false);
@@ -108,10 +171,43 @@ const RunMap = ({
   const switchLayerVisibility = useCallback(
     (map: MapInstance, nextLights: boolean) => {
       const styleJson = map.getStyle();
-      styleJson.layers.forEach((it: { id: string }) => {
-        if (!KEEP_WHEN_LIGHTS_OFF.includes(it.id)) {
-          if (nextLights) map.setLayoutProperty(it.id, 'visibility', 'visible');
-          else map.setLayoutProperty(it.id, 'visibility', 'none');
+      (styleJson.layers as MapStyleLayer[]).forEach((layer) => {
+        if (KEEP_WHEN_LIGHTS_OFF.includes(layer.id)) return;
+
+        const sourceLayer = layer['source-layer'] ?? '';
+        const isNaturalLabel = NATURAL_LABEL.test(`${layer.id} ${sourceLayer}`);
+        const isPoi = /poi[-_]label/i.test(`${layer.id} ${sourceLayer}`);
+        const isCountryLabel = layer.id === 'country-label';
+        const isLabel =
+          layer.type === 'symbol' &&
+          (layer.layout?.['text-field'] !== undefined ||
+            layer.layout?.text_field !== undefined);
+        const isAdministrative =
+          ['province', 'countries'].includes(layer.id) ||
+          sourceLayer === 'admin' ||
+          /(^|[-_])(admin|boundary|boundaries)([-_]|$)/i.test(layer.id);
+        const visible =
+          nextLights &&
+          (ROAD_LABEL_DISPLAY ||
+            (!isAdministrative &&
+              (!isLabel || isNaturalLabel || isPoi || isCountryLabel)));
+
+        const nextFilter = ROAD_LABEL_DISPLAY
+          ? undefined
+          : isPoi
+            ? SCENIC_POI_FILTER
+            : isNaturalLabel && layer.filter
+              ? (removeLabelRankLimit(layer.filter) as FilterSpecification)
+              : undefined;
+        if (
+          nextFilter &&
+          JSON.stringify(layer.filter) !== JSON.stringify(nextFilter)
+        ) {
+          map.setFilter(layer.id, nextFilter);
+        }
+        const visibility = visible ? 'visible' : 'none';
+        if (layer.layout?.visibility !== visibility) {
+          map.setLayoutProperty(layer.id, 'visibility', visibility);
         }
       });
     },
@@ -145,7 +241,7 @@ const RunMap = ({
             map.setPitch(currentPitch);
 
             // Reapply layer visibility settings with current lights state
-            switchLayerVisibility(map, lights);
+            switchLayerVisibility(map, lightsRef.current);
           } catch (error) {
             console.warn('Error applying map style changes:', error);
           }
@@ -161,7 +257,7 @@ const RunMap = ({
         }
       };
     }
-  }, [mapStyle, lights, switchLayerVisibility]); // Include lights to ensure layer visibility updates correctly when theme changes
+  }, [mapStyle, switchLayerVisibility]);
 
   useEffect(() => {
     if (mapRef.current) {
@@ -234,6 +330,7 @@ const RunMap = ({
 
   // Apply layer visibility when lights setting changes
   useEffect(() => {
+    lightsRef.current = lights;
     if (mapRef.current) {
       const map = mapRef.current.getMap();
       // Add a small delay to ensure map is ready
@@ -249,7 +346,8 @@ const RunMap = ({
   }, [lights, switchLayerVisibility]);
 
   const mapRefCallback = useCallback(
-    (ref: MapRef) => {
+    (ref: MapRef | null) => {
+      mountedMapRef.current = ref;
       if (ref !== null) {
         const map = ref.getMap();
         if (map && IS_CHINESE) {
@@ -263,30 +361,16 @@ const RunMap = ({
           if (event.dataType !== 'style' || mapRef.current) {
             return;
           }
-          if (!ROAD_LABEL_DISPLAY) {
-            const layers = (map.getStyle().layers ?? []) as MapStyleLayer[];
-            const labelLayerNames = layers
-              .filter(
-                (layer) =>
-                  (layer.type === 'symbol' || layer.type === 'composite') &&
-                  (layer.layout?.['text-field'] !== undefined ||
-                    layer.layout?.text_field !== undefined)
-              )
-              .map((layer) => layer.id);
-            labelLayerNames.forEach((layerId) => {
-              map.removeLayer(layerId);
-            });
-          }
           mapRef.current = ref;
-          switchLayerVisibility(map, lights);
+          switchLayerVisibility(map, lightsRef.current);
         });
       }
       if (mapRef.current) {
         const map = mapRef.current.getMap();
-        switchLayerVisibility(map, lights);
+        switchLayerVisibility(map, lightsRef.current);
       }
     },
-    [lights, switchLayerVisibility]
+    [switchLayerVisibility]
   );
 
   const initGeoDataLength = geoData.features.length;
@@ -363,33 +447,11 @@ const RunMap = ({
   const style: React.CSSProperties = useMemo(
     () => ({
       width: '100%',
-      height: MAP_HEIGHT,
+      height: '100%',
       maxWidth: '100%', // Prevent overflow on mobile
     }),
     []
   );
-
-  const fullscreenButton: React.CSSProperties = useMemo(
-    () => ({
-      position: 'absolute',
-      marginTop: '29.2px',
-      right: '0px',
-      opacity: 0.3,
-    }),
-    []
-  );
-
-  useEffect(() => {
-    const handleFullscreenChange = () => {
-      if (mapRef.current) {
-        mapRef.current.getMap().resize();
-      }
-    };
-    document.addEventListener('fullscreenchange', handleFullscreenChange);
-    return () => {
-      document.removeEventListener('fullscreenchange', handleFullscreenChange);
-    };
-  }, []);
 
   // start route animation using RouteAnimator
   const startRouteAnimation = useCallback(() => {
@@ -445,136 +507,176 @@ const RunMap = ({
   }, [isSingleRun, startRouteAnimation]);
 
   return (
-    <Map
-      {...viewState}
-      onMove={onMove}
-      onClick={handleMapClick}
-      style={style}
-      mapStyle={mapStyle}
-      ref={mapRefCallback}
-      cooperativeGestures={isTouchDevice()}
-      mapboxAccessToken={mapboxAccessToken}
+    <div
+      ref={containerRef}
+      className={`${styles.mapViewport} ${fallbackFullscreen ? styles.mapViewportFullscreen : ''}`}
+      style={{ height: MAP_HEIGHT }}
     >
-      {mapError && (
-        <div className={styles.mapErrorNotification}>
-          <span>⚠️ {mapError}</span>
-          <button onClick={() => window.location.reload()}>Reload Page</button>
-          <a
-            href="https://github.com/yihong0618/running_page#map-tiles-customization"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Troubleshooting Guide
-          </a>
-        </div>
-      )}
-      <RunMapButtons changeYear={changeYear} thisYear={thisYear} />
-      <Source id="data" type="geojson" data={combinedGeoData}>
-        <Layer
-          id="province"
-          type="fill"
-          paint={{
-            'fill-color': PROVINCE_FILL_COLOR,
-            'fill-opacity': 0.2,
-          }}
-          filter={filterProvinces}
-        />
-        <Layer
-          id="countries"
-          type="fill"
-          paint={{
-            'fill-color': COUNTRY_FILL_COLOR,
-            // in China, fill a bit lighter while already filled provinces
-            'fill-opacity': ['case', ['==', ['get', 'name'], '中国'], 0.1, 0.5],
-          }}
-          filter={filterCountries}
-        />
-        <Layer
-          id="runs2"
-          type="line"
-          paint={{
-            'line-color': ['get', 'color'],
-            'line-width': isBigMap && lights ? 1 : 2,
-            'line-dasharray': dash,
-            'line-opacity':
-              isSingleRun || isBigMap || !lights ? 1 : LINE_OPACITY,
-            'line-blur': 1,
-          }}
-          layout={{
-            'line-join': 'round',
-            'line-cap': 'round',
-          }}
-          filter={['!=', ['get', 'indoor'], true]}
-        />
-        <Layer
-          id="runs2-indoor"
-          type="line"
-          paint={{
-            'line-color': ['get', 'color'],
-            'line-width': isBigMap && lights ? 1 : 2,
-            'line-dasharray': [4, 3],
-            'line-opacity':
-              isSingleRun || isBigMap || !lights ? 0.6 : LINE_OPACITY * 0.6,
-            'line-blur': 1,
-          }}
-          layout={{
-            'line-join': 'round',
-            'line-cap': 'round',
-          }}
-          filter={['==', ['get', 'indoor'], true]}
-        />
-      </Source>
-      {isSingleRun && animatedPoints.length > 0 && (
-        <Source
-          id="animated-run"
-          type="geojson"
-          data={{
-            type: 'FeatureCollection',
-            features: [
-              {
-                type: 'Feature',
-                properties: { color: singleRunColor },
-                geometry: {
-                  type: 'LineString',
-                  coordinates: animatedPoints,
-                },
-              },
-            ],
-          }}
-        >
+      <Map
+        {...viewState}
+        onMove={onMove}
+        onClick={handleMapClick}
+        style={style}
+        mapStyle={mapStyle}
+        ref={mapRefCallback}
+        cooperativeGestures={!isFullscreen && isTouchDevice()}
+        mapboxAccessToken={mapboxAccessToken}
+      >
+        {mapError && (
+          <div className={styles.mapErrorNotification}>
+            <span>⚠️ {mapError}</span>
+            <button onClick={() => window.location.reload()}>
+              Reload Page
+            </button>
+            <a
+              href="https://github.com/yihong0618/running_page#map-tiles-customization"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Troubleshooting Guide
+            </a>
+          </div>
+        )}
+        <RunMapButtons changeYear={changeYear} thisYear={thisYear} />
+        <Source id="data" type="geojson" data={combinedGeoData}>
           <Layer
-            id="animated-run"
+            id="province"
+            type="fill"
+            layout={{
+              visibility: ROAD_LABEL_DISPLAY && lights ? 'visible' : 'none',
+            }}
+            paint={{
+              'fill-color': PROVINCE_FILL_COLOR,
+              'fill-opacity': 0.2,
+            }}
+            filter={filterProvinces}
+          />
+          <Layer
+            id="countries"
+            type="fill"
+            layout={{
+              visibility: ROAD_LABEL_DISPLAY && lights ? 'visible' : 'none',
+            }}
+            paint={{
+              'fill-color': COUNTRY_FILL_COLOR,
+              // in China, fill a bit lighter while already filled provinces
+              'fill-opacity': [
+                'case',
+                ['==', ['get', 'name'], '中国'],
+                0.1,
+                0.5,
+              ],
+            }}
+            filter={filterCountries}
+          />
+          <Layer
+            id="runs2"
             type="line"
             paint={{
               'line-color': ['get', 'color'],
-              'line-width': isIndoorRun ? 2 : 3,
-              'line-opacity': 1,
-              'line-dasharray': isIndoorRun ? [4, 3] : [2, 0],
+              'line-width': isBigMap && lights ? 1 : 2,
+              'line-dasharray': dash,
+              'line-opacity':
+                isSingleRun || isBigMap || !lights ? 1 : LINE_OPACITY,
+              'line-blur': 1,
             }}
             layout={{
               'line-join': 'round',
               'line-cap': 'round',
             }}
+            filter={['!=', ['get', 'indoor'], true]}
+          />
+          <Layer
+            id="runs2-indoor"
+            type="line"
+            paint={{
+              'line-color': ['get', 'color'],
+              'line-width': isBigMap && lights ? 1 : 2,
+              'line-dasharray': [4, 3],
+              'line-opacity':
+                isSingleRun || isBigMap || !lights ? 0.6 : LINE_OPACITY * 0.6,
+              'line-blur': 1,
+            }}
+            layout={{
+              'line-join': 'round',
+              'line-cap': 'round',
+            }}
+            filter={['==', ['get', 'indoor'], true]}
           />
         </Source>
-      )}
-      {isSingleRun && (
-        <RunMarker
-          startLat={startLat}
-          startLon={startLon}
-          endLat={endLat}
-          endLon={endLon}
+        {isSingleRun && animatedPoints.length > 0 && (
+          <Source
+            id="animated-run"
+            type="geojson"
+            data={{
+              type: 'FeatureCollection',
+              features: [
+                {
+                  type: 'Feature',
+                  properties: { color: singleRunColor },
+                  geometry: {
+                    type: 'LineString',
+                    coordinates: animatedPoints,
+                  },
+                },
+              ],
+            }}
+          >
+            <Layer
+              id="animated-run"
+              type="line"
+              paint={{
+                'line-color': ['get', 'color'],
+                'line-width': isIndoorRun ? 2 : 3,
+                'line-opacity': 1,
+                'line-dasharray': isIndoorRun ? [4, 3] : [2, 0],
+              }}
+              layout={{
+                'line-join': 'round',
+                'line-cap': 'round',
+              }}
+            />
+          </Source>
+        )}
+        {isSingleRun && (
+          <RunMarker
+            startLat={startLat}
+            startLon={startLon}
+            endLat={endLat}
+            endLon={endLon}
+          />
+        )}
+        <span className={styles.runTitle}>{title}</span>
+        <div
+          className={`mapboxgl-ctrl mapboxgl-ctrl-group ${styles.fullscreenControl}`}
+        >
+          <button
+            ref={buttonRef}
+            type="button"
+            className={
+              isFullscreen ? 'mapboxgl-ctrl-shrink' : 'mapboxgl-ctrl-fullscreen'
+            }
+            title={isFullscreen ? 'Exit fullscreen' : 'Enter fullscreen'}
+            aria-label={isFullscreen ? 'Exit fullscreen' : 'Enter fullscreen'}
+            aria-pressed={isFullscreen}
+            onClick={(event) => {
+              event.stopPropagation();
+              void toggleFullscreen();
+            }}
+          >
+            <span className="mapboxgl-ctrl-icon" aria-hidden="true" />
+          </button>
+        </div>
+        {!PRIVACY_MODE && (
+          <LightsControl setLights={setLights} lights={lights} />
+        )}
+        <NavigationControl
+          showCompass={false}
+          position={'bottom-right'}
+          style={{ opacity: 0.3 }}
         />
-      )}
-      <span className={styles.runTitle}>{title}</span>
-      <FullscreenControl style={fullscreenButton} />
-      {!PRIVACY_MODE && <LightsControl setLights={setLights} lights={lights} />}
-      <NavigationControl
-        showCompass={false}
-        position={'bottom-right'}
-        style={{ opacity: 0.3 }}
-      />
-    </Map>
+      </Map>
+    </div>
   );
 };
 

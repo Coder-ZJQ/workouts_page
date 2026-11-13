@@ -70,6 +70,9 @@ def range_hiding(
 
 
 def start_end_hiding(polyline: List[Tuple[float]], distance: int) -> List[Tuple[float]]:
+    if distance <= 0:
+        return polyline
+
     start_index, end_index = 0, len(polyline) - 1
 
     starting_distance = 0
